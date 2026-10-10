@@ -2,41 +2,436 @@
   "version": "0.1.0-draft",
   "status": "prototype_not_scientifically_reviewed",
   "groups": [
-    {"id":"gum","name":"Sakız mayası","category":"food","aliases":["gum base","sakız mayası"]},
-    {"id":"maltitol","name":"Maltitol","category":"food","aliases":["maltitol","e965"]},
-    {"id":"palm","name":"Palm yağı","category":"food","aliases":["palm oil","palm yağı","palmiye yağı"]},
-    {"id":"margarine","name":"Margarin","category":"food","aliases":["margarine","margarin"]},
-    {"id":"hydrogenated","name":"Hidrojenize yağ","category":"food","aliases":["hydrogenated vegetable oil","partially hydrogenated vegetable oil","hidrojenize bitkisel yağ","kısmen hidrojenize bitkisel yağ"]},
-    {"id":"trans","name":"Trans yağ","category":"food","aliases":["trans fat","trans yağ"]},
-    {"id":"colors_food","name":"Tartrazin / Allura Red","category":"food","aliases":["tartrazine","tartrazin","allura red","e102","e129"]},
-    {"id":"msg","name":"Monosodyum glutamat","category":"food","aliases":["monosodium glutamate","monosodyum glutamat","msg","e621"]},
-    {"id":"nitrites","name":"Nitritler ve nitratlar","category":"food","aliases":["sodium nitrite","potassium nitrite","sodium nitrate","potassium nitrate","sodyum nitrit","potasyum nitrit","sodyum nitrat","potasyum nitrat","e249","e250","e251","e252"]},
-    {"id":"sorbate","name":"Potasyum sorbat","category":"food","aliases":["potassium sorbate","potasyum sorbat","e202"]},
-    {"id":"benzoate","name":"Sodyum benzoat","category":"food","aliases":["sodium benzoate","sodyum benzoat","e211"]},
-    {"id":"bha_bht","name":"BHA / BHT","category":"food","aliases":["bha","bht","butylated hydroxyanisole","butylated hydroxytoluene","e320","e321"]},
-    {"id":"sulfites","name":"Kükürt dioksit ve sülfitler","category":"food","aliases":["sulfur dioxide","sulphur dioxide","kükürt dioksit","sodium sulfite","sodium sulphite","sodyum sülfit","e220","e221","e222","e223","e224","e225","e226","e227","e228"]},
-    {"id":"carrageenan","name":"Karagenan","category":"food","aliases":["carrageenan","karagenan","e407"]},
-    {"id":"titanium_food","name":"Titanyum dioksit","category":"food","aliases":["titanium dioxide","titanyum dioksit","e171"]},
-    {"id":"bromate","name":"Potasyum bromat","category":"food","aliases":["potassium bromate","potasyum bromat","e924","e924a"]},
-    {"id":"parabens","name":"Parabenler","category":"cosmetic","aliases":["methylparaben","ethylparaben","propylparaben","butylparaben","isobutylparaben","isopropylparaben","sodium methylparaben","sodium propylparaben"]},
-    {"id":"sulfates","name":"SLS / SLES","category":"cosmetic","aliases":["sodium lauryl sulfate","sodium laureth sulfate","sls","sles"]},
-    {"id":"fragrance","name":"Parfüm (kökeni belirlenmez)","category":"cosmetic","aliases":["parfum","fragrance","perfume","parfüm"]},
-    {"id":"mineral","name":"Mineral yağlar","category":"cosmetic","aliases":["paraffinum liquidum","petrolatum","mineral oil"]},
-    {"id":"uv","name":"Seçili UV filtreleri","category":"cosmetic","aliases":["oxybenzone","benzophenone-3","octinoxate","ethylhexyl methoxycinnamate","homosalate"]},
-    {"id":"aluminum","name":"Seçili alüminyum bileşikleri","category":"cosmetic","aliases":["aluminum chlorohydrate","aluminum chloride","aluminum sesquichlorohydrate","aluminum zirconium tetrachlorohydrex gly","aluminum zirconium trichlorohydrex gly","aluminum starch octenylsuccinate","alumina","potassium alum","ammonium alum"]},
-    {"id":"triclosan","name":"Triklozan","category":"cosmetic","aliases":["triclosan","triklozan"]},
-    {"id":"formaldehyde","name":"Formaldehit","category":"cosmetic","aliases":["formaldehyde","formaldehit"]},
-    {"id":"resin","name":"Seçili formaldehit reçinesi","category":"cosmetic","aliases":["tosylamide/formaldehyde resin"]},
-    {"id":"toluene","name":"Toluen","category":"cosmetic","aliases":["toluene","toluen"]},
-    {"id":"dbp","name":"Dibutil ftalat","category":"cosmetic","aliases":["dibutyl phthalate","dbp","dibutil ftalat"]},
-    {"id":"hema","name":"HEMA","category":"cosmetic","aliases":["hema","hydroxyethyl methacrylate"]},
-    {"id":"dihema","name":"Di-HEMA","category":"cosmetic","aliases":["di-hema trimethylhexyl dicarbamate"]},
-    {"id":"tpo","name":"TPO","category":"cosmetic","aliases":["trimethylbenzoyl diphenylphosphine oxide","tpo"]},
-    {"id":"silicones","name":"Seçili silikonlar","category":"cosmetic","aliases":["dimethicone","cyclomethicone","cyclopentasiloxane","cyclotetrasiloxane","cyclohexasiloxane","dimethiconol","amodimethicone","phenyl trimethicone","caprylyl methicone","cetyl dimethicone"]},
-    {"id":"talc","name":"Talk","category":"cosmetic","aliases":["talc","talk"]},
-    {"id":"carbon","name":"Karbon siyahı","category":"cosmetic","aliases":["carbon black","ci 77266","d&c black no. 2"]},
-    {"id":"makeup_colors","name":"Seçili makyaj renklendiricileri","category":"cosmetic","aliases":["ci 15850","ci 45410","ci 45430","ci 19140","ci 42090","d&c red no. 6","d&c red no. 7","d&c red no. 28","d&c red no. 34","d&c red no. 36","fd&c red no. 3","fd&c yellow no. 5","fd&c blue no. 1"]}
+    {
+      "id": "gum",
+      "name": "Sakız mayası",
+      "category": "food",
+      "aliases": [
+        "gum base",
+        "sakız mayası"
+      ],
+      "name_en": "Gum base"
+    },
+    {
+      "id": "maltitol",
+      "name": "Maltitol",
+      "category": "food",
+      "aliases": [
+        "maltitol",
+        "e965"
+      ],
+      "name_en": "Maltitol"
+    },
+    {
+      "id": "palm",
+      "name": "Palm yağı",
+      "category": "food",
+      "aliases": [
+        "palm oil",
+        "palm yağı",
+        "palmiye yağı"
+      ],
+      "name_en": "Palm oil"
+    },
+    {
+      "id": "margarine",
+      "name": "Margarin",
+      "category": "food",
+      "aliases": [
+        "margarine",
+        "margarin"
+      ],
+      "name_en": "Margarine"
+    },
+    {
+      "id": "hydrogenated",
+      "name": "Hidrojenize yağ",
+      "category": "food",
+      "aliases": [
+        "hydrogenated vegetable oil",
+        "partially hydrogenated vegetable oil",
+        "hidrojenize bitkisel yağ",
+        "kısmen hidrojenize bitkisel yağ"
+      ],
+      "name_en": "Hydrogenated oil"
+    },
+    {
+      "id": "trans",
+      "name": "Trans yağ",
+      "category": "food",
+      "aliases": [
+        "trans fat",
+        "trans yağ"
+      ],
+      "name_en": "Trans fat"
+    },
+    {
+      "id": "colors_food",
+      "name": "Tartrazin / Allura Red",
+      "category": "food",
+      "aliases": [
+        "tartrazine",
+        "tartrazin",
+        "allura red",
+        "e102",
+        "e129"
+      ],
+      "name_en": "Tartrazine / Allura Red"
+    },
+    {
+      "id": "msg",
+      "name": "Monosodyum glutamat",
+      "category": "food",
+      "aliases": [
+        "monosodium glutamate",
+        "monosodyum glutamat",
+        "msg",
+        "e621"
+      ],
+      "name_en": "Monosodium glutamate"
+    },
+    {
+      "id": "nitrites",
+      "name": "Nitritler ve nitratlar",
+      "category": "food",
+      "aliases": [
+        "sodium nitrite",
+        "potassium nitrite",
+        "sodium nitrate",
+        "potassium nitrate",
+        "sodyum nitrit",
+        "potasyum nitrit",
+        "sodyum nitrat",
+        "potasyum nitrat",
+        "e249",
+        "e250",
+        "e251",
+        "e252"
+      ],
+      "name_en": "Nitrites and nitrates"
+    },
+    {
+      "id": "sorbate",
+      "name": "Potasyum sorbat",
+      "category": "food",
+      "aliases": [
+        "potassium sorbate",
+        "potasyum sorbat",
+        "e202"
+      ],
+      "name_en": "Potassium sorbate"
+    },
+    {
+      "id": "benzoate",
+      "name": "Sodyum benzoat",
+      "category": "food",
+      "aliases": [
+        "sodium benzoate",
+        "sodyum benzoat",
+        "e211"
+      ],
+      "name_en": "Sodium benzoate"
+    },
+    {
+      "id": "bha_bht",
+      "name": "BHA / BHT",
+      "category": "food",
+      "aliases": [
+        "bha",
+        "bht",
+        "butylated hydroxyanisole",
+        "butylated hydroxytoluene",
+        "e320",
+        "e321"
+      ],
+      "name_en": "BHA / BHT"
+    },
+    {
+      "id": "sulfites",
+      "name": "Kükürt dioksit ve sülfitler",
+      "category": "food",
+      "aliases": [
+        "sulfur dioxide",
+        "sulphur dioxide",
+        "kükürt dioksit",
+        "sodium sulfite",
+        "sodium sulphite",
+        "sodyum sülfit",
+        "e220",
+        "e221",
+        "e222",
+        "e223",
+        "e224",
+        "e225",
+        "e226",
+        "e227",
+        "e228"
+      ],
+      "name_en": "Sulfur dioxide and sulfites"
+    },
+    {
+      "id": "carrageenan",
+      "name": "Karagenan",
+      "category": "food",
+      "aliases": [
+        "carrageenan",
+        "karagenan",
+        "e407"
+      ],
+      "name_en": "Carrageenan"
+    },
+    {
+      "id": "titanium_food",
+      "name": "Titanyum dioksit",
+      "category": "food",
+      "aliases": [
+        "titanium dioxide",
+        "titanyum dioksit",
+        "e171"
+      ],
+      "name_en": "Titanium dioxide"
+    },
+    {
+      "id": "bromate",
+      "name": "Potasyum bromat",
+      "category": "food",
+      "aliases": [
+        "potassium bromate",
+        "potasyum bromat",
+        "e924",
+        "e924a"
+      ],
+      "name_en": "Potassium bromate"
+    },
+    {
+      "id": "parabens",
+      "name": "Parabenler",
+      "category": "cosmetic",
+      "aliases": [
+        "methylparaben",
+        "ethylparaben",
+        "propylparaben",
+        "butylparaben",
+        "isobutylparaben",
+        "isopropylparaben",
+        "sodium methylparaben",
+        "sodium propylparaben"
+      ],
+      "name_en": "Parabens"
+    },
+    {
+      "id": "sulfates",
+      "name": "SLS / SLES",
+      "category": "cosmetic",
+      "aliases": [
+        "sodium lauryl sulfate",
+        "sodium laureth sulfate",
+        "sls",
+        "sles"
+      ],
+      "name_en": "SLS / SLES"
+    },
+    {
+      "id": "fragrance",
+      "name": "Parfüm (kökeni belirlenmez)",
+      "category": "cosmetic",
+      "aliases": [
+        "parfum",
+        "fragrance",
+        "perfume",
+        "parfüm"
+      ],
+      "name_en": "Fragrance (origin unknown)"
+    },
+    {
+      "id": "mineral",
+      "name": "Mineral yağlar",
+      "category": "cosmetic",
+      "aliases": [
+        "paraffinum liquidum",
+        "petrolatum",
+        "mineral oil"
+      ],
+      "name_en": "Mineral oils"
+    },
+    {
+      "id": "uv",
+      "name": "Seçili UV filtreleri",
+      "category": "cosmetic",
+      "aliases": [
+        "oxybenzone",
+        "benzophenone-3",
+        "octinoxate",
+        "ethylhexyl methoxycinnamate",
+        "homosalate"
+      ],
+      "name_en": "Selected UV filters"
+    },
+    {
+      "id": "aluminum",
+      "name": "Seçili alüminyum bileşikleri",
+      "category": "cosmetic",
+      "aliases": [
+        "aluminum chlorohydrate",
+        "aluminum chloride",
+        "aluminum sesquichlorohydrate",
+        "aluminum zirconium tetrachlorohydrex gly",
+        "aluminum zirconium trichlorohydrex gly",
+        "aluminum starch octenylsuccinate",
+        "alumina",
+        "potassium alum",
+        "ammonium alum"
+      ],
+      "name_en": "Selected aluminum compounds"
+    },
+    {
+      "id": "triclosan",
+      "name": "Triklozan",
+      "category": "cosmetic",
+      "aliases": [
+        "triclosan",
+        "triklozan"
+      ],
+      "name_en": "Triclosan"
+    },
+    {
+      "id": "formaldehyde",
+      "name": "Formaldehit",
+      "category": "cosmetic",
+      "aliases": [
+        "formaldehyde",
+        "formaldehit"
+      ],
+      "name_en": "Formaldehyde"
+    },
+    {
+      "id": "resin",
+      "name": "Seçili formaldehit reçinesi",
+      "category": "cosmetic",
+      "aliases": [
+        "tosylamide/formaldehyde resin"
+      ],
+      "name_en": "Selected formaldehyde resin"
+    },
+    {
+      "id": "toluene",
+      "name": "Toluen",
+      "category": "cosmetic",
+      "aliases": [
+        "toluene",
+        "toluen"
+      ],
+      "name_en": "Toluene"
+    },
+    {
+      "id": "dbp",
+      "name": "Dibutil ftalat",
+      "category": "cosmetic",
+      "aliases": [
+        "dibutyl phthalate",
+        "dbp",
+        "dibutil ftalat"
+      ],
+      "name_en": "Dibutyl phthalate"
+    },
+    {
+      "id": "hema",
+      "name": "HEMA",
+      "category": "cosmetic",
+      "aliases": [
+        "hema",
+        "hydroxyethyl methacrylate"
+      ],
+      "name_en": "HEMA"
+    },
+    {
+      "id": "dihema",
+      "name": "Di-HEMA",
+      "category": "cosmetic",
+      "aliases": [
+        "di-hema trimethylhexyl dicarbamate"
+      ],
+      "name_en": "Di-HEMA"
+    },
+    {
+      "id": "tpo",
+      "name": "TPO",
+      "category": "cosmetic",
+      "aliases": [
+        "trimethylbenzoyl diphenylphosphine oxide",
+        "tpo"
+      ],
+      "name_en": "TPO"
+    },
+    {
+      "id": "silicones",
+      "name": "Seçili silikonlar",
+      "category": "cosmetic",
+      "aliases": [
+        "dimethicone",
+        "cyclomethicone",
+        "cyclopentasiloxane",
+        "cyclotetrasiloxane",
+        "cyclohexasiloxane",
+        "dimethiconol",
+        "amodimethicone",
+        "phenyl trimethicone",
+        "caprylyl methicone",
+        "cetyl dimethicone"
+      ],
+      "name_en": "Selected silicones"
+    },
+    {
+      "id": "talc",
+      "name": "Talk",
+      "category": "cosmetic",
+      "aliases": [
+        "talc",
+        "talk"
+      ],
+      "name_en": "Talc"
+    },
+    {
+      "id": "carbon",
+      "name": "Karbon siyahı",
+      "category": "cosmetic",
+      "aliases": [
+        "carbon black",
+        "ci 77266",
+        "d&c black no. 2"
+      ],
+      "name_en": "Carbon black"
+    },
+    {
+      "id": "makeup_colors",
+      "name": "Seçili makyaj renklendiricileri",
+      "category": "cosmetic",
+      "aliases": [
+        "ci 15850",
+        "ci 45410",
+        "ci 45430",
+        "ci 19140",
+        "ci 42090",
+        "d&c red no. 6",
+        "d&c red no. 7",
+        "d&c red no. 28",
+        "d&c red no. 34",
+        "d&c red no. 36",
+        "fd&c red no. 3",
+        "fd&c yellow no. 5",
+        "fd&c blue no. 1"
+      ],
+      "name_en": "Selected makeup colorants"
+    }
   ],
-  "unobservable_contaminants": ["Kurşun", "Kadmiyum", "Arsenik"],
-  "notes": ["Başlangıç eşleştirme sözlüğüdür; kapsam tam değildir ve uzman incelemesi bekler.", "Renklendirici adları ve CI kodları bağımsız eşleşmelerdir; birbirlerine eşdeğer ilan edilmez.", "Paraben, silikon ve alüminyum grupları yalnızca açıkça listelenmiş adları kapsar."]
+  "unobservable_contaminants": [
+    "Kurşun",
+    "Kadmiyum",
+    "Arsenik"
+  ],
+  "notes": [
+    "Başlangıç eşleştirme sözlüğüdür; kapsam tam değildir ve uzman incelemesi bekler.",
+    "Renklendirici adları ve CI kodları bağımsız eşleşmelerdir; birbirlerine eşdeğer ilan edilmez.",
+    "Paraben, silikon ve alüminyum grupları yalnızca açıkça listelenmiş adları kapsar."
+  ]
 }

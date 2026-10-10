@@ -6,12 +6,12 @@ Navilo is a Flutter mobile app project for discovering and evaluating food, cosm
 
 ## Status
 
-Early source prototype. Flutter/Dart were not available in the development environment, so compilation, static analysis, and Flutter tests have **not yet been run**. Android/iOS platform projects have not been generated. This is not a production-ready application.
+Early source prototype. Android and iOS platform projects have been generated with Flutter 3.47.7 / Dart 3.13.5. All five Flutter tests passed on October 10, 2026. Android SDK and licenses are configured; no Android device or emulator was connected during verification. A device build has not yet been verified. This is not a production-ready application.
 
 ## Implemented
 
 - Three Turkish-language Material 3 screens: Evaluate, My Profile, and Criteria.
-- Manual ingredient entry with category-specific exact-token matching.
+- Camera/gallery input with on-device Latin-script OCR, image preview, optional text correction, and category-specific policy evaluation.
 - A versioned draft dictionary with 34 ingredient rule groups.
 - Separate rules for margarine, hydrogenated oils, and trans fats.
 - Explicit name lists for selected aluminum compounds, silicones, and parabens.
@@ -46,9 +46,9 @@ flutter run -d <device-id>
 
 The no-overwrite option preserves existing sources; inspect the Git diff after platform generation. Local iOS builds require macOS and Xcode. Android is the first development target on Windows. Final application identifiers must be configured before publishing.
 
-### Manual checks
+### Checks
 
-- Food: enter `Su, Maltitol, Palm Yağı` and expect two matching groups.
+- Select a clear ingredient-label image with the gallery button or capture it with the camera. Review the extracted text before evaluation. A label containing `Maltitol, Palm Yağı` should match two groups.
 - Enter `Margarin` and expect only the margarine rule.
 - Cosmetics: enter `Di-HEMA Trimethylhexyl Dicarbamate` and expect Di-HEMA, not HEMA.
 - Leave completeness unchecked and enter an unmatched ingredient: expect insufficient information.
@@ -82,7 +82,7 @@ See [the detailed roadmap](docs/ROADMAP.md) for dependencies, acceptance criteri
 1. Flutter setup and first Android device run.
 2. Dictionary review and robust label parsing.
 3. Skin questionnaire and persistent profiles.
-4. Camera, barcode, OCR, and label confirmation.
+4. Camera/OCR device validation, lost-image recovery, barcode scanning, and stronger ingredient-section extraction.
 5. Product search, dietary filters, scoring, and comparisons.
 6. Alternatives and administration.
 7. Verified, serving-specific FODMAP integration.
@@ -100,3 +100,15 @@ Photo-based skin analysis is a separate future validation project. The first pro
 - [KVKK: special categories of personal data](https://www.kvkk.gov.tr/Icerik/2051/Ozel-Nitelikli-Kisisel-Veriler)
 
 Citing a source does not grant permission to copy or commercially reuse its database. Provider licenses must be reviewed before integration.
+
+
+## Photo scanning status
+
+Camera/gallery and on-device OCR are implemented. Real-image OCR accuracy and native builds are not yet verified. Photograph the ingredients panel closely; full packaging can include unrelated text. Ingredient-heading extraction is heuristic and requires user review. OCR supports Android/iOS only. New native dependencies require a full stop and restart rather than hot reload. iOS requires deployment target 15.5 or newer and must be verified on macOS. Android minSdk is 24. Photos are not uploaded by this implementation.
+
+
+## Languages and dietary reference data
+
+The in-app EN/TR switch translates interface text and ingredient display names without translating or modifying the original OCR text. Turkish and English aliases resolve to stable rule IDs. Language choice is currently session-only; automatic translation, persistent locale and a full product catalog are not implemented.
+
+`assets/dietary.json` contains 12 independently curated, source-attributed reference entries with bilingual aliases. FSA cereal guidance is reused under OGL v3.0 (Crown copyright; contains public sector information licensed under the Open Government Licence v3.0). Oats receive a separate review flag. The FODMAP seed summarizes six factual examples from ACG; it does not reproduce the Monash app database, portion thresholds or the full ACG table. It only indicates potential sources and never certifies low/high FODMAP status of a scanned product. No-match is unknown. No live API or automatic source update is configured. Source date: 2026-10-10. Confirm commercial reuse terms before expanding third-party content. Original translations and aliases are maintained by Navilo, not endorsed by source organizations.
