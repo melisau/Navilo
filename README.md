@@ -6,18 +6,22 @@ Navilo is a Flutter mobile app project for discovering and evaluating food, cosm
 
 ## Status
 
-Early source prototype. Android and iOS platform projects have been generated with Flutter 3.47.7 / Dart 3.13.5. All five Flutter tests passed on October 10, 2026. Android SDK and licenses are configured; no Android device or emulator was connected during verification. A device build has not yet been verified. This is not a production-ready application.
+Development prototype. The main flow now separates product capture, ingredient-text review and results. Native camera, cropping and OCR must still be validated on a physical Android device; static analysis is not a device test.
 
 ## Implemented
 
-- Three Turkish-language Material 3 screens: Evaluate, My Profile, and Criteria.
-- Camera/gallery input with on-device Latin-script OCR, image preview, optional text correction, and category-specific policy evaluation.
-- A versioned draft dictionary with 34 ingredient rule groups.
-- Separate rules for margarine, hydrogenated oils, and trans fats.
-- Explicit name lists for selected aluminum compounds, silicones, and parabens.
-- Empty-input handling, a label-completeness checkbox, and policy version display.
-- Self-reported skin type and dietary preferences held in session memory.
-- Test sources covering false positives, category boundaries, and HEMA/Di-HEMA separation.
+- Skippable first-use introduction, remembered on this device.
+- A focused home screen with barcode scan, camera and gallery actions.
+- A separate review screen with source text, specific reading warnings and explicit completeness confirmation.
+- A separate results screen with ingredient chips, distinct gluten/lactose/sugar claim colours and expandable sources/limitations.
+- Open Food Facts / Open Beauty Facts lookup, with photo fallback when product ingredients are unavailable.
+- On-device Latin-script OCR with crop/rotate and manual correction of misread text.
+- Device-local reviewed product records and the five most recently saved products.
+- Persistent language, self-reported skin type and dietary preferences. Preferences do not yet filter results or generate recommendations.
+- A versioned avoidance dictionary with separate margarine, hydrogenated-oil and trans-fat records and explicit cosmetic ingredient lists.
+- Larger touch targets, scalable system text, scrollable layouts, text labels alongside colours and Turkish/English interface copy.
+
+See [Mobile UX flow](docs/MOBILE_UX_FLOW.md) for the screen structure and device acceptance checks.
 
 ## Product principles
 
@@ -51,12 +55,12 @@ The no-overwrite option preserves existing sources; inspect the Git diff after p
 - Select a clear ingredient-label image with the gallery button or capture it with the camera. Review the extracted text before evaluation. A label containing `Maltitol, Palm Yağı` should match two groups.
 - Enter `Margarin` and expect only the margarine rule.
 - Cosmetics: enter `Di-HEMA Trimethylhexyl Dicarbamate` and expect Di-HEMA, not HEMA.
-- Leave completeness unchecked and enter an unmatched ingredient: expect insufficient information.
+- Leave completeness unchecked in the review screen: the result button remains disabled and explains the required confirmation.
 
 ## Structure
 
 ```text
-lib/main.dart             Prototype screens and session state
+lib/main.dart             Mobile capture, review and results flow
 lib/domain/policy.dart    Policy model and exact-token matching
 assets/policy.json        Versioned draft avoidance dictionary
 test/policy_test.dart     Critical matching scenarios
@@ -111,4 +115,23 @@ Camera/gallery and on-device OCR are implemented. Real-image OCR accuracy and na
 
 The in-app EN/TR switch translates interface text and ingredient display names without translating or modifying the original OCR text. Turkish and English aliases resolve to stable rule IDs. Language choice is currently session-only; automatic translation, persistent locale and a full product catalog are not implemented.
 
-`assets/dietary.json` contains 12 independently curated, source-attributed reference entries with bilingual aliases. FSA cereal guidance is reused under OGL v3.0 (Crown copyright; contains public sector information licensed under the Open Government Licence v3.0). Oats receive a separate review flag. The FODMAP seed summarizes six factual examples from ACG; it does not reproduce the Monash app database, portion thresholds or the full ACG table. It only indicates potential sources and never certifies low/high FODMAP status of a scanned product. No-match is unknown. No live API or automatic source update is configured. Source date: 2026-10-10. Confirm commercial reuse terms before expanding third-party content. Original translations and aliases are maintained by Navilo, not endorsed by source organizations.
+`assets/dietary.json` contains source-attributed reference entries with bilingual aliases. FSA cereal guidance is reused under OGL v3.0 (Crown copyright; contains public sector information licensed under the Open Government Licence v3.0). Oats receive a separate review flag. The FODMAP seed does not reproduce the Monash app database, portion thresholds or the full ACG table. It only indicates potential sources and never certifies low/high FODMAP status of a scanned product. No-match is unknown. Run `USDA_API_KEY=<key> dart run tool/sync_dietary.dart` periodically to attach USDA FoodData Central FDC IDs to each entry. The command uses an atomic file replacement and leaves the previous data untouched if the request fails. USDA search results are evidence links, not automatic gluten, lactose or FODMAP classifications. Monash data is not copied; only its official reference link may be retained. Confirm commercial reuse terms before expanding third-party content. Original translations and aliases are maintained by Navilo, not endorsed by source organizations.
+
+## October 11 reliability changes
+
+Barcode responses now preserve original ingredient text and expose source date, allergens, trace warnings and claims separately. Empty translated fields fall back to another available language. OCR no longer rewrites ingredients into avoidance-group names, and detecting a heading no longer marks a photo complete. Negation applies to the named occurrence rather than suppressing the entire label. Lactose-free claims no longer suppress wheat references. Android INTERNET permission is included for non-debug builds too. See [Android phone testing](docs/ANDROID_TESTING.md). Taxonomy synchronization and serving-specific FODMAP integration remain planned.
+
+
+### Barcode data sources (current development configuration)
+- Food uses Open Food Facts only. Cosmetics use Open Beauty Facts.
+- USDA demo fallback has been removed; missing ingredients lead to the label photo flow.
+- Source names, links and missing-content/service diagnostics remain visible.
+- No paid providers or GS1 subscriptions are connected. Manufacturer/licensed feeds are research candidates only.
+- Open Food Facts data reuse must follow its ODbL attribution and applicable share-alike obligations: https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/tutorials/license-be-on-the-legal-side/
+
+### Turkey catalog acquisition
+See [Turkey data sources](docs/TURKEY_DATA_SOURCES.md) for the researched manufacturer/licensed-feed shortlist, unresolved GTIN mappings, pilot criteria, data contract and an unsent outreach draft. These candidates are not live integrations.
+
+
+### Photo review and offline product recall
+Camera/gallery input now opens a crop/rotate editor before on-device OCR. Reviewed ingredient lists can be linked to a barcode and saved on the device; rescanning checks these records before online lookup. Editing clears confirmation, structural OCR warnings block saving, and food/cosmetic records are isolated. See [workflow and phone checks](docs/PHOTO_LOCAL_FLOW.md). Physical camera/OCR accuracy remains to be validated on device.

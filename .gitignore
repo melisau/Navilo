@@ -8,3 +8,8 @@ build/
 *.jks
 android/local.properties
 ios/Pods/
+
+# Local credentials
+.env.local
+.env.*.local
+android/.kotlin/

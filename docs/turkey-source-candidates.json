@@ -1,0 +1,36 @@
+{
+  "reviewed": "2026-10-11",
+  "purpose": "Research only; no production connectors enabled",
+  "candidates": [
+    {
+      "id": "gs1_tobb",
+      "priority": 1,
+      "status": "access_and_coverage_unverified",
+      "url": "https://www.gdsn.org.tr/Home/Education"
+    },
+    {
+      "id": "zuber",
+      "priority": 1,
+      "status": "ingredient_page_found_gtin_and_rights_unverified",
+      "url": "https://www.zuber.com/products/nutzilla-findik-kremasi-315g-x-1-adet"
+    },
+    {
+      "id": "soke",
+      "priority": 1,
+      "status": "variant_conflict_requires_gtin_confirmation",
+      "url": "https://soke.com.tr/urun/soke-glutensiz-ekmek-unu?language=tr"
+    },
+    {
+      "id": "brandbank",
+      "priority": 2,
+      "status": "licensed_access_and_turkey_coverage_unverified",
+      "url": "https://nielseniq.com/global/en/products/content-licensing/"
+    },
+    {
+      "id": "camgoz",
+      "priority": 3,
+      "status": "ingredient_field_and_commercial_rights_unverified",
+      "url": "https://m.camgoz.net/swagger"
+    }
+  ]
+}

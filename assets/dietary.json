@@ -1,21 +1,295 @@
 {
-  "version": "2026-10-10.1",
+  "version": "2026-10-11.2",
   "sources": {
-    "fsa": {"title": "Food Standards Agency — Allergen labelling guidance", "url": "https://www.gov.uk/government/publications/food-allergen-labelling-and-information-requirements-technical-guidance/food-allergen-labelling-and-information-requirements-technical-guidance", "license": "Open Government Licence v3.0; contains public sector information licensed under the OGL v3.0", "reviewed": "2026-10-10"},
-    "acg": {"title": "American College of Gastroenterology — Low-FODMAP diet", "url": "https://gi.org/topics/low-fodmap-diet/", "license": "Small independently authored factual reference seed; no database reuse license asserted. Review before expansion/distribution.", "reviewed": "2026-10-10"}
+    "fsa": {
+      "title": "Food Standards Agency — Allergen labelling guidance",
+      "url": "https://www.gov.uk/government/publications/food-allergen-labelling-and-information-requirements-technical-guidance/food-allergen-labelling-and-information-requirements-technical-guidance",
+      "license": "Open Government Licence v3.0; contains public sector information licensed under the OGL v3.0",
+      "reviewed": "2026-10-10"
+    },
+    "acg": {
+      "title": "American College of Gastroenterology — Low-FODMAP diet",
+      "url": "https://gi.org/topics/low-fodmap-diet/",
+      "license": "Small independently authored factual reference seed; no database reuse license asserted. Review before expansion/distribution.",
+      "reviewed": "2026-10-10"
+    },
+    "monash_label": {
+      "title": "Monash University — Update: Label reading and FODMAPs",
+      "url": "https://www.monashfodmap.com/blog/update-label-reading/",
+      "license": "Independently authored ingredient screening facts; no database imported.",
+      "reviewed": "2026-10-11"
+    }
   },
   "entries": [
-    {"id":"wheat","kind":"gluten_cereal","names":{"tr":"Buğday","en":"Wheat"},"aliases":["buğday","buğday unu","wheat","wheat flour"],"source":"fsa"},
-    {"id":"rye","kind":"gluten_cereal","names":{"tr":"Çavdar","en":"Rye"},"aliases":["çavdar","çavdar unu","rye","rye flour"],"source":"fsa"},
-    {"id":"barley","kind":"gluten_cereal","names":{"tr":"Arpa","en":"Barley"},"aliases":["arpa","arpa unu","barley","barley flour"],"source":"fsa"},
-    {"id":"spelt","kind":"gluten_cereal","names":{"tr":"Spelt buğdayı","en":"Spelt"},"aliases":["spelt","spelt wheat","spelt buğdayı"],"source":"fsa"},
-    {"id":"khorasan","kind":"gluten_cereal","names":{"tr":"Horasan buğdayı","en":"Khorasan wheat"},"aliases":["horasan buğdayı","khorasan wheat","kamut"],"source":"fsa"},
-    {"id":"oats","kind":"oats_check","names":{"tr":"Yulaf — glutensiz beyanını kontrol et","en":"Oats — check gluten-free claim"},"aliases":["yulaf","yulaf unu","oats","oat flour"],"source":"fsa"},
-    {"id":"onion","kind":"fodmap_potential","names":{"tr":"Soğan","en":"Onion"},"aliases":["soğan","onion"],"source":"acg"},
-    {"id":"garlic","kind":"fodmap_potential","names":{"tr":"Sarımsak","en":"Garlic"},"aliases":["sarımsak","garlic"],"source":"acg"},
-    {"id":"apple","kind":"fodmap_potential","names":{"tr":"Elma","en":"Apple"},"aliases":["elma","apple"],"source":"acg"},
-    {"id":"pear","kind":"fodmap_potential","names":{"tr":"Armut","en":"Pear"},"aliases":["armut","pear"],"source":"acg"},
-    {"id":"fodmap_wheat","kind":"fodmap_potential","names":{"tr":"Buğday","en":"Wheat"},"aliases":["buğday","buğday unu","wheat","wheat flour"],"source":"acg"},
-    {"id":"fodmap_rye","kind":"fodmap_potential","names":{"tr":"Çavdar","en":"Rye"},"aliases":["çavdar","rye"],"source":"acg"}
+    {
+      "id": "wheat",
+      "kind": "gluten_cereal",
+      "names": {
+        "tr": "Buğday",
+        "en": "Wheat"
+      },
+      "aliases": [
+        "buğday",
+        "buğday unu",
+        "wheat",
+        "wheat flour"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "rye",
+      "kind": "gluten_cereal",
+      "names": {
+        "tr": "Çavdar",
+        "en": "Rye"
+      },
+      "aliases": [
+        "çavdar",
+        "çavdar unu",
+        "rye",
+        "rye flour"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "barley",
+      "kind": "gluten_cereal",
+      "names": {
+        "tr": "Arpa",
+        "en": "Barley"
+      },
+      "aliases": [
+        "arpa",
+        "arpa unu",
+        "barley",
+        "barley flour"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "spelt",
+      "kind": "gluten_cereal",
+      "names": {
+        "tr": "Spelt buğdayı",
+        "en": "Spelt"
+      },
+      "aliases": [
+        "spelt",
+        "spelt wheat",
+        "spelt buğdayı"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "khorasan",
+      "kind": "gluten_cereal",
+      "names": {
+        "tr": "Horasan buğdayı",
+        "en": "Khorasan wheat"
+      },
+      "aliases": [
+        "horasan buğdayı",
+        "khorasan wheat",
+        "kamut"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "oats",
+      "kind": "oats_check",
+      "names": {
+        "tr": "Yulaf — glutensiz beyanını kontrol et",
+        "en": "Oats — check gluten-free claim"
+      },
+      "aliases": [
+        "yulaf",
+        "yulaf unu",
+        "oats",
+        "oat flour"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "onion",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Soğan",
+        "en": "Onion"
+      },
+      "aliases": [
+        "soğan",
+        "onion"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "garlic",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Sarımsak",
+        "en": "Garlic"
+      },
+      "aliases": [
+        "sarımsak",
+        "garlic"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "apple",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Elma",
+        "en": "Apple"
+      },
+      "aliases": [
+        "elma",
+        "apple"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "pear",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Armut",
+        "en": "Pear"
+      },
+      "aliases": [
+        "armut",
+        "pear"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "fodmap_wheat",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Buğday",
+        "en": "Wheat"
+      },
+      "aliases": [
+        "buğday",
+        "buğday unu",
+        "wheat",
+        "wheat flour"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "fodmap_rye",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Çavdar",
+        "en": "Rye"
+      },
+      "aliases": [
+        "çavdar",
+        "rye"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "milk",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Süt",
+        "en": "Milk"
+      },
+      "aliases": [
+        "süt",
+        "inek sütü",
+        "milk",
+        "cow's milk"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "milk_powder",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Süt tozu",
+        "en": "Milk powder"
+      },
+      "aliases": [
+        "süt tozu",
+        "milk powder",
+        "skimmed milk powder"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "whey",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Peynir altı suyu / whey",
+        "en": "Whey"
+      },
+      "aliases": [
+        "peynir altı suyu",
+        "whey",
+        "whey powder",
+        "whey protein"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "lactose",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Laktoz",
+        "en": "Lactose"
+      },
+      "aliases": [
+        "laktoz",
+        "lactose"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "cream",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Krema",
+        "en": "Cream"
+      },
+      "aliases": [
+        "krema",
+        "süt kreması",
+        "cream"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "milk_chocolate",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Sütlü çikolata",
+        "en": "Milk chocolate"
+      },
+      "aliases": [
+        "sütlü çikolata",
+        "milk chocolate"
+      ],
+      "source": "fsa"
+    },
+    {
+      "id": "inulin_chicory",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "İnülin / hindiba kökü lifi — fruktan kontrolü",
+        "en": "Inulin / chicory root fibre — fructan review"
+      },
+      "aliases": [
+        "inülin",
+        "inulin",
+        "hindiba kökü lifi",
+        "hindiba kök lifi",
+        "chicory root fiber",
+        "chicory root fibre",
+        "chicory fibre"
+      ],
+      "source": "monash_label"
+    }
   ]
 }

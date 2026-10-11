@@ -5,8 +5,24 @@ String normalize(String value) => value
     .replaceAll('I', 'i')
     .replaceAll('ı', 'i')
     .toLowerCase()
+    .replaceAll('i\u0307', 'i')
     .replaceAll(RegExp(r'\s+'), ' ')
     .trim();
+
+// Negation belongs to the immediately named substance, never the entire label.
+bool containsIngredient(String text, String alias) {
+  final value = normalize(text);
+  final name = RegExp.escape(normalize(alias));
+  final negative = RegExp(
+      r'(?:contains\s+no|free\s+from|without|does\s+not\s+contain)\s+' +
+          name +
+          r'(?![a-z0-9çğöşü])|(?<![a-z0-9çğöşü])' +
+          name +
+          r'\s*(?:[- ]free|içermez|icermez|içermiyor|icermiyor)(?![a-z0-9çğöşü])');
+  final remaining = value.replaceAll(negative, ' ');
+  return RegExp(r'(?<![a-z0-9çğöşü-])' + name + r'(?![a-z0-9çğöşü])')
+      .hasMatch(remaining);
+}
 
 class IngredientRule {
   final String id, name, category, englishName;
@@ -26,22 +42,16 @@ class Policy {
   factory Policy.decode(String source) {
     final json = jsonDecode(source) as Map<String, dynamic>;
     return Policy(
-      json['version'] as String,
-      (json['groups'] as List)
-          .map((item) => IngredientRule(item as Map<String, dynamic>))
-          .toList(),
-    );
+        json['version'] as String,
+        (json['groups'] as List)
+            .map((item) => IngredientRule(item as Map<String, dynamic>))
+            .toList());
   }
-
-  // Exact token matching only. OCR uncertainty and claim parsing are separate work.
-  List<IngredientRule> evaluate(String label, String category) {
-    final tokens = label.split(RegExp(r'[,;\n]')).map(normalize).toSet();
-    return rules
-        .where(
-          (rule) =>
-              rule.category == category &&
-              rule.aliases.any((alias) => tokens.contains(normalize(alias))),
-        )
-        .toList();
-  }
+  // Kept for callers; never invent ingredients or replace text with group names.
+  String correctOcrText(String text) => text;
+  List<IngredientRule> evaluate(String label, String category) => rules
+      .where((rule) =>
+          rule.category == category &&
+          rule.aliases.any((alias) => containsIngredient(label, alias)))
+      .toList();
 }
