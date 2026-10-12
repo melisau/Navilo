@@ -1,4 +1,5 @@
 .dart_tool/
+__pycache__/
 .flutter-plugins*
 build/
 .idea/
