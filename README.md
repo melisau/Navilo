@@ -14,9 +14,12 @@ Development prototype. The main flow now separates product capture, ingredient-t
 - A focused home screen with barcode scan, camera and gallery actions.
 - A separate review screen with source text, specific reading warnings and explicit completeness confirmation.
 - A separate results screen with ingredient chips, distinct gluten/lactose/sugar claim colours and expandable sources/limitations.
-- Open Food Facts / Open Beauty Facts lookup, with photo fallback when product ingredients are unavailable.
+- Sequential barcode lookup across Open Food Facts, Open Beauty Facts, Open Products Facts and Open Pet Food Facts. A record is accepted only when the API reports `status: 1` and supplies ingredient text.
+- If barcode lookup fails, UPCitemdb can supply a product title and the Open Facts search endpoints can return ingredient-bearing candidates. A candidate is never selected automatically: the user must choose it and compare its barcode and ingredients against the package. Manual product-name search is also available.
+- Source, database update date, and an explicit unverified-community-data label are shown with results. Product-name matches are marked and require the same package review before analysis.
 - On-device Latin-script OCR with crop/rotate and manual correction of misread text.
-- Device-local reviewed product records and the five most recently saved products.
+- Optional device-local product library with separate Food/Cosmetics sections, name/barcode search, full ingredient details and five recently saved products on home. Products can be named and saved without a barcode. Existing barcode records remain readable.
+- Optional text-only community contributions use Supabase: after OCR review, the user can explicitly consent to send the barcode, product name and reviewed ingredient text to a private moderation queue. Only approved records are returned to other users; personal photos and preferences are never included.
 - Persistent language, self-reported skin type and dietary preferences. Preferences do not yet filter results or generate recommendations.
 - A versioned avoidance dictionary with separate margarine, hydrogenated-oil and trans-fat records and explicit cosmetic ingredient lists.
 - Larger touch targets, scalable system text, scrollable layouts, text labels alongside colours and Turkish/English interface copy.
@@ -135,3 +138,24 @@ See [Turkey data sources](docs/TURKEY_DATA_SOURCES.md) for the researched manufa
 
 ### Photo review and offline product recall
 Camera/gallery input now opens a crop/rotate editor before on-device OCR. Reviewed ingredient lists can be linked to a barcode and saved on the device; rescanning checks these records before online lookup. Editing clears confirmation, structural OCR warnings block saving, and food/cosmetic records are isolated. See [workflow and phone checks](docs/PHOTO_LOCAL_FLOW.md). Physical camera/OCR accuracy remains to be validated on device.
+
+### Personal product photos
+Saved food and cosmetic products support optional gallery photos and camera photos. Thumbnails appear in the library and recent products. Images are copied into private app storage for offline use, preserved when ingredients are updated, and deleted with their product. Photos are not uploaded to the shared catalogue.
+
+Library rows show a larger product photo and name; ingredient details open on tap. Food barcode records can use front images from images.openfoodfacts.org under CC BY-SA 3.0, with source and licence attribution in product details. Personal photos take priority. No arbitrary web image search or automatic public photo upload is performed. Remote images require connectivity.
+
+### Shared catalogue and community contributions
+Run Flutter with `--dart-define-from-file=config/supabase.local.json` to enable the Supabase catalogue. Barcode lookup uses personal records first, then exact barcode/category records that a reviewer approved, then Open Facts providers. Lookup does not upload user data. After OCR review and an explicit opt-in, the app can submit the barcode, product name and reviewed ingredient text to a private Supabase moderation queue. The submission is not immediately visible to others; only a trusted reviewer can approve it. Photos and profile/preferences are not shared. See [Supabase setup](docs/SUPABASE_SETUP.md) and [product library](docs/PRODUCT_LIBRARY.md).
+
+Contributions are not automatically written to Open Food Facts. Its official API requires an authenticated contributor account, and updates affect the live community dataset. A future integration should use a separate per-product consent and preview, keep credentials out of the mobile app, preserve source attribution/licensing, and submit only user-reviewed data. Navilo does not scrape retailer websites.
+
+### Brand icon
+The selected Navilo identity is a leaf-tipped compass star in deep teal and sage on ivory. Editable master: `assets/brand/navilo-compass.svg`. Android uses vector launcher resources and an adaptive icon. Rebuild and reinstall to refresh the launcher icon; hot reload is not sufficient. iOS launcher assets have not yet been replaced.
+
+### Ingredient-based rice summary
+A complete reviewed list consisting entirely of recognized rice/brown rice and salt names receives purple gluten-free and blue lactose-free ingredient-based summaries. This is a narrow positive-evidence rule, not a negative keyword search or certification; unknown ingredients block inference. Rice-only lists display low-FODMAP ingredient guidance with a serving-size requirement, not a verified product-level rating. Sources are shown in assessment details. A home action is available directly from review/results.
+
+FODMAP cards open serving details. For rice-only ingredient lists, the sheet cites Monash’s 2022 example of 2 plain rice cakes, explicitly as general guidance rather than a validated brand-specific serving or maximum. Gram conversions and high-FODMAP thresholds are not inferred. Package servings are distinguished from tested FODMAP servings.
+
+### Navilo wordmark
+The shared Flutter header uses a capital N, modern forest-green lettering and a larger veined sage leaf centred over the i as its dot. The logo is drawn at runtime by NaviloWordmark for sharp scaling and has an accessible brand label. Home, library, profile, criteria and assessment headers share this mark. Brand surfaces use ivory and forest green; dietary result colours remain distinct. The launcher keeps the approved leaf-compass symbol.

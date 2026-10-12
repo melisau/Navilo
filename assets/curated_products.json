@@ -1,0 +1,134 @@
+[
+  {
+    "code": "8690577001764",
+    "name": "Söke Glutensiz Ekmek Unu 250 g",
+    "ingredients": "Mısır nişastası, pirinç unu, patates nişastası, dekstroz, tuz, bitkisel lif (narenciye lifi), kıvam arttırıcılar (keçiboynuzu gamı, guar gam), kabartıcılar (sodyum pirofosfat, sodyum bikarbonat), aroma vericiler.",
+    "source_name": "Söke ürün etiketi bilgisi (perakende ürün kaydı)",
+    "source_url": "https://www.ozelbeslenme.com/products/soke-glutensiz-ekmek-unu-250g",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": ["en:gluten-free"]
+  },
+  {
+    "code": "8681630799919",
+    "name": "Züber Nutzilla Fındık Kreması 315 g",
+    "ingredients": "Fındık (%47), hurma, tam yağlı süt tozu, hindiba kökü lifi, shea yağı, Hindistan cevizi yağı, doğal vanilya aroması.",
+    "source_name": "Züber ürün etiketi bilgisi (üretici)",
+    "source_url": "https://www.zuber.com/products/nutzilla-findik-kremasi-315g-x-1-adet",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["hazelnut", "milk"],
+    "traces": ["peanuts", "pistachios"],
+    "labels": ["en:gluten-free", "en:no-added-sugar"]
+  },
+  {
+    "code": "8681630361017",
+    "name": "Züber Nutzilla Kakaolu Fındık Kreması 315 g",
+    "ingredients": "Fındık (%36), bitkisel yağ (shea, Hindistan cevizi, fındık), hurma, yağsız süt tozu (laktoz içerir), kakao tozu (%7), hindiba kökü lifi.",
+    "source_name": "Züber ürün etiketi bilgisi (üretici)",
+    "source_url": "https://www.migros.com.tr/zuber-nutzilla-kakaolu-findik-kremasi-315-g-p-6d19e1",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["hazelnut", "milk"],
+    "traces": [],
+    "labels": ["en:gluten-free", "en:no-added-sugar"]
+  },
+  {
+    "code": "8680181109420",
+    "name": "Torku Laktozsuz Süt 1 L",
+    "ingredients": "%1 yağlı inek sütü, laktaz enzimi.",
+    "source_name": "Torku katalog barkodu + Migros ürün etiketi bilgisi",
+    "source_url": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["milk"],
+    "traces": [],
+    "labels": ["tr:laktozsuz"]
+  },
+  {
+    "code": "8690577039125",
+    "name": "Söke Tam Buğday Unu 1 kg",
+    "ingredients": "Tam buğday unu (gluten), antioksidan (askorbik asit).",
+    "source_name": "Söke üretici içerik bilgisi + ürün katalog barkodu",
+    "source_url": "https://www.soke.com.tr/urun/soke-tam-bugday-unu",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["gluten"],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690565005538",
+    "name": "Pınar Denge Laktozsuz Süt 1 L",
+    "ingredients": "%1,5 yarım yağlı inek sütü, laktaz enzimi.",
+    "source_name": "Pınar ürün barkod kataloğu + Migros ürün etiketi bilgisi",
+    "source_url": "https://www.migros.com.tr/pinar-sut-denge-laktozsuz-1-l-p-a80029",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["milk"],
+    "traces": [],
+    "labels": ["tr:laktozsuz"]
+  },
+  {
+    "code": "8690565030219",
+    "name": "Pınar Protein Sade Laktozsuz Süt 1 L",
+    "ingredients": "%0,25 yağlı inek sütü, süt proteini, laktaz enzimi.",
+    "source_name": "Ürün etiketi ve barkod kaydı (Laktozsuz Türkiye); Pınar ürün bilgisi",
+    "source_url": "https://laktozsuz.org/pinar-protein-sade-laktozsuz-sut-1-l/",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["milk"],
+    "traces": [],
+    "labels": ["tr:laktozsuz"]
+  },
+  {
+    "code": "8681185086090",
+    "name": "Fellas Yüksek Protein Bar Hindistan Cevizi ve Kakao 45 g",
+    "ingredients": "Süt proteini konsantresi, peynir altı suyu proteini konsantresi, hurma, hurma özü, kakao kitlesi (kakao yağı, kakao) (%10), hindiba kökü lifi (inülin), Hindistan cevizi rendesi (%5), kakao tozu (%4), B6 vitamini.",
+    "source_name": "Flavus ürün etiketi bilgisi; barkod ürün kaydıyla eşleştirildi",
+    "source_url": "https://flavus.com/products/fellas-yuksek-protein-bar-hindistan-cevizi-ve-kakao-45-gr",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["milk"],
+    "traces": [],
+    "labels": ["en:gluten-free", "en:no-added-sugar"]
+  },
+  {
+    "code": "8683650277958",
+    "name": "Fropie Probiyotik Mix 75 g",
+    "ingredients": "Yer fıstığı (%50), Brezilya cevizi (%20), şeftali küpleri (%30) (elma suyu konsantresi), probiyotik kültür.",
+    "source_name": "Karaca ürün içeriği ve barkod bilgisi",
+    "source_url": "https://www.karaca.com/urun/fropie-probiyotik-mix",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["peanuts", "brazil_nuts"],
+    "traces": ["cashews", "almonds", "tree_nuts"],
+    "labels": ["en:gluten-free"]
+  },
+  {
+    "code": "8682815018856",
+    "name": "Fropie Çiğ İç Badem 75 g",
+    "ingredients": "Çiğ badem.",
+    "source_name": "Karaca ürün içeriği ve barkod bilgisi",
+    "source_url": "https://www.karaca.com/urun/fropie-cig-ic-badem-75-g",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["almonds"],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8682368978652",
+    "name": "Saf Nutrition Barbekü Aromalı Protein Cips 50 g",
+    "ingredients": "Mısır irmiği, pirinç irmiği, bezelye proteini (%15,5), ayçiçek yağı, barbekü çeşnisi (%6,5) (pudra şekeri, tuz, maya ekstraktı, mısır nişastası, domates tozu, pirinç unu, soğan tozu, hidrolize bitkisel protein, trikalsiyum fosfat, ketçap aroma vericisi, sodyum diasetat, karabiber, sarımsak tozu, sitrik asit, tütsü aroma vericisi, malik asit, kekik, kırmızı biber oleoresin), şeker, tuz.",
+    "source_name": "Vegan Bakkal ürün içeriği ve barkod bilgisi",
+    "source_url": "https://www.veganbakkal.com.tr/barbeku-aromali-protein-cips-50gr-2570",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8681630155029",
+    "name": "Züber Badem Ezmeli Hi Protein Bar 45 g",
+    "ingredients": "Badem (%20), hurma, süt proteini konsantresi, hurma suyu konsantresi, peynir altı suyu proteini konsantresi (süt ürünü), hindiba kökü lifi.",
+    "source_name": "Züber üretici içerik bilgisi; barkod Avansas ürün kaydıyla eşleştirildi",
+    "source_url": "https://www.zuber.com/products/zuber-bademli-hi-protein-bar-45gr",
+    "checked_at": "2026-10-12T00:00:00Z",
+    "allergens": ["almonds", "milk"],
+    "traces": [],
+    "labels": ["en:gluten-free"]
+  }
+]

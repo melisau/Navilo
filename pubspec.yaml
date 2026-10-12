@@ -21,3 +21,4 @@ flutter:
   assets:
     - assets/policy.json
     - assets/dietary.json
+    - assets/curated_products.json

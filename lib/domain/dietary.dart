@@ -40,3 +40,80 @@ List<String> glutenFreeIngredients(String text, {bool english = false}) {
 bool hasGlutenFreeClaim(String text) => RegExp(
         r'(?<![a-zçğöşü])(?:glutensiz|gluten[- ]free|glutenfrei)(?![a-zçğöşü])')
     .hasMatch(normalize(text));
+
+// Positive evidence requires every ingredient to be recognized, not just absence
+// of a warning. Unknown words, flavourings and incomplete compound lists fail closed.
+bool isSimpleRiceList(String text) {
+  var value = normalize(text.replaceAll(RegExp(r'\r?\n'), ';'))
+      .replaceAll('ç', 'c')
+      .replaceAll('ğ', 'g')
+      .replaceAll('ö', 'o')
+      .replaceAll('ş', 's')
+      .replaceAll('ü', 'u')
+      .trim();
+  value = value.replaceFirst(
+      RegExp(r'^(?:icindekiler|ingredients|zutaten)\b\s*[:：]?\s*'), '');
+  value = value.replaceAll(RegExp(r'\(\s*%?\s*\d+(?:[.,]\d+)?\s*%?\s*\)'), '');
+  value = value.replaceFirst(RegExp(r'[.;]\s*$'), '');
+  final parts = value.split(RegExp(r'[,;\n]+')).map((v) => v.trim()).toList();
+  const rice = {
+    'pirinc',
+    'kahverengi pirinc',
+    'esmer pirinc',
+    'tam tahil pirinc',
+    'tam tahilli pirinc',
+    'rice',
+    'brown rice',
+    'wholegrain rice',
+    'reis',
+    'vollkornreis'
+  };
+  const salt = {'tuz', 'deniz tuzu', 'salt', 'sea salt', 'salz', 'meersalz'};
+  return parts.isNotEmpty &&
+      parts.any(rice.contains) &&
+      parts.every((v) => rice.contains(v) || salt.contains(v));
+}
+
+/// Listed additions, not a measurement of the product's total sugars.
+List<String> listedSugarAdditions(String text) {
+  const aliases = <String>[
+    'şeker',
+    'seker',
+    'sugar',
+    'zucker',
+    'sakkaroz',
+    'sukroz',
+    'sucrose',
+    'glikoz',
+    'glukoz',
+    'glucose',
+    'dekstroz',
+    'dextrose',
+    'fruktoz',
+    'fructose',
+    'invert şeker',
+    'invert sugar',
+    'glikoz şurubu',
+    'glukoz şurubu',
+    'glucose syrup',
+    'corn syrup',
+    'mısır şurubu',
+    'misir surubu',
+    'fruktoz şurubu',
+    'bal',
+    'honey',
+    'pekmez',
+    'molasses',
+    'agave syrup',
+    'agave şurubu',
+    'akçaağaç şurubu',
+    'maple syrup',
+    'hurma şurubu',
+    'date syrup',
+    'elma suyu konsantresi',
+    'apple juice concentrate',
+    'üzüm suyu konsantresi',
+    'grape juice concentrate',
+  ];
+  return aliases.where((alias) => containsIngredient(text, alias)).toList();
+}

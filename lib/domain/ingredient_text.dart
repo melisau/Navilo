@@ -19,13 +19,27 @@ class IngredientText {
     return issues;
   }
 
+  // Only typography is repaired automatically; ingredient names are never guessed.
+  static String cleanOcr(String text) =>
+      text.replaceAll('i\u0307', 'i').replaceAll('\u00ad', '').replaceAllMapped(
+          RegExp(r'([a-zA-ZçÇğĞıİöÖşŞüÜ])[-‐]\s*\n\s*([a-zA-ZçÇğĞıİöÖşŞüÜ])'),
+          (m) => '${m[1]}${m[2]}');
+
   factory IngredientText.parse(String raw) {
     final heading = RegExp(
-        r'(?:içindekiler|icindekiler|içerikler|ingredients|zutaten)\s*[:：]?',
+        r'(?<![a-z])(?:icindekiler|icerikler|ingredients|zutaten|ingr[eé]dients|ingredientes|ingredienti)\s*[:：]?',
         caseSensitive: false);
-    final searchText = raw.replaceAll('İ', 'i');
+    // Folding preserves offsets into the untouched original text.
+    final searchText = raw
+        .replaceAll('İ', 'i')
+        .replaceAll('I', 'i')
+        .replaceAll('ı', 'i')
+        .replaceAll('ç', 'c')
+        .replaceAll('Ç', 'c')
+        .replaceAll('ş', 's')
+        .replaceAll('Ş', 's');
     final starts = heading.allMatches(searchText).toList();
-    if (starts.isEmpty) return IngredientText(raw, raw.trim(), false);
+    if (starts.isEmpty) return IngredientText(raw, cleanOcr(raw.trim()), false);
     final sections = <String>[];
     final stop = RegExp(
         r'(?:alerjen\s*(?:beyanı)?|allergens?|kann\s+spuren|besin\s+(?:değerleri|öğeleri)|enerji\s+ve|nutrition|gıda\s+işletmecisi|üretici|saklama|storage|tavsiye\s+edilen|kullanıcı\s+grubu|gluten\s+miktarı|trocken,|mindestens\s+haltbar|hergestellt|net\s+miktar)',
@@ -38,6 +52,6 @@ class IngredientText {
       // Keep every language section: no product-specific scoring or guessing.
       if (section.trim().isNotEmpty) sections.add(section.trim());
     }
-    return IngredientText(raw, sections.join('\n\n'), true);
+    return IngredientText(raw, cleanOcr(sections.join('\n\n')), true);
   }
 }

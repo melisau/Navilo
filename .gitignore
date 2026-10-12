@@ -13,3 +13,4 @@ ios/Pods/
 .env.local
 .env.*.local
 android/.kotlin/
+config/*.local.json

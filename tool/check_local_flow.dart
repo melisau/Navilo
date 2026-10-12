@@ -45,6 +45,41 @@ Future<void> main() async {
       await store.find('../bad', 'food');
       throw StateError('Invalid path accepted');
     } on ArgumentError {/* expected */}
+    await store.save(LocalProduct(
+        id: 'local-1234567890123',
+        barcode: '8690577001764',
+        category: 'food',
+        name: 'Photo-first product',
+        ingredients: 'Pirinç, tuz',
+        reviewedAt: DateTime.utc(2026, 10, 12)));
+    check(
+        (await reopened.findByBarcode('8690577001764', 'food'))?.name ==
+            'Photo-first product',
+        'Barcode lookup for photo-first record after reopening');
+    check(await reopened.findByBarcode('8690577001764', 'cosmetic') == null,
+        'Barcode category isolation');
+    check(await reopened.findByBarcode('8681630799919', 'food') == null,
+        'Deleted barcode does not reappear');
+    await store.save(LocalProduct(
+        id: 'local-1234567890124',
+        barcode: '',
+        category: 'food',
+        name: 'User barcode regression',
+        ingredients: 'Pirinç, tuz',
+        reviewedAt: DateTime.utc(2026, 10, 12)));
+    check(await reopened.findByBarcode('9696477101312', 'food') == null,
+        'Unlinked record cannot match a barcode');
+    await store.save(LocalProduct(
+        id: 'local-1234567890124',
+        barcode: '9696477101312',
+        category: 'food',
+        name: 'User barcode regression',
+        ingredients: 'Pirinç, tuz',
+        reviewedAt: DateTime.utc(2026, 10, 12)));
+    check(
+        (await reopened.findByBarcode('9696477101312', 'food'))?.id ==
+            'local-1234567890124',
+        'User barcode resolves after linking with original record ID');
     final flour = IngredientText.parse(
         'İÇİNDEKİLER: Mısır nişastası, pirinç unu, guar gam.\nGluten miktarı 20mg/kg geçmez.');
     check(flour.headingFound && !flour.ingredients.contains('Gluten miktarı'),
@@ -58,7 +93,7 @@ Future<void> main() async {
     check(!containsIngredient('trans yağ içermez', 'trans yağ'),
         'Negative claim');
     stdout.writeln(
-        'PASS: 13 persistence, isolation, validation, extraction and ingredient checks.');
+        'PASS: 18 persistence, isolation, validation, extraction and ingredient checks.');
   } finally {
     // Only individual files from our freshly-created temp test directory.
     await for (final entity in dir.list()) {

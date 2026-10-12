@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:navilo/domain/dietary.dart';
 import 'package:navilo/domain/policy.dart';
 
@@ -17,5 +19,5 @@ void main() {
   check(!hasGlutenFreeClaim('glutenli, pirinç unu'));
   check(containsIngredient('SÜT TOZU', 'süt tozu'));
   check(normalize('I İ ı i i\u0307') == 'i i i i i');
-  print('PASS: 7 summary and Turkish-letter checks');
+  stdout.writeln('PASS: 7 summary and Turkish-letter checks');
 }
