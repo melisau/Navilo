@@ -159,3 +159,40 @@ FODMAP cards open serving details. For rice-only ingredient lists, the sheet cit
 
 ### Navilo wordmark
 The shared Flutter header uses a capital N, modern forest-green lettering and a larger veined sage leaf centred over the i as its dot. The logo is drawn at runtime by NaviloWordmark for sharp scaling and has an accessible brand label. Home, library, profile, criteria and assessment headers share this mark. Brand surfaces use ivory and forest green; dietary result colours remain distinct. The launcher keeps the approved leaf-compass symbol.
+
+### Skin self-assessment and cosmetic fit
+
+Open **Explore your skin type** from the cosmetic home screen or preferences.
+Nine single-choice questions assess four skin tendencies: oily, combination,
+dry and normal. Question 9 independently records frequent sensitivity. Answers
+can be reviewed with Back; Continue requires a selection. The final result is
+saved only after **Save and finish**. It stays on the device through
+`shared_preferences` and is never included in shared product submissions.
+Preferences lets users retake the test or delete its result.
+
+The first eight questions contribute points. Ties use combination → oily → dry
+→ normal priority. Oily and dry trigger combination within two points only when
+they are the leading two scores; combination within one point of a leading
+non-normal score also wins. These are prototype heuristics, not a validated
+clinical questionnaire. Bars show raw scores out of 24, not probabilities.
+
+Cosmetic results and saved cosmetic details display **Looks suitable**,
+**Take care**, or **Suitability unknown**, with the matched ingredients and
+reasons. Matching uses explicit normalized INCI entries, including Turkish case
+variants. Fatty alcohols do not match ethanol. Any caution takes precedence over
+positive matches; empty, unreviewed or unmatched lists remain unknown. A positive
+match is not proof of whole-product safety, efficacy or absence of allergens.
+Concentration, formulation, product use and individual response remain unknown.
+The initial rules intentionally avoid blanket comedogenicity scores for oils.
+Ingredient coverage is limited and requires professional review before release.
+
+Rules v1 (reviewed 2026-10-12) are conservative implementation heuristics informed
+by general American Academy of Dermatology guidance:
+- [Choosing moisturizers](https://www.aad.org/public/everyday-care/skin-care-basics/dry/pick-moisturizer)
+- [Oily skin care](https://www.aad.org/public/everyday-care/skin-care-basics/dry/oily-skin)
+- [Dry skin care and moisturizing ingredients](https://www.aad.org/public/everyday-care/skin-care-basics/care/winter-skin-survival-kit)
+- [Fragrance and sensitive skin](https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-for-men)
+
+These sources do not validate this questionnaire or this product classifier.
+Unit and widget tests in `test/skin_test.dart` cover scoring, sensitivity,
+invalid inputs, local persistence, ingredient boundaries and navigation.

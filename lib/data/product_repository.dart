@@ -76,7 +76,8 @@ typedef ProductJsonLoader = Future<Map<String, dynamic>> Function(Uri uri);
 
 class ProductLookupException implements Exception {
   final List<String> attempts;
-  ProductLookupException(this.attempts);
+  final String? resolvedName;
+  ProductLookupException(this.attempts, {this.resolvedName});
   @override
   String toString() => attempts.join('\n');
 }
@@ -229,42 +230,50 @@ class ProductRepository {
     ];
     final candidates = <ProductRecord>[];
     final seenCodes = <String>{};
-    for (final (host, source) in sources) {
-      try {
-        final response = await load(Uri.https(host, '/cgi/search.pl', {
-          'search_terms': query,
-          'countries_tags_en': 'turkey',
-          'json': '1',
-          'page_size': '10',
-          'fields':
-              'code,product_name,product_name_tr,product_name_en,ingredients_text,ingredients_text_tr,ingredients_text_en,allergens_tags,traces_tags,labels_tags,last_modified_t,image_front_url'
-        }));
-        final rows = response['products'];
-        if (rows is! List) continue;
-        for (final row in rows) {
-          if (row is! Map<String, dynamic>) continue;
-          final code = (row['code'] ?? '').toString();
-          if (!RegExp(r'^\d{8,14}$').hasMatch(code) ||
-              seenCodes.contains(code)) {
-            continue;
+    // Prefer Turkish catalogue entries first; when sparse, search globally too.
+    // Name matches are candidates only and are never selected automatically.
+    for (final turkishOnly in [true, false]) {
+      for (final (host, source) in sources) {
+        try {
+          final parameters = <String, String>{
+            'search_terms': query,
+            'json': '1',
+            'page_size': '20',
+            'fields':
+                'code,product_name,product_name_tr,product_name_en,ingredients_text,ingredients_text_tr,ingredients_text_en,allergens_tags,traces_tags,labels_tags,last_modified_t,image_front_url'
+          };
+          if (turkishOnly) parameters['countries_tags_en'] = 'turkey';
+          final response =
+              await load(Uri.https(host, '/cgi/search.pl', parameters));
+          final rows = response['products'];
+          if (rows is! List) continue;
+          for (final row in rows) {
+            if (row is! Map<String, dynamic>) continue;
+            final code = (row['code'] ?? '').toString();
+            if (!RegExp(r'^\d{8,14}$').hasMatch(code) ||
+                seenCodes.contains(code)) {
+              continue;
+            }
+            try {
+              final record = ProductRecord.parse(
+                  code, {'status': 1, 'product': row},
+                  english: english,
+                  host: host,
+                  sourceName: source,
+                  nameMatched: true,
+                  nameLookupSource: nameLookupSource);
+              seenCodes.add(code);
+              candidates.add(record);
+              if (candidates.length == 8) {
+                return candidates;
+              }
+            } on FormatException {
+              // Do not suggest records without ingredient text.
+            }
           }
-          try {
-            final record = ProductRecord.parse(
-                code, {'status': 1, 'product': row},
-                english: english,
-                host: host,
-                sourceName: source,
-                nameMatched: true,
-                nameLookupSource: nameLookupSource);
-            seenCodes.add(code);
-            candidates.add(record);
-            if (candidates.length == 8) return candidates;
-          } on FormatException {
-            // Do not suggest records without ingredient text.
-          }
+        } catch (_) {
+          // Continue to sibling sources if one service is unavailable.
         }
-      } catch (_) {
-        // Continue to sibling sources if one service is unavailable.
       }
     }
     return candidates;
@@ -306,12 +315,16 @@ class ProductRepository {
   }
 
   Future<ProductRecord> find(String code,
-      {bool english = false, String category = 'food'}) async {
+      {bool english = false,
+      String category = 'food',
+      void Function(int step)? onProgress}) async {
     if (!RegExp(r'^\d{8,14}$').hasMatch(code)) {
       throw const FormatException('Unsupported barcode');
     }
     final attempts = <String>[];
+    String? resolvedName;
     if (catalogConfigured) {
+      onProgress?.call(1);
       try {
         final product = await findCommunity(code, category);
         if (product != null) return product;
@@ -327,6 +340,7 @@ class ProductRepository {
       attempts.add(
           'Navilo curated data: ${failureMessage(error, english: english)}');
     }
+    onProgress?.call(2);
     // Product type can be misclassified in any community database, so check
     // every sibling dataset. ProductRecord.parse only accepts status == 1 and
     // a non-empty ingredient list. Keep the matched dataset as attribution.
@@ -345,10 +359,15 @@ class ProductRepository {
         return ProductRecord.parse(code, json,
             english: english, host: host, sourceName: source);
       } catch (error) {
+        if (error is FormatException &&
+            error.message == 'Ingredients unavailable') {
+          final name = error.source?.toString().trim() ?? '';
+          if (name.isNotEmpty) resolvedName ??= name;
+        }
         attempts.add('$source: ${failureMessage(error, english: english)}');
       }
     }
-    throw ProductLookupException(attempts);
+    throw ProductLookupException(attempts, resolvedName: resolvedName);
   }
 
   static Future<Map<String, dynamic>> _load(Uri uri) async {

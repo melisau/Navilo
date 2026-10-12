@@ -59,9 +59,11 @@ void main() {
     expect(find.byType(TextField), findsNothing);
     expect(find.byType(CheckboxListTile), findsNothing);
     expect(find.text('Kaynaklar ve değerlendirme ayrıntıları'), findsNothing);
+    await tester.tap(find.text('Tercihlerim'));
+    await waitForWidget(tester, find.text('Uygulama dili'));
     await tester.tap(find.text('English'));
     await tester.pump(const Duration(milliseconds: 300));
-    expect(find.text('Scan barcode'), findsOneWidget);
+    expect(find.text('Dietary preferences'), findsOneWidget);
     expect(tester.takeException(), isNull);
     await tester.runAsync(() async {
       await Future<void>.delayed(const Duration(milliseconds: 300));
@@ -69,7 +71,7 @@ void main() {
     await tester.pumpWidget(const SizedBox());
   });
 
-  testWidgets('Saved text needs review; edits remove confirmation',
+  testWidgets('Library product details open from saved product',
       (tester) async {
     addTearDown(() async => tester.pumpWidget(const SizedBox()));
     await tester.pumpWidget(IngredientApp(
@@ -86,29 +88,14 @@ void main() {
               reviewedAt: DateTime.now())
         ]));
     await waitForWidget(tester, find.text('Test ürünü'));
-    await tester.scrollUntilVisible(find.text('Test ürünü'), 220);
-    await tester.tap(find.text('Test ürünü'));
+    await tester.tap(find.text('Kütüphane'));
     await tester.pump(const Duration(milliseconds: 300));
-    expect(find.text('Okunan içeriği kontrol et'), findsOneWidget);
-    final next = find.byKey(const ValueKey('show-results'));
-    await waitForWidget(tester, next);
-    expect(tester.widget<FilledButton>(next).onPressed, isNull);
-    await waitForWidget(tester, find.byKey(const ValueKey('confirm-list')));
-    await tester.ensureVisible(find.byKey(const ValueKey('confirm-list')));
-    await tester.tap(find.byKey(const ValueKey('confirm-list')));
-    await tester.pump(const Duration(milliseconds: 300));
-    await tester.ensureVisible(next);
-    await tester.tap(next);
-    await tester.pump(const Duration(milliseconds: 300));
-    expect(find.text('Kaçınılan içerikler'), findsOneWidget);
-    expect(find.text('Listemizdeki madde tespit edilmedi'), findsOneWidget);
-    expect(find.byType(TextField), findsNothing);
-    await tester.tap(find.byTooltip('Geri'));
-    await tester.pump(const Duration(milliseconds: 300));
-    await tester.enterText(find.byType(TextField), 'Mısır nişastası, maltitol');
-    await tester.pump(const Duration(milliseconds: 300));
-    await waitForWidget(tester, next);
-    expect(tester.widget<FilledButton>(next).onPressed, isNull);
+    final savedProduct = find.text('Test ürünü');
+    await tester.ensureVisible(savedProduct);
+    await tester.tap(savedProduct);
+    await tester.pumpAndSettle();
+    expect(find.text('Test ürünü'), findsNWidgets(2));
+    expect(find.text('Test ürünü'), findsNWidgets(2));
     expect(tester.takeException(), isNull);
     await tester.pumpWidget(const SizedBox());
   });
@@ -129,7 +116,7 @@ void main() {
         persistSettings: false,
         initialSettings: const AppSettings(introSeen: true),
         initialPolicy: Policy('test', const [])));
-    await waitForWidget(tester, find.text('Bugün neyi\ninceleyelim?'));
+    await waitForWidget(tester, find.text('Ürünün içeriğini keşfet'));
     final scrollable = find.byType(Scrollable).first;
     final before = tester.state<ScrollableState>(scrollable).position.pixels;
     await tester.drag(scrollable, const Offset(0, -360));

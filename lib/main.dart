@@ -1,3 +1,7 @@
+import 'features/skin_test/skin_type.dart';
+import 'features/skin_test/skin_test_service.dart';
+import 'features/skin_test/skin_test_screen.dart';
+import 'features/skin_test/skin_fit_evaluator.dart';
 import 'widgets/navilo_wordmark.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:path_provider/path_provider.dart';
@@ -17,6 +21,7 @@ import 'package:flutter/services.dart';
 
 import 'domain/policy.dart';
 import 'data/community_submission.dart';
+import 'theme/navilo_theme.dart';
 
 void main() => runApp(const IngredientApp());
 
@@ -39,76 +44,7 @@ class IngredientApp extends StatelessWidget {
   Widget build(BuildContext context) => MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'Navilo',
-        theme: ThemeData(
-          useMaterial3: true,
-          colorScheme: ColorScheme.fromSeed(
-              seedColor: const Color(0xFF214D3B),
-              surface: const Color(0xFFFFFFFF)),
-          scaffoldBackgroundColor: const Color(0xFFFBF8EF),
-          textTheme: const TextTheme(
-            headlineMedium: TextStyle(
-                fontSize: 30,
-                height: 1.15,
-                fontWeight: FontWeight.w700,
-                letterSpacing: -0.8),
-            titleLarge: TextStyle(
-                fontSize: 20,
-                height: 1.3,
-                fontWeight: FontWeight.w700,
-                letterSpacing: -0.4),
-            titleMedium: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
-            bodyMedium:
-                TextStyle(fontSize: 16, height: 1.5, color: Color(0xFF53635D)),
-          ),
-          appBarTheme: const AppBarTheme(
-              backgroundColor: Color(0xFFFBF8EF),
-              surfaceTintColor: Colors.transparent,
-              centerTitle: false,
-              elevation: 0,
-              titleSpacing: 24),
-          navigationBarTheme: NavigationBarThemeData(
-              backgroundColor: Colors.white,
-              indicatorColor: const Color(0xFFD9EEE2),
-              height: 76,
-              labelTextStyle: WidgetStateProperty.all(
-                  const TextStyle(fontSize: 12, fontWeight: FontWeight.w600))),
-          cardTheme: CardThemeData(
-              elevation: 0,
-              color: Colors.white,
-              margin: const EdgeInsets.symmetric(vertical: 8),
-              shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(22))),
-          filledButtonTheme: FilledButtonThemeData(
-              style: FilledButton.styleFrom(
-                  minimumSize: const Size(0, 56),
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: 20, vertical: 16),
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(16)),
-                  textStyle: const TextStyle(
-                      fontSize: 16, fontWeight: FontWeight.w600))),
-          outlinedButtonTheme: OutlinedButtonThemeData(
-              style: OutlinedButton.styleFrom(
-                  minimumSize: const Size(0, 56),
-                  backgroundColor: Colors.white,
-                  side: const BorderSide(color: Color(0xFFD5DFD9)),
-                  shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(16)))),
-          inputDecorationTheme: InputDecorationTheme(
-              filled: true,
-              fillColor: Colors.white,
-              contentPadding: const EdgeInsets.all(18),
-              border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(16),
-                  borderSide: const BorderSide(color: Color(0xFFD5DFD9)))),
-          chipTheme: ChipThemeData(
-              backgroundColor: const Color(0xFFF1F5F2),
-              side: BorderSide.none,
-              shape: RoundedRectangleBorder(
-                  borderRadius: BorderRadius.circular(10))),
-          dividerTheme:
-              const DividerThemeData(color: Color(0xFFE2E9E4), space: 28),
-        ),
+        theme: NaviloTheme.light(),
         home: HomePage(
             storageDirectory: storageDirectory,
             persistSettings: persistSettings,
@@ -151,6 +87,7 @@ class _BarcodeScannerPageState extends State<BarcodeScannerPage> {
                       orElse: () => '');
               if (barcode.isEmpty) return;
               handled = true;
+              HapticFeedback.selectionClick();
               Navigator.of(context).pop(barcode);
             },
           ))
@@ -209,16 +146,20 @@ class _HomePageState extends State<HomePage> {
   int page = 0;
   String category = 'food';
   String skin = 'Henüz seçilmedi';
+  SkinTestResult? skinResult;
   final Set<String> preferences = {};
   List<IngredientRule>? matches;
   bool complete = false;
   bool reading = false;
+  bool barcodeSearching = false;
+  int lookupStep = 0;
   String? photoPath;
   String? scanError;
   bool searchingNameMatches = false;
   bool ingredientSectionDetected = false;
   String? productName;
   ProductRecord? productRecord;
+  LocalProduct? activeLocalProduct;
   String? activeBarcode;
   DateTime? localReviewDate;
   late final Future<LocalProductStore> localStore = (widget.storageDirectory ==
@@ -236,6 +177,8 @@ class _HomePageState extends State<HomePage> {
   List<LocalProduct> libraryProducts = [];
   String libraryCategory = 'food';
   String libraryQuery = '';
+  String criteriaQuery = '';
+  String criteriaCategory = 'all';
   String? activeLocalId;
   late final Future<AppSettingsStore> settingsStore =
       localStore.then((store) => AppSettingsStore(store.directory.parent));
@@ -244,6 +187,26 @@ class _HomePageState extends State<HomePage> {
   void initState() {
     super.initState();
     loadSettings();
+    loadSkinProfile();
+  }
+
+  Future<void> loadSkinProfile() async {
+    if (!widget.persistSettings) return;
+    try {
+      final result = await SkinTestStorage.load();
+      if (mounted) {
+        setState(() {
+          skinResult = result;
+          if (result != null) skin = result.type.label;
+        });
+      }
+    } catch (_) {
+      if (mounted) {
+        setState(() => storageError = copy(
+            'Cilt profili yüklenemedi. Tercihlerden yeniden test yapabilirsin.',
+            'Skin profile could not load. Retake the test in preferences.'));
+      }
+    }
   }
 
   Future<void> loadSettings() async {
@@ -258,7 +221,7 @@ class _HomePageState extends State<HomePage> {
       setState(() {
         onboarding = !settings.introSeen;
         english = settings.english;
-        skin = settings.skin;
+        skin = skinResult?.type.label ?? settings.skin;
         preferences.addAll(settings.preferences);
         libraryProducts = recent;
         recentProducts = recent.take(5).toList();
@@ -323,9 +286,12 @@ class _HomePageState extends State<HomePage> {
   }
 
   void resetProduct() {
+    barcodeSearching = false;
+    lookupStep = 0;
     label.clear();
     activeBarcode = null;
     activeLocalId = null;
+    activeLocalProduct = null;
     localReviewDate = null;
     productName = null;
     productRecord = null;
@@ -469,6 +435,7 @@ class _HomePageState extends State<HomePage> {
       category = product.category;
       activeBarcode = product.barcode.isEmpty ? null : product.barcode;
       activeLocalId = product.id;
+      activeLocalProduct = product;
       page = 0;
       productName = product.name.isEmpty ? null : product.name;
       label.text = product.ingredients;
@@ -693,6 +660,8 @@ class _HomePageState extends State<HomePage> {
 
     setState(() {
       reading = true;
+      barcodeSearching = true;
+      lookupStep = 0;
       activeBarcode = barcode;
       activeLocalId = null;
       localReviewDate = null;
@@ -731,8 +700,11 @@ class _HomePageState extends State<HomePage> {
         });
         return;
       }
-      final product = await ProductRepository()
-          .find(barcode, english: english, category: category);
+      if (mounted) setState(() => lookupStep = 1);
+      final product = await ProductRepository().find(barcode,
+          english: english, category: category, onProgress: (step) {
+        if (mounted) setState(() => lookupStep = step);
+      });
       final loadedPolicy = await policy;
       if (!mounted) return;
       setState(() {
@@ -753,8 +725,10 @@ class _HomePageState extends State<HomePage> {
         });
       }
       try {
-        final candidates = await ProductRepository()
-            .findNameCandidates(barcode: barcode, english: english);
+        final candidates = await ProductRepository().findNameCandidates(
+            barcode: barcode,
+            productName: error.resolvedName,
+            english: english);
         if (!mounted) return;
         if (candidates.isNotEmpty) {
           final selected = await chooseNameMatch(candidates);
@@ -781,7 +755,12 @@ class _HomePageState extends State<HomePage> {
         setState(() => scanError = 'Barkod ürünü getirilemedi. Tekrar dene.');
       }
     } finally {
-      if (mounted) setState(() => reading = false);
+      if (mounted) {
+        setState(() {
+          reading = false;
+          barcodeSearching = false;
+        });
+      }
     }
   }
 
@@ -883,41 +862,88 @@ class _HomePageState extends State<HomePage> {
     return parsed.ingredients;
   }
 
+  List<TextSpan> highlightedIngredientSpans() {
+    final source = label.text;
+    final ranges = <(int, int)>[];
+    for (final alias in matches!.expand((rule) => rule.aliases).toSet()) {
+      if (alias.trim().length < 3) continue;
+      final pattern = RegExp(RegExp.escape(alias), caseSensitive: false);
+      for (final match in pattern.allMatches(source)) {
+        ranges.add((match.start, match.end));
+      }
+    }
+    ranges.sort((a, b) => a.$1.compareTo(b.$1));
+    final spans = <TextSpan>[];
+    var cursor = 0;
+    for (final range in ranges) {
+      if (range.$1 < cursor) continue;
+      if (range.$1 > cursor) {
+        spans.add(TextSpan(text: source.substring(cursor, range.$1)));
+      }
+      spans.add(TextSpan(
+          text: source.substring(range.$1, range.$2),
+          style: const TextStyle(
+              backgroundColor: Color(0xFFFFD36B),
+              color: NaviloColors.ink,
+              fontWeight: FontWeight.w700)));
+      cursor = range.$2;
+    }
+    if (cursor < source.length) {
+      spans.add(TextSpan(text: source.substring(cursor)));
+    }
+    return spans;
+  }
+
   Widget resultRow(String title, String status, List<String> names,
-          {bool warning = false, Color? accent}) =>
-      Container(
-        width: double.infinity,
-        margin: const EdgeInsets.only(bottom: 10),
-        padding: const EdgeInsets.all(16),
-        decoration: BoxDecoration(
-            color: accent != null
-                ? accent.withValues(alpha: 0.06)
-                : warning
-                    ? const Color(0xFFFFF5E7)
-                    : Colors.white,
-            border: Border.all(
-                color: accent ??
-                    (warning
-                        ? const Color(0xFFB86A13)
-                        : const Color(0xFFD3DED9)),
-                width: accent == null ? 1 : 2.5),
-            borderRadius: BorderRadius.circular(16)),
-        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
-          Text(title,
-              style: Theme.of(context).textTheme.titleMedium!.copyWith(
-                  color: accent ?? const Color(0xFF607269),
-                  letterSpacing: 0.3)),
-          const SizedBox(height: 6),
-          Text(status, style: Theme.of(context).textTheme.titleLarge),
-          if (names.isNotEmpty) ...[
-            const SizedBox(height: 8),
-            Wrap(
-                spacing: 8,
-                runSpacing: 4,
-                children: names.map((name) => Chip(label: Text(name))).toList())
-          ],
-        ]),
-      );
+      {bool warning = false, bool unknown = false, Color? accent}) {
+    final indicatorColor = warning
+        ? NaviloColors.warning
+        : unknown
+            ? NaviloColors.uncertain
+            : accent ?? NaviloColors.muted;
+    final indicator = warning
+        ? Icons.warning_amber_rounded
+        : unknown
+            ? Icons.help_outline_rounded
+            : Icons.remove_circle_outline_rounded;
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.symmetric(vertical: 14),
+      decoration: const BoxDecoration(
+          border: Border(bottom: BorderSide(color: NaviloColors.line))),
+      child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Padding(
+          padding: const EdgeInsets.only(top: 2),
+          child: Icon(indicator, size: 21, color: indicatorColor),
+        ),
+        const SizedBox(width: 12),
+        Expanded(
+          child:
+              Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text(title.toUpperCase(),
+                style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                    color: NaviloColors.muted,
+                    letterSpacing: 1.05,
+                    fontWeight: FontWeight.w700)),
+            const SizedBox(height: 4),
+            Text(status,
+                style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                    color: warning ? NaviloColors.warning : NaviloColors.ink,
+                    fontWeight: FontWeight.w600,
+                    height: 1.3)),
+            if (names.isNotEmpty) ...[
+              const SizedBox(height: 4),
+              Text(names.join(' · '),
+                  style: Theme.of(context)
+                      .textTheme
+                      .bodySmall
+                      ?.copyWith(color: NaviloColors.muted)),
+            ],
+          ]),
+        ),
+      ]),
+    );
+  }
 
   void showFodmapPortionDetails({required bool simpleRice}) {
     showModalBottomSheet<void>(
@@ -997,11 +1023,16 @@ class _HomePageState extends State<HomePage> {
               .toList();
           final lactose =
               entries.where((e) => e.kind == 'lactose_check').toList();
-          final fodmap = entries
-              .where((e) =>
-                  e.kind == 'fodmap_potential' || e.kind == 'lactose_check')
-              .toList();
-          final evidence = normalize('$rawOcrText ${label.text}');
+          final lactoseEnzyme = [
+            'laktaz enzimi',
+            'lactase enzyme',
+            'lactase',
+            'laktaz'
+          ].any((alias) => containsIngredient(label.text, alias));
+          final explicitlyListsLactose = lactose.any((e) => e.id == 'lactose');
+          final lactoseFreeByEnzyme = lactoseEnzyme && !explicitlyListsLactose;
+          final evidence = normalize(
+              '$rawOcrText ${label.text} ${productName ?? ''} ${productRecord?.name ?? ''}');
           final glutenClaim = hasGlutenFreeClaim(evidence) ||
               (productRecord?.labels.any((tag) => [
                         'en:gluten-free',
@@ -1018,6 +1049,13 @@ class _HomePageState extends State<HomePage> {
           final lactoseClaim = claim(
               ['laktozsuz', 'lactose-free', 'lactose free', 'laktosefrei'],
               ['en:lactose-free', 'tr:laktozsuz']);
+          final fodmap = entries
+              .where((e) =>
+                  e.kind == 'fodmap_potential' ||
+                  (e.kind == 'lactose_check' &&
+                      (!lactoseClaim || explicitlyListsLactose) &&
+                      !lactoseFreeByEnzyme))
+              .toList();
           final sugarClaim = claim([
             'şekersiz',
             'sekersiz',
@@ -1033,6 +1071,10 @@ class _HomePageState extends State<HomePage> {
           final simpleRice = complete && isSimpleRiceList(label.text);
           final riceGluten = simpleRice && gluten.isEmpty;
           final riceLactose = simpleRice && lactose.isEmpty;
+          final lactoseFree = !explicitlyListsLactose &&
+              (lactoseClaim || lactoseFreeByEnzyme || riceLactose);
+          final milkAllergens =
+              lactose.where((e) => e.id != 'lactose').toList();
           return Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -1067,10 +1109,14 @@ class _HomePageState extends State<HomePage> {
                         natural),
                   resultRow(
                       english ? 'Lactose' : 'Laktoz',
-                      lactoseClaim
+                      lactoseFree
                           ? (english
-                              ? 'Lactose-free · label claim'
-                              : 'Laktozsuz · etiket beyanı')
+                              ? (lactoseFreeByEnzyme
+                                  ? 'Lactose-free · lactase enzyme listed'
+                                  : 'Lactose-free · label claim')
+                              : (lactoseFreeByEnzyme
+                                  ? 'Laktozsuz · laktaz enzimi listelenmiş'
+                                  : 'Laktozsuz · etiket beyanı'))
                           : riceLactose
                               ? copy('Laktozsuz · içeriklere göre',
                                   'Lactose-free · based on ingredients')
@@ -1081,11 +1127,21 @@ class _HomePageState extends State<HomePage> {
                                   : (english
                                       ? 'No listed lactose source detected'
                                       : 'Listelenen laktoz kaynağı tespit edilmedi'),
-                      lactose.map((e) => e.name(english)).toList(),
-                      warning: !lactoseClaim && lactose.isNotEmpty,
-                      accent: lactoseClaim || riceLactose
-                          ? const Color(0xFF1672B8)
-                          : null),
+                      lactoseFreeByEnzyme && lactoseFree
+                          ? [copy('Laktaz enzimi', 'Lactase enzyme')]
+                          : lactoseFree
+                              ? const <String>[]
+                              : lactose.map((e) => e.name(english)).toList(),
+                      warning: !lactoseFree && lactose.isNotEmpty,
+                      accent: lactoseFree ? const Color(0xFF1672B8) : null),
+                  if (lactoseFree && milkAllergens.isNotEmpty)
+                    resultRow(
+                        english ? 'Milk allergen' : 'Süt alerjeni',
+                        english
+                            ? 'Milk is still listed; lactose-free does not mean milk-protein-free.'
+                            : 'Süt içerir; laktozsuz olması süt proteini içermediği anlamına gelmez.',
+                        milkAllergens.map((e) => e.name(english)).toList(),
+                        warning: true),
                   resultRow(
                       english ? 'Sugar' : 'Şeker',
                       sugarAdditions.isNotEmpty
@@ -1102,6 +1158,8 @@ class _HomePageState extends State<HomePage> {
                                       'Review the ingredient list'),
                       sugarAdditions,
                       warning: sugarAdditions.isNotEmpty,
+                      unknown:
+                          sugarAdditions.isEmpty && !sugarClaim && !complete,
                       accent: sugarAdditions.isEmpty && (sugarClaim || complete)
                           ? const Color(0xFFB34572)
                           : null),
@@ -1123,7 +1181,7 @@ class _HomePageState extends State<HomePage> {
                                       ? 'Product level unknown'
                                       : 'Ürün düzeyi belirlenemedi'),
                           fodmap.map((e) => e.name(english)).toList(),
-                          warning: fodmap.isNotEmpty,
+                          unknown: true,
                           accent: simpleRice && fodmap.isEmpty
                               ? const Color(0xFF297A54)
                               : null)),
@@ -1216,6 +1274,54 @@ class _HomePageState extends State<HomePage> {
         ]),
       );
 
+  Widget lookupProgress() {
+    final steps = [
+      copy('Bu telefondaki kütüphane', 'This phone’s library'),
+      copy('Ortak ürün kataloğu', 'Shared product catalog'),
+      copy('Open Food Facts ve kardeş kataloglar',
+          'Open Food Facts and related catalogs'),
+    ];
+    return Container(
+      width: double.infinity,
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: NaviloColors.paper,
+        borderRadius: BorderRadius.circular(16),
+        border: Border.all(color: NaviloColors.line),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          Text(copy('Barkod kaynakları kontrol ediliyor',
+              'Checking barcode sources')),
+          const SizedBox(height: 12),
+          for (var index = 0; index < steps.length; index++) ...[
+            if (index > 0) const SizedBox(height: 9),
+            Row(children: [
+              SizedBox(
+                width: 22,
+                height: 22,
+                child: index < lookupStep
+                    ? const Icon(Icons.check_circle_outline_rounded,
+                        size: 19, color: NaviloColors.forest)
+                    : index == lookupStep
+                        ? const CircularProgressIndicator(strokeWidth: 2)
+                        : Icon(Icons.radio_button_unchecked_rounded,
+                            size: 19, color: NaviloColors.muted),
+              ),
+              const SizedBox(width: 10),
+              Expanded(child: Text(steps[index])),
+              if (index == 1 && !ProductRepository.catalogConfigured)
+                Text(copy('Kapalı', 'Off'),
+                    style: Theme.of(context).textTheme.bodySmall),
+            ]),
+          ],
+        ],
+      ),
+    );
+  }
+
   Widget actionCard(
           {required String title,
           required String description,
@@ -1305,31 +1411,28 @@ class _HomePageState extends State<HomePage> {
       ]));
 
   Widget categoryPicker() => Wrap(spacing: 10, runSpacing: 10, children: [
-        for (final item in [
-          ('food', copy('Gıda', 'Food'), Icons.restaurant_outlined),
-          (
-            'cosmetic',
-            copy('Bakım ve kozmetik', 'Beauty & care'),
-            Icons.spa_outlined
-          )
-        ])
-          ChoiceChip(
-              showCheckmark: false,
-              selectedColor: const Color(0xFFD9EEE2),
-              side: BorderSide(color: const Color(0xFF527565)),
-              avatar: Icon(item.$3, size: 20),
-              label: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 10),
-                  child: Text(item.$2)),
-              selected: category == item.$1,
-              onSelected: reading
-                  ? null
-                  : (_) => setState(() {
-                        if (category != item.$1) {
-                          resetProduct();
-                          category = item.$1;
-                        }
-                      })),
+        SegmentedButton<String>(
+          showSelectedIcon: false,
+          segments: [
+            ButtonSegment(
+                value: 'food',
+                icon: const Icon(Icons.restaurant_outlined, size: 18),
+                label: Text(copy('Gıda', 'Food'))),
+            ButtonSegment(
+                value: 'cosmetic',
+                icon: const Icon(Icons.spa_outlined, size: 18),
+                label: Text(copy('Bakım ve kozmetik', 'Beauty & care'))),
+          ],
+          selected: {category},
+          onSelectionChanged: reading
+              ? null
+              : (value) => setState(() {
+                    if (category != value.first) {
+                      resetProduct();
+                      category = value.first;
+                    }
+                  }),
+        ),
       ]);
 
   Widget captureActions({bool retry = false}) => Column(children: [
@@ -1459,60 +1562,165 @@ class _HomePageState extends State<HomePage> {
             textAlign: TextAlign.center),
       ]);
 
+  Widget scanHero() => Material(
+        color: NaviloColors.forestDeep,
+        borderRadius: BorderRadius.circular(18),
+        clipBehavior: Clip.antiAlias,
+        child: InkWell(
+          onTap: reading
+              ? null
+              : () {
+                  if (scanError == null) setState(resetProduct);
+                  scanPhoto(ImageSource.camera);
+                },
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(minHeight: 174),
+            child: SizedBox(
+              width: double.infinity,
+              child: Stack(children: [
+                Positioned(
+                    right: 18,
+                    top: 18,
+                    child: Icon(Icons.center_focus_weak_rounded,
+                        size: 110, color: Colors.white.withValues(alpha: .10))),
+                Padding(
+                  padding: const EdgeInsets.all(20),
+                  child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        const Icon(Icons.document_scanner_outlined,
+                            color: Color(0xFFE9C576), size: 29),
+                        const SizedBox(height: 12),
+                        Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(copy('Etiketini tara', 'Scan the label'),
+                                  style: const TextStyle(
+                                      color: Colors.white,
+                                      fontFamily: 'serif',
+                                      fontSize: 23,
+                                      fontWeight: FontWeight.w600)),
+                              const SizedBox(height: 3),
+                              Text(
+                                  copy('İçindekiler listesini kamerayla oku',
+                                      'Read the ingredient list with your camera'),
+                                  style: const TextStyle(
+                                      color: Color(0xFFD2DAD3), fontSize: 13)),
+                            ]),
+                        const Align(
+                            alignment: Alignment.centerRight,
+                            child: Icon(Icons.arrow_forward_rounded,
+                                color: Colors.white, size: 20)),
+                      ]),
+                ),
+              ]),
+            ),
+          ),
+        ),
+      );
+
   Widget homeScreen() => pageList([
-        Text(
-            copy('Bugün neyi\ninceleyelim?',
-                'What would you like\nto check today?'),
-            style: Theme.of(context).textTheme.headlineMedium),
-        const SizedBox(height: 10),
-        Text(copy('Bir ürün seç. İçeriğine birlikte bakalım.',
-            'Choose a product and explore its ingredients.')),
-        const SizedBox(height: 24),
         categoryPicker(),
-        const SizedBox(height: 24),
+        if (category == 'cosmetic') skinTypeCard(),
+        const SizedBox(height: 18),
+        Text(copy('Ürünün içeriğini keşfet', 'Explore what is inside'),
+            maxLines: 1,
+            overflow: TextOverflow.ellipsis,
+            style: Theme.of(context).textTheme.headlineMedium),
+        const SizedBox(height: 5),
+        Text(copy('Barkodu okut ya da etiketi tara.',
+            'Scan a barcode or read its label.')),
+        const SizedBox(height: 18),
         if (scanError != null) scanFailure(),
-        captureActions(),
+        scanHero(),
+        const SizedBox(height: 10),
+        Row(children: [
+          Expanded(
+              child: OutlinedButton.icon(
+                  onPressed: reading
+                      ? null
+                      : () {
+                          setState(resetProduct);
+                          scanBarcode();
+                        },
+                  icon: const Icon(Icons.qr_code_2_rounded),
+                  label: Text(copy('Barkod okut', 'Scan barcode')))),
+          const SizedBox(width: 10),
+          Expanded(
+              child: OutlinedButton.icon(
+                  onPressed: reading
+                      ? null
+                      : () {
+                          if (scanError == null) setState(resetProduct);
+                          scanPhoto(ImageSource.gallery);
+                        },
+                  icon: const Icon(Icons.photo_library_outlined),
+                  label: Text(copy('Galeriden ekle', 'Choose a photo')))),
+        ]),
         if (label.text.isNotEmpty)
-          TextButton.icon(
-              onPressed: () => setState(() => stage = ScanStage.review),
-              icon: const Icon(Icons.arrow_forward),
-              label: Text(
-                  copy('Açık ürüne devam et', 'Continue current product'))),
-        const SizedBox(height: 16),
-        Text(copy('Telefona kaydettiklerin', 'Saved on this phone'),
-            style: Theme.of(context).textTheme.titleLarge),
-        const SizedBox(height: 8),
+          Align(
+              alignment: Alignment.centerLeft,
+              child: TextButton.icon(
+                  onPressed: () => setState(() => stage = ScanStage.review),
+                  icon: const Icon(Icons.arrow_forward),
+                  label:
+                      Text(copy('Açık ürüne devam et', 'Continue product')))),
+        const SizedBox(height: 22),
+        Row(children: [
+          Expanded(
+              child: Text(copy('Son baktıkların', 'Recently viewed'),
+                  style: Theme.of(context).textTheme.titleLarge)),
+          TextButton(
+              onPressed: () => setState(() => page = 3),
+              child: Text(copy('Tümü', 'See all'))),
+        ]),
         if (recentProducts.isEmpty)
-          Container(
-              padding: const EdgeInsets.all(20),
-              decoration: BoxDecoration(
-                  color: Colors.white, borderRadius: BorderRadius.circular(20)),
-              child: Text(copy(
-                  'Henüz kayıt yok. Bir ürünü inceleyip kaydettiğinde burada görünür.',
-                  'No saved products yet. Review and save a product to find it here.'))),
-        ...recentProducts.map((product) => Padding(
-            padding: const EdgeInsets.only(bottom: 8),
-            child: Card(
-                child: ListTile(
-                    contentPadding: const EdgeInsets.symmetric(
-                        horizontal: 18, vertical: 10),
-                    leading: productThumbnail(product, size: 48),
-                    title: Text(product.name.isEmpty
-                        ? copy('Kaydedilen ürün', 'Saved product')
-                        : product.name),
-                    subtitle: Text(
-                        '${product.barcode.isEmpty ? copy('Barkodsuz kayıt', 'No barcode') : product.barcode}\n${dateLabel(product.reviewedAt)}'),
-                    isThreeLine: true,
-                    trailing: IconButton(
-                        tooltip:
-                            copy('Kütüphaneden sil', 'Delete from library'),
-                        icon: const Icon(Icons.delete_outline),
-                        onPressed: () => deleteLibraryProduct(product)),
-                    onTap: () => openSaved(product))))),
+          Padding(
+              padding: const EdgeInsets.only(top: 4, bottom: 12),
+              child: Text(copy('Kaydettiğin ürünler burada görünür.',
+                  'Your saved products will appear here.')))
+        else
+          SizedBox(
+              height: 92,
+              child: ListView.separated(
+                  scrollDirection: Axis.horizontal,
+                  itemCount: recentProducts.length,
+                  separatorBuilder: (_, __) => const SizedBox(width: 9),
+                  itemBuilder: (context, index) {
+                    final product = recentProducts[index];
+                    return SizedBox(
+                        width: 190,
+                        child: Material(
+                            color: NaviloColors.paper,
+                            borderRadius: BorderRadius.circular(14),
+                            child: InkWell(
+                                borderRadius: BorderRadius.circular(14),
+                                onTap: () => openSaved(product),
+                                child: Padding(
+                                    padding: const EdgeInsets.all(10),
+                                    child: Row(children: [
+                                      productThumbnail(product, size: 54),
+                                      const SizedBox(width: 10),
+                                      Expanded(
+                                          child: Text(
+                                              product.name.isEmpty
+                                                  ? copy('Kaydedilen ürün',
+                                                      'Saved product')
+                                                  : product.name,
+                                              maxLines: 2,
+                                              overflow: TextOverflow.ellipsis,
+                                              style: Theme.of(context)
+                                                  .textTheme
+                                                  .titleSmall)),
+                                    ])))));
+                  })),
         if (storageError != null) notice(storageError!, warning: true),
-        const SizedBox(height: 20),
-        Text(copy('Bilgilendirme amaçlıdır; doktor tavsiyesi değildir.',
-            'For information only; not medical advice.')),
+        const SizedBox(height: 18),
+        Text(
+            copy('Bilgilendirme amaçlıdır; doktor tavsiyesi değildir.',
+                'For information only; not medical advice.'),
+            style: Theme.of(context).textTheme.bodySmall),
       ]);
 
   Widget reviewScreen(Policy data) {
@@ -1744,14 +1952,136 @@ class _HomePageState extends State<HomePage> {
             ])));
   }
 
+  Widget resultProductVisual() {
+    final photo = photoPath;
+    final imageUrl = ProductRecord.licensedImage(productRecord?.imageUrl);
+    final fallback = Container(
+        color: const Color(0xFFE8E1D2),
+        alignment: Alignment.center,
+        child: Text(
+            (productName ?? copy('Ürün', 'Product'))
+                .trim()
+                .split(RegExp(r'\s+'))
+                .take(2)
+                .map((part) => part.isEmpty ? '' : part[0].toUpperCase())
+                .join(),
+            style: const TextStyle(
+                fontFamily: 'serif',
+                fontSize: 25,
+                fontWeight: FontWeight.w700,
+                color: NaviloColors.forest)));
+    Widget localPhoto() => FutureBuilder<LocalProductStore>(
+        future: localStore,
+        builder: (context, snapshot) {
+          final file = snapshot.data?.imageFor(activeLocalProduct!);
+          return file != null && file.existsSync()
+              ? Image.file(file, fit: BoxFit.cover)
+              : fallback;
+        });
+    final Widget visual = photo != null
+        ? Image.file(File(photo), fit: BoxFit.cover)
+        : activeLocalProduct != null
+            ? localPhoto()
+            : imageUrl != null
+                ? Image.network(imageUrl,
+                    fit: BoxFit.cover, errorBuilder: (_, __, ___) => fallback)
+                : fallback;
+    return ClipRRect(
+        borderRadius: BorderRadius.circular(14),
+        child: SizedBox(width: 68, height: 68, child: visual));
+  }
+
+  Widget resultDecisionHeader() {
+    final found = matches!.isNotEmpty;
+    final name = productName ?? copy('İçerik özeti', 'Ingredient summary');
+    return AnimatedSwitcher(
+      duration: const Duration(milliseconds: 260),
+      switchInCurve: Curves.easeOutCubic,
+      child: Container(
+        key: ValueKey('$name-$found'),
+        padding: const EdgeInsets.all(18),
+        decoration: BoxDecoration(
+            color: NaviloColors.forestDeep,
+            borderRadius: BorderRadius.circular(18)),
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Row(children: [
+            resultProductVisual(),
+            const SizedBox(width: 14),
+            Expanded(
+                child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                  Text(name,
+                      maxLines: 2,
+                      overflow: TextOverflow.ellipsis,
+                      style: Theme.of(context)
+                          .textTheme
+                          .titleLarge
+                          ?.copyWith(color: Colors.white, fontFamily: 'serif')),
+                  const SizedBox(height: 5),
+                  Text(
+                      '${category == 'food' ? copy('Gıda', 'Food') : copy('Bakım ve kozmetik', 'Beauty & care')} · ${copy('Kontrol ettiğin metne göre', 'Based on the text you reviewed')}',
+                      style: const TextStyle(
+                          color: Color(0xFFD2DAD3), fontSize: 12)),
+                ]))
+          ]),
+          const SizedBox(height: 16),
+          Align(
+            alignment: Alignment.centerLeft,
+            child: Container(
+              padding: const EdgeInsets.symmetric(horizontal: 11, vertical: 7),
+              decoration: BoxDecoration(
+                  color:
+                      found ? const Color(0xFFFFD36B) : const Color(0xFFE7E4DC),
+                  borderRadius: BorderRadius.circular(9)),
+              child: Text(
+                  found
+                      ? '${matches!.length} ${copy('eşleşme bulundu', 'match${matches!.length == 1 ? '' : 'es'} found')}'
+                      : copy('Listede eşleşme yok · güvenlik onayı değildir',
+                          'No list match · this is not a safety approval'),
+                  style: TextStyle(
+                      color: found ? NaviloColors.ink : const Color(0xFF454B47),
+                      fontWeight: FontWeight.w700,
+                      fontSize: 12)),
+            ),
+          )
+        ]),
+      ),
+    );
+  }
+
+  Widget ingredientEvidence() => Container(
+      width: double.infinity,
+      margin: const EdgeInsets.only(top: 18, bottom: 14),
+      padding: const EdgeInsets.all(15),
+      decoration: BoxDecoration(
+          color: const Color(0xFFF0EBDD),
+          borderRadius: BorderRadius.circular(14)),
+      child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+        Text(copy('OKUNAN İÇERİK METNİ', 'READ INGREDIENT TEXT'),
+            style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                color: NaviloColors.muted,
+                letterSpacing: .9,
+                fontWeight: FontWeight.w700)),
+        const SizedBox(height: 8),
+        SelectableText.rich(TextSpan(
+            style: Theme.of(context)
+                .textTheme
+                .bodyMedium
+                ?.copyWith(color: NaviloColors.ink),
+            children: highlightedIngredientSpans())),
+        if (matches!.isNotEmpty) ...[
+          const SizedBox(height: 8),
+          Text(
+              copy('Sarı vurgular eşleşen kelimelerdir.',
+                  'Yellow highlights show the matched words.'),
+              style: Theme.of(context).textTheme.bodySmall)
+        ]
+      ]));
+
   Widget resultScreen(Policy data) => pageList([
-        progressHeader(3),
-        Text(productName ?? copy('İçerik özeti', 'Ingredient summary'),
-            style: Theme.of(context).textTheme.headlineMedium),
-        const SizedBox(height: 10),
-        Text(copy('Kontrol ettiğin metne göre değerlendirme.',
-            'Assessment of the text you reviewed.')),
-        const SizedBox(height: 24),
+        resultDecisionHeader(),
+        const SizedBox(height: 18),
         resultRow(
             copy('Kaçınılan içerikler', 'Avoided ingredients'),
             matches!.isEmpty
@@ -1760,7 +2090,9 @@ class _HomePageState extends State<HomePage> {
                     'Listed ingredients detected'),
             matches!.map((r) => english ? r.englishName : r.name).toList(),
             warning: matches!.isNotEmpty),
+        if (matches!.isNotEmpty) ingredientEvidence(),
         if (category == 'food') dietaryPanel(),
+        if (category == 'cosmetic') skinFitCard(label.text, reviewed: complete),
         const SizedBox(height: 12),
         sourceSummaryCard(),
         const SizedBox(height: 12),
@@ -1818,12 +2150,31 @@ class _HomePageState extends State<HomePage> {
       ]);
 
   Widget productThumbnail(LocalProduct product, {double size = 92}) {
+    const swatches = [
+      Color(0xFFE8D7B5),
+      Color(0xFFD7E1D3),
+      Color(0xFFE6CFC4),
+      Color(0xFFD6DBE5),
+      Color(0xFFE6DEBE),
+    ];
+    final hash =
+        product.name.runes.fold<int>(17, (value, rune) => value * 31 + rune);
+    final initials = product.name
+        .trim()
+        .split(RegExp(r'\s+'))
+        .where((word) => word.isNotEmpty)
+        .take(2)
+        .map((word) => word.characters.first.toUpperCase())
+        .join();
     final fallback = Container(
-        color: const Color(0xFFE4EFE8),
+        color: swatches[hash.abs() % swatches.length],
         alignment: Alignment.center,
-        child: Icon(product.category == 'food'
-            ? Icons.restaurant_outlined
-            : Icons.spa_outlined));
+        child: Text(initials.isEmpty ? 'N' : initials,
+            style: TextStyle(
+                fontFamily: 'serif',
+                fontSize: size * .31,
+                fontWeight: FontWeight.w700,
+                color: NaviloColors.forestDeep)));
     return ClipRRect(
         borderRadius: BorderRadius.circular(12),
         child: SizedBox(
@@ -1866,7 +2217,7 @@ class _HomePageState extends State<HomePage> {
     }
   }
 
-  Widget libraryScreen() {
+  Widget libraryScreen(Policy data) {
     final query = normalize(libraryQuery);
     final records = libraryProducts
         .where((product) =>
@@ -1908,28 +2259,72 @@ class _HomePageState extends State<HomePage> {
                 'No records in this section. Use Save to library on a result screen.')
             : copy('Aramana uygun ürün bulunamadı.',
                 'No products match your search.')),
-      ...records.map((product) => Card(
-          clipBehavior: Clip.antiAlias,
-          child: InkWell(
-              onTap: () => openLibraryProduct(product),
-              child: Padding(
-                  padding: const EdgeInsets.all(16),
-                  child: Row(children: [
-                    productThumbnail(product),
-                    const SizedBox(width: 18),
-                    Expanded(
-                        child: Text(
-                            product.name.isEmpty
-                                ? copy('Kaydedilen ürün', 'Saved product')
-                                : product.name,
-                            style: Theme.of(context).textTheme.titleMedium)),
-                    const SizedBox(width: 8),
-                    IconButton(
-                        tooltip:
-                            copy('Kütüphaneden sil', 'Delete from library'),
-                        icon: const Icon(Icons.delete_outline),
-                        onPressed: () => deleteLibraryProduct(product)),
-                  ]))))),
+      ...records.map((product) {
+        final hasMatch =
+            data.evaluate(product.ingredients, product.category).isNotEmpty;
+        final key = ValueKey('library-${product.category}-${product.id}');
+        return Dismissible(
+            key: key,
+            direction: DismissDirection.endToStart,
+            background: Container(
+                margin: const EdgeInsets.symmetric(vertical: 6),
+                padding: const EdgeInsets.only(right: 20),
+                decoration: BoxDecoration(
+                    color: NaviloColors.warning,
+                    borderRadius: BorderRadius.circular(16)),
+                alignment: Alignment.centerRight,
+                child: const Icon(Icons.delete_outline, color: Colors.white)),
+            onDismissed: (_) => deferLibraryDelete(product),
+            child: Card(
+                clipBehavior: Clip.antiAlias,
+                child: InkWell(
+                    onTap: () => openLibraryProduct(product),
+                    child: Padding(
+                        padding: const EdgeInsets.all(12),
+                        child: Row(children: [
+                          productThumbnail(product, size: 76),
+                          const SizedBox(width: 14),
+                          Expanded(
+                              child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                Text(
+                                    product.name.isEmpty
+                                        ? copy(
+                                            'Kaydedilen ürün', 'Saved product')
+                                        : product.name,
+                                    maxLines: 2,
+                                    overflow: TextOverflow.ellipsis,
+                                    style: Theme.of(context)
+                                        .textTheme
+                                        .titleMedium),
+                                const SizedBox(height: 7),
+                                Row(children: [
+                                  Container(
+                                      width: 8,
+                                      height: 8,
+                                      decoration: BoxDecoration(
+                                          color: hasMatch
+                                              ? NaviloColors.warning
+                                              : NaviloColors.uncertain,
+                                          shape: BoxShape.circle)),
+                                  const SizedBox(width: 6),
+                                  Expanded(
+                                      child: Text(
+                                          hasMatch
+                                              ? copy(
+                                                  'Eşleşme var', 'List match')
+                                              : copy('Listede eşleşme yok',
+                                                  'No list match'),
+                                          style: Theme.of(context)
+                                              .textTheme
+                                              .bodySmall)),
+                                ]),
+                              ])),
+                          const Icon(Icons.chevron_right_rounded,
+                              color: NaviloColors.muted),
+                        ])))));
+      }),
       const SizedBox(height: 16),
       Text(copy(
           'Kayıtlar bu telefonda saklanır. Paylaşmak için ürünü aç, içeriğini kontrol et ve kaydederken ortak kataloğa gönder seçeneğini işaretle.',
@@ -1939,6 +2334,54 @@ class _HomePageState extends State<HomePage> {
         title: copy('Ürün kütüphanem', 'My product library'),
         subtitle: copy('Kaydettiğin ürünlerin adı ve içeriği burada.',
             'Find the names and ingredients of your saved products.'));
+  }
+
+  void deferLibraryDelete(LocalProduct product) {
+    var undone = false;
+    setState(() {
+      libraryProducts.removeWhere((item) => item.id == product.id);
+      recentProducts.removeWhere((item) => item.id == product.id);
+    });
+    final messenger = ScaffoldMessenger.of(context);
+    final controller = messenger.showSnackBar(SnackBar(
+        content: Text(copy('Ürün silinmek üzere.', 'Product will be deleted.')),
+        duration: const Duration(seconds: 5),
+        action: SnackBarAction(
+            label: copy('Geri al', 'Undo'),
+            onPressed: () {
+              undone = true;
+              if (mounted) {
+                setState(() {
+                  if (!libraryProducts.any((item) => item.id == product.id)) {
+                    libraryProducts.add(product);
+                    libraryProducts
+                        .sort((a, b) => b.reviewedAt.compareTo(a.reviewedAt));
+                  }
+                  recentProducts = libraryProducts.take(5).toList();
+                });
+              }
+            })));
+    controller.closed.then((reason) async {
+      if (undone || reason == SnackBarClosedReason.action) return;
+      try {
+        await (await localStore).remove(product.id, product.category);
+        if (mounted) await refreshRecent();
+      } catch (_) {
+        if (mounted) {
+          setState(() {
+            if (!libraryProducts.any((item) => item.id == product.id)) {
+              libraryProducts.add(product);
+              libraryProducts
+                  .sort((a, b) => b.reviewedAt.compareTo(a.reviewedAt));
+            }
+            recentProducts = libraryProducts.take(5).toList();
+          });
+          ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+              content:
+                  Text(copy('Ürün silinemedi.', 'Could not delete product.'))));
+        }
+      }
+    });
   }
 
   Future<void> deleteLibraryProduct(LocalProduct product) async {
@@ -2106,6 +2549,8 @@ class _HomePageState extends State<HomePage> {
                           style: Theme.of(context).textTheme.titleLarge),
                       const SizedBox(height: 12),
                       SelectableText(product.ingredients),
+                      if (product.category == 'cosmetic')
+                        skinFitCard(product.ingredients, reviewed: true),
                       const SizedBox(height: 24),
                       FilledButton.icon(
                           onPressed: () {
@@ -2130,90 +2575,423 @@ class _HomePageState extends State<HomePage> {
                     ])));
   }
 
+  Future<void> showSkinTypeQuiz() async {
+    final result = await Navigator.push<SkinTestResult>(
+        context,
+        MaterialPageRoute(
+            builder: (_) => SkinTestScreen(
+                english: english, persist: widget.persistSettings)));
+    if (result == null || !mounted) return;
+    setState(() {
+      skinResult = result;
+      skin = result.type.label;
+    });
+    await persistSettings();
+  }
+
+  Widget skinFitCard(String ingredients, {required bool reviewed}) {
+    final profile = skinResult;
+    if (profile == null) {
+      return ListTile(
+        contentPadding: EdgeInsets.zero,
+        leading: const Icon(Icons.face_outlined),
+        title: Text(copy('Cildine uygun mu?', 'Does it suit your skin?')),
+        subtitle: Text(copy('9 soruluk testi tamamlayarak kişiselleştir.',
+            'Personalize with the 9-question skin test.')),
+        trailing: const Icon(Icons.chevron_right),
+        onTap: showSkinTypeQuiz,
+      );
+    }
+    final fit = SkinFitEvaluator.evaluate(
+        ingredientsText: ingredients,
+        skin: profile,
+        complete: reviewed,
+        english: english);
+    final title = switch (fit.level) {
+      FitLevel.good => copy('Uygun görünüyor', 'Looks suitable'),
+      FitLevel.caution => copy('Dikkat gerektiriyor', 'Take care'),
+      FitLevel.unknown => copy('Uygunluk belirsiz', 'Suitability unknown'),
+    };
+    return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      const Divider(),
+      ListTile(
+        contentPadding: EdgeInsets.zero,
+        leading: Icon(
+            fit.level == FitLevel.caution
+                ? Icons.warning_amber_rounded
+                : fit.level == FitLevel.unknown
+                    ? Icons.help_outline
+                    : Icons.spa_outlined,
+            color: fit.level == FitLevel.caution
+                ? Colors.orange.shade800
+                : NaviloColors.forest),
+        title: Text(title),
+        subtitle: Text(
+            '${copy('Cilt eğilimin', 'Skin tendency')}: ${english ? profile.type.name : profile.type.label}${profile.isSensitive ? copy(' · Hassasiyet', ' · Sensitivity') : ''}'),
+      ),
+      ...fit.cautions.map((text) => Padding(
+          padding: const EdgeInsets.only(bottom: 8), child: Text('• $text'))),
+      ...fit.positives.map((text) => Padding(
+          padding: const EdgeInsets.only(bottom: 8), child: Text('• $text'))),
+      if (fit.level == FitLevel.unknown)
+        Text(copy(
+            'Yeterli içerik eşleşmesi veya kontrol edilmiş tam liste yok.',
+            'There are insufficient ingredient matches or no reviewed complete list.')),
+      ExpansionTile(
+          tilePadding: EdgeInsets.zero,
+          title:
+              Text(copy('Bu sonuç ne anlama geliyor?', 'What does this mean?')),
+          children: [
+            Text(copy(
+                'Bu bir içerik eşleştirmesidir; ürünün tamamının güvenli veya etkili olduğunu doğrulamaz. Oranlar, formül, kullanım şekli ve kişisel tepki bilinmiyor. Test teşhis değildir. Kaynak: American Academy of Dermatology; kurallar v1, 12.10.2026.',
+                'This is ingredient matching, not proof that the whole product is safe or effective. Concentrations, formulation, use and individual response are unknown. The test is not diagnostic. Source: American Academy of Dermatology; rules v1, 2026-10-12.'))
+          ]),
+    ]);
+  }
+
+  Widget skinTypeCard() {
+    const options = [
+      ('Kuru', Icons.water_drop_outlined),
+      ('Yağlı', Icons.wb_sunny_outlined),
+      ('Karma', Icons.blur_on_rounded),
+      ('Normal', Icons.spa_outlined),
+    ];
+    return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      Text(copy('Cilt tipin', 'Your skin type'),
+          style: Theme.of(context).textTheme.titleLarge),
+      const SizedBox(height: 10),
+      InkWell(
+          onTap: showSkinTypeQuiz,
+          borderRadius: BorderRadius.circular(16),
+          child: Container(
+              padding: const EdgeInsets.all(14),
+              decoration: BoxDecoration(
+                  color: NaviloColors.paper,
+                  borderRadius: BorderRadius.circular(16),
+                  border: Border.all(color: NaviloColors.line)),
+              child: Column(children: [
+                Row(children: [
+                  const Icon(Icons.face_retouching_natural_outlined,
+                      color: NaviloColors.forest),
+                  const SizedBox(width: 10),
+                  Expanded(
+                      child: Text(
+                          skin == 'Henüz seçilmedi'
+                              ? copy('Cilt tipini keşfet',
+                                  'Explore your skin type')
+                              : '${copy('Cilt eğilimin', 'Skin tendency')}: ${tr(skin)}',
+                          style: Theme.of(context).textTheme.titleMedium)),
+                  const Icon(Icons.arrow_forward_rounded,
+                      color: NaviloColors.muted),
+                ]),
+                const SizedBox(height: 12),
+                Wrap(
+                    alignment: WrapAlignment.spaceBetween,
+                    spacing: 12,
+                    runSpacing: 8,
+                    children: options.map((option) {
+                      final selected = skin == option.$1;
+                      return Column(children: [
+                        CircleAvatar(
+                            radius: 20,
+                            backgroundColor: selected
+                                ? const Color(0xFFE8D7B5)
+                                : const Color(0xFFF0ECE2),
+                            child: Icon(option.$2,
+                                size: 19, color: NaviloColors.forest)),
+                        const SizedBox(height: 4),
+                        Text(tr(option.$1),
+                            style: Theme.of(context).textTheme.labelSmall),
+                      ]);
+                    }).toList()),
+              ]))),
+      if (skinResult != null) ...[
+        Text(
+            '${copy('Son test', 'Last test')}: ${dateLabel(skinResult!.date)}${skinResult!.isSensitive ? copy(' · Hassasiyet notu var', ' · Sensitivity noted') : ''}'),
+        TextButton(
+            onPressed: () async {
+              try {
+                if (widget.persistSettings) await SkinTestStorage.clear();
+                if (!mounted) return;
+                setState(() {
+                  skinResult = null;
+                  skin = 'Henüz seçilmedi';
+                });
+                await persistSettings();
+              } catch (_) {
+                if (mounted) {
+                  ScaffoldMessenger.of(context).showSnackBar(SnackBar(
+                      content: Text(copy('Cilt profili silinemedi.',
+                          'Could not remove skin profile.'))));
+                }
+              }
+            },
+            child: Text(copy('Cilt sonucunu sil', 'Delete skin result'))),
+      ],
+      const SizedBox(height: 6),
+      Text(
+          copy('9 soruluk öz değerlendirmedir; tıbbi analiz değildir.',
+              'A brief self-assessment, not a medical analysis.'),
+          style: Theme.of(context).textTheme.bodySmall),
+    ]);
+  }
+
+  Widget preferenceChips(String title, List<String> values,
+          {bool singleChoice = false}) =>
+      Padding(
+          padding: const EdgeInsets.only(top: 18),
+          child:
+              Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text(title.toUpperCase(),
+                style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                    color: NaviloColors.muted,
+                    letterSpacing: 1,
+                    fontWeight: FontWeight.w700)),
+            const SizedBox(height: 8),
+            Wrap(
+                spacing: 8,
+                runSpacing: 8,
+                children: values
+                    .map((value) => FilterChip(
+                        showCheckmark: false,
+                        label: Text(tr(value)),
+                        selected: preferences.contains(value),
+                        onSelected: (selected) {
+                          setState(() {
+                            if (singleChoice) preferences.removeAll(values);
+                            if (selected) {
+                              preferences.add(value);
+                            } else {
+                              preferences.remove(value);
+                            }
+                          });
+                          persistSettings();
+                        }))
+                    .toList()),
+          ]));
+
   Widget profileScreen() => pageList([
-        notice(copy(
-            'Tercihlerin bu telefona kaydedilir. Henüz ürün sonuçlarını veya önerileri değiştirmez.',
-            'Preferences are saved on this phone. They do not yet change product results or recommendations.')),
-        const SizedBox(height: 12),
-        DropdownButtonFormField<String>(
-            initialValue: skin,
-            isExpanded: true,
-            decoration: InputDecoration(
-                labelText: copy(
-                    'Beyan ettiğin cilt tipi', 'Your self-reported skin type')),
-            items: ['Henüz seçilmedi', 'Kuru', 'Yağlı', 'Karma', 'Normal']
-                .map((value) => DropdownMenuItem(
-                    value: value,
-                    child: Text(tr(value),
-                        maxLines: 1, overflow: TextOverflow.ellipsis)))
-                .toList(),
-            onChanged: (value) {
-              setState(() => skin = value!);
+        Text(copy('Uygulama dili', 'App language'),
+            style: Theme.of(context).textTheme.titleMedium),
+        const SizedBox(height: 8),
+        SegmentedButton<bool>(
+            showSelectedIcon: false,
+            segments: const [
+              ButtonSegment(value: false, label: Text('Türkçe')),
+              ButtonSegment(value: true, label: Text('English')),
+            ],
+            selected: {english},
+            onSelectionChanged: (value) {
+              setState(() => english = value.first);
               persistSettings();
             }),
-        const SizedBox(height: 28),
+        const SizedBox(height: 20),
+        skinTypeCard(),
+        const SizedBox(height: 24),
         Text(copy('Beslenme tercihlerin', 'Dietary preferences'),
             style: Theme.of(context).textTheme.titleLarge),
-        const SizedBox(height: 12),
-        Wrap(
-            spacing: 8,
-            runSpacing: 10,
-            children: [
-              'Vegan',
-              'Glutensiz',
-              'Laktozsuz',
-              'Şekersiz',
-              'İlave şekersiz',
-              'Rafine şekersiz',
-              'Az yağlı',
-              'Ketojenik',
-              'Düşük FODMAP'
-            ]
-                .map((value) => FilterChip(
-                    label: Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 10),
-                        child: Text(tr(value))),
-                    selected: preferences.contains(value),
-                    onSelected: (selected) {
-                      setState(() {
-                        selected
-                            ? preferences.add(value)
-                            : preferences.remove(value);
-                      });
-                      persistSettings();
-                    }))
-                .toList()),
-        const SizedBox(height: 28),
-        notice(copy(
-            'Cilt analizi, sağlık durumuna göre öneriler ve tarifler henüz kullanıma açık değil.',
-            'Skin analysis, health-based recommendations and recipes are not available yet.')),
+        preferenceChips(
+            copy('Diyet', 'Diet'), ['Vegan', 'Ketojenik', 'Az yağlı']),
+        preferenceChips(copy('Hassasiyetler', 'Sensitivities'),
+            ['Glutensiz', 'Laktozsuz', 'Düşük FODMAP']),
+        preferenceChips(copy('Şeker tercihi', 'Sugar preference'),
+            ['Şekersiz', 'İlave şekersiz', 'Rafine şekersiz'],
+            singleChoice: true),
+        const SizedBox(height: 20),
+        Text(
+            copy(
+                'Tercihler bu sürümde ürün sonuçlarını veya önerileri değiştirmez. Sağlık tavsiyesi değildir.',
+                'Preferences do not yet change product results or recommendations. This is not medical advice.'),
+            style: Theme.of(context).textTheme.bodySmall),
         if (storageError != null) notice(storageError!, warning: true),
       ],
           title: copy('Tercihlerim', 'My preferences'),
-          subtitle: copy('Sana uygun seçenekler için bir başlangıç.',
-              'A starting point for your choices.'));
+          subtitle: copy('Ürünleri kendi seçimlerine göre keşfet.',
+              'Explore products with your own preferences.'));
 
-  Widget criteriaScreen(Policy data) => pageList([
-        notice(copy(
-            'Taslak içerik listesi. Kapsam tam değildir ve uzman incelemesi bekler.',
-            'Draft ingredient dictionary. Coverage is incomplete and pending expert review.')),
-        dietaryPanel(reference: true),
-        const SizedBox(height: 18),
-        ...data.rules.map((rule) => Card(
-                child: ExpansionTile(
-                    title: Text(english ? rule.englishName : rule.name),
-                    subtitle: Text(rule.category == 'food'
-                        ? copy('Gıda', 'Food')
-                        : copy('Bakım ve kozmetik', 'Beauty & care')),
-                    children: [
-                  Padding(
-                      padding: const EdgeInsets.all(18),
-                      child: SelectableText(rule.aliases.join(', ')))
-                ]))),
+  String criterionGroup(IngredientRule rule) {
+    final id = rule.id.toLowerCase();
+    if (id.contains('maltitol') || id.contains('sweetener')) {
+      return 'sweeteners';
+    }
+    if (['oil', 'fat', 'palm', 'margarine', 'hydrogenated', 'trans']
+        .any(id.contains)) {
+      return 'oils';
+    }
+    return 'additives';
+  }
+
+  Widget criteriaScreen(Policy data) {
+    final rules = data.rules.where((rule) {
+      if (criteriaCategory != 'all' && rule.category != criteriaCategory) {
+        return false;
+      }
+      final query = normalize(criteriaQuery);
+      return query.isEmpty ||
+          normalize(
+                  '${rule.name} ${rule.englishName} ${rule.aliases.join(' ')}')
+              .contains(query);
+    }).toList();
+    final groups = [
+      ('sweeteners', copy('Tatlandırıcılar', 'Sweeteners')),
+      ('oils', copy('Yağlar', 'Oils and fats')),
+      ('additives', copy('Katkılar ve diğerleri', 'Additives and others')),
+    ];
+    final visibleGroups = groups
+        .map((group) => (
+              group.$2,
+              rules.where((rule) => criterionGroup(rule) == group.$1).toList()
+            ))
+        .where((group) => group.$2.isNotEmpty)
+        .toList();
+    return pageList([
+      Row(children: [
+        const Icon(Icons.info_outline_rounded,
+            size: 16, color: NaviloColors.muted),
+        const SizedBox(width: 6),
+        Expanded(
+            child: Text(
+                copy('Taslak liste · uzman incelemesi bekliyor',
+                    'Draft list · pending expert review'),
+                style: Theme.of(context).textTheme.bodySmall)),
+      ]),
+      const SizedBox(height: 14),
+      TextField(
+          onChanged: (value) => setState(() => criteriaQuery = value),
+          decoration: InputDecoration(
+              prefixIcon: const Icon(Icons.search_rounded),
+              labelText:
+                  copy('Madde veya eş anlam ara', 'Search ingredients'))),
+      const SizedBox(height: 12),
+      SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          child: Row(children: [
+            for (final filter in [
+              ('all', copy('Tümü', 'All')),
+              ('food', copy('Gıda', 'Food')),
+              ('cosmetic', copy('Kozmetik', 'Cosmetics')),
+            ])
+              Padding(
+                  padding: const EdgeInsets.only(right: 8),
+                  child: ChoiceChip(
+                      label: Text(filter.$2),
+                      selected: criteriaCategory == filter.$1,
+                      onSelected: (_) =>
+                          setState(() => criteriaCategory = filter.$1))),
+          ])),
+      const SizedBox(height: 12),
+      Text(copy('${rules.length} madde', '${rules.length} ingredients'),
+          style: Theme.of(context).textTheme.bodySmall),
+      for (final group in visibleGroups) ...[
+        const SizedBox(height: 16),
+        Text(group.$1.toUpperCase(),
+            style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                color: NaviloColors.muted,
+                letterSpacing: 1.0,
+                fontWeight: FontWeight.w700)),
+        for (final rule in group.$2)
+          ExpansionTile(
+              tilePadding: EdgeInsets.zero,
+              title: Text(english ? rule.englishName : rule.name),
+              subtitle: Text(rule.category == 'food'
+                  ? copy('Gıda', 'Food')
+                  : copy('Bakım ve kozmetik', 'Beauty & care')),
+              children: [
+                Padding(
+                    padding: const EdgeInsets.only(bottom: 16, right: 12),
+                    child: SelectableText(rule.aliases.join(', ')))
+              ]),
       ],
-          title: copy('Neye bakıyoruz?', 'What do we check?'),
-          subtitle: copy('Kaçınılan içerikler ve kullanılan kaynaklar.',
-              'Avoided ingredients and reference sources.'));
+      ExpansionTile(
+          tilePadding: EdgeInsets.zero,
+          title: Text(copy('Beslenme kaynakları', 'Dietary references')),
+          children: [dietaryPanel(reference: true)]),
+    ],
+        title: copy('Neye bakıyoruz?', 'What do we check?'),
+        subtitle: copy('Kaçınılan içerikler ve kullanılan kaynaklar.',
+            'Avoided ingredients and reference sources.'));
+  }
+
+  Widget navigationItem({
+    required IconData icon,
+    required String label,
+    required bool selected,
+    required VoidCallback onTap,
+  }) =>
+      Expanded(
+          child: InkWell(
+              onTap: onTap,
+              borderRadius: BorderRadius.circular(14),
+              child: Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 4),
+                  child: Column(mainAxisSize: MainAxisSize.min, children: [
+                    Icon(icon,
+                        size: 22,
+                        color: selected
+                            ? NaviloColors.forest
+                            : NaviloColors.muted),
+                    const SizedBox(height: 3),
+                    Text(label,
+                        maxLines: 1,
+                        overflow: TextOverflow.ellipsis,
+                        style: TextStyle(
+                            fontSize: 10,
+                            fontWeight:
+                                selected ? FontWeight.w700 : FontWeight.w500,
+                            color: selected
+                                ? NaviloColors.forest
+                                : NaviloColors.muted)),
+                  ]))));
+
+  Widget scanNavigationItem() => Expanded(
+      child: Semantics(
+          button: true,
+          label: copy('Tara', 'Scan'),
+          child: InkWell(
+              borderRadius: BorderRadius.circular(14),
+              onTap: () => setState(() {
+                    page = 0;
+                    stage = ScanStage.start;
+                  }),
+              child: Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 4),
+                  child: Column(mainAxisSize: MainAxisSize.min, children: [
+                    Container(
+                        width: 43,
+                        height: 38,
+                        decoration: BoxDecoration(
+                            color: NaviloColors.forest,
+                            borderRadius: BorderRadius.circular(12)),
+                        child: const Icon(Icons.center_focus_strong_rounded,
+                            color: Colors.white, size: 21)),
+                  ])))));
+
+  Widget naviloBottomBar() => SafeArea(
+      top: false,
+      child: Container(
+          height: MediaQuery.textScalerOf(context).scale(1) > 1.3 ? 112 : 68,
+          decoration: const BoxDecoration(
+              color: NaviloColors.paper,
+              border: Border(top: BorderSide(color: NaviloColors.line))),
+          padding: const EdgeInsets.symmetric(horizontal: 8),
+          child: Row(children: [
+            navigationItem(
+                icon: Icons.tune_rounded,
+                label: copy('Tercihlerim', 'Preferences'),
+                selected: page == 1,
+                onTap: () => setState(() => page = 1)),
+            scanNavigationItem(),
+            navigationItem(
+                icon: Icons.fact_check_outlined,
+                label: copy('Kriterler', 'Criteria'),
+                selected: page == 2,
+                onTap: () => setState(() => page = 2)),
+            navigationItem(
+                icon: Icons.bookmarks_outlined,
+                label: copy('Kütüphane', 'Library'),
+                selected: page == 3,
+                onTap: () => setState(() => page = 3)),
+          ])));
 
   @override
   Widget build(BuildContext context) => PopScope(
@@ -2231,43 +3009,10 @@ class _HomePageState extends State<HomePage> {
                     onPressed: reading ? null : backStep)
                 : null,
             title: const NaviloWordmark(),
-            actions: [
-              if (!onboarding && (page != 0 || stage != ScanStage.start))
-                IconButton(
-                    tooltip: copy('Ana sayfaya dön', 'Go home'),
-                    onPressed: reading ? null : goHome,
-                    icon: const Icon(Icons.home_outlined)),
-              TextButton(
-                  onPressed: reading
-                      ? null
-                      : () {
-                          setState(() => english = !english);
-                          if (!loadingSettings) persistSettings();
-                        },
-                  child: Text(english ? 'Türkçe' : 'English')),
-              const SizedBox(width: 8)
-            ],
+            actions: const [],
           ),
-          bottomNavigationBar: onboarding || stage != ScanStage.start
-              ? null
-              : NavigationBar(
-                  selectedIndex: page,
-                  onDestinationSelected:
-                      reading ? null : (value) => setState(() => page = value),
-                  destinations: [
-                      NavigationDestination(
-                          icon: const Icon(Icons.qr_code_scanner),
-                          label: copy('Ürün incele', 'Check product')),
-                      NavigationDestination(
-                          icon: const Icon(Icons.tune),
-                          label: copy('Tercihlerim', 'Preferences')),
-                      NavigationDestination(
-                          icon: const Icon(Icons.fact_check_outlined),
-                          label: copy('Kriterler', 'Criteria')),
-                      NavigationDestination(
-                          icon: const Icon(Icons.bookmarks_outlined),
-                          label: copy('Kütüphane', 'Library')),
-                    ]),
+          bottomNavigationBar:
+              onboarding || stage != ScanStage.start ? null : naviloBottomBar(),
           body: SafeArea(
               child: loadingSettings
                   ? Center(
@@ -2279,22 +3024,24 @@ class _HomePageState extends State<HomePage> {
                   : reading
                       ? Center(
                           child: Padding(
-                              padding: const EdgeInsets.all(28),
-                              child: Column(
-                                  mainAxisSize: MainAxisSize.min,
-                                  children: [
-                                    const CircularProgressIndicator(),
-                                    const SizedBox(height: 24),
-                                    Text(
-                                        copy('Ürün bilgisi hazırlanıyor',
-                                            'Preparing product information'),
-                                        style: Theme.of(context)
-                                            .textTheme
-                                            .titleLarge),
-                                    const SizedBox(height: 12),
-                                    Text(copy('Lütfen biraz bekle.',
-                                        'Please wait a moment.'))
-                                  ])))
+                              padding: const EdgeInsets.all(24),
+                              child: barcodeSearching
+                                  ? lookupProgress()
+                                  : Column(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                          const CircularProgressIndicator(),
+                                          const SizedBox(height: 24),
+                                          Text(
+                                              copy('Ürün bilgisi hazırlanıyor',
+                                                  'Preparing product information'),
+                                              style: Theme.of(context)
+                                                  .textTheme
+                                                  .titleLarge),
+                                          const SizedBox(height: 12),
+                                          Text(copy('Lütfen biraz bekle.',
+                                              'Please wait a moment.'))
+                                        ])))
                       : onboarding
                           ? welcomeScreen()
                           : FutureBuilder<Policy>(
@@ -2315,7 +3062,7 @@ class _HomePageState extends State<HomePage> {
                                 final data = snapshot.requireData;
                                 if (page == 1) return profileScreen();
                                 if (page == 2) return criteriaScreen(data);
-                                if (page == 3) return libraryScreen();
+                                if (page == 3) return libraryScreen(data);
                                 return switch (stage) {
                                   ScanStage.start => homeScreen(),
                                   ScanStage.review => reviewScreen(data),
