@@ -1,0 +1,12 @@
+{
+  "flutter_tests_passed": 59,
+  "python_tests_passed": 7,
+  "flutter_analyze": "no_issues",
+  "apk_path": "C:\\Users\\melisa uyar\\Desktop\\Navilo\\build\\app\\outputs\\flutter-apk\\app-debug.apk",
+  "apk_size_bytes": 216499605,
+  "apk_sha256": "65a545400901c55c110c8bf5e15d2d89c6394deb4823f0cac49a6cd8a1aa8cff",
+  "packaged_catalogs": {
+    "curated_products.json": 100,
+    "curated_cosmetics.json": 341
+  }
+}

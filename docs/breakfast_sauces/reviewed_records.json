@@ -1,0 +1,74 @@
+[
+  {
+    "code": "8699118055419",
+    "name": "Çokça Acılı Kahvaltılık Sos 300 g",
+    "ingredients": "Biber salçası, domates salçası, su, çemen unu, sarımsak, sıvı yağ, ceviz içi, baharatlar, koruyucular.",
+    "source_name": "A101 ürün etiketi · barkod: Open Food Facts",
+    "source_url": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokca-acili-kahvaltilik-sos-300-g_p-16001716",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8699118055419",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690635260393",
+    "name": "Tat Kahvaltılık Sos 300 g",
+    "ingredients": "Biber salçası, domates salçası, közlenmiş kapya biber, su, yer fıstığı(%5), ceviz(%1), ayçiçek yağı, şeker, tuz, baharat karışımı, sarımsak, modifiye mısır nişastası, antioksidan(askorbik asit), aroma vericiler.",
+    "source_name": "CarrefourSA ürün etiketi · barkod: Hapeloğlu",
+    "source_url": "https://www.carrefoursa.com/tat-kahvaltilik-sos-300-g-p-30383914",
+    "barcode_source_url": "https://www.hapeloglu.com/tat-kahvalt%C4%B1l%C4%B1k-sos-300-gr-19659",
+    "corroborating_ingredient_source_url": "https://toptan.migros.com.tr/tat-kahvaltilik-sos-300-g-p-09062250",
+    "allergens": [
+      "en:peanuts",
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690508004246",
+    "name": "Tukaş Kahvaltılık Sos 300 g",
+    "ingredients": "Biber salçası, Domates salçası, su, ayçiçek yağı, tuz, sarımsak, ceviz, çeşitli baharat, şeker, asitlik düzenleyici, antioksidan, koruyucu madde(potasyum sorbat, sodyum benzoat), acı biber ekstratı.",
+    "source_name": "Migros ürün etiketi · barkod: Market Karşılaştır",
+    "source_url": "https://www.migros.com.tr/tukas-kahvaltilik-sos-300-g-p-8a4704",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690508004246-tukas-kahvaltilik-sos-300-g",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690103131347",
+    "name": "Marmarabirlik Sade Zeytin Ezmesi 340 g",
+    "ingredients": "Sofralık doğal siyah zeytin püresi, emülgatör (ayçiçeği lesitini), asitlik düzenleyici (laktik asit), koruyucu (potasyum sorbat).",
+    "source_name": "Open Food Facts · Marmarabirlik (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8690103131347",
+    "allergens": [],
+    "traces": [
+      "en:nuts"
+    ],
+    "labels": [],
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "evidence_status": "community_transcription_pending_package_check",
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00"
+  }
+]

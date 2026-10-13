@@ -1,0 +1,844 @@
+[
+  {
+    "code": "8690526191119",
+    "name": "Eti Lifalif Kırmızı Meyveli Yulaf Bar 35 g",
+    "ingredients": "Yulaf Ezmesi %44, Tam Buğday Gevreği, Zeytinyağı, Hurma Özü, Hindistan Cevizi %8, Elma Suyu Konsantresi, Turna Yemişi %6, Kabak Çekirdeği %3, Tereyağı (Süt Ürünü), Vişne %1, Tuz.",
+    "source_url": "https://www.migros.com.tr/eti-lifalif-kirmizi-meyveli-yulaf-bar-35-g-p-6d4775",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526191119",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526191119"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-lifalif-kirmizi-meyveli-yulaf-bar-35-g-p-6d4775",
+        "https://world.openfoodfacts.org/product/8690526191119"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-lifalif-kirmizi-meyveli-yulaf-bar-35-g-p-6d4775"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526748344",
+    "name": "Eti Lifalif Bitter Çikolatalı Yulaf Bar 35 g",
+    "ingredients": "Yulaf Ezmesi %51, Bitter Çikolata %14,3 [Kakao Kitlesi, Şeker, Kakao, Kakao Yağı, Dekstroz, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %70'tir.], Zeytinyağı, Tam Buğday Gevreği, Hurma Özü, Elma Suyu Konsantresi, Tereyağı (Süt Ürünü), Tuz.",
+    "source_url": "https://www.migros.com.tr/eti-lifalif-bitter-cikolatali-yulaf-bar-35-g-p-6d41ad",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526748344",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526748344"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-lifalif-bitter-cikolatali-yulaf-bar-35-g-p-6d41ad",
+        "https://world.openfoodfacts.org/product/8690526748344"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-lifalif-bitter-cikolatali-yulaf-bar-35-g-p-6d41ad"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526094205",
+    "name": "Eti Form Hurma, İncir ve Çiyalı Tam Buğday Unlu Bisküvi 50 g",
+    "ingredients": "Buğday Unu, Maltodekstrin, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu %5,8, Yulaf Unu, Hurma Ezmesi %4,2, İncir Ezmesi %4,2, Çavdar Unu, Polidekstroz, Çiya Tohumu %2, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Keçiboynuzu Unu, İnvert Şeker Şurubu, Fındık %1,2, Tarçın %0,5, Tuz, Aroma Verici.",
+    "source_url": "https://www.migros.com.tr/eti-form-hurma-incir-ve-ciyali-bugday-unlu-biskuvi-50g-p-6afc91",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526094205",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526094205"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-form-hurma-incir-ve-ciyali-bugday-unlu-biskuvi-50g-p-6afc91",
+        "https://world.openfoodfacts.org/product/8690526094205"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-form-hurma-incir-ve-ciyali-bugday-unlu-biskuvi-50g-p-6afc91"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "hazelnuts"
+    ],
+    "traces": [
+      "milk"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526013527",
+    "name": "Eti Form Tam Çavdarlı Ekşi Mayalı Kepekli Bisküvi 45 g",
+    "ingredients": "Buğday Unu, Kepek %8,7, Tam Buğday Unu, Buğday Kırması, Buğday Gluteni, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Keçiboynuzu Unu, Çavdarlı Ekşi Maya Tozu %3, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tam Çavdar Unu %1,2, Ekşi Hamur %1 (Tam Çavdar Unu %49,9, Ekmek Kültürü), Tuz, Yağsız Süt Tozu, Asitlik Düzenleyiciler (Sitrik Asit, Asetik Asit), Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.migros.com.tr/eti-form-tam-cavdarli-eksi-mayal-kepekli-biskuvi-45g-p-6b129d",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526013527",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526013527"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-form-tam-cavdarli-eksi-mayal-kepekli-biskuvi-45g-p-6b129d",
+        "https://world.openfoodfacts.org/product/8690526013527"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-form-tam-cavdarli-eksi-mayal-kepekli-biskuvi-45g-p-6b129d"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690533094519",
+    "name": "Eti Form Zeytinli Kinoalı ve Kekikli Çok Tahıllı Çıtır Çubuk Kraker 50 g",
+    "ingredients": "Tahıllar %64 (Buğday Unu, Çavdar Unu, Arpa Unu, Yulaf Unu, Buğday Kırması), Peynir Altı Suyu Tozu (Süt Ürünü), Kepek %6,7, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Kabartıcılar (Kalsiyum Karbonat, Amonyum Hidrojen Karbonat), Siyah Zeytin Ezmesi %3,8, Ekşi Maya Tozu %2,2, Kinoa %2, Şeker, Tuz, Ekşi Hamur %1,2 (Buğday Unu, Ekmek Kültürü), Aroma Vericiler, Kekik %0,1, Un İşlem Maddesi (Sodyum Metabisülfit), Antioksidan (Tokoferol), Asitliği Düzenleyici (Sodyum Hidroksit).",
+    "source_url": "https://www.migros.com.tr/eti-form-zeytinli-kinoali-kekikli-cubuk-kraker-50g-p-6b03a9",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690533094519",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690533094519"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-form-zeytinli-kinoali-kekikli-cubuk-kraker-50g-p-6b03a9",
+        "https://world.openfoodfacts.org/product/8690533094519"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-form-zeytinli-kinoali-kekikli-cubuk-kraker-50g-p-6b03a9"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526023830",
+    "name": "Eti Burçak Bitter Çikolatalı Bisküvi 114 g",
+    "ingredients": "Bisküvi %71 [Buğday Unu, Tam Buğday Unu %24, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, İnvert Şeker Şurubu, Yağsız Süt Tozu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Pastörize Yumurta, Malt Ekstrakt (Arpa Ürünü), Kepek, Tuz, Aroma Vericiler, Emülgatör (Mono ve Digliseritlerin Diasetil Tartarik Asit Esterleri), Renklendirici (Karamel)], Bitter Çikolata %29 [Kakao Kitlesi, Şeker, Tereyağı (Süt Ürünü), Kakao Yağı, Yağı Azaltılmış Kakao Tozu, Bitkisel Yağ (Palm), Emülgatör (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin)].",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526093543",
+    "name": "Eti Form Bitter Çikolata Kaplı Lifli Bisküvi 50 g",
+    "ingredients": "Buğday Unu, Tam Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Mısır Nişastası, İnvert Şeker Şurubu, Polidekstroz, İnülin - Oligofruktoz, Şeker, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Kalsiyum Karbonat, Limon Lifi, Doğal Portakal Aroma Vericisi, Emülgatör (Mono ve Digliseritlerin Diasetil Tartarik Asit Esterleri), Bitter Çikolata %22 [Kakao Kitlesi, Şeker, Yağı Azaltılmış Kakao Tozu, Kakao Yağı, Tereyağı (Süt Ürünü), Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %70'tir.].",
+    "source_url": "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts",
+      "soybeans",
+      "eggs",
+      "pistachios"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526029443",
+    "name": "Eti Burçak Hindistan Cevizli Kremalı Yulaflı Bisküvi 100 g",
+    "ingredients": "Yulaf Ezmesi %27, Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu %14, Melas Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), İnvert Şeker Şurubu, Tuz, Aroma Verici, Hindistan Cevizli Krema %23 [Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Tam Yağlı Süt Tozu, Mısır Nişastası, Laktoz (Süt Ürünü), Dekstroz, Hindistan Cevizi Tozu %1, Tuz, Aroma Vericiler, Emülgatör (Ayçiçek Lesitini)].",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526047256",
+    "name": "Eti Canga 45 g",
+    "ingredients": "Yer Fıstığı, Şeker, Tam Yağlı Süt Tozu, İnvert Şeker Şurubu, Kakao Yağı, Maltodekstrin, Bitkisel Yağ (Tam Hidrojenize Palm, Palm), Kakao Kitlesi, Peynir Altı Suyu Tozu (Süt Ürünü), Nem Verici (Sorbitol), Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Yumurta Akı Tozu, İnülin, Buğday Unu (Gluten içerir), Tuz, Tereyağı (Süt Ürünü), Aroma Vericiler, Asitliği Düzenleyici (Sodyum Hidrojen Karbonat). Sütlü çikolatadaki süt kuru maddesi en az %30, kakao kuru maddesi en az %28'dir.",
+    "source_url": "https://www.sariyermarket.com/eti-canga-45-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-canga-45-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-canga-45-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-canga-45-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-canga-45-gr"
+      ]
+    },
+    "allergens": [
+      "peanuts",
+      "milk",
+      "eggs",
+      "gluten"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526962115",
+    "name": "Eti Benimo Kombo Stick 56 g",
+    "ingredients": "Bisküvi %70,5 [Buğday Unu (Gluten), Bitkisel Yağlar (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Peynir Altı Suyu Tozu (Süt Ürünü), Pastörize Yumurta, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), İnvert Şeker Şurubu, Melas Şurubu, Aroma Vericiler, Tuz, Emülgatör (Mono- ve Digliseritlerin Diasetil Tartarik Asit Esterleri)], Kuvertür Çikolata %20,5 [Şeker, Kakao Yağı, Kakao Kitlesi, Peynir Altı Suyu Tozu (Süt Ürünü), Yağsız Süt Tozu, Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinoleat), Aroma Verici (Vanilin), Tuz, Kakao Kuru Maddesi En Az %35], Kavrulmuş Hindistan Cevizi Parçaları %9 [Hindistan Cevizi %75,8, Şeker, İnvert Şeker Şurubu, Aroma Verici, Tuz].",
+    "source_url": "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526051222",
+    "name": "Eti Burçak Yulaflı Bisküvi 125 g",
+    "ingredients": "Yulaf Ezmesi %25, Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu %12, İnvert Şeker Şurubu, Melas Şurubu, Kabartıcılar (Sodyum Hidrojen Karbonat, Amonyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Tuz, Aroma Verici.",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame",
+      "milk",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526385990",
+    "name": "Eti Burçak Tuzlu Peynirli Bisküvi 87 g",
+    "ingredients": "Buğday Unu (Gluten), Bitkisel Yağlar (Palm, Ayçiçek, Pamuk, Kanola), Tam Buğday Unu (Gluten) %13,6, Şeker, Tuz %2,5, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Domates Salçası, Peynir Tozu (Süt Ürünü) %1,2, Peynir Altı Suyu Tozu (Süt Ürünü), Aroma Vericiler (Süt Ürünü içerir), Asitlik Düzenleyici (Laktik Asit).",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans",
+      "sesame",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8683508150563",
+    "name": "Ülker Çikolata İstanbul Fındıklı ve Çıtır Kadayıflı Baton 35 g",
+    "ingredients": "Şeker, Tam Yağlı Süttozu, Fındık (%10,3) (Fındık Püresi, Fındık Parçacıkları), Kakao Yağı, Kakao Kitlesi, Bitkisel Yağlar (Palm, Palm Çekirdeği), Çıtır Kadayıf ve Baklava Parçacıkları (%3,6) (Buğday Unu, Şeker, Sadeyağ (Süt), Tuz, Nişasta, Yumurta, İrmik (Gluten), Emülgatör (Soya Lesitini), Aroma Vericiler, Süt), Peyniraltı Suyu Tozu, Yağsız Süttozu, Maltodekstrin, Emülgatör (Soya Lesitini), Tuz, Aroma Vericiler. Kakao kuru maddesi en az %30'dur.",
+    "source_url": "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g",
+    "barcode_source_url": "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "hazelnuts",
+      "wheat",
+      "soybeans",
+      "eggs",
+      "gluten"
+    ],
+    "traces": [
+      "peanuts",
+      "nuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8683508143800",
+    "name": "Ülker Çikolata Dolu Dolu Fındıklı 80 g",
+    "ingredients": "Fındık (%32), Şeker, Tam Yağlı Süttozu, Kakao Yağı, Kakao Kitlesi, Emülgatör (Soya Lesitini), Tuz, Aroma Verici. Kakao kuru maddesi en az %30'dur.",
+    "source_url": "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans",
+      "hazelnuts"
+    ],
+    "traces": [
+      "eggs",
+      "gluten",
+      "nuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690504009542",
+    "name": "Ülker Çiziviç Peynirli Kremalı Sandviç Kraker 82 g",
+    "ingredients": "Buğday unu, bitkisel yağ (palm), laktoz (süt), peyniraltı suyu proteini (süt), kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), peyniraltı suyu tozu (süt), peynir tozu (%2,9), parmeat tozu (süt), invert şeker şurubu, tam yağlı süttozu, nişasta, tuz, şeker, dekstroz, malt ekstraktı (gluten), aroma vericiler (gluten, soya, süt), hacim arttırıcı (kalsiyum karbonat), asitlik düzenleyici (laktik asit), yağsız süttozu, emülgatör (soya lesitini), un işlem maddesi (sodyum metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr"
+      ]
+    },
+    "allergens": [
+      "wheat",
+      "gluten",
+      "barley",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "eggs",
+      "sesame",
+      "soybeans",
+      "nuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526073477",
+    "name": "Eti Burçak Kurabi Yulaflı Fındıklı Kurabiye 198 g",
+    "ingredients": "Buğday Unu, Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Yulaf Ezmesi %13,7, Tam Buğday Unu %11, Susam %5,4, Kuru İncir %2,7, Yer Fıstığı %2,7, Fındık %1, Ay Çekirdeği %0,8, Portakal Pulpu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Tuz, Aroma Verici, Tarçın.",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "peanuts",
+      "hazelnuts"
+    ],
+    "traces": [
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526035512",
+    "name": "Eti Bidolu Kakao Kremalı Yer Fıstığı Parçacıklı Gofret 81 g",
+    "ingredients": "Kakaolu Krema %85 [Şeker, Hindistan Cevizi Yağı, Glukoz Şurubu, Süt Tozu, Yer Fıstığı %10, Kakao %6,6, Bitkisel Yağ (Tam Hidrojenize Palm), Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatör (Ayçiçek Lesitini), Aroma Verici, Tuz], Gofret Yaprağı %15 [Buğday Unu (Gluten içerir), Nişasta, Kakao %1,3, Hindistan Cevizi Yağı, Emülgatör (Ayçiçek Lesitini), Kabartıcılar (Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat, Amonyum Hidrojen Karbonat), Tuz].",
+    "source_url": "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "peanuts"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans",
+      "sesame"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526067438",
+    "name": "Eti Maximus Loading Bar 50 g",
+    "ingredients": "Şeker, İnvert Şeker Şurubu, Yer Fıstığı, Tam Yağlı Süt Tozu, Bitkisel Yağ (Palm, Tam Hidrojenize Palm), Maltodekstrin, Buğday Patlağı (Gluten içerir), Kakao Yağı, Peynir Altı Suyu Tozu (Süt Ürünü), Kakao Kitlesi, Nem Verici (Sorbitol), İnülin, Yağı Azaltılmış Kakao Tozu, Buğday Unu (Gluten içerir), Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Tuz, Yumurta Akı Tozu, Aroma Vericiler, Asitlik Düzenleyici (Sodyum Hidrojen Karbonat). Sütlü çikolatadaki süt kuru maddesi en az %30, kakao kuru maddesi en az %28'dir.",
+    "source_url": "https://www.sariyermarket.com/eti-maximus-loading-50g",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-maximus-loading-50g",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-maximus-loading-50g"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-maximus-loading-50g"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-maximus-loading-50g"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "peanuts",
+      "eggs"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690533094861",
+    "name": "Eti Crax Patlayan Lezzet Peynirli Soğanlı Çubuk Kraker 50 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Mısır Patlağı, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Aroma Vericiler, Maltodekstrin, Modifiye Patates Nişastası, Peynir Altı Suyu Tozu (Süt Ürünü), Tuz, Yaş Maya, İnvert Şeker Şurubu, Tatlı Toz Kırmızı Biber, Şeker, Domates Salçası, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Peynir Tozu %0,2 (Süt Ürünü), Emülgatör (Yağ Asitlerinin Mono ve Digliseritlerinin Mono ve Diasetil Tartarik Asit Esterleri), Soğan Tozu %0,1, Renklendirici (Paprika Ekstraktı), Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "celery",
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526044873",
+    "name": "Eti Crax Patlayan Lezzet Acı Baharatlı Çubuk 50 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Mısır Patlağı, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Acı Baharat Çeşnisi %7 [Tuz, Şeker, Domates Tozu, Soğan Tozu, Aroma Verici, Dekstroz, Sarımsak Tozu, Kırmızı Acı Toz Biber %1,8, Asitlik Düzenleyici (Sitrik Asit)], Maltodekstrin, Modifiye Patates Nişastası, Peynir Altı Suyu Tozu (Süt Ürünü), Tuz, İnvert Şeker Şurubu, Yaş Maya, Şeker, Domates Salçası, Kırmızı Acı Toz Biber %0,2, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Emülgatör (Yağ Asitlerinin Mono ve Digliseritlerinin Mono ve Diasetil Tartarik Asit Esterleri), Renklendirici (Paprika Ekstraktı), Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "celery",
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526054490",
+    "name": "Eti Crax Patlayan Lezzet Chili Lime Çubuk Kraker 50 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Mısır Patlağı, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Baharat Çeşnisi [Kimyon, Sarımsak Tozu, Acı Biber Ekstraktı %0,2, Öğütülmüş Kişniş Tohumu, Doğal Misket Limon Aroma Vericisi], Tuz, Maltodekstrin, Nişasta, Peynir Altı Suyu Tozu (Süt Ürünü), İnvert Şeker Şurubu, Yaş Maya, Şeker, Domates Salçası, Acı Toz Kırmızı Biber %0,2, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Emülgatör (Yağ Asitlerinin Mono ve Digliseridlerinin Mono ve Diasetil Tartarik Asit Esterleri), Renklendirici (Paprika Ekstraktı), Misket Limon Tozu %0,03, Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "celery",
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526278780",
+    "name": "Eti Pronot Glutensiz Kakaolu Kurabiye 85 g",
+    "ingredients": "Pirinç Unu, Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Kakao %4, Peynir Altı Suyu Tozu (Süt Ürünü), Glukoz-Fruktoz Şurubu, Pastörize Yumurta, Nişasta (Mısır, Patates), Aroma Vericiler, Tuz, Kabartıcı (Amonyum Hidrojen Karbonat).",
+    "source_url": "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526051314",
+    "name": "Eti Bumbo Portakal Aromalı Kakaolu Bisküvi 42 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Peynir Altı Suyu Tozu (Süt Ürünü), Yağı Azaltılmış Kakao Tozu %3,4, Kabartıcı (Amonyum Hidrojen Karbonat), Tuz, Portakal Aroma Vericisi %0,3, Aroma Vericiler.",
+    "source_url": "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526078229",
+    "name": "Eti Petito Çıtır Toplu 16 g",
+    "ingredients": "Bol Sütlü Çikolata %70,9 [Şeker, Süt Tozu, Kakao Yağı, Kakao Kitlesi, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %32, Süt Kuru Maddesi En Az %27'dir.], Beyaz Çikolata %12,5 [Şeker, Kakao Yağı, Süt Tozu, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %30, Süt Kuru Maddesi En Az %29'dur.], Mısır ve Buğday Gevreği %9,7 (Gluten içerir), Bitter Çikolata %6,9 [Kakao Kitlesi, Şeker, Kakao Yağı, Kakao, Tereyağı (Süt Ürünü), Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %54'tür].",
+    "source_url": "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "pistachios",
+      "almonds",
+      "hazelnuts",
+      "soybeans",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526093710",
+    "name": "Eti Popkek Çikolatalı Kek 60 g",
+    "ingredients": "Kek %70 [Buğday Unu (Gluten içerir), Şeker, Yumurta, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), İnvert Şeker Şurubu, Nem Verici (Gliserol), Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatörler (Yağ Asitlerinin Mono ve Digliseritleri, Yağ Asitlerinin Poligliserol Esterleri), Tuz, Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat), Koruyucu (Sorbik Asit), Aroma Vericiler, Asitlik Düzenleyici (Sitrik Asit), Kıvam Arttırıcı (Ksantan Gam)], Çikolata Sosu %16 [Şeker, İnvert Şeker Şurubu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Nem Vericiler (Sorbitol, Gliserol), Peynir Altı Suyu Tozu (Süt Ürünü), Bitter Çikolata %4,2 [Şeker, Kakao Kitlesi, Kakao Yağı, Kakao, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %52], Kakao %3,8, Modifiye Patates Nişastası, Fındık Püresi, Emülgatörler (Yağ Asitlerinin Mono ve Digliseritlerinin Laktik Asit Esterleri), Tuz, Koruyucu (Sorbik Asit), Asitlik Düzenleyici (Sitrik Asit)], Kakaolu Kaplama %14 [Şeker, Tam Hidrojenize Bitkisel Yağ (Palm), Peynir Altı Suyu Tozu (Süt Ürünü), Tam Yağlı Süt Tozu, Kakao %5,4, Emülgatör (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici].",
+    "source_url": "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  }
+]

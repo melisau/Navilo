@@ -2,11 +2,14 @@ import 'dart:convert';
 import 'dart:io';
 import 'dart:async';
 import 'package:flutter/services.dart' show rootBundle;
+import '../domain/barcode.dart';
 
 class ProductRecord {
   final String code, name, ingredients, sourceUrl;
   final String sourceName;
+  final String mayContain;
   final String? imageUrl;
+  final String? imageSourceUrl;
   final bool nameMatched;
   final String? nameLookupSource;
   final DateTime? modified;
@@ -14,7 +17,9 @@ class ProductRecord {
   ProductRecord(this.code, this.name, this.ingredients, this.sourceUrl,
       this.modified, this.allergens, this.traces, this.labels,
       {this.sourceName = 'Open Food Facts',
+      this.mayContain = '',
       this.imageUrl,
+      this.imageSourceUrl,
       this.nameMatched = false,
       this.nameLookupSource});
   static String? licensedImage(dynamic value) {
@@ -66,6 +71,9 @@ class ProductRecord {
         sourceName: sourceName,
         nameMatched: nameMatched,
         nameLookupSource: nameLookupSource,
+        imageSourceUrl: host == 'world.openfoodfacts.org'
+            ? 'https://world.openfoodfacts.org/product/$code'
+            : null,
         imageUrl: host == 'world.openfoodfacts.org'
             ? licensedImage(p['image_front_url'])
             : null);
@@ -88,6 +96,11 @@ class ProductServiceException implements Exception {
 }
 
 class ProductRepository {
+  static List<String> _curatedDataIssues = const [];
+
+  /// Rejected bundled rows, retained for diagnosis instead of silently
+  /// overwriting another product or dropping a valid shorter GTIN.
+  static List<String> get curatedDataIssues => _curatedDataIssues;
   static String failureMessage(Object error, {bool english = false}) {
     if (error is FormatException) {
       if (error.message == 'Ingredients unavailable') {
@@ -280,38 +293,99 @@ class ProductRepository {
   }
 
   Future<ProductRecord?> _findCurated(String code, String category) async {
-    if (category != 'food') return null;
     final records = await (_curatedRecords ??= _loadCuratedRecords());
-    return records[code];
+    return records['$category:$code'];
   }
 
   static Future<Map<String, ProductRecord>> _loadCuratedRecords() async {
-    final raw =
+    final food =
         jsonDecode(await rootBundle.loadString('assets/curated_products.json'));
-    if (raw is! List) {
+    final cosmetics = jsonDecode(
+        await rootBundle.loadString('assets/curated_cosmetics.json'));
+    if (food is! List || cosmetics is! List) {
       throw const FormatException('Invalid curated product data');
     }
+    return decodeCuratedRecords(food, cosmetics);
+  }
+
+  static Map<String, ProductRecord> decodeCuratedRecords(
+      List<dynamic> food, List<dynamic> cosmetics) {
     final records = <String, ProductRecord>{};
-    for (final item in raw) {
-      if (item is! Map<String, dynamic>) continue;
-      final code = item['code'] as String? ?? '';
-      final ingredients = item['ingredients'] as String? ?? '';
-      if (!RegExp(r'^\d{8,14}$').hasMatch(code) || ingredients.trim().isEmpty) {
-        continue;
+    final issues = <String>[];
+    final blockedKeys = <String>{};
+    for (final (category, rows) in [('food', food), ('cosmetic', cosmetics)]) {
+      for (var index = 0; index < rows.length; index++) {
+        final item = rows[index];
+        final location = '$category row ${index + 1}';
+        if (item is! Map<String, dynamic>) {
+          issues.add('$location: invalid_record');
+          continue;
+        }
+        String field(String key) =>
+            item[key] is String ? item[key] as String : '';
+        final code = field('code');
+        final ingredients = field('ingredients');
+        final name = field('name');
+        final uri = Uri.tryParse(field('source_url'));
+        String? rejection;
+        if (!isValidGtin(code)) {
+          rejection = 'invalid_gtin';
+        } else if ((item['category'] ?? category) != category) {
+          rejection = 'category_mismatch';
+        } else if (name.trim().isEmpty || ingredients.trim().isEmpty) {
+          rejection = 'missing_name_or_ingredients';
+        } else if (uri == null || uri.scheme != 'https' || uri.host.isEmpty) {
+          rejection = 'missing_source';
+        } else if (DateTime.tryParse(field('checked_at')) == null) {
+          rejection = 'missing_check_date';
+        } else if (['allergens', 'traces', 'labels']
+            .any((key) => item[key] != null && item[key] is! List)) {
+          rejection = 'invalid_tag_list';
+        }
+        if (rejection != null) {
+          issues.add('$location ($code): $rejection');
+          continue;
+        }
+        final key = '$category:$code';
+        if (records.containsKey(key) || blockedKeys.contains(key)) {
+          records.remove(key);
+          blockedKeys.add(key);
+          issues.add('$location ($code): duplicate_gtin');
+          continue;
+        }
+        records[key] = ProductRecord(
+          code,
+          name,
+          ingredients,
+          item['source_url'] as String? ?? '',
+          DateTime.tryParse(item['checked_at'] as String? ?? ''),
+          (item['allergens'] as List? ?? []).whereType<String>().toList(),
+          (item['traces'] as List? ?? []).whereType<String>().toList(),
+          (item['labels'] as List? ?? []).whereType<String>().toList(),
+          sourceName: item['source_name'] as String? ?? 'Navilo curated label',
+          mayContain: item['may_contain'] as String? ?? '',
+          imageUrl: item['image_license'] == 'CC-BY-SA-3.0'
+              ? ProductRecord.licensedImage(item['image_url'])
+              : null,
+          imageSourceUrl: item['image_license'] == 'CC-BY-SA-3.0'
+              ? 'https://world.openfoodfacts.org/product/$code'
+              : null,
+        );
       }
-      records[code] = ProductRecord(
-        code,
-        item['name'] as String? ?? '',
-        ingredients,
-        item['source_url'] as String? ?? '',
-        DateTime.tryParse(item['checked_at'] as String? ?? ''),
-        (item['allergens'] as List? ?? []).whereType<String>().toList(),
-        (item['traces'] as List? ?? []).whereType<String>().toList(),
-        (item['labels'] as List? ?? []).whereType<String>().toList(),
-        sourceName: item['source_name'] as String? ?? 'Navilo curated label',
-      );
     }
+    _curatedDataIssues = List.unmodifiable(issues);
     return records;
+  }
+
+  /// The same offline records used by barcode lookup, available for browsing.
+  Future<List<ProductRecord>> listCurated({required String category}) async {
+    final records = await (_curatedRecords ??= _loadCuratedRecords());
+    final products = records.entries
+        .where((entry) => entry.key.startsWith('$category:'))
+        .map((entry) => entry.value)
+        .toList();
+    products.sort((a, b) => a.name.compareTo(b.name));
+    return products;
   }
 
   Future<ProductRecord> find(String code,

@@ -126,10 +126,10 @@ Barcode responses now preserve original ingredient text and expose source date, 
 
 
 ### Barcode data sources (current development configuration)
-- Food uses Open Food Facts only. Cosmetics use Open Beauty Facts.
+- Exact barcode lookup checks the personal library, the configured approved Supabase catalogue, the bundled Turkish product catalogue, then Open Food Facts, Open Beauty Facts, Open Products Facts and Open Pet Food Facts.
 - USDA demo fallback has been removed; missing ingredients lead to the label photo flow.
 - Source names, links and missing-content/service diagnostics remain visible.
-- No paid providers or GS1 subscriptions are connected. Manufacturer/licensed feeds are research candidates only.
+- No paid providers or GS1 subscriptions are connected. Automatic manufacturer/licensed feeds are research candidates only. The bundled catalogue contains 150 individually sourced food records and works without online provider access; source links and check dates are retained. See [bundled catalogue](docs/TURKEY_BUNDLED_CATALOG.md) and the [submitted food lists audit](docs/SUBMITTED_FOOD_LISTS_AUDIT_20261013.md).
 - Open Food Facts data reuse must follow its ODbL attribution and applicable share-alike obligations: https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/tutorials/license-be-on-the-legal-side/
 
 ### Turkey catalog acquisition
@@ -196,3 +196,9 @@ by general American Academy of Dermatology guidance:
 These sources do not validate this questionnaire or this product classifier.
 Unit and widget tests in `test/skin_test.dart` cover scoring, sensitivity,
 invalid inputs, local persistence, ingredient boundaries and navigation.
+
+The cosmetics catalogue includes 13 individually sourced Golden Rose Velvet Matte lipsticks, with possible pigments stored separately. See the [foundation/lipstick submission audit](docs/SUBMITTED_MAKEUP_AUDIT_20261013.md) for invalid, conflicting and pending submitted records.
+
+Golden Rose Dipliner and Dream Eyes 401–410 are also available offline using official product-specific INCI/GTIN evidence. See the [eyeliner submission audit](docs/SUBMITTED_EYELINER_AUDIT_20261013.md).
+
+Rimmel Kind & Free Clean Mascara Black is available using manufacturer INCI and independently matched retail GTIN evidence. See the [100-product Rimmel audit](docs/SUBMITTED_RIMMEL_AUDIT_20261013.md) for regional evidence and unresolved submissions.

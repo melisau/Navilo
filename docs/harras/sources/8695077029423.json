@@ -1,0 +1,318 @@
+{
+  "status": 1,
+  "code": "8695077029423",
+  "product": {
+    "code": "8695077029423",
+    "product_name": "Milk",
+    "product_name_tr": "Süt",
+    "brands": "Harras, Harris",
+    "quantity": "835 g and 1000 ml",
+    "ingredients_text": "%3,1 yağlı inek sütü. Laktoz içerir.",
+    "ingredients_text_tr": "%3,1 yağlı inek sütü. Laktoz içerir.",
+    "lang": "en",
+    "last_modified_t": 1770217372,
+    "allergens_tags": [],
+    "traces_tags": [],
+    "labels_tags": null,
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/869/507/702/9423/ingredients_en.25.400.jpg",
+    "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/869/507/702/9423/ingredients_en.25.200.jpg",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/702/9423/front_en.6.400.jpg",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4032,
+            "w": 3024
+          }
+        },
+        "uploaded_t": 1743293429,
+        "uploader": "sulobaba"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4032,
+            "w": 3024
+          }
+        },
+        "uploaded_t": 1743293554,
+        "uploader": "sulobaba"
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "h": 18,
+            "w": 100
+          },
+          "400": {
+            "h": 71,
+            "w": 400
+          },
+          "full": {
+            "h": 507,
+            "w": 2850
+          }
+        },
+        "uploaded_t": 1743293655,
+        "uploader": "sulobaba"
+      },
+      "4": {
+        "sizes": {
+          "100": {
+            "h": 58,
+            "w": 100
+          },
+          "400": {
+            "h": 232,
+            "w": 400
+          },
+          "full": {
+            "h": 1612,
+            "w": 2781
+          }
+        },
+        "uploaded_t": 1743293786,
+        "uploader": "sulobaba"
+      },
+      "5": {
+        "sizes": {
+          "100": {
+            "h": 47,
+            "w": 100
+          },
+          "400": {
+            "h": 187,
+            "w": 400
+          },
+          "full": {
+            "h": 380,
+            "w": 813
+          }
+        },
+        "uploaded_t": 1743294339,
+        "uploader": "sulobaba"
+      },
+      "6": {
+        "sizes": {
+          "100": {
+            "h": 30,
+            "w": 100
+          },
+          "400": {
+            "h": 120,
+            "w": 400
+          },
+          "full": {
+            "h": 588,
+            "w": 1966
+          }
+        },
+        "uploaded_t": 1743294371,
+        "uploader": "sulobaba"
+      },
+      "7": {
+        "sizes": {
+          "100": {
+            "h": 28,
+            "w": 100
+          },
+          "400": {
+            "h": 113,
+            "w": 400
+          },
+          "full": {
+            "h": 805,
+            "w": 2858
+          }
+        },
+        "uploaded_t": 1743294476,
+        "uploader": "sulobaba"
+      },
+      "front_en": {
+        "coordinates_image_size": "full",
+        "imgid": "1",
+        "rev": "6",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 57
+          },
+          "200": {
+            "h": 200,
+            "w": 113
+          },
+          "400": {
+            "h": 400,
+            "w": 227
+          },
+          "full": {
+            "h": 3381,
+            "w": 1917
+          }
+        },
+        "x1": 626,
+        "x2": 2543,
+        "y1": 154,
+        "y2": 3535
+      },
+      "front_tr": {
+        "imgid": "2",
+        "rev": "8",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4032,
+            "w": 3024
+          }
+        }
+      },
+      "ingredients_en": {
+        "coordinates_image_size": "full",
+        "imgid": "3",
+        "rev": "25",
+        "sizes": {
+          "100": {
+            "h": 18,
+            "w": 100
+          },
+          "200": {
+            "h": 36,
+            "w": 200
+          },
+          "400": {
+            "h": 71,
+            "w": 400
+          },
+          "full": {
+            "h": 507,
+            "w": 2850
+          }
+        },
+        "x1": 0,
+        "x2": 2850,
+        "y1": 0,
+        "y2": 507
+      },
+      "ingredients_tr": {
+        "imgid": "3",
+        "rev": "10",
+        "sizes": {
+          "100": {
+            "h": 18,
+            "w": 100
+          },
+          "200": {
+            "h": 36,
+            "w": 200
+          },
+          "400": {
+            "h": 71,
+            "w": 400
+          },
+          "full": {
+            "h": 507,
+            "w": 2850
+          }
+        }
+      },
+      "nutrition_en": {
+        "coordinates_image_size": "full",
+        "imgid": "4",
+        "rev": "26",
+        "sizes": {
+          "100": {
+            "h": 58,
+            "w": 100
+          },
+          "200": {
+            "h": 116,
+            "w": 200
+          },
+          "400": {
+            "h": 232,
+            "w": 400
+          },
+          "full": {
+            "h": 1612,
+            "w": 2781
+          }
+        },
+        "x1": 0,
+        "x2": 2781,
+        "y1": 0,
+        "y2": 1612
+      },
+      "nutrition_tr": {
+        "imgid": "4",
+        "rev": "12",
+        "sizes": {
+          "100": {
+            "h": 58,
+            "w": 100
+          },
+          "200": {
+            "h": 116,
+            "w": 200
+          },
+          "400": {
+            "h": 232,
+            "w": 400
+          },
+          "full": {
+            "h": 1612,
+            "w": 2781
+          }
+        }
+      },
+      "packaging_tr": {
+        "imgid": "7",
+        "rev": "17",
+        "sizes": {
+          "100": {
+            "h": 28,
+            "w": 100
+          },
+          "200": {
+            "h": 56,
+            "w": 200
+          },
+          "400": {
+            "h": 113,
+            "w": 400
+          },
+          "full": {
+            "h": 805,
+            "w": 2858
+          }
+        }
+      }
+    }
+  }
+}

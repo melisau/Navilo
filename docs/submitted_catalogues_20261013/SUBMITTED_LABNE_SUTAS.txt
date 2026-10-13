@@ -1,0 +1,52 @@
+
+3. BÖLÜM: Sütaş Labne Ürün Ailesi Varyasyonları (111 - 165)
+
+Sütaş Çiftliği'nin taze süt ve kremalarından üretilen, dış hidrokollid (kıvam arttırıcı) içermeyen doğal süzme bazlı varyasyon barkodlarıdır.
+
+No	Ürün Barkodu	Tam Ürün Adı Gramajı	Eksiksiz Gıda İçindekiler Listesi
+111	8690927230043	Sütaş Labne (200g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+112	8690927230050	Sütaş Labne (400g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+113	8690927230074	Sütaş Labne Büyük Kova (700g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+114	8690927230104	Sütaş Laktozsuz Labne (200g)	Pastörize inek sütü kreması, mikro laktaz enzimi, sofra tuzu, taze peynir kültürü.
+115	8690927230159	Sütaş Hafif Labne %50 Yağı Azaltılmış	Pastörize inek sütü, taze süt yağı, süt proteinleri, laktik peynir kültürü, sofra tuzu.
+116	8690927230227	Sütaş Sürülebilir Taze Peynir (200g)	İnek sütü, taze tereyağı, peynir altı suyu tozu, stabilizatör (guar gam), tuz, kültür.
+117	8690927230302	Sütaş Kekikli & Siyah Zeytinli Labne	Taze peynir, kurutulmuş dağ kekiği (%0.5), kurutulmuş siyah zeytin (%3), zeytinyağı, tuz.
+118	8690927230319	Sütaş Acı Pul Biberli Labne (200g)	Taze peynir, kurutulmuş pul kırmızı biber (%1), taze kırmızı kapya biber, sofra tuzu.
+119	8690927230326	Sütaş Ezilmiş Sarımsaklı Dereotlu Labne	Taze peynir, kurutulmuş sarımsak tozu (%0.5), kurutulmuş taze dereotu (%0.6), sofra tuzu.
+120	8690927230333	Sütaş Domates Salçalı Fesleğenli Labne	Taze peynir, domates salçası (%2), kurutulmuş yeşil fesleğen (%0.5), zeytinyağı, tuz.
+121	8690927230401	Sütaş Organik Sertifikalı Labne (200g)	%100 Organik sertifikalı pastörize inek sütü kreması, organik sofra tuzu, peynir kültürü.
+122	8690927230456	Sütaş Yüksek Proteinli Labne (200g)	Pastörize inek sütü, ultrafiltrasyon doğal süt proteini konsantresi, sofra tuzu, kültür.
+123	8690927230500	Sütaş Mini Labne Tek Porsiyon (100g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+124	8690927230609	Sütaş Parçalı Cevizli Biberli Labne	Taze peynir, ezilmiş ceviz içi (%4), kurutulmuş kırmızı biber pulları (%1), sofra tuzu.
+125	8690927230616	Sütaş Tane Çörekotlu Doğal Labne	Taze peynir, bütün çörek otu tohumları (%1.5), sofra tuzu, taze peynir kültürü.
+126	8690927230623	Sütaş Jalapeno Turşu Dilimli Labne	Taze peynir, doğranmış jalapeno turşusu küpleri (%3), doğal sirke, sofra tuzu.
+127	8690927230630	Sütaş Közlenmiş Patlıcan Püreli Labne	Taze peynir, közlenmiş patlıcan püresi (%5), sarımsak özü, sofra tuzu, zeytinyağı.
+128	8690927230647	Sütaş Humus Çeşnili Tahinli Labne	Taze peynir, öğütülmüş susam tahini (%3), ince kimyon, sarımsak, nohut unu, tuz.
+129	8690927230654	Sütaş Karamelize Soğanlı Akdeniz Labne	Taze peynir, karamelize soğan püresi (%4), esmer pancar şekeri, beyaz sirke, tuz.
+130	8690927230661	Sütaş Çilekli Tatlı Labne Kreması (180g)	Süt kreması, beyaz pancar şekeri, çilek parçacıkları (%6), mısır nişastası, kültür.
+131	8690927230678	Sütaş Kakaolu Çikolatalı Labne Kreması	Süt kreması, şeker, kakao kitlesi, kakao yağı, emülgatör (ayçiçek lesitini), kültür.
+132	8690927230685	Sütaş Muzlu Doğal Bisküvili Labne	Süt kreması, şeker, muz püresi (%5), bisküvi unu (%2) [buğday unu, tereyağı], kültür.
+133	8690927230692	Sütaş Yaban Mersinli Doğal Labne	Süt kreması, şeker, yaban mersini püresi (%7), jellan gam (kıvam amaçlı bitkisel), kültür.
+134	8690927230708	Sütaş Doğal Vanilya Çekirdekli Labne	Süt kreması, şeker, doğal vanilya ekstraktı taneleri, nişasta, taze peynir kültürü.
+135	8690927230715	Sütaş Ballı Kavrulmuş Fındıklı Labne	Süt kreması, süzme çiçek balı (%4), kavrulmuş Fındık içi parçaları (%3), şeker, kültür.
+136	8690927230067	Sütaş Labne İkili Paket (2x200g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+137	8690927230081	Sütaş Labne Üçlü Fırsat Paketi (3x200g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+138	8690927230098	Sütaş Labne Büyük İkili Koli (2x400g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+139	8690927230111	Sütaş Labne Pastacılık Endüstriyel (1kg)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+140	8690927230128	Sütaş Labne Ev Dışı Tüketim Kovası (3kg)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+141	8690927230135	Sütaş Labne Büyük Tesis Boyu (5kg)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+142	8690927230234	Sütaş Sürülebilir Taze Peynir (400g)	İnek sütü, taze tereyağı, peynir altı suyu tozu, stabilizatör (guar gam), tuz, kültür.
+143	8690927230241	Sütaş Sürülebilir Taze Peynir (2x200g)	İnek sütü, taze tereyağı, peynir altı suyu tozu, stabilizatör (guar gam), tuz, kültür.
+144	8690927230340	Sütaş Krem Peynir Geleneksel Gıda (200g)	Beyaz peynir, taze kaşar, eritme tuzları (polifosfatlar), süt tereyağı, su, tuz.
+145	8690927230357	Sütaş Krem Peynir Geleneksel Gıda (400g)	Beyaz peynir, taze kaşar, eritme tuzları (polifosfatlar), süt tereyağı, su, tuz.
+146	8690927230364	Sütaş Krem Peynir İkili Fırsat (2x200g)	Beyaz peynir, taze kaşar, eritme tuzları (polifosfatlar), süt tereyağı, su, tuz.
+147	8690927230418	Sütaş Organik Labne Aile Boyu (400g)	%100 Organik sertifikalı pastörize inek sütü kreması, organik sofra tuzu, peynir kültürü.
+148	8690927230463	Sütaş Yüksek Proteinli Büyük Boy (400g)	Pastörize inek sütü, ultrafiltrasyon doğal süt proteini konsantresi, sofra tuzu, kültür.
+149	8690927230470	Sütaş Yüksek Proteinli İkili (2x200g)	Pastörize inek sütü, ultrafiltrasyon doğal süt proteini konsantresi, sofra tuzu, kültür.
+150	8690927230517	Sütaş Mini Labne Çoklu Paket (4x100g)	Pastörize inek sütü kreması, sofra tuzu, laktik asit taze peynir kültürü.
+151	8690927230722	Sütaş Ahududulu Tatlı Labne Kreması	Süt kreması, beyaz pancar şekeri, ahududu püresi (%6), bitkisel kıvam arttırıcı, kültür.
+152	8690927230739	Sütaş Mango & Çarkıfelek Meyveli Labne	Süt kreması, şeker, mango püresi (%4), çarkıfelek meyvesi suyu konsantresi (%2), kültür.
+153	8690927230746	Sütaş Elmalı Tarçınlı Kış Serisi Labne	Süt kreması, esmer şeker, elma küpleri (%5), öğütülmüş tarçın kabuğu (%0.5), kültür.
+154	8690927230753	Sütaş Kayısılı Lifli Diyet Labne Krema	Süt kreması, kayısı ezmesi (%6), buğday lifi (glutensiz), polidekstroz, tatlandırıcı.
+155	8690927230760	Sütaş Çikolata Parçacıklı Vanilyalı	Süt kreması, şeker, bitter çikolata pulları (%5), doğal vanilya özü, peynir kültürü.
+

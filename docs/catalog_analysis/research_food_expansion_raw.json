@@ -1,0 +1,192 @@
+[
+  {
+    "code": "8690558010006",
+    "name": "Dimes Vişne Nektarı 1 Lt",
+    "ingredients": "Meyve Oranı: en az %35. Vişne suyu konsantresinden üretilmiştir. İçindekiler: Su, vişne suyu konsantresi, şeker (pancar şekerinden üretilmiştir), asitlik düzenleyici (sitrik asit), aroma verici (vişne).",
+    "source_url": "https://www.sariyermarket.com/dimes-visne-nektari-1-lt",
+    "allergen_raw": "Eser miktarda gluten, süt ve süt ürünü içerebilir.",
+    "quantity_raw": "1000 Ml",
+    "gtin_valid": true,
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\dimes-visne-nektari-1-lt.txt"
+  },
+  {
+    "code": "8690527130551",
+    "name": "Pınar Fish Finger 240 Gr",
+    "ingredients": "Mezgit Fileto, Kaplama Malzemesi (buğday unu ,buğday nişastası ,tuz ,palm yağı,renklendirici(paprika),kabartıcı( sodyum bikarbonat, sodyum polifosfat)maya).",
+    "source_url": "https://www.sariyermarket.com/pinar-fish-finger-240-gr",
+    "allergen_raw": "buğday unu ,buğday nişastası",
+    "quantity_raw": "240 Gr",
+    "gtin_valid": true,
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\pinar-fish-finger-240-gr.txt"
+  },
+  {
+    "code": "8690565026441",
+    "name": "Pınar Bitkisel Bazlı Badem İçeceği 1 Lt",
+    "ingredients": "Su, şeker, badem (%2,4), emülgatör (ayçiçek lesitini), stabilizör (jellan gam), tuz,vitaminler (B2, D, B12).",
+    "source_url": "https://www.sariyermarket.com/pinar-bitkisel-bazli-badem-icecegi-1-lt",
+    "allergen_raw": "BADEM",
+    "quantity_raw": "1000 Ml",
+    "gtin_valid": true,
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\pinar-bitkisel-bazli-badem-icecegi-1-lt.txt"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-ucgen-manti-400-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-ucgen-manti-400-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-gurme-burger-450-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-gurme-burger-450-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-burger-225-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-burger-225-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-geleneksel-tuzsuz-tereyag-200-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-geleneksel-tuzsuz-tereyag-200-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/pinar-citir-balik-400-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/pinar-citir-balik-400-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/cappy-ananasli-icecek-1-l",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/cappy-ananasli-icecek-1-l"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/icim-kefir-cilek-250-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/icim-kefir-cilek-250-ml"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-meyveli-yogurt-cilekli-4x115-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-meyveli-yogurt-cilekli-4x115-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-krema-200-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-krema-200-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/sutas-bubble-mix-orman-meyveli-140gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/sutas-bubble-mix-orman-meyveli-140gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/icim-suzme-peynir-500-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/icim-suzme-peynir-500-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-bezelye-670-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-bezelye-670-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-kayisi-nektari-kahverengi-sise-200-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-kayisi-nektari-kahverengi-sise-200-ml"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-bezelye-830-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-bezelye-830-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-domates-salcasi-830-gr",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-domates-salcasi-830-gr"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml"
+  },
+  {
+    "source_url": "https://www.sariyermarket.com/tamek-seftali-nektari-kahverengi-sise-200-ml",
+    "status": "pending",
+    "reason": "429 Client Error: Too Many Requests for url: https://www.sariyermarket.com/tamek-seftali-nektari-kahverengi-sise-200-ml"
+  },
+  {
+    "code": "8690575878627",
+    "name": "Tamek %100 Karışık Meyve Suyu 1 Lt",
+    "ingredients": "Su, Meyve suyu ve püre konsantreleri (Elma, Üzüm, Portakal, Kayısı, Ananas, Şeftali, Mango), Vitaminler (C,E,A), Asitlik Düzenleyici (Sitrik Asit), Meyve oranı %100dür.",
+    "source_url": "https://www.sariyermarket.com/tamek-100-karisik-meyve-suyu-1-lt",
+    "allergen_raw": "Alerjen içermemektedir",
+    "quantity_raw": "1000 Ml",
+    "gtin_valid": true,
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\tamek-100-karisik-meyve-suyu-1-lt.txt"
+  },
+  {
+    "code": "8690635761187",
+    "name": "Tat Mısır 3 x 210 Gr",
+    "ingredients": "Tane mısır (%59,5), su, şeker, tuz",
+    "source_url": "https://www.sariyermarket.com/tat-misir-3-x-210-gr",
+    "allergen_raw": "Buğday unu içeren ürünlerle aynı hatta üretilmektedir.",
+    "quantity_raw": "630 Gr",
+    "gtin_valid": false,
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\tat-misir-3-x-210-gr.txt"
+  }
+]

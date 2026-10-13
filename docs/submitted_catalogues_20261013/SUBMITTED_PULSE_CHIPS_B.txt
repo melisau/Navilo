@@ -1,0 +1,62 @@
+
+BÖLÜM: Ek Protein ve Bakliyat Cipsleri (Mercimek, Nohut & Bezelye)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+31	8681329623654	Züber Fırınlanmış Mercimek Cipsi Trüf & Deniz Tuzlu	Kırmızı mercimek unu (%72), bezelye proteini, bitkisel yağ (ayçiçek), deniz tuzu (%1.5), siyah trüf mantarı parçacıkları (%0.2), doğal trüf aroması.
+32	8681329623661	Züber Fırınlanmış Mercimek Cipsi Jalapeno Acılı	Kırmızı mercimek unu (%70), bezelye proteini, ayçiçek yağı, acı jalapeno biberi çeşnisi (%6) [kurutulmuş jalapeno biberi (%1.5), soğan, sarımsak, tuz].
+33	8681029000123	Patiswiss Proteinli Mercimek Cipsi Trüf Aromalı	Kırmızı mercimek unu (%65), bezelye proteini izolatı, pirinç unu, ayçiçek yağı, doğal trüf mantarı çeşnisi (%6) [tuz, kurutulmuş trüf tozu, aromalar].
+34	8681029000130	Patiswiss Proteinli Mercimek Cipsi Tatlı Pul Biberli	Kırmızı mercimek unu (%65), bezelye proteini izolatı, pirinç unu, ayçiçek yağı, tatlı pul biber çeşnisi (%6) [tatlı toz kapya biberi (%2), deniz tuzu, nane].
+35	8682162035061	Fellas Yüksek Proteinli Mercimek Cipsi Peynirli	Kırmızı mercimek unu (%66), bezelye proteini, pirinç unu, ayçiçek yağı, peynir altı suyu tozu, peynir tozu (%1.5), sofra tuzu, maya ekstraktı.
+36	8682162035078	Fellas Yüksek Proteinli Mercimek Cipsi Barbekü Soslu	Kırmızı mercimek unu (%66), bezelye proteini, pirinç unu, ayçiçek yağı, barbekü çeşnisi (%6) [domates, soğan, kimyon, tuz, doğal tütsü türevi esansı].
+37	8681986060144	Soul Bites Pop-Chicks Nohut Cipsi Ekşi Krema & Soğan	Nohut unu (%60), pirinç unu, ayçiçek yağı, vegan ekşi krema ve soğan çeşnisi (%7) [besin mayası, kurutulmuş soğan parçaları (%1.2), sarımsak, sitrik asit].
+38	8681986060151	Soul Bites Pop-Chicks Nohut Cipsi Acılı Barbekü	Nohut unu (%58), pirinç unu, ayçiçek yağı, acı barbekü çeşnisi (%8) [toz acı biber (%1.5), domates tozu, soğan tozu, tuz, tütsü aroması, kimyon].
+39	8690623051132	Wasa Glutensiz Humus Cipsi Ekşi Krema & Frenk Soğanı	Nohut unu (%38), patates nişastası, ayçiçek yağı, mısır unu, vegan ekşi krema aromalı çeşni (%6) [tuz, frenk soğanı (%0.6), soğan tozu, doğal aromalar].
+40	8681725301118	%100 Fit Baked Lentil Chips Sade (Mercimek Cipsi)	Kırmızı mercimek (%82), ayçiçek yağı, deniz tuzu (%1.2). [Hava akımıyla patlatılmış, kızartılmamıştır].
+41	8681725301125	%100 Fit Baked Lentil Chips Akdeniz Baharatlı	Kırmızı mercimek (%76), ayçiçek yağı, Akdeniz baharat çeşnisi (%6) [kurutulmuş fesleğen, kekik, domates tozu, sarımsak, tuz].
+42	8683411020017	Veggy Protein Kurutulmuş Bezelye Cipsi Sade	Yeşil bezelye unu (%85), mısır nişastası, ayçiçek yağı, deniz tuzu. [Yüksek lifli ve koruyucusuzdur].
+43	8683411020024	Veggy Protein Kurutulmuş Bezelye Cipsi Nane & Limon	Yeşil bezelye unu (%80), mısır nişastası, ayçiçek yağı, kuru nane (%1.2), asitlik düzenleyici (sitrik asit), limon yağı özütü, tuz.
+44	8682341250119	RawLove Fırınlanmış Proteinli Nohut Cipsi Chia Tohumlu	Nohut unu (%72), chia tohumu (%5), pirinç unu, zeytinyağı, deniz tuzu.
+45	8682341250126	RawLove Fırınlanmış Proteinli Nohut Cipsi Haşhaşlı	Nohut unu (%72), mavi haşhaş tohumu (%5), pirinç unu, zeytinyağı, deniz tuzu.
+
+
+2. BÖLÜM: Ek Glutensiz ve Vegan Yeni Nesil Cipsler (Karabuğday, Pirinç & Kinoa)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+46	8699413627038	Mayi Tuz fırınlanmış Karabağday Cipsi Kekikli	Karabuğday unu (%78), mısır nişastası, ayçiçek yağı, kurutulmuş dağ kekiği (%1.5), Mayi coğrafi işaretli doğal kaynak tuzu (%1.8).
+47	8699413627045	Mayi Tuz fırınlanmış Karabağday Cipsi Karabiberli	Karabuğday unu (%78), mısır nişastası, ayçiçek yağı, öğütülmüş tane karabiber (%1.2), doğal kaynak tuzu (%1.8).
+48	3800233070151	Rice Up Kahverengi Pirinç Cipsi Ekşi Krema & Soğan	Tam tane kahverengi pirinç (%83), zeytinyağı (%7), vegan ekşi krema ve soğan çeşnisi (%7) [soğan tozu, besin mayası, tuz, nane, laktik asit].
+49	3800233070205	Rice Up Kahverengi Pirinç Cipsi Barbekü	Tam tane kahverengi pirinç (%83), zeytinyağı (%7), barbekü çeşnisi (%7) [toz domates, sarımsak, tuz, esmer şeker, doğal tütsü esansı].
+50	3800233070250	Rice Up Kahverengi Pirinç Cipsi Acı Biberli (Chili)	Tam tane kahverengi pirinç (%83), zeytinyağı (%7), acı kırmızı biber çeşnisi (%7) [pul biber, acı toz biber, tuz].
+51	3800233070304	Rice Up Kahverengi Pirinç Cipsi Peynirli	Tam tane kahverengi pirinç (%83), zeytinyağı (%7), peynir çeşnisi (%7) [peynir altı suyu tozu, peynir tozu (%1.5), tuz, maya özütü].
+52	5060413260114	Eat Real Mercimek Cipsi Deniz Tuzlu (Vegan)	Mercimek unu (%48), patates nişastası, mısır unu, ayçiçek yağı, deniz tuzu (%1.5).
+53	5060413260121	Eat Real Mercimek Cipsi Chili & Lemon	Mercimek unu (%46), patates nişastası, mısır unu, ayçiçek yağı, chili ve limon çeşnisi (%6) [sitrik asit, kırmızı biber tozu, tuz, sarımsak].
+54	5060413260213	Eat Real Kinoa Cipsi Ekşi Krema & Frenk Soğanı	Kinoa unu (%30), kurutulmuş patates, mısır nişastası, ayçiçek yağı, vegan ekşi krema ve frenk soğanı çeşnisi (%6) [tuz, soğan tozu, frenk soğanı].
+55	5060413260220	Eat Real Kinoa Cipsi Chili & Misket Limonlu	Kinoa unu (%30), kurutulmuş patates, mısır nişastası, ayçiçek yağı, chili ve lime çeşnisi (%6) [toz acı biber, misket limonu yağı, tuz].
+56	8680112304132	Organyed Organik Glutensiz Mısır Cipsi Zeytinli	Organik mısır unu (%88), organik ayçiçek yağı, kurutulmuş organik siyah zeytin parçacıkları (%3), deniz tuzu.
+57	8683411540126	Greenola Glutensiz Kinoa & Karabağday Cipsi	Karabuğday unu (%45), kinoa unu (%30), mısır nişastası, zeytinyağı, deniz tuzu (%1.2).
+58	8681223401112	Hipp Organic Glutensiz Pirinç Cipsi Sade (Bebek/Çocuk)	Organik pirinç unu (%99.5), vitamin B1 (tiamin hidroklorür). [Tuz ve yağ ilavesiz, organik bebek ürün grubu].
+59	8681223401129	Hipp Organic Glutensiz Mısır Cipsi Havuçlu	Organik mısır unu (%85), organik kurutulmuş havuç tozu (%14.5), vitamin B1.
+60	8680211234017	Naturpy Glutensiz Karabuğday Cipsi Barbekü Aromalı	Karabuğday unu (%75), mısır unu, ayçiçek yağı, barbekü çeşni tozu [soğan tozu, sarımsak tozu, domates tozu, tuz, karamel şurubu].
+
+
+3. BÖLÜM: Fonksiyonel Sebze, Meyve ve Hindistan Cevizi Cipsleri (Vegan)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+61	8681329621032	Züber %100 Doğal Hindistan Cevizi Cipsi Tarçınlı	Kurutulmuş fırınlanmış hindistan cevizi (%96), elma suyu konsantresi (%3.2), öğütülmüş toz tarçın (%0.8).
+62	8682112340168	Eliot Dondurularak Kurutulmuş Muz Cipsi (Freeze-Dried)	%100 Dondurularak kurutulmuş çıtır muz dilimleri. [Yağsız, ilave şekersiz ve çıtır meyve yapısı].
+63	8682112340175	Eliot Dondurularak Kurutulmuş Şeftali Cipsi	%100 Freeze-dried teknolojisi ile suyu uçurulmuş çıtır şeftali dilimleri.
+64	8683112450029	Rawberry Kurutulmuş Pancar Cipsi Deniz Tuzlu & Sirkeli	Dilimlenmiş taze kırmızı pancar (%88), zeytinyağı, elma sirkesi tozu, asitlik düzenleyici (malik asit), deniz tuzu (%1.5).
+65	8683112450111	Rawberry Kurutulmuş Havuç Cipsi Zeytinyağlı Kekikli	İnce dilimlenmiş taze havuç (%90), sızma zeytinyağı (%8.5), kurutulmuş dağ kekiği (%1.2), deniz tuzu.
+66	8681541002116	Frooti Organik Kurutulmuş Mango Cipsi	%100 Kurutulmuş çıtır organik mango dilimleri. [Kükürt dioksit ve şeker ilavesi içermez].
+67	8681541002154	Frooti Organik Kurutulmuş Ananas Cipsi	%100 Kurutulmuş fırınlanmış organik çıtır ananas halkaları.
+68	8682341120016	Vitality Havayla Kurutulmuş Kabak Cipsi Parmesan Aromalı	Kurutulmuş taze yeşil kabak dilimleri (%88), zeytinyağı, vegan parmesan aromalı çeşni (%5) [besin mayası, tuz, sarımsak].
+69	8682341120023	Vitality Havayla Kurutulmuş Tatlı Patates Cipsi	Kurutulmuş turuncu tatlı patates dilimleri (%91), zeytinyağı, deniz tuzu (%1.2).
+70	8681123405012	Veggie Crisp Fırınlanmış Karışık Sebze Cipsi	Kurutulmuş taze sebze karışımı (%85) [havuç, yeşil fasulye, tatlı patates, taze kış kabağı], zeytinyağı, deniz tuzu.
+71	8683411020055	Veggy Protein Kurutulmuş Bezelye Cipsi Trüflü	Yeşil bezelye unu (%82), mısır nişastası, ayçiçek yağı, kurutulmuş trüf tozu (%0.5), deniz tuzu, doğal aromalar.
+72	8681986060168	Soul Bites Pop-Chicks Nohut Cipsi Tatlı Biberli	Nohut unu (%60), pirinç unu, ayçiçek yağı, tatlı kırmızı biber çeşnisi (%7) [toz tatlı biber, domates tozu, soğan, tuz].
+73	8681029000147	Patiswiss Proteinli Mercimek Cipsi Ekşi Mayalı	Kırmızı mercimek unu (%65), bezelye proteini izolatı, pirinç unu, ayçiçek yağı, fermente pirinç özlü ekşi maya tozu (%4), tuz.
+74	8681329624538	Züber Fırınlanmış Nohut Cipsi Peynir & Çörekotlu	Nohut unu (%72), bezelye lifi, ayçiçek yağı, peynir tozu (%2), çörek otu taneleri (%1.5), sofra tuzu.
+75	8699413627052	Mayi Tuz fırınlanmış Karabağday Cipsi Acı Biberli	Karabuğday unu (%78), mısır nişastası, ayçiçek yağı, acı kırmızı toz biber (%1.5), doğal kaynak tuzu (%1.8).

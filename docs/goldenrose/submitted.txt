@@ -1,0 +1,74 @@
+
+1. Golden Rose Color Expert Nail Lacquer Serisi (1-20)
+
+Bu serinin taşıyıcı baz formülü tırnak üzerinde geniş fırçayla pürüzsüz film tabakası oluşturur.
+• Ortak Baz İçeriği (1-20 arası ürünlerde aynıdır): Butyl Acetate, Ethyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Isopropyl Alcohol, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Stearalkonium Bentonite, Acrylates Copolymer, n-Butyl Alcohol, Silica, Benzophenone-1.
+
+Sıra	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+1	8691190703011	Color Expert Nail Lacquer No: 01 White	Base + CI 77891
+2	8691190703028	Color Expert Nail Lacquer No: 02 Clear	Base (Renksiz, şeffaf)
+3	8691190703059	Color Expert Nail Lacquer No: 05 Soft Pink	Base + CI 77891, CI 15850
+4	8691190703066	Color Expert Nail Lacquer No: 06 Golden	Base + Mica, CI 77491, CI 77891
+5	8691190703097	Color Expert Nail Lacquer No: 09 Rose Gold	Base + Mica, CI 77491, CI 77891
+6	8691190703110	Color Expert Nail Lacquer No: 11 Nude Rose	Base + CI 77891, CI 77491, CI 77492
+7	8691190703226	Color Expert Nail Lacquer No: 22 Bright Red	Base + CI 15850, CI 15880
+8	8691190703318	Color Expert Nail Lacquer No: 31 Deep Red	Base + CI 15880, CI 77499
+9	8691190703349	Color Expert Nail Lacquer No: 34 Burgundy	Base + CI 15880, CI 15850, CI 77499
+10	8691190703356	Color Expert Nail Lacquer No: 35 Plum	Base + CI 15880, CI 77510, CI 77891
+11	8691190703424	Color Expert Nail Lacquer No: 42 Lavender	Base + CI 77891, CI 77007, CI 15850
+12	8691190703509	Color Expert Nail Lacquer No: 50 Ocean Blue	Base + CI 77510, CI 77891, CI 60725
+13	8691190703554	Color Expert Nail Lacquer No: 55 Mint Green	Base + CI 77891, CI 19140, CI 77510
+14	8691190703608	Color Expert Nail Lacquer No: 60 Yellow	Base + CI 19140, CI 77891
+15	8691190703714	Color Expert Nail Lacquer No: 71 Coral	Base + CI 15850, CI 19140, CI 77891
+16	8691190703820	Color Expert Nail Lacquer No: 82 Soft Grey	Base + CI 77891, CI 77499
+17	8691190703905	Color Expert Nail Lacquer No: 90 Dark Grey	Base + CI 77499, CI 77891
+18	8691190703950	Color Expert Nail Lacquer No: 95 Pure Black	Base + CI 77266 [Nano], CI 77499
+19	8691190837211	Color Expert Nail Lacquer No: 121 Matte Brown	Base + Silica, CI 77491, CI 77499
+20	8691190837303	Color Expert Nail Lacquer No: 130 Chocolate	Base + CI 77491, CI 77492, CI 77499
+
+
+2. Golden Rose Extreme Gel Shine Serisi (21-35)
+
+Jel dolgunluğu ve yüksek parlaklık efekti veren özel polimer bağlı seridir.
+• Ortak Baz İçeriği (21-35 arası ürünlerde aynıdır): Ethyl Acetate, Butyl Acetate, Nitrocellulose, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Isopropyl Alcohol, Stearalkonium Bentonite, Cellulose Acetate Butyrate, Acrylates Copolymer.
+
+Sıra	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+21	8691190419011	Extreme Gel Shine No: 01 Milky White	Base + CI 77891
+22	8691190419042	Extreme Gel Shine No: 04 Powder Pink	Base + CI 77891, CI 15850
+23	8691190419066	Extreme Gel Shine No: 06 Dusty Rose	Base + CI 77891, CI 77491, CI 15850
+24	8691190419103	Extreme Gel Shine No: 10 Crimson Red	Base + CI 15850, CI 15880
+25	8691190419165	Extreme Gel Shine No: 16 Scarlett	Base + CI 15850
+26	8691190419196	Extreme Gel Shine No: 19 Fuchsia	Base + CI 15850, CI 45410
+27	8691190419226	Extreme Gel Shine No: 22 Cherry Red	Base + CI 15880, CI 15850
+28	8691190419264	Extreme Gel Shine No: 26 Deep Purple	Base + CI 15880, CI 77510
+29	8691190419271	Extreme Gel Shine No: 27 Mauve	Base + CI 77891, CI 77007, CI 77491
+30	8691190419288	Extreme Gel Shine No: 28 Emerald Green	Base + CI 77510, CI 19140
+31	8691190419349	Extreme Gel Shine No: 34 Sky Blue	Base + CI 77891, CI 77510
+32	8691190419400	Extreme Gel Shine No: 40 Lilac Sparkle	Base + Mica, CI 77891, CI 77007
+33	8691190419455	Extreme Gel Shine No: 45 Nude Beige	Base + CI 77891, CI 77491, CI 77492
+34	8691190419509	Extreme Gel Shine No: 50 Metallic Silver	Base + Aluminum Powder (CI 77000)
+35	8691190419608	Extreme Gel Shine No: 60 Carbon Black	Base + CI 77266 [Nano]
+
+
+3. Golden Rose Ice Color Mini Nail Lacquer Serisi (36-50)
+
+Çantada taşınabilir mini boy, yüksek örtücülük performansına sahip hızlı kuruyan seri.
+• Ortak Baz İçeriği (36-50 arası ürünlerde aynıdır): Butyl Acetate, Ethyl Acetate, Nitrocellulose, Isopropyl Alcohol, Acetyl Tributyl Citrate, Adipic Acid/Neopentyl Glycol/Trimellitic Anhydride Copolymer, Stearalkonium Hectorite, Styrene/Acrylates Copolymer, Malic Acid.
+
+Sıra	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+36	8691190504014	Ice Color Nail Lacquer No: 101 White	Base + CI 77891
+37	8691190504052	Ice Color Nail Lacquer No: 105 Nude Pink	Base + CI 77891, CI 77491
+38	8691190504069	Ice Color Nail Lacquer No: 106 Rose Beige	Base + CI 77891, CI 77491, CI 77492
+39	8691190504120	Ice Color Nail Lacquer No: 112 Baby Pink	Base + CI 77891, CI 15850
+40	8691190504182	Ice Color Nail Lacquer No: 118 Hot Pink	Base + CI 15850, CI 45410
+41	8691190504243	Ice Color Nail Lacquer No: 124 Classic Red	Base + CI 15850
+42	8691190504281	Ice Color Nail Lacquer No: 128 Dark Red	Base + CI 15880
+43	8691190504328	Ice Color Nail Lacquer No: 132 Damson	Base + CI 15880, CI 77510
+44	8691190504397	Ice Color Nail Lacquer No: 139 Royal Blue	Base + CI 77510, CI 77891
+45	8691190504441	Ice Color Nail Lacquer No: 144 Pastel Teal	Base + CI 77891, CI 77510, CI 19140
+46	8691190504502	Ice Color Nail Lacquer No: 150 Olive Green	Base + CI 77492, CI 77510, CI 77499
+47	8691190504625	Ice Color Nail Lacquer No: 162 Charcoal	Base + CI 77499, CI 77891
+48	8691190504687	Ice Color Nail Lacquer No: 168 Midnight Black	Base + CI 77266 [Nano]
+49	8691190505196	Ice Color Glitter No: 1196 Gold Dust	Base + Polyethylene Terephthalate, CI 77491
+50	8691190505202	Ice Color Glitter No: 1120 Silver Stars	Base + Polyethylene Terephthalate, Aluminum Powder
+

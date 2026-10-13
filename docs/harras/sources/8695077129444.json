@@ -1,0 +1,397 @@
+{
+  "status": 1,
+  "code": "8695077129444",
+  "product": {
+    "code": "8695077129444",
+    "product_name": "Bütün Fındıklı Sütlü Çikolata",
+    "product_name_tr": "Bütün Fındıklı Sütlü Çikolata",
+    "brands": "Harras",
+    "quantity": "65g",
+    "ingredients_text": "Milk Chocolate (82%) (Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Skimmed Milk Powder, Emulsifiers (Sunflower Lecithin, Polyglycerol Polyricinoleate), Flavoring (Vanillin) (Minimum 30% Cocoa Solids)), Hazelnuts (18%).",
+    "ingredients_text_tr": "Sütlü Çikolata (%82) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin) (Kakao kuru maddesi en az %30)), Fındık (%18). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Domuz ve domuz ürünleri muhteviyatı içermez.",
+    "lang": "en",
+    "last_modified_t": 1779187629,
+    "allergens_tags": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces_tags": [],
+    "labels_tags": null,
+    "image_ingredients_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/ingredients_en.7.400.jpg",
+    "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/ingredients_en.7.200.jpg",
+    "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/front_en.25.400.jpg",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 72,
+            "w": 100
+          },
+          "400": {
+            "h": 289,
+            "w": 400
+          },
+          "full": {
+            "h": 2074,
+            "w": 2870
+          }
+        },
+        "uploaded_t": 1745834095,
+        "uploader": "bytelab"
+      },
+      "10": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5712,
+            "w": 4284
+          }
+        },
+        "uploaded_t": 1779121885,
+        "uploader": "erenberk"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 79,
+            "w": 100
+          },
+          "400": {
+            "h": 315,
+            "w": 400
+          },
+          "full": {
+            "h": 2159,
+            "w": 2743
+          }
+        },
+        "uploaded_t": 1745834131,
+        "uploader": "bytelab"
+      },
+      "3": {
+        "sizes": {
+          "100": {
+            "h": 21,
+            "w": 100
+          },
+          "400": {
+            "h": 83,
+            "w": 400
+          },
+          "full": {
+            "h": 644,
+            "w": 3088
+          }
+        },
+        "uploaded_t": 1745834188,
+        "uploader": "bytelab"
+      },
+      "4": {
+        "sizes": {
+          "100": {
+            "h": 25,
+            "w": 100
+          },
+          "400": {
+            "h": 99,
+            "w": 400
+          },
+          "full": {
+            "h": 941,
+            "w": 3806
+          }
+        },
+        "uploaded_t": 1745834256,
+        "uploader": "bytelab"
+      },
+      "5": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4032,
+            "w": 3024
+          }
+        },
+        "uploaded_t": 1745834275,
+        "uploader": "bytelab"
+      },
+      "6": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 100
+          },
+          "400": {
+            "h": 400,
+            "w": 399
+          },
+          "full": {
+            "h": 2862,
+            "w": 2857
+          }
+        },
+        "uploaded_t": 1745834304,
+        "uploader": "bytelab"
+      },
+      "7": {
+        "sizes": {
+          "100": {
+            "h": 81,
+            "w": 100
+          },
+          "400": {
+            "h": 322,
+            "w": 400
+          },
+          "full": {
+            "h": 2435,
+            "w": 3024
+          }
+        },
+        "uploaded_t": 1745834328,
+        "uploader": "bytelab"
+      },
+      "8": {
+        "sizes": {
+          "100": {
+            "h": 23,
+            "w": 100
+          },
+          "400": {
+            "h": 91,
+            "w": 400
+          },
+          "full": {
+            "h": 920,
+            "w": 4032
+          }
+        },
+        "uploaded_t": 1745834578,
+        "uploader": "bytelab"
+      },
+      "9": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5712,
+            "w": 4284
+          }
+        },
+        "uploaded_t": 1779117902,
+        "uploader": "erenberk"
+      },
+      "front_en": {
+        "coordinates_image_size": "full",
+        "imgid": 9,
+        "rev": 25,
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5712,
+            "w": 4284
+          }
+        },
+        "x1": -1,
+        "x2": 4284,
+        "y1": -1,
+        "y2": 5712
+      },
+      "front_tr": {
+        "imgid": "2",
+        "rev": "5",
+        "sizes": {
+          "100": {
+            "h": 79,
+            "w": 100
+          },
+          "200": {
+            "h": 157,
+            "w": 200
+          },
+          "400": {
+            "h": 315,
+            "w": 400
+          },
+          "full": {
+            "h": 2159,
+            "w": 2743
+          }
+        }
+      },
+      "ingredients_en": {
+        "imgid": "3",
+        "rev": "7",
+        "sizes": {
+          "100": {
+            "h": 21,
+            "w": 100
+          },
+          "200": {
+            "h": 42,
+            "w": 200
+          },
+          "400": {
+            "h": 83,
+            "w": 400
+          },
+          "full": {
+            "h": 644,
+            "w": 3088
+          }
+        }
+      },
+      "ingredients_tr": {
+        "imgid": "4",
+        "rev": "9",
+        "sizes": {
+          "100": {
+            "h": 25,
+            "w": 100
+          },
+          "200": {
+            "h": 49,
+            "w": 200
+          },
+          "400": {
+            "h": 99,
+            "w": 400
+          },
+          "full": {
+            "h": 941,
+            "w": 3806
+          }
+        }
+      },
+      "nutrition_en": {
+        "coordinates_image_size": "full",
+        "imgid": "10",
+        "rev": 26,
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5712,
+            "w": 4284
+          }
+        },
+        "x1": -1,
+        "x2": 4284,
+        "y1": -1,
+        "y2": 5712
+      },
+      "nutrition_tr": {
+        "imgid": "5",
+        "rev": "11",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4032,
+            "w": 3024
+          }
+        }
+      },
+      "packaging_en": {
+        "coordinates_image_size": "full",
+        "imgid": "10",
+        "rev": 27,
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5712,
+            "w": 4284
+          }
+        },
+        "x1": -1,
+        "x2": 4284,
+        "y1": -1,
+        "y2": 5712
+      },
+      "packaging_tr": {
+        "imgid": "6",
+        "rev": "13",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 100
+          },
+          "200": {
+            "h": 200,
+            "w": 200
+          },
+          "400": {
+            "h": 400,
+            "w": 399
+          },
+          "full": {
+            "h": 2862,
+            "w": 2857
+          }
+        }
+      }
+    }
+  }
+}

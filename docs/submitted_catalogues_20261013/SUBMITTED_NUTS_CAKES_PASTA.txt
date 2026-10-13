@@ -1,0 +1,262 @@
+
+1. KATEGORİ: Kuruyemişler ve Kuruyemiş Karışımları (1 - 70)
+
+
+Tadım Markası Çeşitleri (1 - 25)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+1	8693240003117	Tadım Kavrulmuş İç Fındık (150g)	%100 Kavrulmuş Fındık İçi.
+2	8693240003124	Tadım Çiğ Badem İçi (150g)	%100 Çiğ, kurutulmuş Badem İçi. [Kavrulmamış ve tuzsuzdur].
+3	8693240003155	Tadım Kavrulmuş Badem İçi (150g)	Badem İçi, bitkisel yağ (palm), tuz (%1).
+4	8693240003209	Tadım Kavrulmuş Kaju Cevizi (150g)	Kaju Cevizi İçi, bitkisel yağ (palm), sofra tuzu (%1.2).
+5	8693240003254	Tadım Kabuklu Antep Fıstığı (180g)	Antep Fıstığı (kabuklu), tuz (%2).
+6	8693240003308	Tadım Ay Çekirdeği Bol Tuzlu (200g)	Ay çekirdeği, sofra tuzu (%4), Buğday Unu (Gluten) [kabuk yapışkanlığı amaçlı].
+7	8693240003353	Tadım Ay Çekirdeği Klasik (200g)	Ay çekirdeği, tuz (%2).
+8	8693240003407	Tadım Beyaz Kabak Çekirdeği (150g)	Kabak çekirdeği, sofra tuzu (%3).
+9	8693240003452	Tadım Tuzlu Sarı Leblebi (200g)	Nohut, sofra tuzu (%1.5).
+10	8693240003506	Tadım Çifte Kavrulmuş Sarı Leblebi	Nohut. [Katkı maddesi ve tuz içermez, özel fırın fırınlanmıştır].
+11	8693240003551	Tadım Beyaz Leblebi (200g)	Nohut, titanyum dioksit (kabuk beyazlatıcı), tuz.
+12	8693240003605	Tadım Kabuklu Yer Fıstığı (200g)	Kabuklu Yer Fıstığı, tuz (%1.5).
+13	8693240003650	Tadım Tuzlu Yer Fıstığı İçi (150g)	Yer Fıstığı İçi, bitkisel yağ, sofra tuzu (%2).
+14	8693240003704	Tadım Karışık Kuruyemiş Klasik (180g)	Yer fıstığı (%30), beyaz leblebi (%25), sarı leblebi (%20), fındık içi (%15), antep fıstığı (%10), tuz.
+15	8693240003759	Tadım Karışık Kuruyemiş Festival (150g)	Kaju (%25), badem içi (%25), fındık içi (%25), antep fıstığı (%25), bitkisel yağ, tuz.
+16	8693240003803	Tadım Karışık Kuruyemiş Naturel (150g)	Çiğ fındık, çiğ badem, kuru üzüm, ceviz içi, çiğ kaju. [Kavrulmamış ve tuzsuz karışım].
+17	8693240003858	Tadım Bar Klasik Kuruyemişli (30g)	Yer fıstığı (%35), fındık (%15), turna yemişi (cranberry %10), glukoz şurubu, şeker, yulaf ezmesi, emülgatör.
+18	8693240003902	Tadım Bar Antep Fıstıklı (30g)	Antep Fıstığı (%30), yer fıstığı (%20), hurma şurubu, pirinç patlağı, yulaf ezmesi, ayçiçek lesitini.
+19	8693240003957	Tadım Soslu Mısır Çerezi (150g)	Mısır (%80), bitkisel yağ, barbekü çeşnisi [tuz, aroma arttırıcı (monosodyum glutamat), tütsü aroması].
+20	8693240004015	Tadım Kalburlanmış Ceviz İçi (150g)	%100 Kelebek kurutulmuş Ceviz İçi.
+21	8693240004114	Tadım Kuru Üzüm Çekirdeksiz (200g)	Çekirdeksiz kuru üzüm, bitkisel yağ (eser miktarda yapışmayı önleyici), Kükürt Dioksit (Koruyucu).
+22	8693240004152	Tadım Günkurusu Kayısı (200g)	Doğal güneşte kurutulmuş bütün günkurusu kayısı.
+23	8693240004206	Tadım Kuru Kayısı Sarı (200g)	Kurutulmuş sarı kayısı, Kükürt Dioksit (Renk koruyucu sabitleyici).
+24	8693240004251	Tadım Kuru İncir (200g)	%100 Kurutulmuş Aydın İnciri.
+25	8693240004305	Tadım Kabuklu Ceviz (500g)	%100 Doğal kabuklu ceviz.
+
+
+Peyman Doritos / Nutzz / Bahçeden Serileri (26 - 50)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+26	8691657002015	Peyman Nutzz Taco Soslu Yer Fıstığı	Yer Fıstığı İçi (%70), buğday unu, nişasta, taco baharat çeşnisi (%4) [domates tozu, soğan tozu, acı biber, tuz, MSG], bitkisel yağ.
+27	8691657002053	Peyman Nutzz Barbekü Soslu Fıstık	Yer Fıstığı İçi, modifiye nişasta, barbekü çeşnisi, tuz, tütsü aroması, maya ekstraktı.
+28	8691657002107	Peyman Nutzz Klasik Tuzlu Fıstık	Yer Fıstığı İçi, bitkisel yağ (palm), tuz (%2.5).
+29	8691657003111	Peyman Bahçeden Çiğ Karışık (150g)	Çiğ badem içi (%25), çiğ kaju (%25), çekirdeksiz siyah kuru üzüm (%25), çiğ fındık içi (%25).
+30	8691657003159	Peyman Bahçeden Ortadoğu Güneşi	Kurutulmuş hurma küpleri, antep fıstığı, kurutulmuş incir parçaları, yer fıstığı.
+31	8691657003203	Peyman Bahçeden Tropikal Karışım	Kurutulmuş ananas, kurutulmuş mango, kaju, kurutulmuş papaya, muz cipsi.
+32	8691657004118	Peyman Çitliyo Kara Şimşek (180g)	Siyah ay çekirdeği, deniz tuzu (%3), Buğday Unu.
+33	8691657004156	Peyman Çitliyo Klasik Tuzlu (180g)	Beyaz çizgili ay çekirdeği, sofra tuzu (%2.5).
+34	8691657004200	Peyman Çitliyo Duble Tuzlu (180g)	Ay çekirdeği, yüksek oranlı sofra tuzu (%5), un kaplama.
+35	8691657004255	Peyman Çitliyo Tuzsuz (150g)	%100 Beyaz çizgili fırınlanmış tuzsuz ay çekirdeği.
+36	8691657005115	Peyman Doritos Soslu Akşam Güneşi	Yer fıstığı, sarı leblebi, beyaz leblebi, soslu mısır, doritos taco çeşnili mısır halkaları [mısır unu, baharat, asitlik düzenleyici].
+37	8691657005153	Peyman Doritos Soslu Gece Eğlencesi	Soslu kaju, soslu fındık, taco fıstık, cips gofret parçacıkları, acı biber çeşnisi, tuz.
+38	8691657006112	Peyman Doritos Soslu Kaju (130g)	Kaju Cevizi İçi, kaplama nişastası, Doritos peynir ve taco çeşnisi (%5) [Peynir Altı Suyu Tozu, MSG, baharat karışımı], tuz.
+39	8691657007126	Peyman Bahçeden Çiğ Kabak Çekirdeği	Çiğ, kabuksuz yeşil iç kabak çekirdeği. [Tuzsuz ve fırınlanmamıştır].
+40	8691657008116	Peyman Doritos Soslu Leblebi (150g)	Nohut, buğday nişastası, Doritos çeşni tozu, bitkisel yağ, sofra tuzu.
+41	8691657009120	Peyman Bahçeden Çiğ Ceviz İçi (150g)	%100 Ekstra açık renkli kurutulmuş kelebek Ceviz İçi.
+42	8691657010119	Peyman Bahçeden Çiğ Fındık İçi (150g)	%100 Çiğ Giresun kalite Fındık İçi.
+43	8691657011123	Peyman Bahçeden Kurutulmuş Turna Yemişi	Turna yemişi (cranberry), şeker, bitkisel yağ (ayçiçek).
+44	8691657012113	Peyman Bahçeden Kuru Erik Çekirdeksiz	Çekirdeksiz kuru erik, koruyucu (potasyum sorbat).
+45	8691657013127	Peyman Doritos Soslu Fındık (130g)	Fındık İçi, çıtır kaplama un karışımı, doritos çeşnisi, acı toz kapya biberi, tuz.
+46	8691657014110	Peyman Çitliyo Jalapeno Biberli (150g)	Ay çekirdeği, jalapeno biberi aromalı çeşni (%3) [soğan, sarımsak, acı biber özütü, maya ekstraktı], tuz.
+47	8691657015124	Peyman Çitliyo Barbekü Soslu (150g)	Ay çekirdeği, barbekü aromalı sos tozu, karamelize şeker, tuz.
+48	8691657016114	Peyman Nutzz Patlayan Acı Fıstık (60g)	Yer Fıstığı İçi, buğday unu, pul biber ekstraktı, acı çili biberi, tuz.
+49	8691657017128	Peyman Bahçeden Kuru Vişne (150g)	Çekirdeksiz kurutulmuş vişne, şeker.
+50	8691657018118	Peyman Bahçeden Lüks Karışım (150g)	Antep fıstığı (%30), fındık (%25), badem (%25), kaju (%20), bitkisel yağ, tuz.
+
+
+Papağan ve Tuğba Kuruyemiş Çeşitleri (51 - 70)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+51	8697412150015	Papağan Kavrulmuş Antep Fıstığı (150g)	Antep Fıstığı, tuz (%1.8).
+52	8697412150114	Papağan Kavrulmuş Badem İçi (150g)	Badem İçi, bitkisel yağ, sofra tuzu.
+53	8697412150220	Papağan Kavrulmuş Fındık İçi (150g)	Kavrulmuş Fındık İçi.
+54	8697412150350	Papağan Soslu Mısır Çerezi (150g)	Mısır, palm yağı, tuz, baharat esanslı tütsü çeşnisi.
+55	8697412150411	Papağan Kokteyl Kuruyemiş Lüks (150g)	Kaju, badem, fındık, antep fıstığı, sarı leblebi, tuz.
+56	8697412150558	Papağan Ay Çekirdeği Klasik (200g)	Ay çekirdeği, tuz (%3).
+57	8697412150619	Papağan Kabak Çekirdeği (150g)	Fırınlanmış kabak çekirdeği, tuz (%2.5).
+58	8697412150725	Papağan Çiğ Badem İçi (150g)	%100 Çiğ fırınlanmamış tuzsuz Badem İçi.
+59	8697412150817	Papağan Çiğ Fındık İçi (150g)	%100 Çiğ taze iç fındık.
+60	8697412150923	Papağan Beyaz Leblebi Elit (180g)	Nohut, beyaz mermer tozu kaplama, tuz.
+61	8680629001018	Tuğba Özel Kavrulmuş Badem İçi (250g)	Taze Badem İçi, deniz tuzu (%1). [Özel sıcak hava fırınlama].
+62	8680629001056	Tuğba Çifte Kavrulmuş Fındık (250g)	%100 Çifte kavrulmuş taze Fındık İçi.
+63	8680629001117	Tuğba Duble Kabuklu Antep Fıstığı	Ana çıtlatma Antep Fıstığı, kaya tuzu (%1.5).
+64	8680629001209	Tuğba Soslu Kaju Çerezi (250g)	Kaju İçi, çıtır hamur kaplama, sarımsak, soğan ve çili çeşnisi, tuz.
+65	8680629001254	Tuğba Çiğ Kokteyl Kuruyemiş (250g)	Çiğ badem, çiğ kaju, çiğ fındık, kelebek ceviz içi, turna yemişi.
+66	8680629001308	Tuğba Saray Kokteyl Kavrulmuş (250g)	Antep fıstığı, badem, fındık, kaju cevizi, lüks iç fıstık, tuz.
+67	8680629001353	Tuğba Dağ Kekiği Soslu Antep Fıstığı	Kabuklu Antep Fıstığı, zeytinyağı, kurutulmuş dağ kekiği (%0.5), tuz.
+68	8680629001407	Tuğba Gravür Sarı Leblebi (300g)	Nohut, odun ateşinde geleneksel çifte kavurma.
+69	8680629001452	Tuğba Tuzlu İç Kabak Çekirdeği (250g)	Kabuksuz iç yeşil kabak çekirdeği, fırınlanmış deniz tuzu.
+70	8680629001506	Tuğba Soslu Antep Fıstığı İçi (200g)	Çekirdeksiz Antep Fıstığı İçi, acı sos kaplama, modifiye nişasta, tuz.
+
+
+2. KATEGORİ: Paketli Hazır Kek Çeşitleri (71 - 135)
+
+
+Eti Paketli Kek Grubu (71 - 95)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+71	8690526001145	Eti Popkek Çikolatalı (60g)	Kek (%70) [Buğday Unu (Gluten), Şeker, Yumurta, Bitkisel Yağ (Palm), Nem Verici (Sorbitol), Kabartıcılar (Sodyum Asit Pirosülfat), Emülgatör, Tuz], Çikolata Sosu (%18) [Bitter Çikolata (%10)], Sütlü Çikolata Kaplama (%12).
+72	8690526001183	Eti Popkek Muzlu (60g)	Kek (%70), Muzlu Sos (%18) [Glukoz Şurubu, Şeker, Muz Püresi (%2), Doğal Renklendirici (Beta Karoten), Muz Aroması], Kakaolu Kaplama (%12).
+73	8690526001220	Eti Popkek Portakallı (60g)	Kek (%70), Portakal Sosu (%18) [Portakal Suyu Konsantresi (%3), Pektin, Sitrik Asit, Portakal Aroması], Kakao Kaplama (%12).
+74	8690526001251	Eti Popkek Çilekli (60g)	Kek (%70), Çilek Sosu (%18) [Çilek Püresi (%4), Pancar Kökü Kırmızısı, Sitrik Asit], Kakaolu Kaplama (%12).
+75	8690526001305	Eti Popkek Hindistan Cevizli (60g)	Kek (%70), Hindistan Cevizli Krema Sosu (%18) [Kurutulmuş Hindistan Cevizi Rendesi (%1)], Sütlü Çikolata Kaplama (%12).
+76	8690526111424	Eti Paykek Kakaolu Baton Kek (220g)	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ (Palm, Ayçiçek), Nem Verici (Gliserol), Kakao Tozu (%4), Glukoz Şurubu, Peynir Altı Suyu Tozu (Süt Ürünü), Kabartıcılar, Emülgatör, Tuz, Potasyum Sorbat (Koruyucu).
+77	8690526111455	Eti Paykek Mozaik Baton Kek (220g)	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Glukoz Şurubu, Mısır Nişastası, Kakao Tozu (%2), Yağsız Süt Tozu, Kabartıcılar, Emülgatör, Koruyucu.
+78	8690526111509	Eti Paykek Şifret Portakallı Baton	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Portakal Kabuğu Parçacıkları (%5) [Şeker, Portakal Kabuğu, Koruyucu], Bitter Çikolata Parçaları (%4).
+79	8690526091427	Eti Browni Intense Çikolatalı (50g)	Kek (%50) [Şeker, Yumurta, Bitkisel Yağ, Buğday Unu, Kakao tozu], Çikolata Kreması (%15), Çikolata Kaplama (%30) [Tam Yağlı Süt Tozu, Emülgatör (Soya Lesitini)], Bitter Çikolata Dekor (%5).
+80	8690526091458	Eti Browni Gold Çikolata Soslu (45g)	Kek (%80) [Şeker, Yumurta, Buğday Unu, Bitkisel Yağ, Kakao], Akışkan Çikolata Sosu (%20) [Glukoz Şurubu, Şeker, Bitter Çikolata (%15), Bitkisel Yağ, Koruyucu].
+81	8690526091502	Eti Browni Gold Fındıklı Kek (45g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kakao Tozu, Kavrulmuş Fındık Parçaları (%6), Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar, Koruyucu.
+82	8690526014114	Eti Topkek Kakaolu (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kakao Tozu (%3.8), Nem Verici (Gliserol), Glukoz Şurubu, Kabartıcılar, Emülgatör (Yağ Asitlerinin Mono ve Digliseritleri), Sofra Tuzu.
+83	8690526014152	Eti Topkek Meyveli (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Karışık Kurutulmuş Meyve (%8) [Kuru Üzüm, Portakal Kabuğu, Kayısı, Sülfit], Glukoz Şurubu, Emülgatör, Meyve Aroması.
+84	8690526014206	Eti Topkek Çilekli Kremalı (35g)	Kek (%80) [Buğday Unu, Yumurta, Şeker], Çilek Kreması Dolgusu (%20) [Şeker, Bitkisel Yağ, Çilek Tozu, Asitlik Düzenleyici, Doğal Renklendirici].
+85	8690526014251	Eti Topkek Portakallı Çikolatalı	Kek (%80) [Portakal Kabuğu Yağlı Kek], Damla Çikolata Parçacıkları (%20) [Şeker, Kakao Kitlesi, Kakao Yağı, Emülgatör].
+86	8690526001404	Eti Popkek Mini Kakaolu (144g Torba)	Mini Kekler [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kakao], Çikolata Sosu, Çikolata Kaplaması.
+87	8690526092158	Eti Canga Dolgulu Kek (50g)	Kek (%50) [Buğday Unu, Yumurta], Nuga Krema Dolgusu (%20), Sütlü Çikolata Kaplama (%20), Kavrulmuş Yer Fıstığı Parçaları (%10).
+88	8690526002302	Eti Crax Mini Kek Tuzlu Karamelli	Mini Kek Yapısı [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ], Tuzlu Karamel Dolgusu (%18) [Deniz Tuzu (%0.5), Karamel Sosu].
+89	8690526003115	Eti Adora Dilim Kek Vanilyalı (40g)	Buğday Unu, Şeker, Yumurta, Süt Kreması Dolgusu (%25) [Şeker, Bitkisel Yağ, Süt Tozu, Doğal Vanilya Ekstraktı], Nem Verici.
+90	8690526003153	Eti Adora Dilim Kek Kakaolu (40g)	Buğday Unu, Şeker, Yumurta, Kakao Kreması Dolgusu (%25) [Şeker, Kakao Tozu %10, Fındık Yağı], Nem Verici, Koruyucu.
+91	8690526093155	Eti Karam Gurme Kek Bar (45g)	Bitter Kakaolu Kek (%50), Yoğun Bitter Çikolata Kreması (%25), Bitter Çikolata Dış Kaplama (%25) [Kakao Kuru Maddesi %54].
+92	8690526111608	Eti Paykek İçim Dolgulu Akışkan Kek	Baton Kek (%80) [Buğday Unu, Şeker, Yumurta], İç Akışkan Çikolata Lavı (%20) [Glukoz Şurubu, Bitter Çikolata].
+93	8690526014404	Eti Topkek Muzlu Kremalı (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Muzlu Krema (%20) [Şeker, Muz Püresi, Nişasta, Doğal Renklendirici], Emülgatör.
+94	8690526091601	Eti Browni Intense Beyaz Çikolatalı	Kek (%50) [Kakaolu Kek], Çikolata Kreması (%15), Beyaz Çikolata Dış Kaplama (%30) [Tam Yağlı Süt Tozu], Kakaolu Dekor Çizgileri (%5).
+95	8690526001503	Eti Popkek Hindistan Cevizli Mini	Torba Paket: Mini Kek Grubu [Buğday Unu, Şeker, Yumurta], Hindistan Cevizi Dolgu Sosu, Sütlü Çikolata Kaplama.
+
+
+Ülker Paketli Kek Grubu (96 - 120)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+96	8690504221114	Ülker Dankek Rulo Pasta Çikolatalı	Kek (%65) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Nem Verici (Sorbitol)], Çikolatalı Dolgu Kreması (%35) [Şeker, Glukoz Şurubu, Kakao Tozu, Koruyucu (Potasyum Sorbat)].
+97	8690504221152	Ülker Dankek Pöti Kakaolu (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ (Palm), Kakao Tozu (%3.5), Nem Verici (Gliserol), Glukoz Şurubu, Kabartıcılar, Emülgatör, Sofra Tuzu.
+98	8690504221206	Ülker Dankek Pöti Meyveli (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Karışık Kuru Meyve Parçacıkları (%7) [Kuru Üzüm, Portakal Kabuğu], Glukoz Şurubu, Kabartıcılar, Meyve Aroması.
+99	8690504221251	Ülker Dankek Pöti Havuçlu Tarçınlı	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kurutulmuş Havuç Parçacıkları (%4), Öğütülmüş Tarçın (%0.5), Glukoz Şurubu, Kabartıcılar, Koruyucu.
+100	8690504231113	Ülker Olala Sufle Çikolatalı (70g)	Kek (%70) [Şeker, Yumurta, Buğday Unu, Bitter Çikolata (%5)], Akışkan Sıcak Çikolata Sosu (%30) [Glukoz Şurubu, Bitter Çikolata (%20), Nem Verici, Potasyum Sorbat].
+101	8690504241112	Ülker O'lala Mini Sufle (162g Torba)	Şeker, Yumurta, Buğday Unu, Bitkisel Yağ, Bitter Çikolata Parçacıkları, Nem Verici (Gliserol), Kakao, Emülgatör (Soya Lesitini), Potasyum Sorbat.
+102	8690504221503	Ülker Dankek Magma Çikolatalı (65g)	Kek (%65) [Buğday Unu, Şeker, Yumurta], Merkez Akışkan Çikolata Dolgusu (%20) [Bitter Çikolata], Kakao Dış Kaplama ve Çikolata Çizgileri (%15).
+103	8690504221558	Ülker Dankek Magma Karamelli (65g)	Kek (%65), Merkez Akışkan Akıcı Karamel Dolgusu (%20) [Glukoz Şurubu, Süt Yağı, Karamelize Şeker], Sütlü Çikolata Dış Kaplama (%15).
+104	8690504221602	Ülker Dankek Baton Kek Kakaolu (200g)	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Kakao Tozu (%4.5), Glukoz Şurubu, Yağsız Süt Tozu, Kabartıcılar, Emülgatör, Tuz, Koruyucu.
+105	8690504221657	Ülker Dankek Baton Kek Mozaik (200g)	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Glukoz Şurubu, Mısır Nişastası, Kakao Tozu (%1.8), Peynir Altı Suyu Tozu, Kabartıcılar, Emülgatör.
+106	8690504221701	Ülker Dankek Baton Meyveli (200g)	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Karışık Kuru Meyve Taneleri (%8) [Kuru Üzüm, Portakal Kabuğu], Glukoz Şurubu, Kabartıcılar, Limon Aroması.
+107	8690504141115	Ülker Albeni Kek Bar (40g)	Kek (%45) [Buğday Unu, Şeker, Yumurta, Nem Verici], Karamel (%27) [Glukoz Şurubu, Süt Tozu], Sütlü Çikolata Kaplama (%28) [Kakao Yağı, Emülgatör].
+108	8690504221800	Ülker Dankek Donut Kek Çikolatalı	Halka Kek (%70) [Buğday Unu, Şeker, Yumurta], Çikolatalı İç Dolgu Enjeksiyonu (%15), Çikolata Dış Kaplama ve Renkli Granüller (%15).
+109	8690504221909	Ülker Dankek Lokmalık Kakaolu (160g)	Torba Paket: Lokmalık Mini Kekler [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kakao Tozu (%5), Nem Verici, Kabartıcı, Tuz, Koruyucu].
+110	8690504221954	Ülker Dankek Lokmalık Havuçlu (160g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kurutulmuş Havuç Parçacıkları (%4.5), Öğütülmüş Tarçın (%0.6), Glukoz Şurubu, Kabartıcılar, Koruyucu.
+111	8690504222012	Ülker Dankek Lokmalık Kuru Üzümlü	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kuru Üzüm Parçaları (%8), Glukoz Şurubu, Kabartıcılar (Sodyum Karbonat), Potasyum Sorbat.
+112	8690504371116	Ülker O'lala Islak Kek (40g)	Kakaolu Nemli Kek (%75) [Buğday Unu, Şeker, Yumurta, Kakao], Yoğun Çikolata Sosu Kaplaması (%25) [Glukoz Şurubu, Bitter Çikolata].
+113	8690504222104	Ülker Dankek 8 Kek Çikolatalı (50g)	8 Şekilli Kek (%60) [Buğday Unu, Şeker, Yumurta], Kakao Kreması Dolgusu (%20), Sütlü Çikolata Kaplama ve Bitter Dekor Çizgileri (%20).
+114	8690504222159	Ülker Dankek 8 Kek Muzlu (50g)	8 Şekilli Kek (%60), Muzlu Krema Dolgusu (%20) [Şeker, Kurutulmuş Muz Tozu, Doğal Muz Aroması], Kakaolu Dış Kaplama Katmanı (%20).
+115	8690504222203	Ülker Dankek 8 Kek Çilekli (50g)	8 Şekilli Kek (%60), Çilekli Krema Dolgusu (%20) [Çilek Püresi], Kakaolu Dış Kaplama (%20).
+116	8690504021110	Ülker Halley Pasta Tadında Kek Bar	Yumuşak Bisküvi Kek (%50), Yoğun Marshmallow Dolgusu (%25) [Sığır Jelatini], Sütlü Çikolata Dış Kaplama Tabakası (%25).
+117	8690504222302	Ülker Dankek Rulo Pasta Çilekli	İsviçre Rulo Tipi Kek (%65) [Buğday Unu, Şeker, Yumurta], Çilek Aromalı Kremalı Dolgu (%35) [Çilek Özütü, Koruyucu].
+118	8690504222401	Ülker Dankek Pöti Portakallı (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Portakal Kabuğu Hücreleri (%3), Glukoz Şurubu, Nem Verici, Kabartıcılar, Doğal Portakal Aroması.
+119	8690504231205	Ülker Olala Frambuazlı Sufle (70g)	Kek (%70) [Şeker, Yumurta, Buğday Unu], Akışkan Ekşi Frambuaz Sosu (%30) [Frambuaz Püresi (%15), Kıvam Arttırıcı (Pektin), Sitrik Asit].
+120	8690504222500	Ülker Dankek Mozaik Dilim Kek (40g)	Mozaik Desenli Kek [Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Kakao Tozu (%2), Glukoz Şurubu, Peynir Altı Suyu Tozu, Koruyucu].
+
+
+Şölen Paketli Kek Grubu (121 - 135)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+121	8690526114357	Şölen Biscolata Luppo Sandviç Kek	Yumuşak Kek (%50) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Nem Verici], Marshmallow (%25) [Glukoz Şurubu, Sığır Jelatini], Sütlü Çikolata Kaplama (%25).
+122	8690526114401	Şölen Luppo Sandviç Kek Kara Orman	Kek (%50) [Buğday Unu, Şeker, Yumurta], Marshmallow (%20), Akışkan Ekşi Vişne Sosu (%10) [Vişne Konsantresi], Çikolata Kaplama (%20).
+123	8690526114456	Şölen Luppo Mini Sandviç Kek (180g)	Torba Aile Paketi: Mini Sandviç Kekler [Buğday Unu, Şeker, Yumurta, Marshmallow Dolgusu, Sütlü Çikolata Kaplama].
+124	8690526114555	Şölen Ozmo Ogopogo Kakaolu Kek (30g)	Ayıcık Şekilli Kek (%80) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Nem Verici], Kakao Kreması Dolgusu (%20) [Şeker, Emülgatör].
+125	8690526114562	Şölen Ozmo Ogopogo Çilekli Kek (30g)	Ayıcık Şekilli Kek (%80), Çilek Kremalı Dolgu Enjeksiyonu (%20) [Şeker, Çilek Tozu, Asitlik Düzenleyici, Doğal Renklendirici].
+126	8690526114579	Şölen Ozmo Ogopogo Kremalı Kek (30g)	Ayıcık Şekilli Kek (%80), Sütlü Alpina Vanilyalı Krema Dolgusu (%20) [Şeker, Süt Tozu, Doğal Vanilin Aroması].
+127	8690526115316	Şölen Boombastic Nugalı Kek Bar	Yumuşak Kek (%45) [Buğday Unu, Şeker, Yumurta], Çikolatalı Nuga Katmanı (%25) [Glukoz Şurubu], Sütlü Çikolata Kaplama (%20), Patlamış Pirinç (%10).
+128	8690526115910	Şölen Matra Akışkan Kek Çikolatalı	Fırınlanmış Kek Volkanı (%75) [Buğday Unu, Şeker, Yumurta], Merkez Sıvı Çikolata Sosu (%25) [Kakao Yağı, Kakao Kitlesi, Emülgatör].
+129	8690526116023	Şölen Luppo Sufle Çikolatalı (70g)	Kek (%70) [Buğday Unu, Şeker, Yumurta], Merkez Akışkan Çikolata Lavı Sosu (%30) [Glukoz Şurubu, Bitter Çikolata].
+130	8690526116054	Şölen Luppo Kek Bites Bitter Kaplı	Lokmalık Kek Küpleri [Kakaolu Kek], Yoğun Bitter Çikolata Dış Kaplama Katmanı (%30) [Kakao Kuru Maddesi %54].
+131	8690526116115	Şölen Amada Rulo Pasta Çikolatalı	İnce Sarılmış Kek (%65) [Buğday Unu, Şeker, Yumurta], Kakao Kreması Dolgusu (%35) [Şeker, Bitkisel Yağ, Kakao Tozu, Koruyucu].
+132	8690526116153	Şölen Amada Rulo Pasta Muzlu (200g)	Sarılmış Kek (%65), Muz Aromalı Yoğun Krema Dolgusu (%35) [Muz Püresi, Nişasta, Doğal Sarı Renklendirici Beta Karoten].
+133	8690526116207	Şölen Ozmo Fun Sürpriz Oyuncaklı Kek	Sütlü Yumuşak Çocuk Keki [Buğday Unu, Şeker, Taze Yumurta, Süt Kreması Dolgusu, Kakaolu Figür Süsleme].
+134	8690526116252	Şölen Boombastic Marshmallowlu Kek Bar	Kakaolu Yumuşak Kek (%50), Beyaz Yumuşak Marshmallow (%25) [Sığır Jelatini], Sütlü Çikolata Dış Kaplama Tabakası (%25).
+135	8690526116306	Şölen Biscolata Pia Çikolatalı Kek (100g)	Kek Kurabiye Tabanı (%60) [Buğday Unu, Şeker], Akışkan Bitter Çikolata Dolgusu (%40) [Kakao Kitlesi, Emülgatör].
+
+
+3. KATEGORİ: Makarna Çeşitleri (136 - 200)
+
+
+Filiz Makarna Serisi (136 - 155)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+136	8690623011112	Filiz Burgu Makarna (500g)	%100 Anadolu Durum Buğdayı İrmiği, Su. [Gluten içerir].
+137	8690623011129	Filiz Fiyonk Makarna (500g)	%100 Durum Buğdayı İrmiği, Su.
+138	8690623011136	Filiz Kalem Kesme (Penne) (500g)	%100 Durum Buğdayı İrmiği, Su.
+139	8690623011143	Filiz Çubuk Spagetti (500g)	%100 Durum Buğdayı İrmiği, Su.
+140	8690623011150	Filiz İnce Uzun Spagetti (500g)	%100 Durum Buğdayı İrmiği, Su.
+141	8690623011167	Filiz Boncuk Makarna (500g)	%100 Durum Buğdayı İrmiği, Su.
+142	8690623011174	Filiz Kelebek Makarna (Farfalle) (500g)	%100 Durum Buğdayı İrmiği, Su.
+143	8690623011181	Filiz Midye Kesme Makarna (500g)	%100 Durum Buğdayı İrmiği, Su.
+144	8690623011198	Filiz Yüksük Kesme Makarna (500g)	%100 Durum Buğdayı İrmiği, Su.
+145	8690623011204	Filiz Arpa Şehriye (500g)	%100 Durum Buğdayı İrmiği, Su.
+146	8690623011211	Filiz Tel Şehriye (500g)	%100 Durum Buğdayı İrmiği, Su.
+147	8690623011259	Filiz Yumurtalı Uzun Erişte (500g)	Durum Buğdayı İrmiği, Kurutulmuş Taze Yumurta (%5), Su.
+148	8690623011303	Filiz Tam Buğday Burgu (500g)	%100 Tam Buğday İrmiği (Kepek ve rüşeym dahil), Su.
+149	8690623011310	Filiz Tam Buğday Spagetti (500g)	%100 Tam Buğday İrmiği, Su.
+150	8690623011327	Filiz Tam Buğday Kalem (Penne) (500g)	%100 Tam Buğday İrmiği, Su.
+151	8690623011402	Filiz Sebzeli Burgu Çeşitleri (500g)	Durum Buğdayı İrmiği, Dehidre Ispanak Tozu (%2), Dehidre Domates Tozu (%2), Su.
+152	8690623011457	Filiz Vitaminli Çubuk Spagetti (500g)	Durum Buğdayı İrmiği, Vitamin Karışımı [B1, B2, B6, B12, Niasin, Folik Asit], Mineral (Demir), Su.
+153	8690623011501	Filiz Kuskus Makarna (500g)	%100 Durum Buğdayı İrmiği, Su. [Küresel granül yapı].
+154	8690623011556	Filiz Fırın Makarna (Bucatini) (500g)	%100 Durum Buğdayı İrmiği, Kalın Delikli Yapı, Su.
+155	8690623011600	Filiz Dalgalı Lazanya Yaprağı (500g)	Durum Buğdayı İrmiği, Su. [Haşlama gerektirmeyen fırınlık formül].
+
+
+Nuh'un Ankara Makarnası Serisi (156 - 175)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+156	8690554011116	Nuh'un Ankara Burgu (500g)	%100 Saf Durum Buğdayı İrmiği, Su. [Gluten içerir].
+157	8690554011123	Nuh'un Ankara Fiyonk (500g)	%100 Durum Buğdayı İrmiği, Su.
+158	8690554011130	Nuh'un Ankara Kalem (Penne rigate)	%100 Durum Buğdayı İrmiği, Su.
+159	8690554011147	Nuh'un Ankara Çubuk Spagetti (500g)	%100 Durum Buğdayı İrmiği, Su.
+160	8690554011154	Nuh'un Ankara İnce Çubuk (Angel Hair)	%100 Durum Buğdayı İrmiği, Su.
+161	8690554011161	Nuh'un Ankara Boncuk (500g)	%100 Durum Buğdayı İrmiği, Su.
+162	8690554011178	Nuh'un Ankara Kelebek (500g)	%100 Durum Buğdayı İrmiği, Su.
+163	8690554011185	Nuh'un Ankara Mantı Kesme (500g)	%100 Durum Buğdayı İrmiği, Su.
+164	8690554011192	Nuh'un Ankara Yüksük (Ditalini) (500g)	%100 Durum Buğdayı İrmiği, Su.
+165	8690554011208	Nuh'un Ankara Arpa Şehriye (500g)	%100 Durum Buğdayı İrmiği, Su.
+166	8690554011215	Nuh'un Ankara Tel Şehriye (500g)	%100 Durum Buğdayı İrmiği, Su.
+167	8690554011222	Nuh'un Ankara Yıldız Şehriye (500g)	%100 Durum Buğdayı İrmiği, Su.
+168	8690554011253	Nuh'un Ankara Kuskus (500g)	%100 Durum Buğdayı İrmiği, Su.
+169	8690554011307	Nuh'un Ankara Fırın Makarna (500g)	%100 Durum Buğdayı İrmiği, Su.
+170	8690554011406	Nuh'un Ankara Veronelli Lazanya (500g)	Durum Buğdayı İrmiği, Su.
+171	8690554011451	Nuh'un Ankara Vitaminli Spagetti	Durum Buğdayı İrmiği, B1, B2, Niasin, Demir Minerali, Su.
+172	8690554011505	Nuh'un Ankara Kepekli Burgu (500g)	Durum Buğdayı İrmiği, Ekstra Buğday Kepeği (%10), Su.
+173	8690554011550	Nuh'un Ankara Sebzeli Fiyonk (500g)	Durum Buğdayı İrmiği, Domates Püresi (%3), Ispanak Püresi (%3), Su.
+174	8690554011604	Nuh'un Ankara Triocolor Üç Renkli Burgu	Durum Buğdayı İrmiği, Kurutulmuş Domates, Kurutulmuş Ispanak, Su.
+175	8690554011659	Nuh'un Ankara Kalın Kesme Erişte (500g)	Buğday Unu, Durum İrmiği, Su, Sofra Tuzu.
+
+
+Barilla ve Pastavilla Premium Makarnalar (176 - 200)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+176	8013546301112	Barilla Spaghetti No:5 (500g)	%100 İtalyan Durum Buğdayı İrmiği, Su. [Gluten içerir, eser miktarda soya içerebilir].
+177	8013546301129	Barilla Penne Rigate (Kalem) (500g)	%100 Durum Buğdayı İrmiği, Su.
+178	8013546301136	Barilla Fusilli (Burgu) (500g)	%100 Durum Buğdayı İrmiği, Su.
+179	8013546301143	Barilla Farfalle (Kelebek) (500g)	%100 Durum Buğdayı İrmiği, Su.
+180	8013546301150	Barilla Tortiglioni (Kanalcık) (500g)	%100 Durum Buğdayı İrmiği, Su.
+181	8013546301167	Barilla Spaghettini No:3 (İnce) (500g)	%100 Durum Buğdayı İrmiği, Su.
+182	8013546301174	Barilla Lasagne (Lazanya Yaprağı) (500g)	Durum Buğdayı İrmiği, Su. [Ön haşlama gerektirmeyen kalın yaprak].
+183	8013546301204	Barilla Collezione Tagliatelle (500g)	Durum Buğdayı İrmiği, Taze Standart Yumurta (%19.3), Su.
+184	8013546301259	Barilla Integrale (Tam Buğday) Spagetti	%100 Tam Buğday İrmiği, Su. [Yüksek lif içerikli].
+185	8013546301266	Barilla Integrale (Tam Buğday) Penne	%100 Tam Buğday İrmiği, Su.
+186	8013546301303	Barilla Glutensiz (Senza Glutine) Spagetti	Beyaz Mısır Unu (%60), Sarı Mısır Unu (%35), Pirinç Unu (%5), Emülgatör (Yağ asitlerinin mono ve digliseritleri).
+187	8013546301310	Barilla Glutensiz (Senza Glutine) Penne	Beyaz Mısır Unu, Sarı Mısır Unu, Pirinç Unu, Emülgatör.
+188	8690624111118	Pastavilla Spagetti Klasik (500g)	Ekstra Durum Buğdayı İrmiği, Su. [Gluten içerir].
+189	8690624111125	Pastavilla Penne Rigate (Kalem) (500g)	Yüksek Kalite Durum Buğdayı İrmiği, Su.
+190	8690624111132	Pastavilla Fusilli (Burgu) (500g)	Durum Buğdayı İrmiği, Su.
+191	8690624111149	Pastavilla Pipette (Salyangoz) (500g)	Durum Buğdayı İrmiği, Su.
+192	8690624111156	Pastavilla Tagliatelle (Erişte Yuvası)	Durum Buğdayı İrmiği, Su.
+193	8690624111200	Pastavilla Linguine (Yassı Spagetti)	Durum Buğdayı İrmiği, Su.
+194	8690624111255	Pastavilla Arpa Şehriye Premium (500g)	Durum Buğdayı İrmiği, Su.
+195	8690624111309	Pastavilla Veggie (Sebzeli) Burgu (500g)	Durum Buğdayı İrmiği, Domates Konsantresi (%4), Ispanak Konsantresi (%4), Su.
+196	8690624111408	Pastavilla Kepekli Kalem (Penne) (500g)	Durum Buğdayı İrmiği, Doğal Saf Buğday Kepeği, Su.
+197	8690624111507	Pastavilla Gnocchi (Deniz Kabuğu) (500g)	Durum Buğdayı İrmiği, Su.
+198	8690624111552	Pastavilla Risoni (Pirinç Taneli Şehriye)	Durum Buğdayı İrmiği, Su.
+199	8690624111606	Pastavilla Stelline (Yıldız Şehriye)	Durum Buğdayı İrmiği, Su.
+200	8690624111651	Pastavilla Fırın Makarna Long (500g)	Delikli Kalın Durum Buğdayı İrmiği, Su.

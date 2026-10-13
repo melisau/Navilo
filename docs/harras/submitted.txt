@@ -1,0 +1,130 @@
+FİLE Market'in kendi üretimi olan Harras markasına ait farklı kategorilerden (çikolata, süt ürünleri, atıştırmalık, bakliyat ve glutensiz ürün grubu) derlenen 100 adet ürünün adı, barkodu ve resmi ambalaj arkası içerik listeleri aşağıda tablolar halinde gruplandırılmıştır.
+
+1. Çikolatalar ve Sürülebilir Kremler (1-20)
+
+
+No	Ürün Barkodu	Ürün Adı	İçindekiler Listesi
+1	8695077129444	Bütün Fındıklı Sütlü Çikolata (65g)	Sütlü çikolata (%82) [Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, poligliserol polirisinoleat), aroma verici (vanilin)], Fındık (%18).
+2	8695077129468	Bütün Fındıklı Sütlü Çikolata (130g)	Sütlü çikolata (%82) [Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, emülgatör (ayçiçek lesitini), aroma verici], Kavrulmuş bütün fındık (%18).
+3	8695077043641	Bitter Tablet Çikolata (%60 Kakao)	Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini). [Kakao kuru maddesi en az %60].
+4	8695077122285	Kakaolu Fındık Ezmesi (350g)	Fındık (%35), şeker, fındık yağı, yağsız süt tozu, kakao tozu, emülgatör (ayçiçek lesitini), doğal vanilya aroması. [İlave bitkisel yağ içermez].
+5	8695077122292	%100 Fıstık Ezmesi (Şekersiz)	%100 Kavrulmuş yer fıstığı. [İlave şeker, tatlandırıcı ve koruyucu içermez].
+6	8695077122308	Şekersiz Çikolatalı Fındık Ezmesi	Kavrulmuş fındık (%40), tatlandırıcı (maltitol), bitkisel lif (inulin), kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).
+7	8695077134011	Sütlü Çikolata Dilimleri (200g)	Şeker, kakao yağı, tam yağlı süt tozu (%18), kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini), aroma verici (vanilin).
+8	8695077134028	Antep Fıstıklı Sütlü Çikolata (80g)	Sütlü çikolata (%85) [Şeker, kakao yağı, süt tozu, kakao kitlesi, emülgatör], Antep fıstığı (%15).
+9	8695077134035	Beyaz Çikolatalı Bisküvili Tablet	Beyaz çikolata (%80) [Şeker, kakao yağı, tam yağlı süt tozu, emülgatör], Kakao bisküvi parçacıkları (%20) [Buğday unu, şeker, bitkisel yağ, kakao tozu, kabartıcı].
+10	8695077134042	Bitter Kuvertür Çikolata (200g)	Kakao kitlesi, şeker, kakao yağı, emülgatör (ayçiçek lesitini). [Kakao kuru maddesi en az %54].
+11	8695077134059	Sütlü Kuvertür Çikolata (200g)	Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, emülgatör (ayçiçek lesitini), vanilin aroması.
+12	8695077134066	Beyaz Kuvertür Çikolata (200g)	Şeker, kakao yağı, tam yağlı süt tozu, yağsız süt tozu, emülgatör (ayçiçek lesitini).
+13	8695077134073	%80 Yoğun Bitter Çikolata (80g)	Kakao kitlesi, kakao tozu, şeker, kakao yağı, emülgatör (ayçiçek lesitini). [Kakao kuru maddesi en az %80].
+14	8695077134080	Portakallı Bitter Çikolata (80g)	Bitter çikolata (%88) [Kakao kitlesi, şeker, emülgatör], Sülfitlenmiş kurutulmuş portakal parçacıkları (%12), doğal portakal aroması.
+15	8695077134097	Sütlü Damla Çikolata (150g)	Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, emülgatör (ayçiçek lesitini).
+16	8695077134103	Bitter Damla Çikolata (150g)	Kakao kitlesi, şeker, kakao yağı, emülgatör (ayçiçek lesitini).
+17	8695077134110	Bademli Sütlü Çikolata (80g)	Şeker, kakao yağı, tam yağlı süt tozu, kavrulmuş badem içi (%15), kakao kitlesi, emülgatör (ayçiçek lesitini).
+18	8695077134127	Çilekli Beyaz Çikolata (80g)	Şeker, kakao yağı, tam yağlı süt tozu, dondurularak kurutulmuş çilek parçaları (%5), emülgatör (ayçiçek lesitini), aroma verici.
+19	8695077134134	Karamelli Sütlü Çikolata (80g)	Şeker, kakao yağı, tam yağlı süt tozu, karamel parçacıkları (%10), kakao kitlesi, emülgatör (ayçiçek lesitini), doğal karamel aroması.
+20	8695077134141	Sürülebilir Sütlü Kakao Kreması	Şeker, bitkisel yağ (palm, ayçiçek), yağsız süt tozu (%10), kakao tozu (%7), peynir altı suyu tozu, emülgatör (ayçiçek lesitini), vanilin.
+
+
+2. Süt, Peynir ve Yoğurt Çeşitleri (21-40)
+
+
+No	Ürün Barkodu	Ürün Adı	İçindekiler Listesi
+21	8695077029423	Tam Yağlı UHT İçme Sütü (1 L)	%100 UHT İnek Sütü (En az %3.5 süt yağı içerir).
+22	8695077112583	Laktozsuz Yarım Yağlı UHT Süt	Yarım yağlı inek sütü, laktaz enzimi.
+23	8695077112590	Organik Pastörize İnek Sütü	%100 Organik sertifikalı pastörize inek sütü.
+24	8695077112606	Sürülebilir Lor Peyniri (400g)	Peynir altı suyu, inek sütü, tuz, sodyum laktat (kıvam düzenleyici).
+25	8695077112613	Organik Labne Peyniri (200g)	Organik pastörize inek sütü, organik süt kreması, yoğurt kültürü, tuz.
+26	8695077112620	Kelle Loru (500g)	İnek sütü peynir altı suyu, tuz.
+27	8695077112637	Hellim Peyniri (250g)	Pastörize inek, koyun ve keçi sütü karışımı, tuz, peynir mayası, nane.
+28	8695077112644	Bergama Tulum Peyniri	Pastörize inek sütü, peynir mayası, tuz. [En az 6 ay olgunlaştırılmıştır].
+29	8695077112651	Laktozsuz Tam Yağlı Ayran	Pastörize inek sütü, ayran kültürü, su, tuz, laktaz enzimi.
+30	8695077112668	Laktozsuz Sade Kefir (1 L)	Pastörize inek sütü, kefir kültürü, laktaz enzimi.
+31	8695077112675	Süzme Yoğurt (900g)	Pastörize inek sütü, yoğurt kültürü. [Kuru madde oranı yüksektir].
+32	8695077112682	Yarım Yağlı UHT Süt (1 L)	%100 UHT İnek Sütü (En az %1.5 süt yağı içerir).
+33	8695077112699	Yağsız (Skimmed) UHT Süt	%100 UHT İnek Sütü (En az %0.15 süt yağı içerir).
+34	8695077112705	Kaymaklı Tava Yoğurdu (1250g)	Pastörize inek sütü, süt kreması, yoğurt kültürü.
+35	8695077112712	Tam Yağlı Taze Kaşar Peyniri	Pastörize inek sütü, peynir mayası, tuz.
+36	8695077112729	Olgunlaştırılmış Beyaz Peynir	Pastörize inek sütü, peynir mayası, şirden mayası, tuz. [Dokuz ay olgunlaştırılmıştır].
+37	8695077112736	Sürülebilir Taze Peynir (Sade)	İnek sütü, süt kreması, stabilizatör (lokust fasulyesi sakızı), tuz, kültür.
+38	8695077112743	Krem Peynir (400g)	Beyaz peynir, eritme tuzları, tereyağı, su, peynir altı suyu tozu.
+39	8695077112750	Çilekli Kuark (150g)	Pastörize inek sütü, çilek sosu (%15) [çilek, şeker, nişasta], peynir kültürü.
+40	8695077112767	Kayısı ve Tahıllı Kefir (250ml)	Pastörize inek sütü, kayısı püresi (%10), yulaf ezmesi (%2), kefir kültürü.
+
+
+3. Bisküvi, Kuru Yemiş ve Atıştırmalıklar (41-60)
+
+
+No	Ürün Barkodu	Ürün Adı	İçindekiler Listesi
+41	8695077109484	Crunchies Çikolatalı Bisküvi	Sütlü çikolata kaplama [şeker, kakao yağı, süt tozu, kakao kitlesi, emülgatör], buğday unu (gluten), bitkisel yağ, şeker, kabartıcılar, tuz.
+42	8695077109491	Tarçınlı İnce Bisküvi (Lotus Tipi)	Buğday unu (gluten), şeker, bitkisel yağ (palm, kolza), şeker şurubu, kabartıcı (sodyum hidrojen karbonat), soya unu, tuz, tarçın (%0.5).
+43	8695077109507	New Yorker Çikolatalı Kurabiye	Buğday unu, parça çikolata (%25) [şeker, kakao kitlesi, kakao yağı, emülgatör], bitkisel yağ, şeker, glukoz-fruktoz şurubu, tuz, kabartıcılar.
+44	8695077109514	Patlatmalık Mısır (Cin Mısır)	%100 Cin mısır taneleri.
+45	8695077109521	Soslu Yer Fıstığı (Kri Kri)	Yer fıstığı (%50), buğday unu, nişasta, bitkisel yağ, tuz, kajun baharat çeşnisi, aroma arttırıcı (monosodyum glutamat).
+46	8695077109538	Kavrulmuş Kaju Cevizi (150g)	Kaju cevizi içi, bitkisel yağ, tuz.
+47	8695077109545	Çiğ Badem İçi (150g)	%100 Çiğ badem içi. [Kavrulmamış ve tuzsuzdur].
+48	8695077109552	Pirinç Patlağı (Tuzlu & İnce)	Kahverengi pirinç (%98), deniz tuzu (%1.5), ayçiçek lesitini.
+49	8695077109569	Yer Fıstıklı Proteinli Toplar	Hurma, yer fıstığı (%25), peynir altı suyu proteini konsantresi (süt ürünü), kakao kitlesi, deniz tuzu.
+50	8695077109576	Çilekli Proteinli Toplar	Hurma, nohut unu, peynir altı suyu proteini, kurutulmuş çilek tozu (%4), hindistan cevizi.
+51	8695077109583	Fıstıklı Proteinli Toplar	Hurma, Antep fıstığı (%20), bezelye proteini izolatı, hindistan cevizi yağı, kakao.
+52	8695077109590	Yulaflı ve Lifli Bisküvi (300g)	Yulaf ezmesi (%35), buğday unu, bitkisel yağ, şeker, tam buğday unu, glukoz şurubu, kabartıcılar, tuz.
+53	8695077109606	Kavrulmuş İç Fındık (150g)	Kavrulmuş fındık içi.
+54	8695077109613	Tuzlu Kavrulmuş Kabak Çekirdeği	Kabak çekirdeği, tuz.
+55	8695077109620	Ceviz İçi (Görsel Seçme 150g)	%100 Kurutulmuş kelebek ceviz içi.
+56	8695077109637	Kuru Meyve Kokteyli (200g)	Kuru üzüm, kurutulmuş kayısı, kurutulmuş incir parçaları, turna yemişi (cranberry).
+57	8695077109644	Çıtır Soslu Mısır Çerezi	Mısır, bitkisel yağ, barbekü çeşnisi, tuz, tütsü aroması.
+58	8695077109651	Grisini (Sade & Zeytinyağlı)	Buğday unu, sızma zeytinyağı (%8), bitkisel yağ, yaş maya, tuz, malt unu.
+59	8695077109668	Çikolata Kaplı Pişmaniye	Şeker, buğday unu, tereyağı, asitlik düzenleyici (sitrik asit), sütlü çikolata kaplama [şeker, kakao yağı, süt tozu, emülgatör].
+60	8695077109675	Vanilyalı Macaron (Maron)	Şeker, badem unu, yumurta akı, bitkisel yağ, su, vanilya ekstraktı, stabilizatör.
+
+
+4. Bakliyat, Tahıl ve Sos Grubu (61-80)
+
+
+No	Ürün Barkodu	Ürün Adı	İçindekiler Listesi
+61	8684992004226	Basmati Pirinç (2.5 kg)	%100 Basmati Pirinç.
+62	8684992004233	Osmancık Pirinç (2.5 kg)	%100 Osmancık Tipi Pirinç.
+63	8684992004240	Kırmızı Mercimek (1 kg)	%100 Futbol tipi kırmızı mercimek.
+64	8684992004257	Pilavlık Bulgur (1 kg)	%100 Durum buğdayından üretilmiş pilavlık bulgur.
+65	8684992004264	Koçbaşı Nohut (1 kg)	%100 Koçbaşı tipi nohut taneleri.
+66	8684992004271	Dermason Kuru Fasulye (1 kg)	%100 Dermason cinsi kuru fasulye.
+67	8684992004288	Yeşil Mercimek (1 kg)	%100 Yeşil mercimek taneleri.
+68	8684992004295	Yerli Pilavlık Pirinç (5 kg)	%100 Pilavlık yerli pirinç.
+69	8684992004301	Aşurelik Buğday (1 kg)	%100 Kabuğu soyulmuş aşurelik buğday (gluten).
+70	8684992004318	Lütenitsa Balkan Sosu (300g)	Közlenmiş patlıcan (%35), közlenmiş kırmızı biber (%35), domates salçası, ayçiçek yağı, şeker, sarımsak, tuz, baharat karışımı.
+71	8684992004325	Acı Biber Sosu (Hot Chili)	Acı kırmızı biber (%50), su, sirke, şeker, tuz, sarımsak, kıvam arttırıcı (ksantan gam).
+72	8684992004332	Domates Salçası (830g)	%100 Domates salçası. [Kuru madde oranı en az %28, ilave tuz içermez].
+73	8684992004349	Biber Salçası (Acı - 700g)	Kırmızı acı biber, tuz, asitlik düzenleyici (sitrik asit).
+74	8684992004356	Geleneksel Domates Rendesi	Domates (%99), tuz, asitlik düzenleyici (limon suyu konsantresi).
+75	8684992004363	Sızma Zeytinyağı (1 L)	%100 Doğal sızma zeytinyağı. [Maksimum asitlik %0.8].
+76	8684992004370	Riviera Zeytinyağı (1 L)	Rafine zeytinyağı ve prina yağı harici doğrudan zeytinden elde edilen zeytinyağı karışımı.
+77	8684992004387	Kornişon Turşusu (Alman Tipi)	Kornişon salatalık, su, sirke, şeker, tuz, dereotu, hardal tohumu, sarımsak aroması.
+78	8684992004394	Sarımsak Turşusu (200g)	Ayıklanmış sarımsak dişleri, su, sirke, tuz, asitlik düzenleyici.
+79	8684992004400	Mısır Koçanı Turşusu	Mini mısır koçanları, su, sirke, tuz, şeker, stabilizatör.
+80	8684992004417	Elma Sirkesi (Doğal Fermante)	Doğal fermente elma sirkesi. [Koruyucu ve yapay aroma içermez].
+
+
+5. Dondurulmuş Gıdalar, İçecekler ve Glutensiz Seri (81-100)
+
+
+No	Ürün Barkodu	Ürün Adı	İçindekiler Listesi
+81	8682536024921	Glutensiz Çiğ Karabuğday Unu	%100 Çiğ karabuğday tanelerinden öğütülmüş un.
+82	8682536024938	Glutensiz Badem Unu (200g)	%100 Kabuğu soyulmuş bademlerden üretilen badem unu.
+83	8682536024945	Glutensiz Beyaz Kinoa (500g)	%100 Beyaz kinoa taneleri.
+84	8682536024952	Glutensiz Chia Tohumu (250g)	%100 Salvia hispanica (Chia) tohumu.
+85	8682536024969	Glutensiz Kırmızı Mercimek Penne	%100 Kırmızı mercimek unu ve su. [Glutensiz ve yüksek proteinli makarna].
+86	8682536024976	Glutensiz Kırmızı Mercimek Fusilli	Kırmızı mercimek unu, su.
+87	8695077141019	Maraş Usulü Keçi Sütlü Dondurma	Keçi sütü (%75), şeker, salep. [Renklendirici, yapay kıvam artırıcı ve aroma içermez].
+88	8695077141026	Limonlu Sorbe (500g)	Su, şeker, limon suyu (%20), limon kabuğu rendesi, bitkisel lifler (kıvam amaçlı).
+89	8695077141033	Dondurulmuş Gurme Mantı	Hamur [buğday unu, su, yumurta, tuz], İç harç [dana kıyması (%40), kuru soğan, karabiber, tuz].
+90	8695077141040	Dondurulmuş Patatesli Hingel	Hamur [buğday unu, su, tuz], İç harç [haşlanmış patates (%80), soğan, tuz, pul biber, ayçiçek yağı].
+91	8695077141057	Dana İlikli Kemik Suyu (6x60ml)	%100 Dana ilikli kemik suyu, defne yaprağı, elma sirkesi. [Mekanik süzülmüş, katkısız].
+92	8695077141064	Kajun Soslu Bebek Patates	Kabuklu bebek patates, ayçiçek yağı, kajun baharat çeşnisi (sarımsak tozu, soğan tozu, kekik, tatlı toz biber, tuz).
+93	8695077141071	Dondurulmuş Akdeniz Meyveleri	Dondurulmuş çilek, ahududu, böğürtlen, yaban mersini karışımı (eşit oranlarda).
+94	8695077141088	Dondurulmuş Çikolatalı Sufle	Şeker, yumurta, bitter çikolata [kakao kitlesi, şeker, emülgatör], tereyağı, buğday unu, kakao tozu.
+95	8695077141095	Kıymalı Fındık Pide (400g)	Hamur [buğday unu, su, maya, tuz], Üst harç [dana kıyması (%35), domates, biber, soğan, maydanoz, baharat].
+96	8695077141101	%100 Karışık Meyve Suyu (1 L)	Elma suyu konsantresi, üzüm suyu konsantresi, şeftali püresi. [İlave şeker ve su içermez].
+97	8695077141118	Bergamot Aromalı Soğuk Çay	Su, şeker, asitlik düzenleyici (sitrik asit), siyah çay ekstraktı, doğal bergamot aroması.
+98	8695077141125	Seylan Çayı (Ceylon Tea - 500g)	%100 Büyük yapraklı Seylan (Sri Lanka) siyah çayı.
+99	8695077141132	Şekersiz Badem Sütü (1 L)	Su, badem (%2), trikalsiyum fosfat, deniz tuzu, stabilizatörler (jellan sakızı, keçiboynuzu gamı), vitaminler (B2, B12, E, D2).
+100	8695077141149	Glutensiz Çilekli Granola	Glutensiz yulaf ezmesi (%60), turna yemişi, dondurularak kurutulmuş çilek (%5), elma suyu konsantresi, sızma zeytinyağı, fındık.

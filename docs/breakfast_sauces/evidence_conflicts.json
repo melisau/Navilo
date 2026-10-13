@@ -1,0 +1,50 @@
+[
+  {
+    "brand": "Tamek",
+    "codes": [
+      "8690575171513",
+      "8690575171520"
+    ],
+    "status": "conflicting_formulas_not_imported",
+    "source_urls": [
+      "https://www.carrefoursa.com/tamek-findik-ve-cevizli-aci-sos-300-g-p-30221982",
+      "https://www.tkkoop.com.tr/urun/tamek-kahvaltilik-sos-300-g",
+      "https://www.fiyatarsivi.com/kahvaltilik-sos/tamek-kahvaltilik-aci-sos-300-g%2C2309ea6e-efef-4ed5-b494-c2112ea8df6b"
+    ],
+    "note": "Bir içerik sürümünde %4 ceviz/%4 yer fıstığı; başka sürümde %2 ceviz/%8 yer fıstığı. Formül-barkod sürümü teyit edilmedi."
+  },
+  {
+    "brand": "Kühne",
+    "codes": [
+      "8696027016913"
+    ],
+    "status": "formula_barcode_mapping_unresolved_not_imported",
+    "source_urls": [
+      "https://www.migros.com.tr/kuhne-kahvaltilik-sos-300-g-p-8ae089",
+      "https://www.migros.com.tr/kuhne-kahvaltilik-sos-300-g-p-89e018"
+    ],
+    "note": "Aynı ad/gramaj altında biri salça, diğeri %72 kapya biber bazlı iki içerik var. Hangi barkod/formüle ait oldukları kesinleştirilmedi."
+  },
+  {
+    "brand": "Sosero",
+    "codes": [
+      "8680395186828"
+    ],
+    "status": "incomplete_ingredient_evidence_not_imported",
+    "source_urls": [
+      "https://sosero.com/urunler/kahvaltilik-acuka/300-cc-cam-kavanoz"
+    ],
+    "note": "Resmi barkod ve 290g mevcut; genel tanıtım metni tam etiket içeriği yerine geçirilmedi. Pazaryerindeki başka kayıtta soya sosu içeriği yanlış eşlenmiş görünüyor."
+  },
+  {
+    "brand": "Burcu",
+    "codes": [
+      "8691573082801"
+    ],
+    "status": "incomplete_ingredient_evidence_not_imported",
+    "source_urls": [
+      "https://www.burcu.com.tr/urun/burcu-kahvaltilik-sos-aci/"
+    ],
+    "note": "Resmi acılı ürün barkodu mevcut; tatlı sosun içerik listesi acılı ürüne kopyalanmadı."
+  }
+]

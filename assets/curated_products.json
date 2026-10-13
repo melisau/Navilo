@@ -8,7 +8,9 @@
     "checked_at": "2026-10-12T00:00:00Z",
     "allergens": [],
     "traces": [],
-    "labels": ["en:gluten-free"]
+    "labels": [
+      "en:gluten-free"
+    ]
   },
   {
     "code": "8681630799919",
@@ -17,9 +19,18 @@
     "source_name": "Züber ürün etiketi bilgisi (üretici)",
     "source_url": "https://www.zuber.com/products/nutzilla-findik-kremasi-315g-x-1-adet",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["hazelnut", "milk"],
-    "traces": ["peanuts", "pistachios"],
-    "labels": ["en:gluten-free", "en:no-added-sugar"]
+    "allergens": [
+      "hazelnut",
+      "milk"
+    ],
+    "traces": [
+      "peanuts",
+      "pistachios"
+    ],
+    "labels": [
+      "en:gluten-free",
+      "en:no-added-sugar"
+    ]
   },
   {
     "code": "8681630361017",
@@ -28,9 +39,15 @@
     "source_name": "Züber ürün etiketi bilgisi (üretici)",
     "source_url": "https://www.migros.com.tr/zuber-nutzilla-kakaolu-findik-kremasi-315-g-p-6d19e1",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["hazelnut", "milk"],
+    "allergens": [
+      "hazelnut",
+      "milk"
+    ],
     "traces": [],
-    "labels": ["en:gluten-free", "en:no-added-sugar"]
+    "labels": [
+      "en:gluten-free",
+      "en:no-added-sugar"
+    ]
   },
   {
     "code": "8680181109420",
@@ -39,9 +56,13 @@
     "source_name": "Torku katalog barkodu + Migros ürün etiketi bilgisi",
     "source_url": "https://www.migros.com.tr/torku-laktozsuz-sut-1-l-p-a800db",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["milk"],
+    "allergens": [
+      "milk"
+    ],
     "traces": [],
-    "labels": ["tr:laktozsuz"]
+    "labels": [
+      "tr:laktozsuz"
+    ]
   },
   {
     "code": "8690577039125",
@@ -50,7 +71,9 @@
     "source_name": "Söke üretici içerik bilgisi + ürün katalog barkodu",
     "source_url": "https://www.soke.com.tr/urun/soke-tam-bugday-unu",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["gluten"],
+    "allergens": [
+      "gluten"
+    ],
     "traces": [],
     "labels": []
   },
@@ -61,9 +84,13 @@
     "source_name": "Pınar ürün barkod kataloğu + Migros ürün etiketi bilgisi",
     "source_url": "https://www.migros.com.tr/pinar-sut-denge-laktozsuz-1-l-p-a80029",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["milk"],
+    "allergens": [
+      "milk"
+    ],
     "traces": [],
-    "labels": ["tr:laktozsuz"]
+    "labels": [
+      "tr:laktozsuz"
+    ]
   },
   {
     "code": "8690565030219",
@@ -72,9 +99,13 @@
     "source_name": "Ürün etiketi ve barkod kaydı (Laktozsuz Türkiye); Pınar ürün bilgisi",
     "source_url": "https://laktozsuz.org/pinar-protein-sade-laktozsuz-sut-1-l/",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["milk"],
+    "allergens": [
+      "milk"
+    ],
     "traces": [],
-    "labels": ["tr:laktozsuz"]
+    "labels": [
+      "tr:laktozsuz"
+    ]
   },
   {
     "code": "8681185086090",
@@ -83,9 +114,14 @@
     "source_name": "Flavus ürün etiketi bilgisi; barkod ürün kaydıyla eşleştirildi",
     "source_url": "https://flavus.com/products/fellas-yuksek-protein-bar-hindistan-cevizi-ve-kakao-45-gr",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["milk"],
+    "allergens": [
+      "milk"
+    ],
     "traces": [],
-    "labels": ["en:gluten-free", "en:no-added-sugar"]
+    "labels": [
+      "en:gluten-free",
+      "en:no-added-sugar"
+    ]
   },
   {
     "code": "8683650277958",
@@ -94,9 +130,18 @@
     "source_name": "Karaca ürün içeriği ve barkod bilgisi",
     "source_url": "https://www.karaca.com/urun/fropie-probiyotik-mix",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["peanuts", "brazil_nuts"],
-    "traces": ["cashews", "almonds", "tree_nuts"],
-    "labels": ["en:gluten-free"]
+    "allergens": [
+      "peanuts",
+      "brazil_nuts"
+    ],
+    "traces": [
+      "cashews",
+      "almonds",
+      "tree_nuts"
+    ],
+    "labels": [
+      "en:gluten-free"
+    ]
   },
   {
     "code": "8682815018856",
@@ -105,7 +150,9 @@
     "source_name": "Karaca ürün içeriği ve barkod bilgisi",
     "source_url": "https://www.karaca.com/urun/fropie-cig-ic-badem-75-g",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["almonds"],
+    "allergens": [
+      "almonds"
+    ],
     "traces": [],
     "labels": []
   },
@@ -127,8 +174,3137 @@
     "source_name": "Züber üretici içerik bilgisi; barkod Avansas ürün kaydıyla eşleştirildi",
     "source_url": "https://www.zuber.com/products/zuber-bademli-hi-protein-bar-45gr",
     "checked_at": "2026-10-12T00:00:00Z",
-    "allergens": ["almonds", "milk"],
+    "allergens": [
+      "almonds",
+      "milk"
+    ],
     "traces": [],
-    "labels": ["en:gluten-free"]
+    "labels": [
+      "en:gluten-free"
+    ]
+  },
+  {
+    "code": "8683200063055",
+    "name": "Fellas %100 Fıstık Ezmesi 300 g",
+    "ingredients": "Yer fıstığı (%100).",
+    "source_name": "Özel Beslenme ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/fellas-100-fistik-ezmesi-300g",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "peanuts"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8683200063314",
+    "name": "Fellas Ballı Fıstık Ezmesi 300 g",
+    "ingredients": "Yer fıstığı (%95), bal (süzme çiçek balı %5).",
+    "source_name": "Özel Beslenme ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/fellas-balli-fistik-ezmesi-300g",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "peanuts"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684207695027",
+    "name": "Fellas Yer Fıstığı ve Kakaolu Meyve Bar 35 g",
+    "ingredients": "Hurma, yer fıstığı (%18), pirinç unu, hurma suyu, nohut unu, kakao kitlesi (%2) (kakao yağı, kakao tozu), kakao tozu (%1), hindibakökü lifi (inülin), doğal aroma verici (%0,1).",
+    "source_name": "Özel Beslenme ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/fellas-meyve-bar-yer-fistigi-ve-kakaolu-35g",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "peanuts"
+    ],
+    "traces": [],
+    "labels": [
+      "en:gluten-free"
+    ]
+  },
+  {
+    "code": "8681185086267",
+    "name": "Fellas Elmalı ve Tarçınlı Vitamin & Meyve Bar 35 g",
+    "ingredients": "Hurma, pirinç unu, hurma suyu, kurutulmuş elma (%12), nohut unu, yulaf ezmesi, kakao yağı, vitamin karışımı (C vitamini, çinko), öğütülmüş tarçın (%0,5), propolis (%0,06).",
+    "source_name": "Özel Beslenme ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/fellas-elmali-ve-tarcinli-vitamin-meyve-bar-35gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": [
+      "en:gluten-free"
+    ]
+  },
+  {
+    "code": "8681185086281",
+    "name": "Fellas Turna Yemişi ve Kabak Çekirdeği Vitamin & Meyve Bar 35 g",
+    "ingredients": "Hurma, pirinç unu, hurma suyu, nohut unu, kabak çekirdeği (%9), kurutulmuş turna yemişi (%8), yulaf ezmesi, kakao tozu, kakao yağı, vitamin karışımı (C vitamini, çinko), propolis (%0,06), doğal aroma verici (%0,05).",
+    "source_name": "Özel Beslenme ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/fellas-turna-yemisi-ve-kabak-cekirdegi-vitamin-meyve-bar-35gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": [
+      "en:gluten-free"
+    ]
+  },
+  {
+    "code": "8681630301013",
+    "name": "Züber Lokma Hindistan Cevizi Kaplı Kakaolu Fındık Ezmeli Meyve Topu 96 g",
+    "ingredients": "Hurma, fındık (%11), kakao kitlesi (%6), kakao tozu, kakao yağı, hindistan cevizi (%3), hindiba kökü lifi, nohut unu.",
+    "source_name": "Doğa Evinizde ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.dogaevinizde.com/zuber-glutensiz-vegan-hindistan-cevizi-kapli-kakaolu-findik-ezmeli-meyve-topu-96-gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "hazelnut"
+    ],
+    "traces": [],
+    "labels": [
+      "en:gluten-free"
+    ]
+  },
+  {
+    "code": "8683555359605",
+    "name": "Fropie Fındık Ezmeli Protein Topları 80 g",
+    "ingredients": "Hurma (%64), fındık ezmesi (%12), Antep fıstığı (%9), bezelye proteini, nohut unu, kakao.",
+    "source_name": "Karaca ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.karaca.com/urun/fropie-findik-ezmeli-protein-toplari-80-g",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "hazelnut",
+      "pistachios"
+    ],
+    "traces": [],
+    "labels": [
+      "en:gluten-free",
+      "en:no-added-sugar"
+    ]
+  },
+  {
+    "code": "8683555560803",
+    "name": "Fropie Original Fıstık Ezmesi 325 g",
+    "ingredients": "Yer fıstığı (%94), elma suyu konsantresi (%6).",
+    "source_name": "ToptanTR ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.toptantr.com/903-fropie-original-fistik-ezmesi-325-gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "peanuts"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8683555561787",
+    "name": "Fropie Kakaolu Fındık Kreması 315 g",
+    "ingredients": "Fındık (%36), bitkisel yağlar (shea, fındık, hindistan cevizi), hurma tozu, mikronize pirinç unu, kakao tozu (%8), hindiba kökü lifi (inülin), nohut unu.",
+    "source_name": "Özel Beslenme ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/fropie-kakaolu-findik-kremasi-315g",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "hazelnut"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8682368978676",
+    "name": "Saf Nutrition Vegan Peynir Aromalı Protein Cips 50 g",
+    "ingredients": "Mısır irmiği, pirinç irmiği, bezelye proteini (%15,5), ayçiçek yağı, vegan peynir çeşnisi (%6,5) (mısır nişastası, pirinç unu, tuz, maya ekstraktı, hidrolize bitkisel protein, pudra şekeri, vegan peynir aroma vericisi, tatlı kırmızı biber tozu, domates tozu, trikalsiyum fosfat, soğan tozu, kırmızı biber oleoresini, sarımsak tozu, laktik asit, sitrik asit, malik asit, sodyum diasetat, soğan yağı, biberiye ekstraktı, sarımsak yağı), şeker, tuz.",
+    "source_name": "Vegan Bakkal ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.veganbakkal.com.tr/vegan-peynir-aromali-protein-cips-50gr-2572",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000453503",
+    "name": "Yörsan %3 Yağlı UHT Süt 1 L",
+    "ingredients": "Homojenize ve pastörize inek sütü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=4",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000450946",
+    "name": "Yörsan Yarım Yağlı UHT Süt 1 L",
+    "ingredients": "Homojenize ve pastörize inek sütü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=4",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000453572",
+    "name": "Yörsan %0,5 Yağlı UHT Süt 1 L",
+    "ingredients": "Homojenize ve pastörize inek sütü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=4",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000450960",
+    "name": "Yörsan %3,1 Yağlı UHT Süt 200 ml",
+    "ingredients": "Homojenize ve pastörize inek sütü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=5",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451653",
+    "name": "Yörsan Yarım Yağlı UHT Süt 200 ml",
+    "ingredients": "Homojenize ve pastörize inek sütü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=5",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451950",
+    "name": "Yörsan %0,6 Yağlı Homojenize Yoğurt 110 g",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=7",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451967",
+    "name": "Yörsan %0,6 Yağlı Homojenize Yoğurt 150 g",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=7",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451233",
+    "name": "Yörsan Tam Yağlı Homojenize Yoğurt 500 g",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=7",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451219",
+    "name": "Yörsan Yarım Yağlı Homojenize Yoğurt 500 g",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=7",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451226",
+    "name": "Yörsan Yarım Yağlı Homojenize Yoğurt 1 kg",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=9",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451240",
+    "name": "Yörsan Tam Yağlı Homojenize Yoğurt 1 kg",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=9",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451257",
+    "name": "Yörsan Tam Yağlı Homojenize Yoğurt 2 kg",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=9",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8684000451264",
+    "name": "Yörsan Yarım Yağlı Homojenize Yoğurt 2 kg",
+    "ingredients": "Pastörize inek sütü, yoğurt kültürü.",
+    "source_name": "Yörsan üretici kataloğu 2024",
+    "source_url": "https://yorsan.com.tr/wp-content/uploads/2024/05/yorsan-tr-2024-katalog.pdf#page=9",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690526071152",
+    "name": "Eti Burçak Sultani Üzümlü Kepekli Bisküvi 123 g",
+    "ingredients": "Buğday unu, tam buğday unu %18,4 (kepek %2,6), bitkisel yağ (palm, ayçiçek, pamuk, kanola), şeker, kuru üzüm %8, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat), malt ekstrakt (arpa ürünü), tuz, aroma verici.",
+    "source_name": "ALLTURKO ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.allturko.com.tr/urun/8483/c/eti-eti-sultani-burcak-123-gr-atl-0139-8690526071152/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame",
+      "milk",
+      "eggs"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690526063508",
+    "name": "Eti Burçak Sütlü Çikolatalı Bisküvi 114 g",
+    "ingredients": "Bisküvi %71 [Buğday unu, tam buğday unu %24, bitkisel yağ (palm, ayçiçek, pamuk, kanola), şeker, invert şeker şurubu, yağsız süt tozu, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, sodyum asit pirofosfat), pastörize yumurta, malt ekstrakt (arpa ürünü), kepek, tuz, aroma vericiler, emülgatör (mono ve digliseritlerin diasetil tartarik asit esterleri), renklendirici (karamel)], sütlü çikolata %29 [Şeker, tam yağlı süt tozu, kakao yağı, kakao kitlesi, tereyağı (süt ürünü), bitkisel yağ (palm), yağsız süt tozu, emülgatörler (ayçiçek lesitini, poligliserol polirisinolat), aroma verici (vanilin), kakao kuru maddesi en az %27].",
+    "source_name": "Karia Pazar ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.kariapazar.com/eti-burcak-sutlu-cikolatali-biskuvi-114-gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "hazelnut",
+      "soybeans",
+      "sesame"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690526055534",
+    "name": "Eti Hoşbeş Hindistan Cevizli Gofret 40 g",
+    "ingredients": "Hindistan cevizli krema %73 [Şeker, Hindistan cevizi yağı, tam yağlı süt tozu, glukoz şurubu, peynir altı suyu tozu (süt ürünü), Hindistan cevizi %4,3, buğday unu (gluten), bitkisel yağ (ayçiçek, pamuk), emülgatör (ayçiçek lesitini), aroma vericiler, tuz], gofret yaprağı %27 [Buğday unu (gluten), yağı azaltılmış kakao tozu %8,7, nişasta, kabartıcılar (sodyum hidrojen karbonat, sodyum asit pirofosfat, amonyum hidrojen karbonat), emülgatör (ayçiçek lesitini), tuz, Hindistan cevizi yağı, maya ekstraktı].",
+    "source_name": "Karia Pazar ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.kariapazar.com/eti-hosbes-hindistan-cevizli-gofret-40-gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690526011073",
+    "name": "Eti Tutku Bold 138 g",
+    "ingredients": "Buğday unu (gluten içerir), bitkisel yağ (palm, ayçiçek, pamuk, kanola), şeker, yağı azaltılmış kakao tozu %1, tuz, kabartıcılar (sodyum asit pirofosfat, sodyum hidrojen karbonat), aroma vericiler, krema %33 [Şeker, bitkisel yağ (palm, ayçiçek, pamuk, kanola), susam ezmesi, yağı azaltılmış kakao tozu %6, yulaf lifi, fındık püresi, laktoz (süt ürünü), keçiboynuzu unu, emülgatör (ayçiçek lesitini), aroma vericiler, tuz].",
+    "source_name": "Bahar Oya ürün etiketi ve barkod kaydı",
+    "source_url": "https://baharoya.com/urun/eti-tutku-bold-138g/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten",
+      "milk",
+      "sesame",
+      "hazelnut"
+    ],
+    "traces": [
+      "soybeans",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690526069906",
+    "name": "Eti Popkek Bitter Çikolatalı Kek 55 g",
+    "ingredients": "Buğday unu (gluten içerir), bitkisel yağ (palm, tam hidrojenize palm), yumurta, şeker, nem vericiler (gliserol, sorbitol), invert şeker şurubu, yağı azaltılmış kakao tozu, bitter çikolata, emülgatörler (yağ asitlerinin mono ve digliseritleri, poligliserol polirisinoleat, ayçiçek lesitini), tuz, kabartıcılar (sodyum asit pirofosfat, sodyum hidrojen karbonat), aroma vericiler, koruyucu (sorbik asit), peynir altı suyu tozu (süt ürünü), asitlik düzenleyici (sitrik asit), kıvam arttırıcı (ksantan gam), yağsız süt tozu, modifiye patates nişastası, potasyum sorbat, tam hidrojenize bitkisel yağlar, vanilin.",
+    "source_name": "ALLTURKO ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.allturko.com.tr/urun/8468/c/eti-eti-popkek-bitter-55-gr-atl-0166-8690526069906/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "hazelnut",
+      "soybeans",
+      "peanuts"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690526083254",
+    "name": "Eti Tutku Kakao Kremalı Mozaik Bisküvi 100 g",
+    "ingredients": "Wheat flour (contains gluten), sugar, vegetable oil (palm, sunflower, cottonseed, rapeseed), sesame paste, low-fat cocoa powder 2.7%, hazelnut puree, lactose (milk product), salt, raising agents (sodium acid pyrophosphate, sodium hydrogen carbonate), carob flour, emulsifier (sunflower lecithin), flavourings.",
+    "source_name": "NF Plus ürün etiketi ve tekli ürün barkod kaydı",
+    "source_url": "https://nfplus.co/tr/product/16396",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten",
+      "milk",
+      "sesame",
+      "hazelnut"
+    ],
+    "traces": [
+      "eggs",
+      "peanuts"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690526095417",
+    "name": "Eti Karam Gurme 50 g",
+    "ingredients": "Kakaolu krema %66,2 [Bitkisel yağ (palm, ayçiçek, pamuk), şeker, glukoz şurubu, yağsız süt tozu, yağı azaltılmış kakao tozu %8,6, peynir altı suyu tozu (süt ürünü), kakao kitlesi, emülgatör (ayçiçek lesitini, poligliserol polirisinolat), aroma vericiler, tuz], bitter çikolata %26,4 [Kakao kitlesi, şeker, bitkisel yağ (palm), tereyağı (süt ürünü), yağı azaltılmış kakao tozu, kakao yağı, emülgatör (ayçiçek lesitini, poligliserol polirisinolat), aroma verici (vanilin). Kakao kuru maddesi en az %53], gofret yaprağı %7,4 [Buğday unu (gluten içerir), patates nişastası, Hindistan cevizi yağı, emülgatör (ayçiçek lesitini), kabartıcılar (sodyum hidrojen karbonat, amonyum hidrojen karbonat, sodyum asit pirofosfat), tuz].",
+    "source_name": "Bahar Oya ürün etiketi ve barkod kaydı",
+    "source_url": "https://baharoya.com/urun/eti-karam-gurme-50g/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "hazelnut",
+      "soybeans",
+      "sesame",
+      "peanuts"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690526012704",
+    "name": "Eti Canga Gold 45 g",
+    "ingredients": "Yer fıstığı, şeker, tam yağlı süt tozu, invert şeker şurubu, kakao yağı, maltodekstrin, bitkisel yağlar (tam hidrojene palm, palm), nem verici (sorbitol), kakao kitlesi, yağı azaltılmış kakao tozu, emülgatörler (ayçiçek lesitini, amonyum fosfatitler, poligliserol polirisinolat), yumurta akı tozu, inülin, buğday unu (gluten içerir), tuz, tereyağı (süt ürünü), peynir altı suyu tozu (süt ürünü), aroma vericiler, asitlik düzenleyici (sodyum hidrojen karbonat).",
+    "source_name": "Minas Group ürün etiketi ve tekli ürün barkod kaydı",
+    "source_url": "https://minasgroup.com.tr/urun/canga-gold-45gx16kl/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "peanuts",
+      "milk",
+      "eggs",
+      "gluten"
+    ],
+    "traces": [
+      "pistachios",
+      "hazelnut",
+      "soybeans",
+      "sesame"
+    ],
+    "labels": []
+  },
+  {
+    "code": "8690565017555",
+    "name": "Pınar Protein Kakaolu Süt 500 ml",
+    "ingredients": "%0,15 yağlı inek sütü, süt proteini, kakao tozu (%1,3), stabilizer (selüloz, sodyum polifosfat, karboksi metil selüloz), vanilya aroma vericisi, vitaminler (B1 vitamini, B3 vitamini, B6 vitamini, B12 vitamini), L-karnitin, laktaz enzimi.",
+    "source_name": "Sarıyer Market ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.sariyermarket.com/pinar-protein-kakaolu-sut-500-ml",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690565023594",
+    "name": "Pınar Protein Kahveli Süt 500 ml",
+    "ingredients": "%0,3 yağlı inek sütü, süt proteini, stabilizer (selüloz, sodyum polifosfat, karboksi metil selüloz), kahve ekstraktı (%0,3), aroma vericiler, laktaz enzimi, vitaminler (B1 vitamini, B3 vitamini, B6 vitamini, B12 vitamini), L-karnitin.",
+    "source_name": "Sarıyer Market ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.sariyermarket.com/pinar-protein-kahveli-sut-500-ml",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690565017531",
+    "name": "Pınar Protein Vanilya Aromalı Süt 500 ml",
+    "ingredients": "%0,25 yağlı inek sütü, süt proteini, stabilizer (selüloz, sodyum polifosfat, karboksi metil selüloz), vanilya aroma vericisi, vitaminler (B1 vitamini, B3 vitamini, B6 vitamini, B12 vitamini), L-karnitin, laktaz enzimi.",
+    "source_name": "Sarıyer Market ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.sariyermarket.com/pinar-protein-vanilya-aromali-sut-500-ml",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8692971435664",
+    "name": "İçim Fit Protein Kahveli Süt 400 ml",
+    "ingredients": "Süt proteini, yağsız inek sütü, çözünebilir kahve (%0,5), stabilizör (selüloz, selüloz gam), aroma verici, laktaz enzimi.",
+    "source_name": "İçim üretici içeriği; Eonbir ürün barkodu",
+    "source_url": "https://www.icim.com.tr/urunler/sut/protein-sutu/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://www.eonbir.com.tr/icim-fit-kahveli-400-ml.-14188"
+  },
+  {
+    "code": "8692971435619",
+    "name": "İçim Fit Protein Vanilyalı Süt 400 ml",
+    "ingredients": "Süt proteini, yağsız inek sütü, stabilizör (karragenan, selüloz), vanilya aroma vericisi, laktaz enzimi.",
+    "source_name": "İçim üretici içeriği; Gürmar ürün barkodu",
+    "source_url": "https://www.icim.com.tr/urunler/sut/protein-sutu/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://gurmar.com.tr/icim-fit-yuksek-proteinli-vanilyali-sut-400-ml-37783-p"
+  },
+  {
+    "code": "8692971435626",
+    "name": "İçim Fit Protein Çilekli Süt 400 ml",
+    "ingredients": "Süt proteini, yağsız inek sütü, stabilizör (selüloz, selüloz gam), çilek aroma vericisi, renklendirici (beta karoten), laktaz enzimi.",
+    "source_name": "İçim üretici içeriği; Gürmar ürün barkodu",
+    "source_url": "https://www.icim.com.tr/urunler/sut/protein-sutu/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://gurmar.com.tr/icim-fit-yuksek-proteinli-cilekli-sut-400-ml-37782-p"
+  },
+  {
+    "code": "8692971435657",
+    "name": "İçim Fit Protein Kakaolu Süt 400 ml",
+    "ingredients": "Süt proteini, yağsız inek sütü, kakao (%0,9), stabilizör (selüloz, selüloz gam), aroma verici, laktaz enzimi.",
+    "source_name": "İçim üretici içeriği; Uyguno ürün barkodu",
+    "source_url": "https://www.icim.com.tr/urunler/sut/protein-sutu/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://uyguno.com/urun/icim-fit-protein-kakaolu-laktozsuz-sut-400-ml"
+  },
+  {
+    "code": "8690767160127",
+    "name": "Sütaş Tam Yağlı Kaymaksız Yoğurt 1 kg",
+    "ingredients": "İnek sütü, yoğurt mayası.",
+    "source_name": "Sütaş üretici içeriği; Asya Sanal Market barkodu",
+    "source_url": "https://www.sutas.com.tr/sutas-tam-yagli-kaymaksiz-yogurt-1000-g",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "barcode_source_url": "https://www.asyasanalmarket.com/sutas-kaymaksiz-yogurt-1000-gr-20439"
+  },
+  {
+    "code": "8692886310810",
+    "name": "Altınkılıç Kefir Sade 250 ml",
+    "ingredients": "Pastörize inek sütü, kefir mayası, kefir kültürü.",
+    "source_name": "Sarıyer Market ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.sariyermarket.com/altinkilic-kefir-sade-250-ml",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8692886411265",
+    "name": "Altınkılıç Laktozsuz Kefir 1 L",
+    "ingredients": "Pastörize inek sütü, kefir mayası, kefir kültürü, laktaz enzimi.",
+    "source_name": "Kullanıcının paylaştığı ürün etiketi; Sarıyer Market barkodu",
+    "source_url": "https://www.sariyermarket.com/altinkilic-laktozsuz-kefir-1-lt",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ]
+  },
+  {
+    "code": "8696368011349",
+    "name": "Activia Çilekli Probiyotikli Yoğurt 4x100 g",
+    "ingredients": "Laktozsuz probiyotikli yoğurt, çilek parçaları ve püresi (%8,4), pancar şekeri, modifiye nişasta, asitlik düzenleyiciler (sodyum sitratlar, sitrik asit, kalsiyum fosfatlar), siyah havuç suyu konsantresi, aroma vericiler, stabilizör (karragenan).",
+    "source_name": "Activia üretici içeriği; Gürmar ürün barkodu",
+    "source_url": "https://www.activia.com/tr-tr/products/activia-strawberry/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://gurmar.com.tr/activia-dogal-probiyotikli-cilekli-yogurt-4-100-gr-9349-p"
+  },
+  {
+    "code": "8696368943800",
+    "name": "Activia Laktozsuz Sade Probiyotikli Yoğurt 4x100 g",
+    "ingredients": "İnek sütü, yoğurt mayası ve probiyotik bakteri, laktaz enzimi.",
+    "source_name": "Activia üretici içeriği; Gürmar ürün barkodu",
+    "source_url": "https://www.activiaturkiye.com/urunlerimiz/sade/klasik-sade-laktozsuz/laktozsuz-sade-4x100-g/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "gluten",
+      "tree_nuts"
+    ],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://www.gurmar.com.tr/activia-laktozsuz-probiyotik-sade-yogurt-4lu-100-gr-27315-p"
+  },
+  {
+    "code": "8696368202457",
+    "name": "Activia Probiyotikli Bowl Yaban Mersinli Chialı Yulaflı 150 g",
+    "ingredients": "Probiyotikli laktozsuz yoğurt, %6 yaban mersini (püresi ve parçacıkları), şeker, inulin, modifiye nişasta, %0,45 yulaf gevreği (gluten), %0,3 kiya (chia) tohumu, aroma vericiler, asitlik düzenleyiciler (sitrik asit, sodyum sitratlar), stabilizörler (guar gam, keçiboynuzu gamı), kırmızı pancar suyu konsantresi, siyah havuç suyu konsantresi.",
+    "source_name": "Activia üretici içeriği; Gürmar ürün barkodu",
+    "source_url": "https://www.activia.com/tr-tr/products/activia-probiotic-bowl-blueberry-chia-oat/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk",
+      "gluten"
+    ],
+    "traces": [
+      "tree_nuts",
+      "peanuts"
+    ],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://gurmar.com.tr/activia-probiyotikli-bowl-yaban-mersini-chia-37961-p"
+  },
+  {
+    "code": "8696368041698",
+    "name": "Activia Shot Ahududu Hibiskus 80 ml",
+    "ingredients": "Laktozsuz probiyotikli yoğurt, meyveli sos (%8) (pancar şekeri, ahududu püresi (%10), modifiye nişasta, aroma vericiler, asitlik düzenleyiciler (sitrik asit, sodyum sitratlar), siyah havuç suyu konsantresi, hibiskus (bamya çiçeği) tozu (%0,1)).",
+    "source_name": "Activia üretici içeriği; Gürmar ürün barkodu",
+    "source_url": "https://www.activia.com/tr-tr/products/activia-shot-raspberry-hibiscus/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [
+      "en:lactose-free"
+    ],
+    "barcode_source_url": "https://www.gurmar.com.tr/activia-x2-probiyotik-ahududu-hibiskus-shot-80-ml-26023-p"
+  },
+  {
+    "code": "8690504035909",
+    "name": "Ülker Metro 36 g",
+    "ingredients": "Şeker, maltodekstrin, şekerli koyulaştırılmış yarım yağlı süt, invert şeker şurubu, su, bitkisel yağlar (palm, tam hidrojenize palm çekirdeği), kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, yağı azaltılmış kakao tozu, yumurta akı tozu, emülgatörler (amonyum fosfatitler, yağ asitlerinin mono ve digliseridleri, soya lesitini, poligliserol polirisinoleat), peyniraltı suyu tozu, tuz, nişasta ve aroma vericiler.",
+    "source_name": "Karia Pazar ürün etiketi bilgisi (perakende)",
+    "source_url": "https://www.kariapazar.com/ulker-metro-36-gr-cikolata-kapli-bar",
+    "allergens": [
+      "milk",
+      "eggs",
+      "soybeans"
+    ],
+    "traces": [
+      "gluten",
+      "nuts",
+      "peanuts"
+    ],
+    "checked_at": "2026-10-13T00:00:00Z",
+    "labels": []
+  },
+  {
+    "code": "8690526793184",
+    "name": "Eti Nero Kakaolu Kremalı Bisküvi 110 g",
+    "ingredients": "Buğday unu (gluten içerir), bitkisel yağ (palm, ayçiçek, pamuk, kanola), şeker, invert şeker şurubu, yağı azaltılmış kakao tozu (%8), tam yağlı süt tozu, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat), tuz, aroma verici, krema (%20) [şeker, bitkisel yağ (palm, ayçiçek, pamuk, kanola), mısır nişastası, yağsız süt tozu, peynir altı suyu tozu (süt ürünü), emülgatör (ayçiçek lesitini), aroma verici].",
+    "source_name": "Allturko ürün etiketi bilgisi (perakende)",
+    "source_url": "https://www.allturko.com.tr/urun/8466/c/eti-eti-nero-110-gr-atl-0141-8690526793184/",
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "hazelnut",
+      "soybeans",
+      "eggs",
+      "sesame"
+    ],
+    "checked_at": "2026-10-13T00:00:00Z",
+    "labels": []
+  },
+  {
+    "code": "8699141957056",
+    "name": "Şölen Biscolata Mood Bardak 125 g",
+    "ingredients": "Çikolatalı krema (%62) [şeker, bitkisel yağ (palm, ayçiçek, pamuk), peyniraltı suyu tozu (süt ürünü), kakao tozu, tam yağlı süt tozu, fındık püresi, sütlü çikolata (%1,9), emülgatör (ayçiçek lesitini), aroma verici], bisküvi (%38) [buğday unu (gluten içerir), şeker, bitkisel yağ (palm), modifiye patates nişastası, modifiye pirinç nişastası, kabartıcı (amonyum bikarbonat, sodyum asit pirofosfat, sodyum bikarbonat), pirinç nişastası, glukoz şurubu, yumurta, tuz, renklendirici (sade karamel), aroma verici].",
+    "source_name": "Foodex ürün etiketi bilgisi (dağıtıcı)",
+    "source_url": "https://foodexfoodco.com/tr/biscolata-mood-bardak-125-g",
+    "allergens": [
+      "gluten",
+      "milk",
+      "hazelnut",
+      "eggs"
+    ],
+    "traces": [
+      "sesame",
+      "soybeans",
+      "peanuts"
+    ],
+    "checked_at": "2026-10-13T00:00:00Z",
+    "labels": []
+  },
+  {
+    "code": "8681324005449",
+    "name": "Sütaş Tam Yağlı Süt 1 L",
+    "ingredients": "Homojenize ve pastörize inek sütü. En az %3,5 süt yağı içerir.",
+    "source_name": "Sütaş Market (üretici)",
+    "source_url": "https://sutas.market/urun/tam-yagli-sut-1-l",
+    "barcode_source_url": "https://gurmar.com.tr/sutas-tam-yagli-sut-1-lt-32972-p",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690504429210",
+    "name": "İçim Kefir Sade 1 L",
+    "ingredients": "Pastörize inek sütü, kefir mayası, kefir kültürü, probiyotik mikroorganizmalar (bifidobacterium, lactobacillus acidophilus).",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/icim-kefir-sade-1-l-p-30093173",
+    "barcode_source_url": "https://basdasonline.com/icim-kefir-sade-1000-ml",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690684001039",
+    "name": "Pastavilla Spagetti Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/pastavilla-spagetti-makarna-500-g-p-30066009",
+    "barcode_source_url": "https://www.asyasanalmarket.com/pastavilla-makarna--spaghetti-500-gr-30811",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8691440101000",
+    "name": "Duru Pilavlık Bulgur 1 kg",
+    "ingredients": "Pilavlık bulgur.",
+    "source_name": "Minas Group ürün etiketi bilgisi (dağıtıcı)",
+    "source_url": "https://minasgroup.com.tr/urun/duru-pilavlik-bulgur-1000gr/",
+    "barcode_source_url": "https://minasgroup.com.tr/urun/duru-pilavlik-bulgur-1000gr/",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690998112124",
+    "name": "Balparmak Yayla Süzme Çiçek Balı 460 g",
+    "ingredients": "Süzme çiçek balı.",
+    "source_name": "Asya Sanal Market ürün etiketi bilgisi",
+    "source_url": "https://www.asyasanalmarket.com/balparmak-s.cicek-bali-460gr-19961",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690575010812",
+    "name": "Tamek Domates Salçası Cam 700 g",
+    "ingredients": "Domates.",
+    "source_name": "Sarıyer Market ürün etiketi bilgisi",
+    "source_url": "https://www.sariyermarket.com/tamek-domates-salcasi-700-gr",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": []
+  },
+  {
+    "code": "8690368023012",
+    "name": "Ofçay Efsane Siyah Çay 1 kg",
+    "ingredients": "Siyah çay.",
+    "source_name": "Kitchen Express ürün etiketi bilgisi",
+    "source_url": "https://www.kitchenexpress.com.tr/ofcay-efsane-1-kg-8846",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "barcode_source_url": "https://www.trendyol.com/ofcay/efsane-1000-gr-p-3849018"
+  },
+  {
+    "code": "8682696010031",
+    "name": "ProteinOcean Whey Protein Çikolata 400 g",
+    "ingredients": "Whey Proteini Konsantresi (Süt), Aroma Verici, Yağı Azaltılmış Kakao, DigeZyme® (Multi-Enzim Karışımı)(Proteaz, Laktaz, Selülaz. Amilaz, Lipaz), Tatlandırıcı: Sukraloz, Emülgatör: Ayçiçek Lesitini, B6 Vitamini (Piridoksin Hidroklorür).",
+    "source_name": "ProteinOcean üretici içerik listesi",
+    "source_url": "https://proteinocean.com/whey-protein",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "barcode_source_url": "https://www.trendyol.com/proteinocean/whey-protein-cikolata-400g-16-servis-p-39094015"
+  },
+  {
+    "code": "8695077129444",
+    "category": "food",
+    "name": "Harras Bütün Fındıklı Sütlü Çikolata 65 g",
+    "ingredients": "Sütlü Çikolata (%82) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin) (Kakao kuru maddesi en az %30)), Fındık (%18).",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077129444",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [
+      "en:pistachios",
+      "en:almonds"
+    ],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Sütlü Çikolata (%82) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin) (Kakao kuru maddesi en az %30)), Fındık (%18). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Domuz ve domuz ürünleri muhteviyatı içermez.",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/front_en.25.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8695077129444"
+  },
+  {
+    "code": "8695077129468",
+    "category": "food",
+    "name": "Harras Bütün Fındıklı Sütlü Çikolata 130 g",
+    "ingredients": "Sütlü Çikolata (%85) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emulgator (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin)), Fındık (%15), (Kakao kuru maddesi en az %30).",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077129468",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [
+      "en:pistachios",
+      "en:almonds"
+    ],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Sütlü Çikolata (%85) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emulgator (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin)), Fındık (%15), (Kakao kuru maddesi en az %30). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Karbonhidrat (g) Domuz ve domuz ürünleri muhteviyatı içermez. Serin, kuru, kokusuz ve güneş görmeyen yerde muhafaza ediniz. Buzdolabında muhafaza etmeyiniz. - Şekerler (g) Protein (g) Tuz (g)",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/507/712/9468/front_tr.6.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8695077129468"
+  },
+  {
+    "code": "8695077043641",
+    "category": "food",
+    "name": "Harras Bitter Tablet Çikolata %60 Kakao 80 g",
+    "ingredients": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%.",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077043641",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%."
+  },
+  {
+    "code": "8695077112583",
+    "category": "food",
+    "name": "Harras Laktozsuz Yarım Yağlı UHT İçme Sütü 1 L",
+    "ingredients": "Yarım yağlı inek sütü, laktoz enzimi.",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077112583",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Yarım yağlı inek sütü, laktoz enzimi.",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/507/711/2583/front_tr.3.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8695077112583"
+  },
+  {
+    "code": "8695077141453",
+    "category": "food",
+    "name": "Harras Özel Lezzet Kakaolu Fındık Ezmesi 350 g",
+    "ingredients": "Fındık (%35), şeker, fındık yağı, yağsız süt tozu, kakao (%4).",
+    "source_name": "Harras · perakende barkodu ve 2024 ambalaj fotoğrafı",
+    "source_url": "https://gidadedektifi.com/urun-incelemeleri/krema-sos-ve-ezmeler/harras-ozel-lezzet-kakaolu-findik-ezmesi-826",
+    "barcode_source_url": "https://www.trendyol.com/harras/kakaolu-findik-ezmesi-p-958670708",
+    "ingredient_evidence_url": "https://imagedelivery.net/Zcjn5gwAVfrAzXjwv_K0uw/af7f3edc-f2c3-4f64-b045-6d92b5096c00/public",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "source_published_at": "2024-05-20",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "retailer_identity_and_historical_label_photo_pending_current_package_check"
+  },
+  {
+    "code": "8699118055419",
+    "name": "Çokça Acılı Kahvaltılık Sos 300 g",
+    "ingredients": "Biber salçası, domates salçası, su, çemen unu, sarımsak, sıvı yağ, ceviz içi, baharatlar, koruyucular.",
+    "source_name": "A101 ürün etiketi · barkod: Open Food Facts",
+    "source_url": "https://www.a101.com.tr/kapida/sut-urunleri-kahvaltilik/cokca-acili-kahvaltilik-sos-300-g_p-16001716",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8699118055419",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/911/805/5419/front_tr.5.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8699118055419"
+  },
+  {
+    "code": "8690635260393",
+    "name": "Tat Kahvaltılık Sos 300 g",
+    "ingredients": "Biber salçası, domates salçası, közlenmiş kapya biber, su, yer fıstığı(%5), ceviz(%1), ayçiçek yağı, şeker, tuz, baharat karışımı, sarımsak, modifiye mısır nişastası, antioksidan(askorbik asit), aroma vericiler.",
+    "source_name": "CarrefourSA ürün etiketi · barkod: Hapeloğlu",
+    "source_url": "https://www.carrefoursa.com/tat-kahvaltilik-sos-300-g-p-30383914",
+    "barcode_source_url": "https://www.hapeloglu.com/tat-kahvalt%C4%B1l%C4%B1k-sos-300-gr-19659",
+    "corroborating_ingredient_source_url": "https://toptan.migros.com.tr/tat-kahvaltilik-sos-300-g-p-09062250",
+    "allergens": [
+      "en:peanuts",
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/063/526/0393/front_tr.4.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8690635260393"
+  },
+  {
+    "code": "8690508004246",
+    "name": "Tukaş Kahvaltılık Sos 300 g",
+    "ingredients": "Biber salçası, Domates salçası, su, ayçiçek yağı, tuz, sarımsak, ceviz, çeşitli baharat, şeker, asitlik düzenleyici, antioksidan, koruyucu madde(potasyum sorbat, sodyum benzoat), acı biber ekstratı.",
+    "source_name": "Migros ürün etiketi · barkod: Market Karşılaştır",
+    "source_url": "https://www.migros.com.tr/tukas-kahvaltilik-sos-300-g-p-8a4704",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690508004246-tukas-kahvaltilik-sos-300-g",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/050/800/4246/front_fr.10.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8690508004246"
+  },
+  {
+    "code": "8690103131347",
+    "name": "Marmarabirlik Sade Zeytin Ezmesi 340 g",
+    "ingredients": "Sofralık doğal siyah zeytin püresi, emülgatör (ayçiçeği lesitini), asitlik düzenleyici (laktik asit), koruyucu (potasyum sorbat).",
+    "source_name": "Open Food Facts · Marmarabirlik (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8690103131347",
+    "allergens": [],
+    "traces": [
+      "en:nuts"
+    ],
+    "labels": [],
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "evidence_status": "community_transcription_pending_package_check",
+    "category": "food",
+    "catalog_batch": "breakfast-sauces-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "image_url": "https://images.openfoodfacts.org/images/products/869/010/313/1347/front_tr.13.400.jpg",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "image_source_url": "https://world.openfoodfacts.org/product/8690103131347"
+  },
+  {
+    "code": "8690787601020",
+    "name": "Tadım Çiğ Badem İçi 90 g",
+    "ingredients": "Çiğ badem içi.",
+    "source_name": "Özel Beslenme ürün kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/tadim-cig-badem-ici-90g",
+    "barcode_source_url": "https://www.ozelbeslenme.com/products/tadim-cig-badem-ici-90g",
+    "allergens": [
+      "almond"
+    ],
+    "traces": [
+      "pistachios",
+      "peanuts",
+      "walnuts",
+      "pecans",
+      "hazelnuts",
+      "cashews",
+      "gluten"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690787601037",
+    "name": "Tadım Çiğ Badem İçi 180 g",
+    "ingredients": "Çiğ badem içi.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/tadim-cig-badem-180-g-p-30126004",
+    "barcode_source_url": "https://toptanexpress.com/urun/tadim-cig-badem-ici-180-gr",
+    "allergens": [
+      "almond"
+    ],
+    "traces": [
+      "pistachios",
+      "peanuts",
+      "walnuts",
+      "pecans",
+      "hazelnuts",
+      "cashews",
+      "gluten"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690787181232",
+    "name": "Tadım Çiğ Karışık Kuruyemiş Naturel 75 g",
+    "ingredients": "Çiğ badem içi, çiğ fındık içi, çiğ kaju fıstığı, cranberry, çekirdeksiz kuru üzüm, elma suyu konsantresi, bitkisel yağ (pamuk), bitkisel yağ (ayçiçek).",
+    "source_name": "Market Karşılaştır ürün etiketi kaydı",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690787181232-tadim-naturel-75-g",
+    "barcode_source_url": "https://tadser.com.tr/tr/urun/Cig-Karisik-Kuruyemis-Naturel/",
+    "allergens": [
+      "almond",
+      "hazelnut",
+      "cashew"
+    ],
+    "traces": [
+      "walnuts",
+      "pecans",
+      "pistachios",
+      "peanuts",
+      "gluten"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690787511015",
+    "name": "Tadım Tadımca Fındıklı Bar 30 g",
+    "ingredients": "Fındık (%47), invert şeker şurubu, siyah üzüm (%8), yulaf (%5), pirinç patlağı, bal (%3), şeker, bitkisel yağ (palm), maltodekstrin, emülgatör (soya lesitini).",
+    "source_name": "Özel Beslenme ürün etiketi kaydı",
+    "source_url": "https://www.ozelbeslenme.com/products/tadim-tadimca-findikli-bar-30g",
+    "barcode_source_url": "https://www.ozelbeslenme.com/products/tadim-tadimca-findikli-bar-30g",
+    "allergens": [
+      "hazelnut",
+      "gluten",
+      "soy"
+    ],
+    "traces": [
+      "pistachios",
+      "peanuts",
+      "almond",
+      "walnuts",
+      "pecans",
+      "cashews"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690579081931",
+    "name": "Filiz Burgu Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/filiz-burgu-makarna-500-g-p-30097165",
+    "barcode_source_url": "https://iyas.com.tr/filiz-burgu-makarna-500-gr-11334-p-139600",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "egg",
+      "soy"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690504119050",
+    "name": "Ülker Hanımeller Mahlepli Tuzlu Kurabiye 81 g",
+    "ingredients": "Buğday unu, bitkisel yağlar (palm, tam hidrojenize palm), şeker, polidekstroz, yumurta, tam yağlı pastörize süt, çörek otu, tuz, kabartıcılar (sodyum hidrojen karbonat, amonyum hidrojen karbonat, disodyum difosfat), aroma verici, renklendirici (sade karamel), albumin (yumurta), emülgatör (yağ asitlerinin mono ve digliseritlerinin mono ve diasetiltartarik asit esterleri), maltodekstrin, mahlep.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/ulker-hanimeller-mahlepli-tuzlu-kurabiye-81-g-p-30323187",
+    "barcode_source_url": "https://iyas.com.tr/ulker-hanimeller-81-gr-mahlep-tuzlu-84829-p-132026",
+    "allergens": [
+      "gluten",
+      "egg",
+      "milk"
+    ],
+    "traces": [
+      "soy",
+      "sesame",
+      "tree-nuts"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690698513115",
+    "name": "Uno Büyük Tost Ekmeği 550 g",
+    "ingredients": "Buğday unu (gluten), içme suyu, maya, bitkisel yağ (ayçiçek), tuz, sirke, emülgatör (yağ asitlerinin mono ve digliseritlerinin mono ve diasetil tartarik asit esterleri), stabilizör (guar gam), topaklanmayı önleyici (kalsiyum karbonat), koruyucular (kalsiyum propiyonat, sorbik asit).",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/uno-buyuk-tost-ekmegi-550-g-p-30298076",
+    "barcode_source_url": "https://www.hakmarexpress.com.tr/uno-buyuk-tost-ekmegi-550-gr-1032916-p",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "sesame",
+      "milk"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690526069500",
+    "name": "Eti Lifalif Yulaf Ezmesi 500 g",
+    "ingredients": "Yulaf ezmesi (gluten içerir).",
+    "source_name": "Migros ürün etiketi bilgisi",
+    "source_url": "https://www.migros.com.tr/eti-lifalif-yulaf-ezmesi-500-g-p-4db752/eti-b-206",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-lifalif-yulaf-ezmesi-500-gr",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "hazelnut",
+      "milk",
+      "peanuts",
+      "egg"
+    ],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690767160189",
+    "name": "Sütaş Ayran 1 L",
+    "ingredients": "Yoğurt, su, tuz.",
+    "source_name": "Migros ürün etiketi bilgisi",
+    "source_url": "https://www.migros.com.tr/sutas-pratik-sise-ayran-1-l-p-b03f06",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690767160189-sutas-pratik-sise-ayran-1-l",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690767710469",
+    "name": "Sütaş Labne 200 g",
+    "ingredients": "Pastörize inek sütü, peynir kültürü, sofra tuzu.",
+    "source_name": "Sütaş üretici ürün bilgisi",
+    "source_url": "https://www.sutas.com.tr/sutas-labne-200-g",
+    "barcode_source_url": "https://www.gurmar.com.tr/sutas-labne-200-gr-3417-p",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690624101874",
+    "name": "Lay's Klasik Patates Cipsi Parti Boy 150 g",
+    "ingredients": "Patates, mısır yağı, tuz.",
+    "source_name": "Macroonline ürün etiketi bilgisi",
+    "source_url": "https://www.macrocenter.com.tr/lays-klasik-patates-cipsi-parti-boy-150-g-p-4d8bb0",
+    "barcode_source_url": "https://www.ozzmarket.com/urun/lays-klasik-parti-boy-150-gr",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690565006832",
+    "name": "Pınar Labne 180 g",
+    "ingredients": "Pastörize inek sütü, laktik asit bakteri kültürü, tuz.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/pinar-labne-180-g-p-30361166",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-labne-180-gr",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690565041734",
+    "name": "Pınar Labne 400 g",
+    "ingredients": "Pastörize inek sütü, laktik asit bakteri kültürü, tuz.",
+    "source_name": "Market Karşılaştır ürün etiketi kaydı",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690565041734-pinar-labne-peynir-400-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690565041734-pinar-labne-peynir-400-g",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690565030554",
+    "name": "Pınar Labne 750 g",
+    "ingredients": "Pastörize inek sütü, laktik asit bakteri kültürü, tuz.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/pinar-labne-peynir-750-g-p-30024158",
+    "barcode_source_url": "https://www.guleckapinda.com/urun/pinar-labne-peyniri-750-g",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "8690767714641",
+    "name": "Sütaş Labne 400 g",
+    "ingredients": "Pastörize inek sütü, peynir kültürü, sofra tuzu.",
+    "source_name": "CarrefourSA ürün etiketi bilgisi",
+    "source_url": "https://www.carrefoursa.com/sutas-labne-400-g-p-30003116",
+    "barcode_source_url": "https://www.gurmar.com.tr/sutas-labne-400-gr-3592-p",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "checked_at": "2026-10-13T00:00:00Z"
+  },
+  {
+    "code": "86920124",
+    "name": "Eti Puf Kakaolu Bisküvi 18 g",
+    "ingredients": "Marshmallow %44,5 [Şeker, Glukoz-Fruktoz Şurubu, Yenilebilir Sığır Jelatini, Aroma Verici], Bisküvi %32 [Buğday Unu (Gluten içerir), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Glukoz-Fruktoz Şurubu, Keçiboynuzu Unu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tuz, Emülgatör (Ayçiçek Lesitini), Aroma Verici, Koruyucu (Sodyum Metabisülfit)], Kakaolu Granül %23,5 [Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Glukoz Şurubu, Kakao %3, Yenilebilir Sığır Jelatini, Asitliği Düzenleyici (Sodyum Asit Pirofosfat), Topaklanmayı Önleyici (Talk), Parlatıcı (Gam Arabik)].",
+    "source_name": "Migros tam etiket; barkod: Allturko ve Chipper",
+    "source_url": "https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7",
+    "barcode_source_url": "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/",
+    "field_sources": {
+      "code": [
+        "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/",
+        "https://partner.chipper.com.tr/urun/12114/c/eti-puf-kakaolu-18gr_86920124/"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7",
+        "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "sulphites"
+    ],
+    "traces": [
+      "soybeans",
+      "milk"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "86920117",
+    "name": "Eti Puf Hindistan Cevizli Bisküvi 16 g",
+    "ingredients": "Marshmallow %57 [Şeker, Glukoz-Fruktoz Şurubu, Yenilebilir Sığır Jelatini, Aroma Verici], Bisküvi %36 [Buğday Unu (Gluten içerir), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Glukoz-Fruktoz Şurubu, Tuz, Kabartıcı (Sodyum Hidrojen Karbonat), Tuz, Emülgatör (Ayçiçek Lesitini), Aroma Verici, Koruyucu (Sodyum Metabisülfit)], Hindistan Cevizi %7.",
+    "source_name": "Allturko tam etiket ve barkod; Afta Market barkod teyidi",
+    "source_url": "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/",
+    "barcode_source_url": "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr",
+    "field_sources": {
+      "code": [
+        "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/",
+        "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr"
+      ],
+      "name": [
+        "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/",
+        "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr"
+      ],
+      "ingredients": [
+        "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "sulphites"
+    ],
+    "traces": [
+      "milk"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690504034032",
+    "name": "Ülker Halley Süper Çikolata Kaplı Bisküvi 30 g",
+    "ingredients": "Sütlü çikolata (%32) [şeker, kakao yağı, kakao kitlesi, tam yağlı süttozu, yağsız süttozu, emülgatörler (amonyum fosfatidler, poligliserol polirisinoleat, soya lesitini), aroma verici, tuz. Kakao kuru maddesi en az %31'dir], buğday unu, marshmallow (%23) [şeker, invert şeker şurubu, su, nem verici (sorbitol), sığır jelatini, aroma verici], bitkisel yağ (palm), invert şeker şurubu, şeker, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), yağsız süttozu, tuz, emülgatör (soya lesitini), yumurta, fındık, asitlik düzenleyici (sitrik asit), aroma vericiler (süt), un işlem maddesi (sodyum metabisülfit).",
+    "source_name": "Migros tam etiket; IYAŞ barkod eşleştirmesi",
+    "source_url": "https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2",
+    "barcode_source_url": "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862",
+    "field_sources": {
+      "code": [
+        "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862"
+      ],
+      "name": [
+        "https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2",
+        "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans",
+      "gluten",
+      "eggs",
+      "hazelnut",
+      "sulphites"
+    ],
+    "traces": [
+      "sesame-seeds"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526061108",
+    "name": "Eti Burçak Tam Buğday Unlu Bisküvi 131 g",
+    "ingredients": "Buğday Unu, Tam Buğday Unu %24, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Pastörize Yumurta, Malt Ekstrakt (Arpa Ürünü), Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), İnvert Şeker Şurubu, Peynir Altı Suyu Tozu (Süt Ürünü), Yağsız Süt Tozu, Kepek, Tuz, Aroma Vericiler, Emülgatör (Sodyum Stearol-2-Laktilat), Renklendirici (Karamel).",
+    "source_name": "Migros tam etiket; IYAŞ ve Aykılıç Gross barkod",
+    "source_url": "https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740",
+    "barcode_source_url": "https://iyas.com.tr/eti-burcak-131-gr-biskuvi-42748-p-131228",
+    "field_sources": {
+      "code": [
+        "https://iyas.com.tr/eti-burcak-131-gr-biskuvi-42748-p-131228",
+        "https://www.aykilicgross.com/marka/eti/page2"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740",
+        "https://www.aykilicgross.com/marka/eti/page2"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame-seeds"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690849820147",
+    "name": "Reis Kırmızı İç Mercimek 1 kg",
+    "ingredients": "Kırmızı Mercimek.",
+    "source_name": "Sarıyer Market GTIN ve tam içerik; CarrefourSA içerik teyidi",
+    "source_url": "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg",
+    "barcode_source_url": "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg",
+        "https://www.carrefoursa.com/reis-kirmizi-mercimek-1-kg-p-30097623"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8693374111988",
+    "name": "Yayla Dermason Fasulye 1 kg",
+    "ingredients": "Fasulye.",
+    "source_name": "Migros tam etiket; Sepetleyin barkod",
+    "source_url": "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d",
+    "barcode_source_url": "https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog",
+    "field_sources": {
+      "code": [
+        "https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog"
+      ],
+      "name": [
+        "https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog",
+        "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d",
+        "https://www.avansas.com/yayla-dermason-fasulye-1-kg-p-81979"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8691313010033",
+    "name": "Orkide Rafine Ayçiçek Yağı 2 L Pet Şişe",
+    "ingredients": "Rafine ayçiçek yağı.",
+    "source_name": "Orkide resmi barkod kataloğu ve CarrefourSA tam etiket",
+    "source_url": "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305",
+    "barcode_source_url": "https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf",
+    "field_sources": {
+      "code": [
+        "https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf",
+        "https://www.avansas.com/orkide-aycicek-yagi-2-litre-p-88259"
+      ],
+      "name": [
+        "https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf",
+        "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690828000805",
+    "name": "Oba Fiyonk Makarna 500 g",
+    "ingredients": "Durum buğdayı (gluten).",
+    "source_name": "Oba resmi barkod kataloğu ve A101 tam içerik",
+    "source_url": "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956",
+    "barcode_source_url": "https://www.obamakarna.com.tr/katalog.pdf",
+    "field_sources": {
+      "code": [
+        "https://www.obamakarna.com.tr/katalog.pdf",
+        "https://www.kariapazar.com/oba-fiyonk-makarna-500-g-kelebek-ve-kulak-makarna"
+      ],
+      "name": [
+        "https://www.obamakarna.com.tr/katalog.pdf",
+        "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956"
+      ],
+      "ingredients": [
+        "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "almonds",
+      "eggs",
+      "milk",
+      "celery"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690558010006",
+    "name": "Dimes Vişne Nektarı 1 Lt",
+    "ingredients": "Meyve Oranı: en az %35. Vişne suyu konsantresinden üretilmiştir. İçindekiler: Su, vişne suyu konsantresi, şeker (pancar şekerinden üretilmiştir), asitlik düzenleyici (sitrik asit), aroma verici (vişne).",
+    "source_url": "https://www.sariyermarket.com/dimes-visne-nektari-1-lt",
+    "allergens": [],
+    "traces": [
+      "gluten",
+      "milk"
+    ],
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\dimes-visne-nektari-1-lt.txt",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/dimes-visne-nektari-1-lt",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/dimes-visne-nektari-1-lt"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/dimes-visne-nektari-1-lt"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/dimes-visne-nektari-1-lt"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527130551",
+    "name": "Pınar Fish Finger 240 Gr",
+    "ingredients": "Mezgit Fileto, Kaplama Malzemesi (buğday unu ,buğday nişastası ,tuz ,palm yağı,renklendirici(paprika),kabartıcı( sodyum bikarbonat, sodyum polifosfat)maya).",
+    "source_url": "https://www.sariyermarket.com/pinar-fish-finger-240-gr",
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "traces": [],
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\pinar-fish-finger-240-gr.txt",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-fish-finger-240-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-fish-finger-240-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-fish-finger-240-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-fish-finger-240-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690565026441",
+    "name": "Pınar Bitkisel Bazlı Badem İçeceği 1 Lt",
+    "ingredients": "Su, şeker, badem (%2,4), emülgatör (ayçiçek lesitini), stabilizör (jellan gam), tuz,vitaminler (B2, D, B12).",
+    "source_url": "https://www.sariyermarket.com/pinar-bitkisel-bazli-badem-icecegi-1-lt",
+    "allergens": [
+      "almonds"
+    ],
+    "traces": [],
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\pinar-bitkisel-bazli-badem-icecegi-1-lt.txt",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-bitkisel-bazli-badem-icecegi-1-lt",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-bitkisel-bazli-badem-icecegi-1-lt"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-bitkisel-bazli-badem-icecegi-1-lt"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-bitkisel-bazli-badem-icecegi-1-lt"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690575878627",
+    "name": "Tamek %100 Karışık Meyve Suyu 1 Lt",
+    "ingredients": "Su, Meyve suyu ve püre konsantreleri (Elma, Üzüm, Portakal, Kayısı, Ananas, Şeftali, Mango), Vitaminler (C,E,A), Asitlik Düzenleyici (Sitrik Asit), Meyve oranı %100dür.",
+    "source_url": "https://www.sariyermarket.com/tamek-100-karisik-meyve-suyu-1-lt",
+    "allergens": [],
+    "traces": [],
+    "source_snapshot": "docs\\catalog_analysis\\expansion_sources\\tamek-100-karisik-meyve-suyu-1-lt.txt",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/tamek-100-karisik-meyve-suyu-1-lt",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tamek-100-karisik-meyve-suyu-1-lt"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tamek-100-karisik-meyve-suyu-1-lt"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tamek-100-karisik-meyve-suyu-1-lt"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527110317",
+    "name": "Pınar Üçgen Mantı 400 g",
+    "ingredients": "Buğday unu, su, irmik, dana kıyma (%12), soğan, pastörize yumurta, tuz, kimyon, ayçiçek yağı, kekik, kırmızı biber, karabiber",
+    "allergens": [
+      "gluten",
+      "eggs"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/pinar-ucgen-manti-400-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-ucgen-manti-400-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-ucgen-manti-400-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-ucgen-manti-400-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-ucgen-manti-400-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527102039",
+    "name": "Pınar Gurme Burger 450 g",
+    "ingredients": "Dana eti, dana yağı, peynir, soğan, ekmek, pastörize yumurta, maydanoz, baharat karışımı, tuz, sarımsak",
+    "allergens": [
+      "gluten",
+      "eggs",
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/pinar-gurme-burger-450-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-gurme-burger-450-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-gurme-burger-450-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-gurme-burger-450-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-gurme-burger-450-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527010938",
+    "name": "Pınar Aç Bitir Macar Salam 60 g",
+    "ingredients": "Dana eti ve yağı, ayçiçek yağı, su, patates nişastası, soya proteini, süt proteini, tuz, baharat karışımı, sarımsak, koruyucu madde (sodyum laktat, sodyum nitrit), stabilazör (sodyum polifosfat), antioksidan (askorbik asit), aroma vericiler, doğal tütsü aroması.",
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-ac-bitir-macar-salam-60-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527030653",
+    "name": "Pınar Aç Bitir Kokteyl Hindi Sosis 180 g",
+    "ingredients": "Hindi eti, ayçiçek yağı, dana yağı, su, patates nişastası, soya proteini, süt proteini, buğday lifi, baharat karışımı, tuz, sarımsak, kıvam arttırıcı (guar gam), koruyucu madde (sodyum laktat, sodyum nitrit), stabilazör (sodyum polifosfat), antioksidan (askorbik asit), aroma vericiler.",
+    "allergens": [
+      "soybeans",
+      "milk",
+      "gluten"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-ac-bitir-kokteyl-hindi-sosis-180-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527020920",
+    "name": "Pınar Gurme Sucuk 250 g",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, tuz, tatlı kırmızı biber, sarımsak, koruyucu madde (sodyum nitrit), antioksidan (askorbik asit), aroma vericiler. Yağ oranı en çok %40.",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-gurme-sucuk-250-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690527100011",
+    "name": "Pınar Burger 225 g",
+    "ingredients": "Dana eti ve yağı, soğan, bulgur, ekmek, baharat karışımı, tuz",
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/pinar-burger-225-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-burger-225-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-burger-225-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-burger-225-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-burger-225-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "5449000103697",
+    "name": "Cappy Ananaslı İçecek 1 L",
+    "ingredients": "Su, şeker veya fruktoz-glukoz şurubu (F)*, ananas suyu konsantresi, asitliği düzenleyici (sitrik asit), kıvam arttırıcı (pektin), aroma vericiler, antioksidan (askorbik asit), renklendici (beta karoten). *Kullanılan şeker veya fruktoz-glukoz şurubu paket üzerine kodlanmıştır.",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/cappy-ananasli-icecek-1-l",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/cappy-ananasli-icecek-1-l",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/cappy-ananasli-icecek-1-l"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/cappy-ananasli-icecek-1-l"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/cappy-ananasli-icecek-1-l"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "86926973",
+    "name": "Sütaş Hüptrik Çilekli 5x30 g",
+    "ingredients": "Homojenize ve pastörize inek sütü, sofra şekeri, patates nişastası, çilek preperatı %1 (renklendirici (kırmızı pancar suyu konsantresi), çilek aroma vericisi, çilek suyu konsantresi, kıvam arttırıcılar (guar gum, pektin), limon suyu konsantresi), doğal şeker aroma vericisi, yoğurt kültürü.",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/sutas-huptrik-cilekli-5x30-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8692971429588",
+    "name": "İçim Kefir Çilek 250 ml",
+    "ingredients": "Pastörize inek sütü, çilek sosu (%11) [şeker, çilek (%10), nişasta, kıvam verici (karragenan), limon suyu konsantresi, aroma verici], kefir mayası, kefir kültürü, probiyotik",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/icim-kefir-cilek-250-ml",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-kefir-cilek-250-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-kefir-cilek-250-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-kefir-cilek-250-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-kefir-cilek-250-ml"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690767710223",
+    "name": "Sütaş Tatlımmm Çikolatalı Sütlü Tatlı 4x65 g",
+    "ingredients": "Homojenize ve pastörize inek sütü, sofra şeker, nişasta, kakao, kıvam arttırıcı (ksantan sakızı), çikolata (%0,1), doğal vanilya aroma vericisi.",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/sutas-tatlimmm-tatlim-cikolatali-sutlu-4x65gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8681324010306",
+    "name": "Sütaş Bubble Mix Çilekli 140 g",
+    "ingredients": "Çilek Aromalı Süt Ürünü: Homojenize ve pastörize inek sütü, sofra şekeri, modifiye nişasta, çilek preparatı %1 (renklendirici (kırmızı pancar suyu konsantresi), çilek aroma vericisi, çilek suyu konsantresi, kıvam arttırıcılar (guar gum, pektin), limon suyu konsantresi), yoğurt kültürü. Çilek Aromalı Patlayan Top: İçindekiler: Su, fruktoz-glukoz şurubu, şeker, maltodekstrin, meyve suyu konsantresi (%1), stabilizör (kalsiyum laktat, kalsiyum klorür), tapyoka nişastası, asitlik düzenleyiciler (sitrik asit, malik asit), kıvam artırıcılar (ksantan gam, sodyum aljinat, karboksimetil selüloz), koruyucu (potasyum sorbat), aroma vericiler, bitkisel ekstrakt (hibisküs), tuz",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/sutas-bubble-mix-cilekli-140-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8692971441641",
+    "name": "İçim Şef Peynirli Kremalı Yemek Sosu 200 ml",
+    "ingredients": "Pastörize inek sütü kreması, peynir tozu (%1,8), modifiye nişasta, kıvam arttırıcılar (karboksimetil selüloz, keçiboynuzu gamı, pektin), aroma vericiler.",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-sef-peynirli-kremali-yemek-sosu-200-ml"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8692971441689",
+    "name": "İçim Şef Mantarlı Kremalı Yemek Sosu 200 ml",
+    "ingredients": "Pastörize inek sütü kreması, mantar tozu (%1), modifiye nişasta, kıvam arttırıcılar (karboksimetil selüloz, keçiboynuzu gamı, pektin), aroma vericiler.",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-sef-mantarli-kremali-yemek-sosu-200-ml"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690767675195",
+    "name": "Sütaş Kaymaksız Yoğurt 2000 g",
+    "ingredients": "Pastörize İnek Sütü, Yoğurt Kültürü",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/sutas-kaymaksiz-yogurt-2000-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "86903332",
+    "name": "Tamek Şeftali Nektarı 200 ml",
+    "ingredients": "Su, şeftali püre konsantresi (meyve oranı en az %50), şeker * (sakkaroz veya fruktoz-glukoz şurubu), asitlik düzenleyici (sitrik asit), antioksidan (askorbik asit), tatlandırıcı (sukraloz). Şeker ve Tatlandırıcı İçerir.",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tamek-meyve-suyu-seftali-200-ml"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690575061913",
+    "name": "Tamek Bezelye 670 g",
+    "ingredients": "Bezelye, su, tuz, şeker",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/tamek-bezelye-670-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/tamek-bezelye-670-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tamek-bezelye-670-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tamek-bezelye-670-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tamek-bezelye-670-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690575061715",
+    "name": "Tamek Bezelye 830 g",
+    "ingredients": "Bezelye, su, tuz",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/tamek-bezelye-830-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/tamek-bezelye-830-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tamek-bezelye-830-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tamek-bezelye-830-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tamek-bezelye-830-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690575012519",
+    "name": "Tamek Domates Salçası 830 g",
+    "ingredients": "Domates.",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/tamek-domates-salcasi-830-gr",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/tamek-domates-salcasi-830-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tamek-domates-salcasi-830-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tamek-domates-salcasi-830-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tamek-domates-salcasi-830-gr"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690575865214",
+    "name": "Tamek Karışık Meyve Nektarı 200 ml",
+    "ingredients": "Su, meyve suyu ve püre konsantreleri (elma, şeftali, portakal) (meyve oranı en az %50), şeker * (sakkaroz veya fruktoz-glukoz şurubu), asitlik düzenleyici (sitrik asit), antioksidan (askorbik asit), tatlandırıcı (sukraloz). Şeker ve Tatlandırıcı İçerir",
+    "allergens": [],
+    "traces": [],
+    "source_url": "https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml",
+    "source_name": "Sarıyer Market ürün GTIN ve tam etiket bilgisi",
+    "barcode_source_url": "https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tamek-karisik-meyve-nektar-200-ml"
+      ]
+    },
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526191119",
+    "name": "Eti Lifalif Kırmızı Meyveli Yulaf Bar 35 g",
+    "ingredients": "Yulaf Ezmesi %44, Tam Buğday Gevreği, Zeytinyağı, Hurma Özü, Hindistan Cevizi %8, Elma Suyu Konsantresi, Turna Yemişi %6, Kabak Çekirdeği %3, Tereyağı (Süt Ürünü), Vişne %1, Tuz.",
+    "source_url": "https://www.migros.com.tr/eti-lifalif-kirmizi-meyveli-yulaf-bar-35-g-p-6d4775",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526191119",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526191119"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-lifalif-kirmizi-meyveli-yulaf-bar-35-g-p-6d4775",
+        "https://world.openfoodfacts.org/product/8690526191119"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-lifalif-kirmizi-meyveli-yulaf-bar-35-g-p-6d4775"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526748344",
+    "name": "Eti Lifalif Bitter Çikolatalı Yulaf Bar 35 g",
+    "ingredients": "Yulaf Ezmesi %51, Bitter Çikolata %14,3 [Kakao Kitlesi, Şeker, Kakao, Kakao Yağı, Dekstroz, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %70'tir.], Zeytinyağı, Tam Buğday Gevreği, Hurma Özü, Elma Suyu Konsantresi, Tereyağı (Süt Ürünü), Tuz.",
+    "source_url": "https://www.migros.com.tr/eti-lifalif-bitter-cikolatali-yulaf-bar-35-g-p-6d41ad",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526748344",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526748344"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-lifalif-bitter-cikolatali-yulaf-bar-35-g-p-6d41ad",
+        "https://world.openfoodfacts.org/product/8690526748344"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-lifalif-bitter-cikolatali-yulaf-bar-35-g-p-6d41ad"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526094205",
+    "name": "Eti Form Hurma, İncir ve Çiyalı Tam Buğday Unlu Bisküvi 50 g",
+    "ingredients": "Buğday Unu, Maltodekstrin, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu %5,8, Yulaf Unu, Hurma Ezmesi %4,2, İncir Ezmesi %4,2, Çavdar Unu, Polidekstroz, Çiya Tohumu %2, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Keçiboynuzu Unu, İnvert Şeker Şurubu, Fındık %1,2, Tarçın %0,5, Tuz, Aroma Verici.",
+    "source_url": "https://www.migros.com.tr/eti-form-hurma-incir-ve-ciyali-bugday-unlu-biskuvi-50g-p-6afc91",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526094205",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526094205"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-form-hurma-incir-ve-ciyali-bugday-unlu-biskuvi-50g-p-6afc91",
+        "https://world.openfoodfacts.org/product/8690526094205"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-form-hurma-incir-ve-ciyali-bugday-unlu-biskuvi-50g-p-6afc91"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "hazelnuts"
+    ],
+    "traces": [
+      "milk"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526013527",
+    "name": "Eti Form Tam Çavdarlı Ekşi Mayalı Kepekli Bisküvi 45 g",
+    "ingredients": "Buğday Unu, Kepek %8,7, Tam Buğday Unu, Buğday Kırması, Buğday Gluteni, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Keçiboynuzu Unu, Çavdarlı Ekşi Maya Tozu %3, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tam Çavdar Unu %1,2, Ekşi Hamur %1 (Tam Çavdar Unu %49,9, Ekmek Kültürü), Tuz, Yağsız Süt Tozu, Asitlik Düzenleyiciler (Sitrik Asit, Asetik Asit), Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.migros.com.tr/eti-form-tam-cavdarli-eksi-mayal-kepekli-biskuvi-45g-p-6b129d",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690526013527",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690526013527"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-form-tam-cavdarli-eksi-mayal-kepekli-biskuvi-45g-p-6b129d",
+        "https://world.openfoodfacts.org/product/8690526013527"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-form-tam-cavdarli-eksi-mayal-kepekli-biskuvi-45g-p-6b129d"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690533094519",
+    "name": "Eti Form Zeytinli Kinoalı ve Kekikli Çok Tahıllı Çıtır Çubuk Kraker 50 g",
+    "ingredients": "Tahıllar %64 (Buğday Unu, Çavdar Unu, Arpa Unu, Yulaf Unu, Buğday Kırması), Peynir Altı Suyu Tozu (Süt Ürünü), Kepek %6,7, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Kabartıcılar (Kalsiyum Karbonat, Amonyum Hidrojen Karbonat), Siyah Zeytin Ezmesi %3,8, Ekşi Maya Tozu %2,2, Kinoa %2, Şeker, Tuz, Ekşi Hamur %1,2 (Buğday Unu, Ekmek Kültürü), Aroma Vericiler, Kekik %0,1, Un İşlem Maddesi (Sodyum Metabisülfit), Antioksidan (Tokoferol), Asitliği Düzenleyici (Sodyum Hidroksit).",
+    "source_url": "https://www.migros.com.tr/eti-form-zeytinli-kinoali-kekikli-cubuk-kraker-50g-p-6b03a9",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690533094519",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690533094519"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-form-zeytinli-kinoali-kekikli-cubuk-kraker-50g-p-6b03a9",
+        "https://world.openfoodfacts.org/product/8690533094519"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-form-zeytinli-kinoali-kekikli-cubuk-kraker-50g-p-6b03a9"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526023830",
+    "name": "Eti Burçak Bitter Çikolatalı Bisküvi 114 g",
+    "ingredients": "Bisküvi %71 [Buğday Unu, Tam Buğday Unu %24, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, İnvert Şeker Şurubu, Yağsız Süt Tozu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Pastörize Yumurta, Malt Ekstrakt (Arpa Ürünü), Kepek, Tuz, Aroma Vericiler, Emülgatör (Mono ve Digliseritlerin Diasetil Tartarik Asit Esterleri), Renklendirici (Karamel)], Bitter Çikolata %29 [Kakao Kitlesi, Şeker, Tereyağı (Süt Ürünü), Kakao Yağı, Yağı Azaltılmış Kakao Tozu, Bitkisel Yağ (Palm), Emülgatör (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin)].",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-bitter-cikolatali-biskuvi-114-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526093543",
+    "name": "Eti Form Bitter Çikolata Kaplı Lifli Bisküvi 50 g",
+    "ingredients": "Buğday Unu, Tam Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Mısır Nişastası, İnvert Şeker Şurubu, Polidekstroz, İnülin - Oligofruktoz, Şeker, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Kalsiyum Karbonat, Limon Lifi, Doğal Portakal Aroma Vericisi, Emülgatör (Mono ve Digliseritlerin Diasetil Tartarik Asit Esterleri), Bitter Çikolata %22 [Kakao Kitlesi, Şeker, Yağı Azaltılmış Kakao Tozu, Kakao Yağı, Tereyağı (Süt Ürünü), Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %70'tir.].",
+    "source_url": "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-form-bitter-cikolata-kapli-lifli-biskuvi-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts",
+      "soybeans",
+      "eggs",
+      "pistachios"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526029443",
+    "name": "Eti Burçak Hindistan Cevizli Kremalı Yulaflı Bisküvi 100 g",
+    "ingredients": "Yulaf Ezmesi %27, Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu %14, Melas Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), İnvert Şeker Şurubu, Tuz, Aroma Verici, Hindistan Cevizli Krema %23 [Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Tam Yağlı Süt Tozu, Mısır Nişastası, Laktoz (Süt Ürünü), Dekstroz, Hindistan Cevizi Tozu %1, Tuz, Aroma Vericiler, Emülgatör (Ayçiçek Lesitini)].",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-hindistan-cevizli-kremali-biskuvi-100-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526047256",
+    "name": "Eti Canga 45 g",
+    "ingredients": "Yer Fıstığı, Şeker, Tam Yağlı Süt Tozu, İnvert Şeker Şurubu, Kakao Yağı, Maltodekstrin, Bitkisel Yağ (Tam Hidrojenize Palm, Palm), Kakao Kitlesi, Peynir Altı Suyu Tozu (Süt Ürünü), Nem Verici (Sorbitol), Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Yumurta Akı Tozu, İnülin, Buğday Unu (Gluten içerir), Tuz, Tereyağı (Süt Ürünü), Aroma Vericiler, Asitliği Düzenleyici (Sodyum Hidrojen Karbonat). Sütlü çikolatadaki süt kuru maddesi en az %30, kakao kuru maddesi en az %28'dir.",
+    "source_url": "https://www.sariyermarket.com/eti-canga-45-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-canga-45-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-canga-45-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-canga-45-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-canga-45-gr"
+      ]
+    },
+    "allergens": [
+      "peanuts",
+      "milk",
+      "eggs",
+      "gluten"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526962115",
+    "name": "Eti Benimo Kombo Stick 56 g",
+    "ingredients": "Bisküvi %70,5 [Buğday Unu (Gluten), Bitkisel Yağlar (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Peynir Altı Suyu Tozu (Süt Ürünü), Pastörize Yumurta, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), İnvert Şeker Şurubu, Melas Şurubu, Aroma Vericiler, Tuz, Emülgatör (Mono- ve Digliseritlerin Diasetil Tartarik Asit Esterleri)], Kuvertür Çikolata %20,5 [Şeker, Kakao Yağı, Kakao Kitlesi, Peynir Altı Suyu Tozu (Süt Ürünü), Yağsız Süt Tozu, Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinoleat), Aroma Verici (Vanilin), Tuz, Kakao Kuru Maddesi En Az %35], Kavrulmuş Hindistan Cevizi Parçaları %9 [Hindistan Cevizi %75,8, Şeker, İnvert Şeker Şurubu, Aroma Verici, Tuz].",
+    "source_url": "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-benimo-kombo-stick-56-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526051222",
+    "name": "Eti Burçak Yulaflı Bisküvi 125 g",
+    "ingredients": "Yulaf Ezmesi %25, Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu %12, İnvert Şeker Şurubu, Melas Şurubu, Kabartıcılar (Sodyum Hidrojen Karbonat, Amonyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Tuz, Aroma Verici.",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-yulafli-biskuvi-125-gr"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame",
+      "milk",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526385990",
+    "name": "Eti Burçak Tuzlu Peynirli Bisküvi 87 g",
+    "ingredients": "Buğday Unu (Gluten), Bitkisel Yağlar (Palm, Ayçiçek, Pamuk, Kanola), Tam Buğday Unu (Gluten) %13,6, Şeker, Tuz %2,5, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Domates Salçası, Peynir Tozu (Süt Ürünü) %1,2, Peynir Altı Suyu Tozu (Süt Ürünü), Aroma Vericiler (Süt Ürünü içerir), Asitlik Düzenleyici (Laktik Asit).",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-tuzlu-peynirli-biskuvi-87-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans",
+      "sesame",
+      "peanuts",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8683508150563",
+    "name": "Ülker Çikolata İstanbul Fındıklı ve Çıtır Kadayıflı Baton 35 g",
+    "ingredients": "Şeker, Tam Yağlı Süttozu, Fındık (%10,3) (Fındık Püresi, Fındık Parçacıkları), Kakao Yağı, Kakao Kitlesi, Bitkisel Yağlar (Palm, Palm Çekirdeği), Çıtır Kadayıf ve Baklava Parçacıkları (%3,6) (Buğday Unu, Şeker, Sadeyağ (Süt), Tuz, Nişasta, Yumurta, İrmik (Gluten), Emülgatör (Soya Lesitini), Aroma Vericiler, Süt), Peyniraltı Suyu Tozu, Yağsız Süttozu, Maltodekstrin, Emülgatör (Soya Lesitini), Tuz, Aroma Vericiler. Kakao kuru maddesi en az %30'dur.",
+    "source_url": "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g",
+    "barcode_source_url": "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ulker-cikolata-istanbul-findikli-baton-35g"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "hazelnuts",
+      "wheat",
+      "soybeans",
+      "eggs",
+      "gluten"
+    ],
+    "traces": [
+      "peanuts",
+      "nuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8683508143800",
+    "name": "Ülker Çikolata Dolu Dolu Fındıklı 80 g",
+    "ingredients": "Fındık (%32), Şeker, Tam Yağlı Süttozu, Kakao Yağı, Kakao Kitlesi, Emülgatör (Soya Lesitini), Tuz, Aroma Verici. Kakao kuru maddesi en az %30'dur.",
+    "source_url": "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ulker-cikolata-dolu-dolu-findikli-80-gr"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans",
+      "hazelnuts"
+    ],
+    "traces": [
+      "eggs",
+      "gluten",
+      "nuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690504009542",
+    "name": "Ülker Çiziviç Peynirli Kremalı Sandviç Kraker 82 g",
+    "ingredients": "Buğday unu, bitkisel yağ (palm), laktoz (süt), peyniraltı suyu proteini (süt), kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), peyniraltı suyu tozu (süt), peynir tozu (%2,9), parmeat tozu (süt), invert şeker şurubu, tam yağlı süttozu, nişasta, tuz, şeker, dekstroz, malt ekstraktı (gluten), aroma vericiler (gluten, soya, süt), hacim arttırıcı (kalsiyum karbonat), asitlik düzenleyici (laktik asit), yağsız süttozu, emülgatör (soya lesitini), un işlem maddesi (sodyum metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ulker-cizivic-peynirli-kremali-kraker-82-gr"
+      ]
+    },
+    "allergens": [
+      "wheat",
+      "gluten",
+      "barley",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "eggs",
+      "sesame",
+      "soybeans",
+      "nuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526073477",
+    "name": "Eti Burçak Kurabi Yulaflı Fındıklı Kurabiye 198 g",
+    "ingredients": "Buğday Unu, Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Yulaf Ezmesi %13,7, Tam Buğday Unu %11, Susam %5,4, Kuru İncir %2,7, Yer Fıstığı %2,7, Fındık %1, Ay Çekirdeği %0,8, Portakal Pulpu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat), Tuz, Aroma Verici, Tarçın.",
+    "source_url": "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-burcak-kurabi-yulafli-findikli-kurabiye-198-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "sesame",
+      "peanuts",
+      "hazelnuts"
+    ],
+    "traces": [
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526035512",
+    "name": "Eti Bidolu Kakao Kremalı Yer Fıstığı Parçacıklı Gofret 81 g",
+    "ingredients": "Kakaolu Krema %85 [Şeker, Hindistan Cevizi Yağı, Glukoz Şurubu, Süt Tozu, Yer Fıstığı %10, Kakao %6,6, Bitkisel Yağ (Tam Hidrojenize Palm), Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatör (Ayçiçek Lesitini), Aroma Verici, Tuz], Gofret Yaprağı %15 [Buğday Unu (Gluten içerir), Nişasta, Kakao %1,3, Hindistan Cevizi Yağı, Emülgatör (Ayçiçek Lesitini), Kabartıcılar (Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat, Amonyum Hidrojen Karbonat), Tuz].",
+    "source_url": "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-bidolu-kakao-kremali-yer-fistigi-parcacikli-gofret-81-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "peanuts"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans",
+      "sesame"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526067438",
+    "name": "Eti Maximus Loading Bar 50 g",
+    "ingredients": "Şeker, İnvert Şeker Şurubu, Yer Fıstığı, Tam Yağlı Süt Tozu, Bitkisel Yağ (Palm, Tam Hidrojenize Palm), Maltodekstrin, Buğday Patlağı (Gluten içerir), Kakao Yağı, Peynir Altı Suyu Tozu (Süt Ürünü), Kakao Kitlesi, Nem Verici (Sorbitol), İnülin, Yağı Azaltılmış Kakao Tozu, Buğday Unu (Gluten içerir), Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Tuz, Yumurta Akı Tozu, Aroma Vericiler, Asitlik Düzenleyici (Sodyum Hidrojen Karbonat). Sütlü çikolatadaki süt kuru maddesi en az %30, kakao kuru maddesi en az %28'dir.",
+    "source_url": "https://www.sariyermarket.com/eti-maximus-loading-50g",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-maximus-loading-50g",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-maximus-loading-50g"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-maximus-loading-50g"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-maximus-loading-50g"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "peanuts",
+      "eggs"
+    ],
+    "traces": [
+      "hazelnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690533094861",
+    "name": "Eti Crax Patlayan Lezzet Peynirli Soğanlı Çubuk Kraker 50 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Mısır Patlağı, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Aroma Vericiler, Maltodekstrin, Modifiye Patates Nişastası, Peynir Altı Suyu Tozu (Süt Ürünü), Tuz, Yaş Maya, İnvert Şeker Şurubu, Tatlı Toz Kırmızı Biber, Şeker, Domates Salçası, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Peynir Tozu %0,2 (Süt Ürünü), Emülgatör (Yağ Asitlerinin Mono ve Digliseritlerinin Mono ve Diasetil Tartarik Asit Esterleri), Soğan Tozu %0,1, Renklendirici (Paprika Ekstraktı), Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-peynirli-soganli-cubuk-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "celery",
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526044873",
+    "name": "Eti Crax Patlayan Lezzet Acı Baharatlı Çubuk 50 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Mısır Patlağı, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Acı Baharat Çeşnisi %7 [Tuz, Şeker, Domates Tozu, Soğan Tozu, Aroma Verici, Dekstroz, Sarımsak Tozu, Kırmızı Acı Toz Biber %1,8, Asitlik Düzenleyici (Sitrik Asit)], Maltodekstrin, Modifiye Patates Nişastası, Peynir Altı Suyu Tozu (Süt Ürünü), Tuz, İnvert Şeker Şurubu, Yaş Maya, Şeker, Domates Salçası, Kırmızı Acı Toz Biber %0,2, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Emülgatör (Yağ Asitlerinin Mono ve Digliseritlerinin Mono ve Diasetil Tartarik Asit Esterleri), Renklendirici (Paprika Ekstraktı), Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/crax-patlayan-lezzet-aci-baharatli-cubuk-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "celery",
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526054490",
+    "name": "Eti Crax Patlayan Lezzet Chili Lime Çubuk Kraker 50 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Mısır Patlağı, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Baharat Çeşnisi [Kimyon, Sarımsak Tozu, Acı Biber Ekstraktı %0,2, Öğütülmüş Kişniş Tohumu, Doğal Misket Limon Aroma Vericisi], Tuz, Maltodekstrin, Nişasta, Peynir Altı Suyu Tozu (Süt Ürünü), İnvert Şeker Şurubu, Yaş Maya, Şeker, Domates Salçası, Acı Toz Kırmızı Biber %0,2, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Emülgatör (Yağ Asitlerinin Mono ve Digliseridlerinin Mono ve Diasetil Tartarik Asit Esterleri), Renklendirici (Paprika Ekstraktı), Misket Limon Tozu %0,03, Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-crax-patlayan-lezzet-limon-aci-biber-50-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulfites"
+    ],
+    "traces": [
+      "celery",
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526278780",
+    "name": "Eti Pronot Glutensiz Kakaolu Kurabiye 85 g",
+    "ingredients": "Pirinç Unu, Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Kakao %4, Peynir Altı Suyu Tozu (Süt Ürünü), Glukoz-Fruktoz Şurubu, Pastörize Yumurta, Nişasta (Mısır, Patates), Aroma Vericiler, Tuz, Kabartıcı (Amonyum Hidrojen Karbonat).",
+    "source_url": "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-pronot-glutensiz-kakaolu-kurabiye-85-gr"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "almonds",
+      "hazelnuts",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526051314",
+    "name": "Eti Bumbo Portakal Aromalı Kakaolu Bisküvi 42 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Peynir Altı Suyu Tozu (Süt Ürünü), Yağı Azaltılmış Kakao Tozu %3,4, Kabartıcı (Amonyum Hidrojen Karbonat), Tuz, Portakal Aroma Vericisi %0,3, Aroma Vericiler.",
+    "source_url": "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-bumbo-portakal-aromali-kakaolu-biskuvi-42-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "sesame",
+      "eggs"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526078229",
+    "name": "Eti Petito Çıtır Toplu 16 g",
+    "ingredients": "Bol Sütlü Çikolata %70,9 [Şeker, Süt Tozu, Kakao Yağı, Kakao Kitlesi, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %32, Süt Kuru Maddesi En Az %27'dir.], Beyaz Çikolata %12,5 [Şeker, Kakao Yağı, Süt Tozu, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %30, Süt Kuru Maddesi En Az %29'dur.], Mısır ve Buğday Gevreği %9,7 (Gluten içerir), Bitter Çikolata %6,9 [Kakao Kitlesi, Şeker, Kakao Yağı, Kakao, Tereyağı (Süt Ürünü), Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %54'tür].",
+    "source_url": "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-petito-citir-toplu-16-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "pistachios",
+      "almonds",
+      "hazelnuts",
+      "soybeans",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690526093710",
+    "name": "Eti Popkek Çikolatalı Kek 60 g",
+    "ingredients": "Kek %70 [Buğday Unu (Gluten içerir), Şeker, Yumurta, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), İnvert Şeker Şurubu, Nem Verici (Gliserol), Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatörler (Yağ Asitlerinin Mono ve Digliseritleri, Yağ Asitlerinin Poligliserol Esterleri), Tuz, Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat), Koruyucu (Sorbik Asit), Aroma Vericiler, Asitlik Düzenleyici (Sitrik Asit), Kıvam Arttırıcı (Ksantan Gam)], Çikolata Sosu %16 [Şeker, İnvert Şeker Şurubu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Nem Vericiler (Sorbitol, Gliserol), Peynir Altı Suyu Tozu (Süt Ürünü), Bitter Çikolata %4,2 [Şeker, Kakao Kitlesi, Kakao Yağı, Kakao, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin). Kakao Kuru Maddesi En Az %52], Kakao %3,8, Modifiye Patates Nişastası, Fındık Püresi, Emülgatörler (Yağ Asitlerinin Mono ve Digliseritlerinin Laktik Asit Esterleri), Tuz, Koruyucu (Sorbik Asit), Asitlik Düzenleyici (Sitrik Asit)], Kakaolu Kaplama %14 [Şeker, Tam Hidrojenize Bitkisel Yağ (Palm), Peynir Altı Suyu Tozu (Süt Ürünü), Tam Yağlı Süt Tozu, Kakao %5,4, Emülgatör (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici].",
+    "source_url": "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eti-popkek-cikolatali-kek-60-gr"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame",
+      "peanuts"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00Z",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8697408330079",
+    "name": "Sinangil Kolay Açılan Baklavalık Böreklik Mantılık Un 2 kg",
+    "ingredients": "Buğday Unu.",
+    "source_name": "Sinangil üretici tam içerik ve resmi ürün barkod kataloğu",
+    "source_url": "https://sinangil.com.tr/urunler/ozel-amacli-unlar/acilan-un-baklavalikboreklikmantilik",
+    "barcode_source_url": "https://sinangil.com.tr/userfiles/Sinangil_Urun_Katalogu.pdf",
+    "field_sources": {
+      "code": [
+        "https://sinangil.com.tr/userfiles/Sinangil_Urun_Katalogu.pdf",
+        "https://www.asyasanalmarket.com/sinangil-boreklik-un-2-kg-16-16367"
+      ],
+      "name": [
+        "https://sinangil.com.tr/urunler/ozel-amacli-unlar/acilan-un-baklavalikboreklikmantilik",
+        "https://www.asyasanalmarket.com/sinangil-boreklik-un-2-kg-16-16367"
+      ],
+      "ingredients": [
+        "https://sinangil.com.tr/urunler/ozel-amacli-unlar/acilan-un-baklavalikboreklikmantilik"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "manufacturer_reported_pending_package_check"
+  },
+  {
+    "code": "8690876100267",
+    "name": "Yudum Egemden Yumuşak Lezzet Natürel Sızma Zeytinyağı 1 L Pet",
+    "ingredients": "Natürel Sızma Zeytinyağı.",
+    "source_name": "CarrefourSA tam etiket; Afta Market ve ToptanExpress barkod/ambalaj teyidi",
+    "source_url": "https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500",
+    "barcode_source_url": "https://aftamarket.com.tr/yudum-zeytinyag-egem-sizma-yumusak-1-lt",
+    "field_sources": {
+      "code": [
+        "https://aftamarket.com.tr/yudum-zeytinyag-egem-sizma-yumusak-1-lt",
+        "https://toptanexpress.com/urun/yudum-egemden-sizma-zeytinyagi-pet-1-lt"
+      ],
+      "name": [
+        "https://aftamarket.com.tr/yudum-zeytinyag-egem-sizma-yumusak-1-lt",
+        "https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500",
+        "https://www.migros.com.tr/yudum-egemden-sizma-zeytinyagi-yumusaklezzet-1l-p-3f0509"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-expansion-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
   }
 ]

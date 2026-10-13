@@ -177,6 +177,16 @@ class _HomePageState extends State<HomePage> {
   List<LocalProduct> libraryProducts = [];
   String libraryCategory = 'food';
   String libraryQuery = '';
+  int libraryTab = 0;
+  String catalogueCategory = 'food';
+  String catalogueQuery = '';
+  late Future<List<ProductRecord>> catalogueProducts =
+      ProductRepository().listCurated(category: catalogueCategory);
+  bool contributing = false;
+  String contributionQuery = '';
+  late final Future<List<dynamic>> contributionCandidates = rootBundle
+      .loadString('assets/contribution_candidates.json')
+      .then((text) => jsonDecode(text) as List<dynamic>);
   String criteriaQuery = '';
   String criteriaCategory = 'all';
   String? activeLocalId;
@@ -286,6 +296,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   void resetProduct() {
+    contributing = false;
     barcodeSearching = false;
     lookupStep = 0;
     label.clear();
@@ -610,7 +621,7 @@ class _HomePageState extends State<HomePage> {
           imageSourceUrl: previous?.imageSourceUrl ??
               (productRecord?.imageUrl == null
                   ? null
-                  : productRecord?.sourceUrl));
+                  : productRecord?.imageSourceUrl ?? productRecord?.sourceUrl));
       await store.save(saved);
       if (selectedPhoto != null) {
         await store.attachImage(saved, File(selectedPhoto!.path));
@@ -806,7 +817,7 @@ class _HomePageState extends State<HomePage> {
         photoPath = cropped.path;
         localReviewDate = null;
         rawOcrText = '';
-        productName = null;
+        if (!contributing) productName = null;
         productRecord = null;
         ingredientSectionDetected = false;
         matches = null;
@@ -1738,6 +1749,26 @@ class _HomePageState extends State<HomePage> {
         Text(productName!, style: Theme.of(context).textTheme.titleLarge),
       if (activeBarcode != null)
         Text('${copy('Barkod', 'Barcode')}: $activeBarcode'),
+      if (contributing) ...[
+        Text(copy(
+            'Ambalajdan barkodu okut, tam içeriği ekle ve kontrol ederek kaydet.',
+            'Scan the package barcode, add the full ingredients and review before saving.')),
+        Wrap(spacing: 8, runSpacing: 8, children: [
+          OutlinedButton.icon(
+              onPressed: linkBarcode,
+              icon: const Icon(Icons.qr_code_scanner),
+              label:
+                  Text(copy('Barkod okut / düzelt', 'Scan / correct barcode'))),
+          OutlinedButton.icon(
+              onPressed: () => scanPhoto(ImageSource.camera),
+              icon: const Icon(Icons.camera_alt_outlined),
+              label: Text(copy('Etiketi çek', 'Take label photo'))),
+          OutlinedButton.icon(
+              onPressed: () => scanPhoto(ImageSource.gallery),
+              icon: const Icon(Icons.photo_library_outlined),
+              label: Text(copy('Galeriden ekle', 'Add from gallery'))),
+        ]),
+      ],
       if (productRecord?.nameMatched == true)
         notice(
             copy(
@@ -1768,8 +1799,12 @@ class _HomePageState extends State<HomePage> {
       if (issues.isNotEmpty)
         notice(
             issues.contains('empty')
-                ? copy('Metin okunamadı. Daha net bir etiket fotoğrafı ekle.',
-                    'No text was read. Add a clearer label photo.')
+                ? (contributing
+                    ? copy('İçindekileri yaz veya etiket fotoğrafı ekle.',
+                        'Type the ingredients or add a label photo.')
+                    : copy(
+                        'Metin okunamadı. Daha net bir etiket fotoğrafı ekle.',
+                        'No text was read. Add a clearer label photo.'))
                 : issues.contains('parentheses')
                     ? copy(
                         'Okunan metinde açılan ve kapanan parantezler eşleşmiyor. OCR bir işareti atlamış olabilir. Etiketle karşılaştırıp eksik işareti düzelt.',
@@ -1796,6 +1831,12 @@ class _HomePageState extends State<HomePage> {
                   'Yalnızca yanlış okunan yerleri düzeltebilirsin.',
                   'Correct any text that was misread.'),
               helperMaxLines: 3)),
+      if (productRecord?.mayContain.isNotEmpty == true)
+        notice(
+            copy(
+                'Renge göre bulunabilecek pigmentler ayrı listelenmiştir. Kesin içerik değerlendirmesi bunları kapsamaz; güncel ambalajdaki CI kodlarını kontrol et.',
+                'Possible shade pigments are listed separately. Confirmed ingredient matching excludes them; check the CI codes on your package.'),
+            warning: true),
       if (rawOcrText.isNotEmpty)
         ExpansionTile(
             title: Text(copy('Özgün okuma metni', 'Original text read')),
@@ -1846,6 +1887,13 @@ class _HomePageState extends State<HomePage> {
               : null,
           icon: const Icon(Icons.arrow_forward),
           label: Text(copy('Sonuçları göster', 'Show results'))),
+      if (contributing) ...[
+        const SizedBox(height: 12),
+        OutlinedButton.icon(
+            onPressed: complete && issues.isEmpty ? saveReviewedProduct : null,
+            icon: const Icon(Icons.save_outlined),
+            label: Text(copy('Katkıyı kaydet', 'Save contribution'))),
+      ],
       const SizedBox(height: 20),
       ExpansionTile(
           title: Text(copy('Yeniden fotoğraf ekle', 'Add another photo')),
@@ -1868,6 +1916,13 @@ class _HomePageState extends State<HomePage> {
                     children: [
                       if (productRecord != null) ...[
                         Text(productRecord!.sourceName),
+                        if (productRecord!.imageUrl != null) ...[
+                          const Text(
+                              'Open Food Facts contributors · CC BY-SA 3.0'),
+                          const SelectableText(
+                              'https://creativecommons.org/licenses/by-sa/3.0/'),
+                          SelectableText(productRecord!.imageSourceUrl ?? ''),
+                        ],
                         if (productRecord!.nameMatched)
                           Text(copy('Eşleşme yöntemi: ürün adıyla arama',
                               'Match method: product-name search')),
@@ -1877,6 +1932,14 @@ class _HomePageState extends State<HomePage> {
                         Text(
                             '${copy('Kayıt barkodu', 'Record barcode')}: ${productRecord!.code}'),
                         SelectableText(productRecord!.sourceUrl),
+                        if (productRecord!.mayContain.isNotEmpty) ...[
+                          Text(copy('İçerebilir · renk pigmentleri',
+                              'May contain · colour pigments')),
+                          SelectableText(productRecord!.mayContain),
+                          Text(copy(
+                              'Üreticinin olası pigment listesidir; bu renkte hepsinin bulunduğu doğrulanmamıştır. Pigmentler kesin içerik eşleşmesine dahil edilmez.',
+                              'Manufacturer list of possible pigments; not all are confirmed in this shade. Pigments are excluded from confirmed ingredient matching.')),
+                        ],
                         Text(
                             '${copy('Güncelleme', 'Updated')}: ${productRecord!.modified == null ? copy('Bilinmiyor', 'Unknown') : dateLabel(productRecord!.modified!)}'),
                         Text(
@@ -1926,6 +1989,12 @@ class _HomePageState extends State<HomePage> {
                     padding: const EdgeInsets.only(top: 10),
                     child: Text(copy('Topluluk verisi · doğrulanmadı',
                         'Community data · unverified'))),
+              if (record?.mayContain.isNotEmpty == true)
+                Padding(
+                    padding: const EdgeInsets.only(top: 8),
+                    child: Text(copy(
+                        'Olası renk pigmentleri ürün kaynağı ayrıntılarında yer alır; ambalajla doğrulanmalıdır.',
+                        'Possible colour pigments are shown in source details; confirm against the package.'))),
               if (record?.nameMatched == true)
                 Padding(
                     padding: const EdgeInsets.only(top: 8),
@@ -2216,6 +2285,290 @@ class _HomePageState extends State<HomePage> {
       }
     }
   }
+
+  Widget libraryTabs() => Padding(
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 0),
+      child: Center(
+          child: SingleChildScrollView(
+              scrollDirection: Axis.horizontal,
+              child: SegmentedButton<int>(
+                style: SegmentedButton.styleFrom(
+                    textStyle:
+                        const TextStyle(fontFamily: 'sans-serif', fontSize: 12),
+                    minimumSize: const Size(0, 48),
+                    padding: const EdgeInsets.symmetric(horizontal: 12)),
+                showSelectedIcon: false,
+                segments: [
+                  ButtonSegment(
+                      value: 0, label: Text(copy('Ürünlerim', 'My products'))),
+                  ButtonSegment(
+                      value: 1, label: Text(copy('Katalog', 'Catalogue'))),
+                  ButtonSegment(
+                      value: 2, label: Text(copy('Katkı', 'Contribute'))),
+                ],
+                selected: {libraryTab},
+                onSelectionChanged: (values) =>
+                    setState(() => libraryTab = values.first),
+              ))));
+
+  Widget catalogueThumbnail(ProductRecord product, {double size = 64}) {
+    final fallback = Container(
+        color: NaviloColors.line,
+        alignment: Alignment.center,
+        child: Text(
+            product.name.isEmpty
+                ? 'N'
+                : product.name.characters.first.toUpperCase(),
+            style:
+                TextStyle(fontSize: size * .32, color: NaviloColors.forest)));
+    final image = ProductRecord.licensedImage(product.imageUrl);
+    return ClipRRect(
+        borderRadius: BorderRadius.circular(12),
+        child: SizedBox(
+            width: size,
+            height: size,
+            child: image == null
+                ? fallback
+                : Image.network(image,
+                    fit: BoxFit.contain,
+                    semanticLabel: product.name,
+                    cacheWidth:
+                        (size * MediaQuery.devicePixelRatioOf(context)).round(),
+                    loadingBuilder: (_, child, progress) =>
+                        progress == null ? child : fallback,
+                    errorBuilder: (_, error, stack) => fallback)));
+  }
+
+  Future<void> showCatalogueProduct(ProductRecord product) async {
+    final selectedCategory = catalogueCategory;
+    await showModalBottomSheet<void>(
+        context: context,
+        isScrollControlled: true,
+        useSafeArea: true,
+        showDragHandle: true,
+        builder: (ctx) => FractionallySizedBox(
+            heightFactor: .88,
+            child: SingleChildScrollView(
+                padding: const EdgeInsets.fromLTRB(24, 8, 24, 32),
+                child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(product.name,
+                          style: Theme.of(context).textTheme.titleLarge),
+                      const SizedBox(height: 16),
+                      Center(child: catalogueThumbnail(product, size: 180)),
+                      if (product.imageUrl != null) ...[
+                        const SizedBox(height: 8),
+                        Text('Open Food Facts contributors · CC BY-SA 3.0',
+                            style: Theme.of(context).textTheme.bodySmall),
+                        SelectableText(
+                            'https://creativecommons.org/licenses/by-sa/3.0/'),
+                        SelectableText(product.imageSourceUrl ?? ''),
+                      ],
+                      const SizedBox(height: 8),
+                      SelectableText(
+                          '${copy('Barkod', 'Barcode')}: ${product.code}'),
+                      const SizedBox(height: 20),
+                      Text(copy('İçindekiler', 'Ingredients'),
+                          style: Theme.of(context).textTheme.titleMedium),
+                      const SizedBox(height: 8),
+                      SelectableText(product.ingredients),
+                      if (product.mayContain.isNotEmpty) ...[
+                        const SizedBox(height: 16),
+                        Text(copy('İçerebilir · renk pigmentleri',
+                            'May contain · colour pigments')),
+                        SelectableText(product.mayContain),
+                      ],
+                      const Divider(height: 32),
+                      Text(product.sourceName),
+                      SelectableText(product.sourceUrl),
+                      if (product.modified != null)
+                        Text(
+                            '${copy('Kaynak kontrol tarihi', 'Source checked')}: ${dateLabel(product.modified!)}'),
+                      const SizedBox(height: 16),
+                      Text(copy(
+                          'Güncel ambalajdaki içerikle karşılaştırarak değerlendir.',
+                          'Compare with the current package before assessing.')),
+                      const SizedBox(height: 16),
+                      FilledButton.icon(
+                          onPressed: () {
+                            Navigator.pop(ctx);
+                            setState(() {
+                              resetProduct();
+                              category = selectedCategory;
+                              page = 0;
+                              activeBarcode = product.code;
+                              productRecord = product;
+                              productName = product.name;
+                              label.text = product.ingredients;
+                              ingredientSectionDetected = true;
+                              stage = ScanStage.review;
+                            });
+                          },
+                          icon: const Icon(Icons.fact_check_outlined),
+                          label: Text(copy('İçeriği kontrol et ve değerlendir',
+                              'Review and assess ingredients'))),
+                    ]))));
+  }
+
+  Widget catalogueScreen() => FutureBuilder<List<ProductRecord>>(
+      future: catalogueProducts,
+      builder: (context, snapshot) {
+        final query = normalize(catalogueQuery);
+        final records = (snapshot.data ?? <ProductRecord>[])
+            .where((p) =>
+                query.isEmpty ||
+                normalize(p.name).contains(query) ||
+                p.code.contains(query))
+            .toList();
+        return CustomScrollView(slivers: [
+          SliverPadding(
+              padding: const EdgeInsets.fromLTRB(20, 20, 20, 8),
+              sliver: SliverToBoxAdapter(
+                  child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                    Text(copy('Ürün kataloğu', 'Product catalogue'),
+                        style: Theme.of(context).textTheme.titleLarge),
+                    const SizedBox(height: 8),
+                    Text(copy(
+                        'Kaynaklardan eklediğimiz ürünler. İnternet olmadan da görüntülenir.',
+                        'Products added from sources. Available offline too.')),
+                    const SizedBox(height: 16),
+                    TextField(
+                        onChanged: (value) =>
+                            setState(() => catalogueQuery = value),
+                        decoration: InputDecoration(
+                            prefixIcon: const Icon(Icons.search),
+                            labelText: copy('Katalogda ürün veya barkod ara',
+                                'Search catalogue by product or barcode'))),
+                    const SizedBox(height: 12),
+                    Wrap(spacing: 8, children: [
+                      for (final item in [
+                        ('food', copy('Gıda', 'Food')),
+                        ('cosmetic', copy('Kozmetik', 'Cosmetics'))
+                      ])
+                        ChoiceChip(
+                            showCheckmark: false,
+                            label: Text(item.$2),
+                            selected: catalogueCategory == item.$1,
+                            onSelected: (_) => setState(() {
+                                  catalogueCategory = item.$1;
+                                  catalogueProducts = ProductRepository()
+                                      .listCurated(category: item.$1);
+                                })),
+                    ]),
+                    const SizedBox(height: 8),
+                    if (snapshot.hasData)
+                      Text(copy('${records.length} ürün',
+                          '${records.length} products')),
+                  ]))),
+          if (snapshot.hasError)
+            SliverToBoxAdapter(
+                child: Padding(
+                    padding: const EdgeInsets.all(20),
+                    child: Text(copy(
+                        'Katalog yüklenemedi.', 'Could not load catalogue.'))))
+          else if (!snapshot.hasData)
+            const SliverToBoxAdapter(
+                child: Center(child: CircularProgressIndicator()))
+          else if (records.isEmpty)
+            SliverToBoxAdapter(
+                child: Padding(
+                    padding: const EdgeInsets.all(20),
+                    child: Text(copy('Aramana uygun ürün bulunamadı.',
+                        'No matching products.'))))
+          else
+            SliverPadding(
+                padding: const EdgeInsets.fromLTRB(20, 0, 20, 24),
+                sliver: SliverList(
+                    delegate: SliverChildBuilderDelegate((context, index) {
+                  if (index.isOdd) return const Divider(height: 1);
+                  final product = records[index ~/ 2];
+                  return ListTile(
+                      contentPadding: const EdgeInsets.symmetric(vertical: 8),
+                      leading: catalogueThumbnail(product),
+                      title: Text(product.name,
+                          maxLines: 2, overflow: TextOverflow.ellipsis),
+                      subtitle: Text(product.code),
+                      trailing: const Icon(Icons.chevron_right),
+                      onTap: () => showCatalogueProduct(product));
+                }, childCount: records.length * 2 - 1))),
+        ]);
+      });
+
+  void openContribution(Map<String, dynamic> candidate) {
+    final saved =
+        libraryProducts.where((p) => p.id == candidate['id']).firstOrNull;
+    if (saved != null) {
+      openSaved(saved);
+      setState(() => contributing = true);
+      return;
+    }
+    setState(() {
+      resetProduct();
+      contributing = true;
+      activeLocalId = candidate['id'] as String;
+      category = candidate['category'] as String;
+      productName = candidate['name'] as String;
+      page = 0;
+      stage = ScanStage.review;
+    });
+  }
+
+  Widget contributionScreen() => FutureBuilder<List<dynamic>>(
+      future: contributionCandidates,
+      builder: (context, snapshot) {
+        if (snapshot.hasError) {
+          return Center(
+              child: Text(copy('Katkı listesi yüklenemedi.',
+                  'Could not load contribution list.')));
+        }
+        if (!snapshot.hasData) {
+          return const Center(child: CircularProgressIndicator());
+        }
+        final records = snapshot.requireData
+            .cast<Map<String, dynamic>>()
+            .where((p) => normalize(p['name'] as String)
+                .contains(normalize(contributionQuery)))
+            .toList();
+        return pageList([
+          Text(copy('Bir ürünle destek ol', 'Help with one product'),
+              style: Theme.of(context).textTheme.titleLarge),
+          const SizedBox(height: 8),
+          Text(copy(
+              'Bu adayların ürün bilgileri doğrulanmadı. Elindeki ambalajdan barkod ve içerik ekleyebilirsin. Paylaşım, kaydederken ayrıca seçilir.',
+              'These candidates are unverified. Add barcode and ingredients from your package. Sharing is a separate choice when saving.')),
+          const SizedBox(height: 16),
+          TextField(
+              onChanged: (value) => setState(() => contributionQuery = value),
+              decoration: InputDecoration(
+                  prefixIcon: const Icon(Icons.search),
+                  labelText: copy(
+                      'Katkı listesinde ara', 'Search contribution list'))),
+          const SizedBox(height: 12),
+          Text(
+              copy('${records.length} aday ürün',
+                  '${records.length} product candidates'),
+              style: Theme.of(context).textTheme.bodySmall),
+          if (records.isEmpty)
+            Text(copy('Eşleşen aday yok.', 'No matching candidates.')),
+          for (final candidate in records) ...[
+            ListTile(
+                contentPadding: EdgeInsets.zero,
+                title: Text(candidate['name'] as String),
+                subtitle: Text(
+                    libraryProducts.any((p) => p.id == candidate['id'])
+                        ? copy('Bu cihazda kaydedildi · Düzenle',
+                            'Saved on this device · Edit')
+                        : copy('Barkod ve içerik bekliyor',
+                            'Needs barcode and ingredients')),
+                trailing: const Icon(Icons.edit_outlined),
+                onTap: () => openContribution(candidate)),
+            const Divider(height: 1),
+          ],
+        ]);
+      });
 
   Widget libraryScreen(Policy data) {
     final query = normalize(libraryQuery);
@@ -2771,21 +3124,15 @@ class _HomePageState extends State<HomePage> {
           ]));
 
   Widget profileScreen() => pageList([
-        Text(copy('Uygulama dili', 'App language'),
-            style: Theme.of(context).textTheme.titleMedium),
-        const SizedBox(height: 8),
-        SegmentedButton<bool>(
-            showSelectedIcon: false,
-            segments: const [
-              ButtonSegment(value: false, label: Text('Türkçe')),
-              ButtonSegment(value: true, label: Text('English')),
-            ],
-            selected: {english},
-            onSelectionChanged: (value) {
-              setState(() => english = value.first);
-              persistSettings();
-            }),
-        const SizedBox(height: 20),
+        ListTile(
+            contentPadding: EdgeInsets.zero,
+            leading: const Icon(Icons.fact_check_outlined),
+            title: Text(copy('Kriterler', 'Criteria')),
+            subtitle: Text(copy('İncelenen maddeler ve kaynaklar',
+                'Ingredients and sources we check')),
+            trailing: const Icon(Icons.chevron_right),
+            onTap: () => setState(() => page = 2)),
+        const Divider(),
         skinTypeCard(),
         const SizedBox(height: 24),
         Text(copy('Beslenme tercihlerin', 'Dietary preferences'),
@@ -2804,8 +3151,32 @@ class _HomePageState extends State<HomePage> {
                 'Preferences do not yet change product results or recommendations. This is not medical advice.'),
             style: Theme.of(context).textTheme.bodySmall),
         if (storageError != null) notice(storageError!, warning: true),
+        const Divider(height: 32),
+        Center(
+            child: Column(mainAxisSize: MainAxisSize.min, children: [
+          Text(copy('Uygulama dili', 'App language'),
+              style: Theme.of(context).textTheme.bodySmall),
+          const SizedBox(height: 4),
+          SegmentedButton<bool>(
+              showSelectedIcon: false,
+              style: SegmentedButton.styleFrom(
+                  textStyle:
+                      const TextStyle(fontFamily: 'sans-serif', fontSize: 12),
+                  minimumSize: const Size(84, 44),
+                  padding: const EdgeInsets.symmetric(horizontal: 14)),
+              segments: const [
+                ButtonSegment(value: false, label: Text('Türkçe')),
+                ButtonSegment(value: true, label: Text('English')),
+              ],
+              selected: {english},
+              onSelectionChanged: (value) {
+                setState(() => english = value.first);
+                persistSettings();
+              }),
+        ])),
+        const SizedBox(height: 20),
       ],
-          title: copy('Tercihlerim', 'My preferences'),
+          title: copy('Profil ve ayarlar', 'Profile & settings'),
           subtitle: copy('Ürünleri kendi seçimlerine göre keşfet.',
               'Explore products with your own preferences.'));
 
@@ -2946,7 +3317,7 @@ class _HomePageState extends State<HomePage> {
   Widget scanNavigationItem() => Expanded(
       child: Semantics(
           button: true,
-          label: copy('Tara', 'Scan'),
+          label: copy('Ana sayfa', 'Home'),
           child: InkWell(
               borderRadius: BorderRadius.circular(14),
               onTap: () => setState(() {
@@ -2964,6 +3335,10 @@ class _HomePageState extends State<HomePage> {
                             borderRadius: BorderRadius.circular(12)),
                         child: const Icon(Icons.center_focus_strong_rounded,
                             color: Colors.white, size: 21)),
+                    const SizedBox(height: 3),
+                    Text(copy('Ana sayfa', 'Home'),
+                        style: const TextStyle(
+                            fontSize: 10, fontWeight: FontWeight.w700)),
                   ])))));
 
   Widget naviloBottomBar() => SafeArea(
@@ -2976,38 +3351,45 @@ class _HomePageState extends State<HomePage> {
           padding: const EdgeInsets.symmetric(horizontal: 8),
           child: Row(children: [
             navigationItem(
-                icon: Icons.tune_rounded,
-                label: copy('Tercihlerim', 'Preferences'),
-                selected: page == 1,
-                onTap: () => setState(() => page = 1)),
-            scanNavigationItem(),
-            navigationItem(
-                icon: Icons.fact_check_outlined,
-                label: copy('Kriterler', 'Criteria'),
-                selected: page == 2,
-                onTap: () => setState(() => page = 2)),
-            navigationItem(
                 icon: Icons.bookmarks_outlined,
                 label: copy('Kütüphane', 'Library'),
                 selected: page == 3,
                 onTap: () => setState(() => page = 3)),
+            scanNavigationItem(),
+            navigationItem(
+                icon: Icons.tune_rounded,
+                label: copy('Profilim', 'Profile'),
+                selected: page == 1 || page == 2,
+                onTap: () => setState(() => page = 1)),
           ])));
 
   @override
   Widget build(BuildContext context) => PopScope(
-        canPop: stage == ScanStage.start || page != 0 || onboarding,
+        canPop:
+            page != 2 && (stage == ScanStage.start || page != 0 || onboarding),
         onPopInvokedWithResult: (didPop, _) {
-          if (!didPop && !reading) backStep();
+          if (!didPop && !reading) {
+            if (page == 2) {
+              setState(() => page = 1);
+            } else {
+              backStep();
+            }
+          }
         },
         child: Scaffold(
           appBar: AppBar(
             automaticallyImplyLeading: false,
-            leading: page == 0 && stage != ScanStage.start && !onboarding
+            leading: page == 2
                 ? IconButton(
-                    tooltip: copy('Geri', 'Back'),
+                    tooltip: copy('Profile dön', 'Back to profile'),
                     icon: const Icon(Icons.arrow_back),
-                    onPressed: reading ? null : backStep)
-                : null,
+                    onPressed: () => setState(() => page = 1))
+                : page == 0 && stage != ScanStage.start && !onboarding
+                    ? IconButton(
+                        tooltip: copy('Geri', 'Back'),
+                        icon: const Icon(Icons.arrow_back),
+                        onPressed: reading ? null : backStep)
+                    : null,
             title: const NaviloWordmark(),
             actions: const [],
           ),
@@ -3062,7 +3444,17 @@ class _HomePageState extends State<HomePage> {
                                 final data = snapshot.requireData;
                                 if (page == 1) return profileScreen();
                                 if (page == 2) return criteriaScreen(data);
-                                if (page == 3) return libraryScreen(data);
+                                if (page == 3) {
+                                  return Column(children: [
+                                    libraryTabs(),
+                                    Expanded(
+                                        child: switch (libraryTab) {
+                                      1 => catalogueScreen(),
+                                      2 => contributionScreen(),
+                                      _ => libraryScreen(data),
+                                    }),
+                                  ]);
+                                }
                                 return switch (stage) {
                                   ScanStage.start => homeScreen(),
                                   ScanStage.review => reviewScreen(data),

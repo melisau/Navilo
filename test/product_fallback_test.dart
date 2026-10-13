@@ -97,7 +97,8 @@ void main() {
       if (uri.host == 'world.openfoodfacts.org') {
         expect(uri.path, '/cgi/search.pl');
         expect(uri.queryParameters['search_terms'], 'Sample Brand Oat Drink');
-        expect(uri.queryParameters['countries_tags_en'], 'turkey');
+        expect(
+            uri.queryParameters['countries_tags_en'], anyOf('turkey', isNull));
         return {
           'products': [
             {
@@ -120,6 +121,17 @@ void main() {
     expect(candidates.single.nameMatched, isTrue);
     expect(candidates.single.nameLookupSource, 'UPCitemdb');
     expect(candidates.single.sourceName, 'Open Food Facts');
-    expect(calls.length, 5);
+    expect(calls.length, 9);
+    final searches =
+        calls.where((uri) => uri.path == '/cgi/search.pl').toList();
+    expect(
+        searches.take(4).every(
+            (uri) => uri.queryParameters['countries_tags_en'] == 'turkey'),
+        isTrue);
+    expect(
+        searches.skip(4).every(
+            (uri) => !uri.queryParameters.containsKey('countries_tags_en')),
+        isTrue);
+    expect(searches.map((uri) => uri.host).toSet(), hasLength(4));
   });
 }

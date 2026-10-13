@@ -1,0 +1,41 @@
+{
+  "status": 1,
+  "code": "8695077122285",
+  "product": {
+    "code": "8695077122285",
+    "product_name": null,
+    "product_name_tr": null,
+    "brands": "Harras",
+    "quantity": null,
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "lang": "ru",
+    "last_modified_t": 1770213392,
+    "allergens_tags": [],
+    "traces_tags": [],
+    "labels_tags": null,
+    "image_ingredients_url": null,
+    "image_ingredients_small_url": null,
+    "image_front_url": null,
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 4032,
+            "w": 3024
+          }
+        },
+        "uploaded_t": 1714122609,
+        "uploader": "smoothie-app"
+      }
+    }
+  }
+}

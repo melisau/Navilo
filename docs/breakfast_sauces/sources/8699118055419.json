@@ -1,0 +1,68 @@
+{
+  "status": 1,
+  "code": "8699118055419",
+  "product": {
+    "code": "8699118055419",
+    "product_name": "Acılı Kahvaltılık Sos Acuka&quot;",
+    "product_name_tr": "Acılı Kahvaltılık Sos Acuka&quot;",
+    "brands": "Çokça",
+    "quantity": "300 g",
+    "ingredients_text": "Biber salçası, domates salçası, su, çemen unu, sarımsak, sıvı yağ, _ceviz içi_",
+    "ingredients_text_tr": "Biber salçası, domates salçası, su, çemen unu, sarımsak, sıvı yağ, _ceviz içi_",
+    "lang": "tr",
+    "last_modified_t": 1780903219,
+    "allergens_tags": [
+      "en:nuts",
+      "tr:ceviz içi"
+    ],
+    "traces_tags": [
+      "en:gluten"
+    ],
+    "labels_tags": [],
+    "image_ingredients_url": null,
+    "image_ingredients_small_url": null,
+    "image_front_url": "https://images.openfoodfacts.org/images/products/869/911/805/5419/front_tr.5.400.jpg",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5120,
+            "w": 3840
+          }
+        },
+        "uploaded_t": 1735058009,
+        "uploader": "smoothie-app"
+      },
+      "front_tr": {
+        "imgid": "1",
+        "rev": "5",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 75
+          },
+          "200": {
+            "h": 200,
+            "w": 150
+          },
+          "400": {
+            "h": 400,
+            "w": 300
+          },
+          "full": {
+            "h": 5120,
+            "w": 3840
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1802 @@
+[
+  {
+    "number": 1,
+    "supplied_code": "8682162074015",
+    "name": "Beaulis Drag It Eyeliner Pen 100 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 2,
+    "supplied_code": "8682162074022",
+    "name": "Beaulis Drag It Eyeliner Pen 110 Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77891",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77491, CI 77499), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 3,
+    "supplied_code": "8682162074039",
+    "name": "Beaulis Drag It Eyeliner Pen 120 Deep Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77891",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 4,
+    "supplied_code": "8682162074046",
+    "name": "Beaulis Drag It Eyeliner Pen 130 Emerald",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77288, CI 77492",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 5,
+    "supplied_code": "8682162074053",
+    "name": "Beaulis Drag It Eyeliner Pen 140 Burgundy",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 15850",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77491), D&C Red No. 7 (CI 15850).",
+    "status": "pending"
+  },
+  {
+    "number": 6,
+    "supplied_code": "8682162074114",
+    "name": "Beaulis Draw It Likit Dipliner Matte Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Carbon Black, Silica",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Silica, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 7,
+    "supplied_code": "8682162074121",
+    "name": "Beaulis Draw It Likit Dipliner Glossy Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Polybutene, CI 77266",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Polybutene, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 8,
+    "supplied_code": "8682162074138",
+    "name": "Beaulis Draw It Likit Dipliner Deep Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, CI 77491, CI 77492",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77499, CI 77491, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 9,
+    "supplied_code": "8682162074213",
+    "name": "Beaulis Glide It Asansörlü Kalem 200 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, Mica",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77499), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 10,
+    "supplied_code": "8682162074220",
+    "name": "Beaulis Glide It Asansörlü Kalem 210 Dark Cocoa",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 11,
+    "supplied_code": "8682162074237",
+    "name": "Beaulis Glide It Asansörlü Kalem 220 Navy Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77891, Mica",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 12,
+    "supplied_code": "8682162074244",
+    "name": "Beaulis Glide It Asansörlü Kalem 230 Khaki",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, CI 77288, CI 19140",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77499), Chromium Oxide Greens (CI 77288), Yellow 5 Lake (CI 19140).",
+    "status": "pending"
+  },
+  {
+    "number": 13,
+    "supplied_code": "8682162074251",
+    "name": "Beaulis Glide It Asansörlü Kalem 240 Charcoal",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 14,
+    "supplied_code": "8682162074268",
+    "name": "Beaulis Glide It Asansörlü Kalem 250 Silver Star",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aluminum Powder, Mica, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Aluminum Powder (CI 77000), Mica, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 15,
+    "supplied_code": "8682162074275",
+    "name": "Beaulis Glide It Asansörlü Kalem 260 Gold Rush",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, CI 77491, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 16,
+    "supplied_code": "8682162074282",
+    "name": "Beaulis Glide It Asansörlü Kalem 270 White",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 17,
+    "supplied_code": "8682162074299",
+    "name": "Beaulis Glide It Asansörlü Kalem 280 Nude Light",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891, CI 77492, CI 77491",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 18,
+    "supplied_code": "8682162074305",
+    "name": "Beaulis Glide It Asansörlü Kalem 290 Amethyst",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77742, CI 77499, Mica",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Manganese Violet (CI 77742), Iron Oxides (CI 77499), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 19,
+    "supplied_code": "8682162074411",
+    "name": "Beaulis Fake It Jel Göz Kalemi 300 Pitch Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Polyethylene, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Disteardimonium Hectorite, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 20,
+    "supplied_code": "8682162074428",
+    "name": "Beaulis Fake It Jel Göz Kalemi 310 Roasted Coffee",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Polyethylene, CI 77491, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Disteardimonium Hectorite, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 21,
+    "supplied_code": "8682162074435",
+    "name": "Beaulis Fake It Jel Göz Kalemi 320 Teal Ocean",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, CI 77007, CI 77891",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Ultramarines (CI 77007), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 22,
+    "supplied_code": "8682162074442",
+    "name": "Beaulis Fake It Jel Göz Kalemi 330 Metallic Grey",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Mica, CI 77891, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 23,
+    "supplied_code": "8682162074510",
+    "name": "Beaulis Define It Eyeliner 400 White Neon",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Acrylates Copolymer, CI 77891",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 24,
+    "supplied_code": "8682162074527",
+    "name": "Beaulis Define It Eyeliner 410 Electric",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Acrylates Copolymer, CI 77007",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 25,
+    "supplied_code": "8682162074534",
+    "name": "Beaulis Define It Eyeliner 420 Pink Pastel",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Acrylates Copolymer, CI 45410, CI 77891",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, D&C Red No. 28 (CI 45410), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 26,
+    "supplied_code": "8682162074541",
+    "name": "Beaulis Define It Eyeliner 430 Mint",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Acrylates Copolymer, CI 77289, CI 77891",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Chromium Hydroxide Green (CI 77289), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 27,
+    "supplied_code": "8682162074558",
+    "name": "Beaulis Define It Eyeliner 440 Lilac",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Acrylates Copolymer, CI 77742, CI 77891",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 28,
+    "supplied_code": "8682162074619",
+    "name": "Beaulis Wink It Parıltılı Eyeliner 500 Diamond",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyethylene Terephthalate, Silver",
+    "expanded_ingredients": "Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Silver (CI 77820).",
+    "status": "pending"
+  },
+  {
+    "number": 29,
+    "supplied_code": "8682162074626",
+    "name": "Beaulis Wink It Parıltılı Eyeliner 510 Bronze",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyethylene Terephthalate, CI 77491",
+    "expanded_ingredients": "Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 30,
+    "supplied_code": "8682162074633",
+    "name": "Beaulis Wink It Parıltılı Eyeliner 520 Hologram",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyurethane-11, Aluminum",
+    "expanded_ingredients": "Aqua, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Aluminum Powder (CI 77000).",
+    "status": "pending"
+  },
+  {
+    "number": 31,
+    "supplied_code": "8682162084014",
+    "name": "LYKD Epic Black Matte Eyeliner",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Carbon Black (CI 77266)",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 32,
+    "supplied_code": "8682162084021",
+    "name": "LYKD Vinyl Shine Liquid Eyeliner",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Polyurethane, CI 77266",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Polyurethane-35, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 33,
+    "supplied_code": "8682162084038",
+    "name": "LYKD Waterproof Dip Eyeliner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Acrylates/VA Copolymer, CI 77499",
+    "expanded_ingredients": "Aqua, Acrylates/VA Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Phenoxyethanol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 34,
+    "supplied_code": "8682162084113",
+    "name": "LYKD Intense Color Eye Pencil 101 Blackout",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 35,
+    "supplied_code": "8682162084120",
+    "name": "LYKD Intense Color Eye Pencil 102 Muddy Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 36,
+    "supplied_code": "8682162084137",
+    "name": "LYKD Intense Color Eye Pencil 103 Steel Grey",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891, CI 77499, Mica",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 37,
+    "supplied_code": "8682162084144",
+    "name": "LYKD Intense Color Eye Pencil 104 Ocean Deep",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77007",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 38,
+    "supplied_code": "8682162084151",
+    "name": "LYKD Intense Color Eye Pencil 105 Forest Green",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77288, CI 77499",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 39,
+    "supplied_code": "8682162084168",
+    "name": "LYKD Intense Color Eye Pencil 106 Pure White",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 40,
+    "supplied_code": "8682162084175",
+    "name": "LYKD Intense Color Eye Pencil 107 Skin Tone",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891, CI 77492, CI 77491",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 41,
+    "supplied_code": "8682162084212",
+    "name": "LYKD Metallic Shine Eye Pencil 201 Pyrite Gold",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, CI 77491, CI 77891",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 42,
+    "supplied_code": "8682162084229",
+    "name": "LYKD Metallic Shine Eye Pencil 202 Argento",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, Aluminum Powder, CI 77891",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Aluminum Powder (CI 77000), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 43,
+    "supplied_code": "8682162084236",
+    "name": "LYKD Metallic Shine Eye Pencil 203 Copper Glow",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, CI 77491",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 44,
+    "supplied_code": "8682162084243",
+    "name": "LYKD Metallic Shine Eye Pencil 204 Cosmic Violet",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, CI 77742, CI 77499",
+    "expanded_ingredients": "Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Manganese Violet (CI 77742), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 45,
+    "supplied_code": "8682162084311",
+    "name": "LYKD Line & Define Dual Eyeliner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Styrene/Acrylates, CI 77266",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Styrene/Acrylates Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 46,
+    "supplied_code": "8682162084410",
+    "name": "LYKD Pastel Dream Eyeliner 301 Minty",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Kaolin, CI 77289, CI 77891",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Chromium Hydroxide Green (CI 77289), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 47,
+    "supplied_code": "8682162084427",
+    "name": "LYKD Pastel Dream Eyeliner 302 Lavender",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Kaolin, CI 77742, CI 77891",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 48,
+    "supplied_code": "8682162084434",
+    "name": "LYKD Pastel Dream Eyeliner 303 Peach Smoothie",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Kaolin, CI 77491, CI 77891",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 49,
+    "supplied_code": "8682162084441",
+    "name": "LYKD Pastel Dream Eyeliner 304 Soft Yellow",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Kaolin, CI 19140, CI 77891",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Yellow 5 Lake (CI 19140), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 50,
+    "supplied_code": "8682162084458",
+    "name": "LYKD Pastel Dream Eyeliner 305 Sky High",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Kaolin, CI 77007, CI 77891",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Ultramarines (CI 77007), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 51,
+    "supplied_code": "8682162084519",
+    "name": "LYKD Gel Kajal Eyeliner 01 Absolute Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Ceramide NP, CI 77499",
+    "expanded_ingredients": "Isododecane, Cyclopentasiloxane, Polyethylene, Trimethylsiloxysilicate, Microcrystalline Wax, Ceramide NP, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 52,
+    "supplied_code": "8682162084526",
+    "name": "LYKD Gel Kajal Eyeliner 02 Bitter Chocolate",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Ceramide NP, CI 77491, CI 77499",
+    "expanded_ingredients": "Isododecane, Cyclopentasiloxane, Polyethylene, Trimethylsiloxysilicate, Microcrystalline Wax, Ceramide NP, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 53,
+    "supplied_code": "8682162084618",
+    "name": "LYKD Glittering Eyeliner 401 Starry Night",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Glass Beads, CI 77499, Silver",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Glass Beads, Phenoxyethanol, Iron Oxides (CI 77499), Silver (CI 77820).",
+    "status": "pending"
+  },
+  {
+    "number": 54,
+    "supplied_code": "8682162084625",
+    "name": "LYKD Glittering Eyeliner 402 Golden Dust",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyurethane-11, Gold Leaf, CI 77491",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Polyurethane-11, Gold Leaf, Phenoxyethanol, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 55,
+    "supplied_code": "8682162084632",
+    "name": "LYKD Glittering Eyeliner 403 Rose Quartz",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyurethane-11, Mica, CI 77891",
+    "expanded_ingredients": "Aqua, Ammonium Acrylates Copolymer, Polyurethane-11, Mica, Phenoxyethanol, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 56,
+    "supplied_code": "8691190060015",
+    "name": "Golden Rose Dipliner Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77499 (Iron Oxide Black)",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Methylpropanediol, Phenoxyethanol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 57,
+    "supplied_code": "8691190410025",
+    "name": "Golden Rose Precision Liner Matte Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77266 [Nano] (Carbon Black)",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Methylpropanediol, Phenoxyethanol, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 58,
+    "supplied_code": "8691190060053",
+    "name": "Golden Rose Liquid Eyeliner Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Acrylates Copolymer, CI 77499",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Alcohol Denat., Glycerin, Methylpropanediol, Phenoxyethanol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 59,
+    "supplied_code": "8691190061128",
+    "name": "Golden Rose Metallic Liquid Eyeliner 01 Silver",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77891, Aluminum Powder",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Titanium Dioxide (CI 77891), Aluminum Powder (CI 77000), Phenoxyethanol.",
+    "status": "pending"
+  },
+  {
+    "number": 60,
+    "supplied_code": "8691190061135",
+    "name": "Golden Rose Metallic Liquid Eyeliner 02 Gold",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77491, CI 77891",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891), Phenoxyethanol.",
+    "status": "pending"
+  },
+  {
+    "number": 61,
+    "supplied_code": "8691190061142",
+    "name": "Golden Rose Metallic Liquid Eyeliner 03 Copper",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77491",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Iron Oxides (CI 77491), Phenoxyethanol.",
+    "status": "pending"
+  },
+  {
+    "number": 62,
+    "supplied_code": "8691190061159",
+    "name": "Golden Rose Metallic Liquid Eyeliner 04 Blue",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77510, CI 77891",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891), Phenoxyethanol.",
+    "status": "pending"
+  },
+  {
+    "number": 63,
+    "supplied_code": "8691190061166",
+    "name": "Golden Rose Metallic Liquid Eyeliner 05 Green",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77288, CI 77891",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Chromium Oxide Greens (CI 77288), Titanium Dioxide (CI 77891), Phenoxyethanol.",
+    "status": "pending"
+  },
+  {
+    "number": 64,
+    "supplied_code": "8691190061173",
+    "name": "Golden Rose Metallic Liquid Eyeliner 06 Violet",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77742, CI 77891",
+    "expanded_ingredients": "Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891), Phenoxyethanol.",
+    "status": "pending"
+  },
+  {
+    "number": 65,
+    "supplied_code": "8691190360016",
+    "name": "Golden Rose Dream Eyes Eyeliner 401 Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 66,
+    "supplied_code": "8691190360023",
+    "name": "Golden Rose Dream Eyes Eyeliner 402 D.Brown",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77499, CI 77491, CI 77492",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Iron Oxides (CI 77499, CI 77491, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 67,
+    "supplied_code": "8691190360030",
+    "name": "Golden Rose Dream Eyes Eyeliner 403 Grey",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77891, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 68,
+    "supplied_code": "8691190360047",
+    "name": "Golden Rose Dream Eyes Eyeliner 404 Blue",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77510, CI 77007, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 69,
+    "supplied_code": "8691190360054",
+    "name": "Golden Rose Dream Eyes Eyeliner 405 Green",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77288, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 70,
+    "supplied_code": "8691190360061",
+    "name": "Golden Rose Dream Eyes Eyeliner 406 Purple",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77742, CI 77499, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Manganese Violet (CI 77742), Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 71,
+    "supplied_code": "8691190360078",
+    "name": "Golden Rose Dream Eyes Eyeliner 407 White",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 72,
+    "supplied_code": "8691190360085",
+    "name": "Golden Rose Dream Eyes Eyeliner 408 Turquoise",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77891, CI 77289, CI 77510",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Titanium Dioxide (CI 77891), Chromium Hydroxide Green (CI 77289), Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 73,
+    "supplied_code": "8691190360092",
+    "name": "Golden Rose Dream Eyes Eyeliner 409 Emerald",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77288, CI 77491",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 74,
+    "supplied_code": "8691190360108",
+    "name": "Golden Rose Dream Eyes Eyeliner 410 Metallic",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77891, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 75,
+    "supplied_code": "8691190560010",
+    "name": "Golden Rose Emily Eye Pencil No: 101 Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 76,
+    "supplied_code": "8691190560027",
+    "name": "Golden Rose Emily Eye Pencil No: 102 Brown",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 77,
+    "supplied_code": "8691190560034",
+    "name": "Golden Rose Emily Eye Pencil No: 103 D.Grey",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77499, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 78,
+    "supplied_code": "8691190560041",
+    "name": "Golden Rose Emily Eye Pencil No: 104 Navy",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77510, CI 77007",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 79,
+    "supplied_code": "8691190560058",
+    "name": "Golden Rose Emily Eye Pencil No: 105 Emerald",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77288, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 80,
+    "supplied_code": "8691190560065",
+    "name": "Golden Rose Emily Eye Pencil No: 106 Light B.",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77891, CI 77510",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Titanium Dioxide (CI 77891), Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 81,
+    "supplied_code": "8691190560072",
+    "name": "Golden Rose Emily Eye Pencil No: 107 Violet",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77742, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 82,
+    "supplied_code": "8691190560089",
+    "name": "Golden Rose Emily Eye Pencil No: 108 Petrol",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77289, CI 77510",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Chromium Hydroxide Green (CI 77289), Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 83,
+    "supplied_code": "8691190560096",
+    "name": "Golden Rose Emily Eye Pencil No: 109 White",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 84,
+    "supplied_code": "8691190560102",
+    "name": "Golden Rose Emily Eye Pencil No: 110 Silver",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77891, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 85,
+    "supplied_code": "8691190420017",
+    "name": "Golden Rose Waterproof Automatic Pencil 01",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77499",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 86,
+    "supplied_code": "8691190420024",
+    "name": "Golden Rose Waterproof Automatic Pencil 02",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77491",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 87,
+    "supplied_code": "8691190420031",
+    "name": "Golden Rose Waterproof Automatic Pencil 03",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77510",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 88,
+    "supplied_code": "8691190420048",
+    "name": "Golden Rose Waterproof Automatic Pencil 04",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77288",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Chromium Oxide Greens (CI 77288).",
+    "status": "pending"
+  },
+  {
+    "number": 89,
+    "supplied_code": "8691190240011",
+    "name": "Golden Rose Miracle Pencil Contour & Eye",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Shea Butter, CI 77891, CI 77492, CI 77491",
+    "expanded_ingredients": "C10-18 Triglycerides, Hydrogenated Vegetable Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 90,
+    "supplied_code": "8691190065010",
+    "name": "Golden Rose Gel Eyeliner Deep Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Isododecane, Polyethylene, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 91,
+    "supplied_code": "8691190065027",
+    "name": "Golden Rose Gel Eyeliner Espresso Brown",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Isododecane, Polyethylene, CI 77491, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 92,
+    "supplied_code": "8691190570019",
+    "name": "Golden Rose Glitter Eyeliner 101 Silver",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Polyethylene Terephthalate, Silver",
+    "expanded_ingredients": "Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Glycerin, Phenoxyethanol, Silver (CI 77820).",
+    "status": "pending"
+  },
+  {
+    "number": 93,
+    "supplied_code": "8691190570026",
+    "name": "Golden Rose Glitter Eyeliner 102 Gold",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Polyethylene Terephthalate, CI 77491",
+    "expanded_ingredients": "Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Glycerin, Phenoxyethanol, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 94,
+    "supplied_code": "8691190570033",
+    "name": "Golden Rose Glitter Eyeliner 103 Multicolor",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Polyurethane-11, Aluminum",
+    "expanded_ingredients": "Aqua, Polyurethane-11, Acrylates Copolymer, Glycerin, Phenoxyethanol, Aluminum Powder (CI 77000).",
+    "status": "pending"
+  },
+  {
+    "number": 95,
+    "supplied_code": "8691190570040",
+    "name": "Golden Rose Glitter Eyeliner 104 Blue Shine",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, PET, CI 77510",
+    "expanded_ingredients": "Aqua, Polyethylene Terephthalate, Acrylates Copolymer, Glycerin, Phenoxyethanol, Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 96,
+    "supplied_code": "8680705350016",
+    "name": "Note Ultra Black Eyeliner Liquid",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Sweet Almond Oil, CI 77499",
+    "expanded_ingredients": "Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glyceryl Stearate, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Phenoxyethanol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 97,
+    "supplied_code": "8680705350023",
+    "name": "Note Precision Liner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Styrene/Acrylates, CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Styrene/Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 98,
+    "supplied_code": "8680705350115",
+    "name": "Note Intense Black Dipliner",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Sweet Almond Oil, Carbon Black",
+    "expanded_ingredients": "Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glyceryl Stearate, Ceteareth-20, Cetearyl Alcohol, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 99,
+    "supplied_code": "8680705350122",
+    "name": "Note Waterproof Dipliner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Acrylates/VA Copolymer, CI 77499",
+    "expanded_ingredients": "Aqua, Acrylates/VA Copolymer, Propylene Glycol, Xanthan Gum, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 100,
+    "supplied_code": "8680705360015",
+    "name": "Note Ultra Black Eye Pencil 01",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Jojoba Oil, Macadamia Oil, CI 77499",
+    "expanded_ingredients": "Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 101,
+    "supplied_code": "8680705360022",
+    "name": "Note Smokey Eye Pencil 02 Dark Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Jojoba Oil, CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 102,
+    "supplied_code": "8680705360039",
+    "name": "Note Smokey Eye Pencil 03 Grey Storm",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Jojoba Oil, CI 77891, CI 77499, Mica",
+    "expanded_ingredients": "Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 103,
+    "supplied_code": "8680705360046",
+    "name": "Note Smokey Eye Pencil 04 Deep Navy",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Jojoba Oil, CI 77510, CI 77007",
+    "expanded_ingredients": "Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 104,
+    "supplied_code": "8680705360053",
+    "name": "Note Smokey Eye Pencil 05 Forest",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Jojoba Oil, CI 77288, CI 77499",
+    "expanded_ingredients": "Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 105,
+    "supplied_code": "8680705361017",
+    "name": "Note Mineral Khol Kajal 01 Carbon Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Coral Seaweed, Vitamin E, CI 77499",
+    "expanded_ingredients": "Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis (Coral Seaweed) Extract, Tocopheryl Acetate, Synthetic Wax, C10-18 Triglycerides, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 106,
+    "supplied_code": "8680705361024",
+    "name": "Note Mineral Khol Kajal 02 Earth Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Coral Seaweed, CI 77491, CI 77499",
+    "expanded_ingredients": "Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis Extract, Tocopheryl Acetate, Synthetic Wax, C10-18 Triglycerides, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 107,
+    "supplied_code": "8680705361031",
+    "name": "Note Mineral Khol Kajal 03 Sapphire Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Coral Seaweed, CI 77510, CI 77891",
+    "expanded_ingredients": "Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis Extract, Tocopheryl Acetate, Synthetic Wax, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 108,
+    "supplied_code": "8680705361048",
+    "name": "Note Mineral Khol Kajal 04 Malachite Green",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Coral Seaweed, CI 77288, CI 77492",
+    "expanded_ingredients": "Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis Extract, Tocopheryl Acetate, Synthetic Wax, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 109,
+    "supplied_code": "8680705362014",
+    "name": "Note Gel Look Eye Pencil 01 Velvet Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Vitamin E, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Tocopherol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 110,
+    "supplied_code": "8680705362021",
+    "name": "Note Gel Look Eye Pencil 02 Velvet Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Vitamin E, CI 77491, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Tocopherol, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 111,
+    "supplied_code": "8680705362038",
+    "name": "Note Gel Look Eye Pencil 03 Velvet Navy",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, CI 77510, CI 77891",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 112,
+    "supplied_code": "8680705362045",
+    "name": "Note Gel Look Eye Pencil 04 Velvet Khaki",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, CI 77288, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 113,
+    "supplied_code": "8680705362052",
+    "name": "Note Gel Look Eye Pencil 05 Velvet White",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, CI 77891",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 114,
+    "supplied_code": "8680705362069",
+    "name": "Note Gel Look Eye Pencil 06 Velvet Nude",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, CI 77891, CI 77492, CI 77491",
+    "expanded_ingredients": "Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 115,
+    "supplied_code": "8680705363011",
+    "name": "Note Longwear Eye Pencil 01 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77499",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Tocopherol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 116,
+    "supplied_code": "8680705363028",
+    "name": "Note Longwear Eye Pencil 02 Espresso",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77491",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Tocopherol, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 117,
+    "supplied_code": "8680705363035",
+    "name": "Note Longwear Eye Pencil 03 Metallic Grey",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Cyclopentasiloxane, Mica, CI 77891",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Mica, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 118,
+    "supplied_code": "8680705363042",
+    "name": "Note Longwear Eye Pencil 04 Ocean",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Cyclopentasiloxane, CI 77510, CI 77007",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 119,
+    "supplied_code": "8680705363059",
+    "name": "Note Longwear Eye Pencil 05 Olive",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Cyclopentasiloxane, CI 77288, CI 77492",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 120,
+    "supplied_code": "8680705364018",
+    "name": "Note Glitter Eyeliner 01 Silver Spark",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Water, Glycerin, Polyurethane, Silver",
+    "expanded_ingredients": "Aqua, Glycerin, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Sodium Hydroxide, Silver (CI 77820).",
+    "status": "pending"
+  },
+  {
+    "number": 121,
+    "supplied_code": "8680705364025",
+    "name": "Note Glitter Eyeliner 02 Gold Spark",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Water, Glycerin, Polyurethane, CI 77491",
+    "expanded_ingredients": "Aqua, Glycerin, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Sodium Hydroxide, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 122,
+    "supplied_code": "8680705364032",
+    "name": "Note Glitter Eyeliner 03 Bronze Spark",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Water, Glycerin, Polyurethane, Mica",
+    "expanded_ingredients": "Aqua, Glycerin, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Sodium Hydroxide, Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 123,
+    "supplied_code": "8680705365015",
+    "name": "Note Luminous Silk Eyeliner Matte Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Silk Protein, Aqua, CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Hydrolyzed Silk, Silica, Styrene/Acrylates Copolymer, Charcoal Powder, Phenoxyethanol, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 124,
+    "supplied_code": "8680705365022",
+    "name": "Note Luminous Silk Eyeliner Deep Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Silk Protein, Aqua, CI 77499, CI 77491",
+    "expanded_ingredients": "Aqua, Hydrolyzed Silk, Silica, Styrene/Acrylates Copolymer, Phenoxyethanol, Iron Oxides (CI 77499, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 125,
+    "supplied_code": "8680705366012",
+    "name": "Note Real Look Intense Eyeliner Pen Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, Carbon Black",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 126,
+    "supplied_code": "8690644041013",
+    "name": "Pastel Profashion Matte Liquid Eyeliner Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + CI 77266 [Nano] (Carbon Black)",
+    "expanded_ingredients": "Aqua, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Silica, Phenoxyethanol, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 127,
+    "supplied_code": "8690644041020",
+    "name": "Pastel Profashion Glossy Liquid Eyeliner Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Polyurethane-35, CI 77266",
+    "expanded_ingredients": "Aqua, Polyurethane-35, Alcohol Denat., Methylpropanediol, Phenoxyethanol, Caprylyl Glycol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 128,
+    "supplied_code": "8690644042010",
+    "name": "Pastel Profashion Waterproof Dipliner Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Acrylates Copolymer, CI 77499",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Laureth Sulfate, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 129,
+    "supplied_code": "8690644043017",
+    "name": "Pastel Profashion Gel Eyeliner 01 Blackout",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Isododecane, Polyethylene, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 130,
+    "supplied_code": "8690644043024",
+    "name": "Pastel Profashion Gel Eyeliner 02 Coffee Bean",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Isododecane, Polyethylene, CI 77491, CI 77499",
+    "expanded_ingredients": "Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 131,
+    "supplied_code": "8690644051012",
+    "name": "Pastel Metallic Eye Pencil No: 301 Silver",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77891, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 132,
+    "supplied_code": "8690644051029",
+    "name": "Pastel Metallic Eye Pencil No: 302 Gold",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77491, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 133,
+    "supplied_code": "8690644051036",
+    "name": "Pastel Metallic Eye Pencil No: 303 Bronze",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77491",
+    "expanded_ingredients": "C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 134,
+    "supplied_code": "8690644051043",
+    "name": "Pastel Metallic Eye Pencil No: 304 Emerald",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77288, CI 77499",
+    "expanded_ingredients": "C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 135,
+    "supplied_code": "8690644051050",
+    "name": "Pastel Metallic Eye Pencil No: 305 Sapphire",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Mica, CI 77510, CI 77891",
+    "expanded_ingredients": "C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 136,
+    "supplied_code": "8690644061011",
+    "name": "Pastel Waterproof Eye Pencil No: 401 Black",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77499",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 137,
+    "supplied_code": "8690644061028",
+    "name": "Pastel Waterproof Eye Pencil No: 402 Brown",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77491",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 138,
+    "supplied_code": "8690644061035",
+    "name": "Pastel Waterproof Eye Pencil No: 403 Grey",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77499",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 139,
+    "supplied_code": "8690644061042",
+    "name": "Pastel Waterproof Eye Pencil No: 404 Navy",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77510",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 140,
+    "supplied_code": "8690644061059",
+    "name": "Pastel Waterproof Eye Pencil No: 405 Green",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77288",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Chromium Oxide Greens (CI 77288).",
+    "status": "pending"
+  },
+  {
+    "number": 141,
+    "supplied_code": "8690644061066",
+    "name": "Pastel Waterproof Eye Pencil No: 406 White",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77891",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 142,
+    "supplied_code": "8690644061073",
+    "name": "Pastel Waterproof Eye Pencil No: 407 Nude",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Cyclopentasiloxane, Paraffin, CI 77891, CI 77492",
+    "expanded_ingredients": "Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 143,
+    "supplied_code": "8690644071010",
+    "name": "Pastel Show Your Game Waterproof Eyeliner 01",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Acrylates Polymer, CI 77266",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 144,
+    "supplied_code": "8690644071027",
+    "name": "Pastel Show Your Game Waterproof Eyeliner 02",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Acrylates Polymer, CI 77007",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 145,
+    "supplied_code": "8690644071034",
+    "name": "Pastel Show Your Game Waterproof Eyeliner 03",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Acrylates Polymer, CI 77289",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Chromium Hydroxide Green (CI 77289).",
+    "status": "pending"
+  },
+  {
+    "number": 146,
+    "supplied_code": "8690644071041",
+    "name": "Pastel Show Your Game Waterproof Eyeliner 04",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Acrylates Polymer, CI 45410",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, D&C Red No. 28 (CI 45410).",
+    "status": "pending"
+  },
+  {
+    "number": 147,
+    "supplied_code": "8690644071058",
+    "name": "Pastel Show Your Game Waterproof Eyeliner 05",
+    "checksum_valid": true,
+    "short_ingredients": "Base + Aqua, Acrylates Polymer, CI 77742",
+    "expanded_ingredients": "Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Manganese Violet (CI 77742).",
+    "status": "pending"
+  },
+  {
+    "number": 148,
+    "supplied_code": "8690644081016",
+    "name": "Pastel Profashion Artliner Pen Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 149,
+    "supplied_code": "8690644081023",
+    "name": "Pastel Profashion Artliner Pen Deep Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, CI 77499, CI 77491",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77499, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 150,
+    "supplied_code": "8690644091015",
+    "name": "Pastel Glitter Eyeliner No: 201 Silver Gold",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Glycerin, PET, Aluminum, Silver",
+    "expanded_ingredients": "Aqua, Glycerin, Polyethylene Terephthalate, Polyurethane-11, Phenoxyethanol, Aluminum Powder (CI 77000), Silver (CI 77820).",
+    "status": "pending"
+  },
+  {
+    "number": 151,
+    "supplied_code": "3600531506727",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 900 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499 (Iron Oxide Black)",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 152,
+    "supplied_code": "3600531506734",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 910 Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 153,
+    "supplied_code": "3600531506758",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 920 Grey",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891, CI 77499, Mica",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 154,
+    "supplied_code": "3600531506765",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 932 Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77007, Mica",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 155,
+    "supplied_code": "3600531506796",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 942 White",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 156,
+    "supplied_code": "3600531577710",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 960 Rose",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, CI 77891, CI 77491",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 157,
+    "supplied_code": "3600531577727",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 965 Gold",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Mica, CI 77491, CI 77492",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Mica, Iron Oxides (CI 77491, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 158,
+    "supplied_code": "3600531608117",
+    "name": "Maybelline Tattoo Liner Gel Eyeliner 970 Amber",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Iron Oxides (CI 77491, CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 159,
+    "supplied_code": "3600531396861",
+    "name": "Maybelline Hyper Precise All Day Liner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77266 [Nano] (Carbon Black)",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Potassium Sorbate, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 160,
+    "supplied_code": "3600531396885",
+    "name": "Maybelline Hyper Precise All Day Liner Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, CI 77491",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77499, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 161,
+    "supplied_code": "3600531396908",
+    "name": "Maybelline Hyper Precise All Day Liner Parrot",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77891",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Potassium Sorbate, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 162,
+    "supplied_code": "3600530743512",
+    "name": "Maybelline Master Ink Liquid Eyeliner Satin",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyurethane-35, CI 77266",
+    "expanded_ingredients": "Aqua, Polyurethane-35, Alcohol Denat., Styrene/Acrylates Copolymer, Glycerin, Phenoxyethanol, Caprylyl Glycol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 163,
+    "supplied_code": "3600530743550",
+    "name": "Maybelline Master Ink Liquid Eyeliner Matte",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Silica, Charcoal Powder, CI 77266",
+    "expanded_ingredients": "Aqua, Silica, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Charcoal Powder, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 164,
+    "supplied_code": "3600531649219",
+    "name": "Maybelline Colossal Kajal Extra Black 12H",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Ozokerite, Candelilla Cera, CI 77499",
+    "expanded_ingredients": "Ozokerite, Candelilla Cera, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 165,
+    "supplied_code": "3600531649226",
+    "name": "Maybelline Colossal Kajal Argan Oil Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Argania Spinosa Kernel Oil, CI 77499",
+    "expanded_ingredients": "Ozokerite, Candelilla Cera, Argania Spinosa Kernel Oil, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 166,
+    "supplied_code": "3600530211103",
+    "name": "Maybelline Expression Kajal Pencil 33 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77499",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 167,
+    "supplied_code": "3600530211127",
+    "name": "Maybelline Expression Kajal Pencil 36 Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77491",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 168,
+    "supplied_code": "3600530211141",
+    "name": "Maybelline Expression Kajal Pencil 38 Grey",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77499",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 169,
+    "supplied_code": "3600530211165",
+    "name": "Maybelline Expression Kajal Pencil 40 Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77510",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 170,
+    "supplied_code": "3600530211189",
+    "name": "Maybelline Expression Kajal Pencil 42 Green",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77288",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Chromium Oxide Greens (CI 77288).",
+    "status": "pending"
+  },
+  {
+    "number": 171,
+    "supplied_code": "3600530211202",
+    "name": "Maybelline Expression Kajal Pencil 44 White",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77891",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/",
+    "status": "pending"
+  },
+  {
+    "number": 172,
+    "supplied_code": "3600531620119",
+    "name": "Maybelline Line Refine Liquid Eyeliner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Water, Acrylates/VA Copolymer, CI 77499",
+    "expanded_ingredients": "Aqua, Acrylates/VA Copolymer, Butylene Glycol, Xanthan Gum, Phenoxyethanol, Sodium Laureth Sulfate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 173,
+    "supplied_code": "3600531652103",
+    "name": "Maybelline Hyper Easy Liquid Eyeliner Pitch B.",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Styrene/Acrylates, CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Styrene/Acrylates Copolymer, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 174,
+    "supplied_code": "3600531652127",
+    "name": "Maybelline Hyper Easy Liquid Eyeliner Pitch Br.",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Styrene/Acrylates, CI 77499, CI 77491",
+    "expanded_ingredients": "Aqua, Styrene/Acrylates Copolymer, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Iron Oxides (CI 77499, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 175,
+    "supplied_code": "3600530941123",
+    "name": "Maybelline Master Precise Curvitude Liner",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, Carbon Black",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 176,
+    "supplied_code": "3600521855613",
+    "name": "L'Oréal Super Liner Carbon Gloss Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Polyurethane, Carbon Black (CI 77266)",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Acrylates Copolymer, Polyurethane-35, Phenoxyethanol, Sodium Dehydroacetate, Potassium Sorbate, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 177,
+    "supplied_code": "3600522045617",
+    "name": "L'Oréal Super Liner Ultra Sharp Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Styrene/Acrylates, CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Styrene/Acrylates Copolymer, Phenoxyethanol, Sodium Dehydroacetate, Potassium Sorbate, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 178,
+    "supplied_code": "3600522431618",
+    "name": "L'Oréal Super Liner Perfect Slim Intense Blk",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, CI 77266 [Nano]",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, Phenoxyethanol, Carbon Black (CI 77266) [Nano].",
+    "status": "pending"
+  },
+  {
+    "number": 179,
+    "supplied_code": "3600522431632",
+    "name": "L'Oréal Super Liner Perfect Slim Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, CI 77510",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, Phenoxyethanol, Ferric Ferrocyanide (CI 77510).",
+    "status": "pending"
+  },
+  {
+    "number": 180,
+    "supplied_code": "3600522431656",
+    "name": "L'Oréal Super Liner Perfect Slim Green",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, CI 77288",
+    "expanded_ingredients": "Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, Phenoxyethanol, Chromium Oxide Greens (CI 77288).",
+    "status": "pending"
+  },
+  {
+    "number": 181,
+    "supplied_code": "3600523211127",
+    "name": "L'Oréal Super Liner Matte Signature 01 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Silica, Charcoal Powder, CI 77266",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Charcoal Powder, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 182,
+    "supplied_code": "3600523211141",
+    "name": "L'Oréal Super Liner Matte Signature 02 Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Silica, CI 77499, CI 77491",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Phenoxyethanol, Iron Oxides (CI 77499, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 183,
+    "supplied_code": "3600523211165",
+    "name": "L'Oréal Super Liner Matte Signature 03 Blue",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Silica, CI 77510, CI 77891",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Phenoxyethanol, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 184,
+    "supplied_code": "3600523211189",
+    "name": "L'Oréal Super Liner Matte Signature 04 Emerald",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Silica, CI 77288, CI 77492",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Phenoxyethanol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 185,
+    "supplied_code": "3600523811211",
+    "name": "L'Oréal Infaillible Grip 36H Gel Automatic 01",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, Mica",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Iron Oxides (CI 77499), Mica.",
+    "status": "pending"
+  },
+  {
+    "number": 186,
+    "supplied_code": "3600523811228",
+    "name": "L'Oréal Infaillible Grip 36H Gel Automatic 02",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 187,
+    "supplied_code": "3600523811235",
+    "name": "L'Oréal Infaillible Grip 36H Gel Automatic 03",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77007",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 188,
+    "supplied_code": "3600523811242",
+    "name": "L'Oréal Infaillible Grip 36H Gel Automatic 04",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77288, CI 77499",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 189,
+    "supplied_code": "3600523811259",
+    "name": "L'Oréal Infaillible Grip 36H Gel Automatic 05",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891, CI 77492",
+    "expanded_ingredients": "Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 190,
+    "supplied_code": "3600521124504",
+    "name": "L'Oréal Le Khol Contour Eye Pencil 101 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Hydrogenated Vegetable Oil, CI 77499",
+    "expanded_ingredients": "Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 191,
+    "supplied_code": "0077802406013",
+    "name": "Wet n Wild MegaLiner Liquid Eyeliner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyurethane-35, CI 77266",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Polyurethane-35, Ammonium Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 192,
+    "supplied_code": "0077802406020",
+    "name": "Wet n Wild MegaLiner Liquid Eyeliner D.Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Polyurethane-35, CI 77499, CI 77491",
+    "expanded_ingredients": "Aqua, Propylene Glycol, Polyurethane-35, Ammonium Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Iron Oxides (CI 77499, CI 77491).",
+    "status": "pending"
+  },
+  {
+    "number": 193,
+    "supplied_code": "0077802460114",
+    "name": "Wet n Wild ProLine Felt Tip Eyeliner Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Aqua, Butylene Glycol, Carbon Black",
+    "expanded_ingredients": "Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Carbon Black (CI 77266).",
+    "status": "pending"
+  },
+  {
+    "number": 194,
+    "supplied_code": "0077802465119",
+    "name": "Wet n Wild Color Icon Eye Pencil E651 Black",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499",
+    "expanded_ingredients": "Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 195,
+    "supplied_code": "0077802465218",
+    "name": "Wet n Wild Color Icon Eye Pencil E652 D.Brown",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77491, CI 77499, CI 77492",
+    "expanded_ingredients": "Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).",
+    "status": "pending"
+  },
+  {
+    "number": 196,
+    "supplied_code": "0077802465317",
+    "name": "Wet n Wild Color Icon Eye Pencil E653 Charcoal",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77499, CI 77891",
+    "expanded_ingredients": "Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 197,
+    "supplied_code": "0077802465416",
+    "name": "Wet n Wild Color Icon Eye Pencil E654 Navy",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77510, CI 77007",
+    "expanded_ingredients": "Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).",
+    "status": "pending"
+  },
+  {
+    "number": 198,
+    "supplied_code": "0077802465515",
+    "name": "Wet n Wild Color Icon Eye Pencil E655 Olive",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77288, CI 77499",
+    "expanded_ingredients": "Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).",
+    "status": "pending"
+  },
+  {
+    "number": 199,
+    "supplied_code": "0077802465614",
+    "name": "Wet n Wild Color Icon Eye Pencil E656 White",
+    "checksum_valid": false,
+    "short_ingredients": "Base + CI 77891",
+    "expanded_ingredients": "Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Titanium Dioxide (CI 77891).",
+    "status": "pending"
+  },
+  {
+    "number": 200,
+    "supplied_code": "0077802470113",
+    "name": "Wet n Wild Breakup Proof Waterproof Eyeliner",
+    "checksum_valid": false,
+    "short_ingredients": "Base + Isododecane, Trimethylsiloxysilicate, CI 77499",
+    "expanded_ingredients": "Isododecane, Trimethylsiloxysilicate, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Iron Oxides (CI 77499).",
+    "status": "pending"
+  }
+]

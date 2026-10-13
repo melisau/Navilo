@@ -1,0 +1,32 @@
+[
+  {
+    "code":"8697408330079", "name":"Sinangil Kolay Açılan Baklavalık Böreklik Mantılık Un 2 kg",
+    "ingredients":"Buğday Unu.",
+    "source_name":"Sinangil üretici tam içerik ve resmi ürün barkod kataloğu",
+    "source_url":"https://sinangil.com.tr/urunler/ozel-amacli-unlar/acilan-un-baklavalikboreklikmantilik",
+    "barcode_source_url":"https://sinangil.com.tr/userfiles/Sinangil_Urun_Katalogu.pdf",
+    "field_sources":{
+      "code":["https://sinangil.com.tr/userfiles/Sinangil_Urun_Katalogu.pdf","https://www.asyasanalmarket.com/sinangil-boreklik-un-2-kg-16-16367"],
+      "name":["https://sinangil.com.tr/urunler/ozel-amacli-unlar/acilan-un-baklavalikboreklikmantilik","https://www.asyasanalmarket.com/sinangil-boreklik-un-2-kg-16-16367"],
+      "ingredients":["https://sinangil.com.tr/urunler/ozel-amacli-unlar/acilan-un-baklavalikboreklikmantilik"]
+    },
+    "allergens":["gluten"],"traces":[],"labels":[],"category":"food",
+    "catalog_batch":"food-expansion-20261013","checked_at":"2026-10-13T00:00:00+03:00",
+    "ingredient_evidence":"full_label_transcription","evidence_status":"manufacturer_reported_pending_package_check"
+  },
+  {
+    "code":"8690876100267", "name":"Yudum Egemden Yumuşak Lezzet Natürel Sızma Zeytinyağı 1 L Pet",
+    "ingredients":"Natürel Sızma Zeytinyağı.",
+    "source_name":"CarrefourSA tam etiket; Afta Market ve ToptanExpress barkod/ambalaj teyidi",
+    "source_url":"https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500",
+    "barcode_source_url":"https://aftamarket.com.tr/yudum-zeytinyag-egem-sizma-yumusak-1-lt",
+    "field_sources":{
+      "code":["https://aftamarket.com.tr/yudum-zeytinyag-egem-sizma-yumusak-1-lt","https://toptanexpress.com/urun/yudum-egemden-sizma-zeytinyagi-pet-1-lt"],
+      "name":["https://aftamarket.com.tr/yudum-zeytinyag-egem-sizma-yumusak-1-lt","https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500"],
+      "ingredients":["https://www.carrefoursa.com/yudum-egemden-sizma-zeytinyagi-yumusak-lezzet-1-l-p-30037500","https://www.migros.com.tr/yudum-egemden-sizma-zeytinyagi-yumusaklezzet-1l-p-3f0509"]
+    },
+    "allergens":[],"traces":[],"labels":[],"category":"food",
+    "catalog_batch":"food-expansion-20261013","checked_at":"2026-10-13T00:00:00+03:00",
+    "ingredient_evidence":"full_label_transcription","evidence_status":"retailer_reported_pending_package_check"
+  }
+]

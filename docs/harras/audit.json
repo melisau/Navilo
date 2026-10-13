@@ -1,0 +1,3918 @@
+[
+  {
+    "index": 1,
+    "code": "8695077129444",
+    "name": "Bütün Fındıklı Sütlü Çikolata (65g)",
+    "submitted_ingredients": "Sütlü çikolata (%82) [Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, poligliserol polirisinoleat), aroma verici (vanilin)], Fındık (%18).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077129444.json",
+    "source_product": {
+      "code": "8695077129444",
+      "product_name": "Bütün Fındıklı Sütlü Çikolata",
+      "product_name_tr": "Bütün Fındıklı Sütlü Çikolata",
+      "brands": "Harras",
+      "quantity": "65g",
+      "ingredients_text": "Milk Chocolate (82%) (Sugar, Cocoa Butter, Whole Milk Powder, Cocoa Mass, Skimmed Milk Powder, Emulsifiers (Sunflower Lecithin, Polyglycerol Polyricinoleate), Flavoring (Vanillin) (Minimum 30% Cocoa Solids)), Hazelnuts (18%).",
+      "ingredients_text_tr": "Sütlü Çikolata (%82) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin) (Kakao kuru maddesi en az %30)), Fındık (%18). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Domuz ve domuz ürünleri muhteviyatı içermez.",
+      "lang": "en",
+      "last_modified_t": 1779187629,
+      "allergens_tags": [
+        "en:milk",
+        "en:nuts"
+      ],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/ingredients_en.7.400.jpg",
+      "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/ingredients_en.7.200.jpg",
+      "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/712/9444/front_en.25.400.jpg",
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 72,
+              "w": 100
+            },
+            "400": {
+              "h": 289,
+              "w": 400
+            },
+            "full": {
+              "h": 2074,
+              "w": 2870
+            }
+          },
+          "uploaded_t": 1745834095,
+          "uploader": "bytelab"
+        },
+        "10": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "uploaded_t": 1779121885,
+          "uploader": "erenberk"
+        },
+        "2": {
+          "sizes": {
+            "100": {
+              "h": 79,
+              "w": 100
+            },
+            "400": {
+              "h": 315,
+              "w": 400
+            },
+            "full": {
+              "h": 2159,
+              "w": 2743
+            }
+          },
+          "uploaded_t": 1745834131,
+          "uploader": "bytelab"
+        },
+        "3": {
+          "sizes": {
+            "100": {
+              "h": 21,
+              "w": 100
+            },
+            "400": {
+              "h": 83,
+              "w": 400
+            },
+            "full": {
+              "h": 644,
+              "w": 3088
+            }
+          },
+          "uploaded_t": 1745834188,
+          "uploader": "bytelab"
+        },
+        "4": {
+          "sizes": {
+            "100": {
+              "h": 25,
+              "w": 100
+            },
+            "400": {
+              "h": 99,
+              "w": 400
+            },
+            "full": {
+              "h": 941,
+              "w": 3806
+            }
+          },
+          "uploaded_t": 1745834256,
+          "uploader": "bytelab"
+        },
+        "5": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4032,
+              "w": 3024
+            }
+          },
+          "uploaded_t": 1745834275,
+          "uploader": "bytelab"
+        },
+        "6": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 100
+            },
+            "400": {
+              "h": 400,
+              "w": 399
+            },
+            "full": {
+              "h": 2862,
+              "w": 2857
+            }
+          },
+          "uploaded_t": 1745834304,
+          "uploader": "bytelab"
+        },
+        "7": {
+          "sizes": {
+            "100": {
+              "h": 81,
+              "w": 100
+            },
+            "400": {
+              "h": 322,
+              "w": 400
+            },
+            "full": {
+              "h": 2435,
+              "w": 3024
+            }
+          },
+          "uploaded_t": 1745834328,
+          "uploader": "bytelab"
+        },
+        "8": {
+          "sizes": {
+            "100": {
+              "h": 23,
+              "w": 100
+            },
+            "400": {
+              "h": 91,
+              "w": 400
+            },
+            "full": {
+              "h": 920,
+              "w": 4032
+            }
+          },
+          "uploaded_t": 1745834578,
+          "uploader": "bytelab"
+        },
+        "9": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "uploaded_t": 1779117902,
+          "uploader": "erenberk"
+        },
+        "front_en": {
+          "coordinates_image_size": "full",
+          "imgid": 9,
+          "rev": 25,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "x1": -1,
+          "x2": 4284,
+          "y1": -1,
+          "y2": 5712
+        },
+        "front_tr": {
+          "imgid": "2",
+          "rev": "5",
+          "sizes": {
+            "100": {
+              "h": 79,
+              "w": 100
+            },
+            "200": {
+              "h": 157,
+              "w": 200
+            },
+            "400": {
+              "h": 315,
+              "w": 400
+            },
+            "full": {
+              "h": 2159,
+              "w": 2743
+            }
+          }
+        },
+        "ingredients_en": {
+          "imgid": "3",
+          "rev": "7",
+          "sizes": {
+            "100": {
+              "h": 21,
+              "w": 100
+            },
+            "200": {
+              "h": 42,
+              "w": 200
+            },
+            "400": {
+              "h": 83,
+              "w": 400
+            },
+            "full": {
+              "h": 644,
+              "w": 3088
+            }
+          }
+        },
+        "ingredients_tr": {
+          "imgid": "4",
+          "rev": "9",
+          "sizes": {
+            "100": {
+              "h": 25,
+              "w": 100
+            },
+            "200": {
+              "h": 49,
+              "w": 200
+            },
+            "400": {
+              "h": 99,
+              "w": 400
+            },
+            "full": {
+              "h": 941,
+              "w": 3806
+            }
+          }
+        },
+        "nutrition_en": {
+          "coordinates_image_size": "full",
+          "imgid": "10",
+          "rev": 26,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "x1": -1,
+          "x2": 4284,
+          "y1": -1,
+          "y2": 5712
+        },
+        "nutrition_tr": {
+          "imgid": "5",
+          "rev": "11",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4032,
+              "w": 3024
+            }
+          }
+        },
+        "packaging_en": {
+          "coordinates_image_size": "full",
+          "imgid": "10",
+          "rev": 27,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "x1": -1,
+          "x2": 4284,
+          "y1": -1,
+          "y2": 5712
+        },
+        "packaging_tr": {
+          "imgid": "6",
+          "rev": "13",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 100
+            },
+            "200": {
+              "h": 200,
+              "w": 200
+            },
+            "400": {
+              "h": 400,
+              "w": 399
+            },
+            "full": {
+              "h": 2862,
+              "w": 2857
+            }
+          }
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "imported_source_reported_pending_package_check"
+  },
+  {
+    "index": 2,
+    "code": "8695077129468",
+    "name": "Bütün Fındıklı Sütlü Çikolata (130g)",
+    "submitted_ingredients": "Sütlü çikolata (%82) [Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, emülgatör (ayçiçek lesitini), aroma verici], Kavrulmuş bütün fındık (%18).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077129468.json",
+    "source_product": {
+      "code": "8695077129468",
+      "product_name": "Harras Bütün Fındıklı Sütlü Çikolata",
+      "product_name_tr": "Harras Bütün Fındıklı Sütlü Çikolata",
+      "brands": "Harras",
+      "quantity": "130gr",
+      "ingredients_text": "Sütlü Çikolata (%85) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emulgator (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin)), Fındık (%15), (Kakao kuru maddesi en az %30). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Karbonhidrat (g) Domuz ve domuz ürünleri muhteviyatı içermez. Serin, kuru, kokusuz ve güneş görmeyen yerde muhafaza ediniz. Buzdolabında muhafaza etmeyiniz. - Şekerler (g) Protein (g) Tuz (g)",
+      "ingredients_text_tr": "Sütlü Çikolata (%85) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emulgator (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin)), Fındık (%15), (Kakao kuru maddesi en az %30). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Karbonhidrat (g) Domuz ve domuz ürünleri muhteviyatı içermez. Serin, kuru, kokusuz ve güneş görmeyen yerde muhafaza ediniz. Buzdolabında muhafaza etmeyiniz. - Şekerler (g) Protein (g) Tuz (g)",
+      "lang": "tr",
+      "last_modified_t": 1773424402,
+      "allergens_tags": [
+        "en:milk",
+        "en:nuts"
+      ],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": "https://images.openfoodfacts.org/images/products/869/507/712/9468/ingredients_tr.17.400.jpg",
+      "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/869/507/712/9468/ingredients_tr.17.200.jpg",
+      "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/712/9468/front_tr.6.400.jpg",
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          },
+          "uploaded_t": 1773369020,
+          "uploader": "smoothie-app"
+        },
+        "2": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          },
+          "uploaded_t": 1773369055,
+          "uploader": "smoothie-app"
+        },
+        "3": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          },
+          "uploaded_t": 1773369149,
+          "uploader": "smoothie-app"
+        },
+        "4": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          },
+          "uploaded_t": 1773369189,
+          "uploader": "smoothie-app"
+        },
+        "front_tr": {
+          "coordinates_image_size": "full",
+          "imgid": 1,
+          "rev": 6,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          },
+          "x1": -1,
+          "x2": 3000,
+          "y1": -1,
+          "y2": 4000
+        },
+        "ingredients_tr": {
+          "angle": 270,
+          "coordinates_image_size": "full",
+          "imgid": 2,
+          "rev": 17,
+          "sizes": {
+            "100": {
+              "h": 75,
+              "w": 100
+            },
+            "200": {
+              "h": 150,
+              "w": 200
+            },
+            "400": {
+              "h": 300,
+              "w": 400
+            },
+            "full": {
+              "h": 3000,
+              "w": 4000
+            }
+          },
+          "x1": -1,
+          "x2": 4000,
+          "y1": 0,
+          "y2": 3001
+        },
+        "nutrition_tr": {
+          "imgid": 3,
+          "rev": 9,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          }
+        },
+        "packaging_tr": {
+          "imgid": 4,
+          "rev": 11,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4000,
+              "w": 3000
+            }
+          }
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "imported_source_reported_pending_package_check",
+    "review_note": "Kaynakta %85 çikolata/%15 fındık var; gönderilen %82/%18 kullanılmadı. Besin ve saklama metinleri içerikten ayrıldı."
+  },
+  {
+    "index": 3,
+    "code": "8695077043641",
+    "name": "Bitter Tablet Çikolata (%60 Kakao)",
+    "submitted_ingredients": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini). [Kakao kuru maddesi en az %60].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077043641.json",
+    "source_product": {
+      "code": "8695077043641",
+      "product_name": "",
+      "product_name_tr": "Bitter Tablet Çikolata",
+      "brands": "Harras",
+      "quantity": "80 g",
+      "ingredients_text": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%.",
+      "ingredients_text_tr": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%.",
+      "lang": "es",
+      "last_modified_t": 1778239974,
+      "allergens_tags": [],
+      "traces_tags": [],
+      "labels_tags": [],
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": {}
+    },
+    "source_status": 1,
+    "status": "imported_source_reported_pending_package_check"
+  },
+  {
+    "index": 4,
+    "code": "8695077122285",
+    "name": "Kakaolu Fındık Ezmesi (350g)",
+    "submitted_ingredients": "Fındık (%35), şeker, fındık yağı, yağsız süt tozu, kakao tozu, emülgatör (ayçiçek lesitini), doğal vanilya aroması. [İlave bitkisel yağ içermez].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077122285.json",
+    "source_product": {
+      "code": "8695077122285",
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": "Harras",
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": "ru",
+      "last_modified_t": 1770213392,
+      "allergens_tags": [],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4032,
+              "w": 3024
+            }
+          },
+          "uploaded_t": 1714122609,
+          "uploader": "smoothie-app"
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "identity_conflict_not_imported",
+    "review_note": "OFF kaydının tek fotoğrafı fındık ezmesi yerine sade kefir gösteriyor. Ezme, perakende kaynağında 8695077141453 barkoduyla ayrı kaydedildi; takma barkod oluşturulmadı.",
+    "related_verified_code": "8695077141453"
+  },
+  {
+    "index": 5,
+    "code": "8695077122292",
+    "name": "%100 Fıstık Ezmesi (Şekersiz)",
+    "submitted_ingredients": "%100 Kavrulmuş yer fıstığı. [İlave şeker, tatlandırıcı ve koruyucu içermez].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077122292.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 6,
+    "code": "8695077122308",
+    "name": "Şekersiz Çikolatalı Fındık Ezmesi",
+    "submitted_ingredients": "Kavrulmuş fındık (%40), tatlandırıcı (maltitol), bitkisel lif (inulin), kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077122308.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 7,
+    "code": "8695077134011",
+    "name": "Sütlü Çikolata Dilimleri (200g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu (%18), kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini), aroma verici (vanilin).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134011.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 8,
+    "code": "8695077134028",
+    "name": "Antep Fıstıklı Sütlü Çikolata (80g)",
+    "submitted_ingredients": "Sütlü çikolata (%85) [Şeker, kakao yağı, süt tozu, kakao kitlesi, emülgatör], Antep fıstığı (%15).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134028.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 9,
+    "code": "8695077134035",
+    "name": "Beyaz Çikolatalı Bisküvili Tablet",
+    "submitted_ingredients": "Beyaz çikolata (%80) [Şeker, kakao yağı, tam yağlı süt tozu, emülgatör], Kakao bisküvi parçacıkları (%20) [Buğday unu, şeker, bitkisel yağ, kakao tozu, kabartıcı].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134035.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 10,
+    "code": "8695077134042",
+    "name": "Bitter Kuvertür Çikolata (200g)",
+    "submitted_ingredients": "Kakao kitlesi, şeker, kakao yağı, emülgatör (ayçiçek lesitini). [Kakao kuru maddesi en az %54].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134042.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 11,
+    "code": "8695077134059",
+    "name": "Sütlü Kuvertür Çikolata (200g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, emülgatör (ayçiçek lesitini), vanilin aroması.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134059.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 12,
+    "code": "8695077134066",
+    "name": "Beyaz Kuvertür Çikolata (200g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, yağsız süt tozu, emülgatör (ayçiçek lesitini).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134066.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 13,
+    "code": "8695077134073",
+    "name": "%80 Yoğun Bitter Çikolata (80g)",
+    "submitted_ingredients": "Kakao kitlesi, kakao tozu, şeker, kakao yağı, emülgatör (ayçiçek lesitini). [Kakao kuru maddesi en az %80].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134073.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 14,
+    "code": "8695077134080",
+    "name": "Portakallı Bitter Çikolata (80g)",
+    "submitted_ingredients": "Bitter çikolata (%88) [Kakao kitlesi, şeker, emülgatör], Sülfitlenmiş kurutulmuş portakal parçacıkları (%12), doğal portakal aroması.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134080.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 15,
+    "code": "8695077134097",
+    "name": "Sütlü Damla Çikolata (150g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, emülgatör (ayçiçek lesitini).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134097.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 16,
+    "code": "8695077134103",
+    "name": "Bitter Damla Çikolata (150g)",
+    "submitted_ingredients": "Kakao kitlesi, şeker, kakao yağı, emülgatör (ayçiçek lesitini).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134103.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 17,
+    "code": "8695077134110",
+    "name": "Bademli Sütlü Çikolata (80g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, kavrulmuş badem içi (%15), kakao kitlesi, emülgatör (ayçiçek lesitini).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134110.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 18,
+    "code": "8695077134127",
+    "name": "Çilekli Beyaz Çikolata (80g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, dondurularak kurutulmuş çilek parçaları (%5), emülgatör (ayçiçek lesitini), aroma verici.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134127.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 19,
+    "code": "8695077134134",
+    "name": "Karamelli Sütlü Çikolata (80g)",
+    "submitted_ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, karamel parçacıkları (%10), kakao kitlesi, emülgatör (ayçiçek lesitini), doğal karamel aroması.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134134.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 20,
+    "code": "8695077134141",
+    "name": "Sürülebilir Sütlü Kakao Kreması",
+    "submitted_ingredients": "Şeker, bitkisel yağ (palm, ayçiçek), yağsız süt tozu (%10), kakao tozu (%7), peynir altı suyu tozu, emülgatör (ayçiçek lesitini), vanilin.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077134141.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 21,
+    "code": "8695077029423",
+    "name": "Tam Yağlı UHT İçme Sütü (1 L)",
+    "submitted_ingredients": "%100 UHT İnek Sütü (En az %3.5 süt yağı içerir).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077029423.json",
+    "source_product": {
+      "code": "8695077029423",
+      "product_name": "Milk",
+      "product_name_tr": "Süt",
+      "brands": "Harras, Harris",
+      "quantity": "835 g and 1000 ml",
+      "ingredients_text": "%3,1 yağlı inek sütü. Laktoz içerir.",
+      "ingredients_text_tr": "%3,1 yağlı inek sütü. Laktoz içerir.",
+      "lang": "en",
+      "last_modified_t": 1770217372,
+      "allergens_tags": [],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": "https://images.openfoodfacts.org/images/products/869/507/702/9423/ingredients_en.25.400.jpg",
+      "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/869/507/702/9423/ingredients_en.25.200.jpg",
+      "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/702/9423/front_en.6.400.jpg",
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4032,
+              "w": 3024
+            }
+          },
+          "uploaded_t": 1743293429,
+          "uploader": "sulobaba"
+        },
+        "2": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4032,
+              "w": 3024
+            }
+          },
+          "uploaded_t": 1743293554,
+          "uploader": "sulobaba"
+        },
+        "3": {
+          "sizes": {
+            "100": {
+              "h": 18,
+              "w": 100
+            },
+            "400": {
+              "h": 71,
+              "w": 400
+            },
+            "full": {
+              "h": 507,
+              "w": 2850
+            }
+          },
+          "uploaded_t": 1743293655,
+          "uploader": "sulobaba"
+        },
+        "4": {
+          "sizes": {
+            "100": {
+              "h": 58,
+              "w": 100
+            },
+            "400": {
+              "h": 232,
+              "w": 400
+            },
+            "full": {
+              "h": 1612,
+              "w": 2781
+            }
+          },
+          "uploaded_t": 1743293786,
+          "uploader": "sulobaba"
+        },
+        "5": {
+          "sizes": {
+            "100": {
+              "h": 47,
+              "w": 100
+            },
+            "400": {
+              "h": 187,
+              "w": 400
+            },
+            "full": {
+              "h": 380,
+              "w": 813
+            }
+          },
+          "uploaded_t": 1743294339,
+          "uploader": "sulobaba"
+        },
+        "6": {
+          "sizes": {
+            "100": {
+              "h": 30,
+              "w": 100
+            },
+            "400": {
+              "h": 120,
+              "w": 400
+            },
+            "full": {
+              "h": 588,
+              "w": 1966
+            }
+          },
+          "uploaded_t": 1743294371,
+          "uploader": "sulobaba"
+        },
+        "7": {
+          "sizes": {
+            "100": {
+              "h": 28,
+              "w": 100
+            },
+            "400": {
+              "h": 113,
+              "w": 400
+            },
+            "full": {
+              "h": 805,
+              "w": 2858
+            }
+          },
+          "uploaded_t": 1743294476,
+          "uploader": "sulobaba"
+        },
+        "front_en": {
+          "coordinates_image_size": "full",
+          "imgid": "1",
+          "rev": "6",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 57
+            },
+            "200": {
+              "h": 200,
+              "w": 113
+            },
+            "400": {
+              "h": 400,
+              "w": 227
+            },
+            "full": {
+              "h": 3381,
+              "w": 1917
+            }
+          },
+          "x1": 626,
+          "x2": 2543,
+          "y1": 154,
+          "y2": 3535
+        },
+        "front_tr": {
+          "imgid": "2",
+          "rev": "8",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 4032,
+              "w": 3024
+            }
+          }
+        },
+        "ingredients_en": {
+          "coordinates_image_size": "full",
+          "imgid": "3",
+          "rev": "25",
+          "sizes": {
+            "100": {
+              "h": 18,
+              "w": 100
+            },
+            "200": {
+              "h": 36,
+              "w": 200
+            },
+            "400": {
+              "h": 71,
+              "w": 400
+            },
+            "full": {
+              "h": 507,
+              "w": 2850
+            }
+          },
+          "x1": 0,
+          "x2": 2850,
+          "y1": 0,
+          "y2": 507
+        },
+        "ingredients_tr": {
+          "imgid": "3",
+          "rev": "10",
+          "sizes": {
+            "100": {
+              "h": 18,
+              "w": 100
+            },
+            "200": {
+              "h": 36,
+              "w": 200
+            },
+            "400": {
+              "h": 71,
+              "w": 400
+            },
+            "full": {
+              "h": 507,
+              "w": 2850
+            }
+          }
+        },
+        "nutrition_en": {
+          "coordinates_image_size": "full",
+          "imgid": "4",
+          "rev": "26",
+          "sizes": {
+            "100": {
+              "h": 58,
+              "w": 100
+            },
+            "200": {
+              "h": 116,
+              "w": 200
+            },
+            "400": {
+              "h": 232,
+              "w": 400
+            },
+            "full": {
+              "h": 1612,
+              "w": 2781
+            }
+          },
+          "x1": 0,
+          "x2": 2781,
+          "y1": 0,
+          "y2": 1612
+        },
+        "nutrition_tr": {
+          "imgid": "4",
+          "rev": "12",
+          "sizes": {
+            "100": {
+              "h": 58,
+              "w": 100
+            },
+            "200": {
+              "h": 116,
+              "w": 200
+            },
+            "400": {
+              "h": 232,
+              "w": 400
+            },
+            "full": {
+              "h": 1612,
+              "w": 2781
+            }
+          }
+        },
+        "packaging_tr": {
+          "imgid": "7",
+          "rev": "17",
+          "sizes": {
+            "100": {
+              "h": 28,
+              "w": 100
+            },
+            "200": {
+              "h": 56,
+              "w": 200
+            },
+            "400": {
+              "h": 113,
+              "w": 400
+            },
+            "full": {
+              "h": 805,
+              "w": 2858
+            }
+          }
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "conflicting_sources_not_imported",
+    "review_note": "Gönderilen listede en az %3,5 yağ; OFF metninde %3,1 yağ ve çelişkili 835g/1000ml miktar metadata mevcut."
+  },
+  {
+    "index": 22,
+    "code": "8695077112583",
+    "name": "Laktozsuz Yarım Yağlı UHT Süt",
+    "submitted_ingredients": "Yarım yağlı inek sütü, laktaz enzimi.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112583.json",
+    "source_product": {
+      "code": "8695077112583",
+      "product_name": "Harras Laktozsuz Yarım Yağlı UHT İçme Sütü",
+      "product_name_tr": "Harras Laktozsuz Yarım Yağlı UHT İçme Sütü",
+      "brands": "Harras",
+      "quantity": "1000ml",
+      "ingredients_text": "Yarım yağlı inek sütü, laktoz enzimi.",
+      "ingredients_text_tr": "Yarım yağlı inek sütü, laktoz enzimi.",
+      "lang": "tr",
+      "last_modified_t": 1788537589,
+      "allergens_tags": [],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": "https://images.openfoodfacts.org/images/products/869/507/711/2583/ingredients_tr.5.400.jpg",
+      "image_ingredients_small_url": "https://images.openfoodfacts.org/images/products/869/507/711/2583/ingredients_tr.5.200.jpg",
+      "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/711/2583/front_tr.3.400.jpg",
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 53
+            },
+            "400": {
+              "h": 400,
+              "w": 212
+            },
+            "full": {
+              "h": 3793,
+              "w": 2007
+            }
+          },
+          "uploaded_t": 1755687934,
+          "uploader": "smoothie-app"
+        },
+        "2": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 47
+            },
+            "400": {
+              "h": 400,
+              "w": 188
+            },
+            "full": {
+              "h": 3937,
+              "w": 1849
+            }
+          },
+          "uploaded_t": 1755687991,
+          "uploader": "smoothie-app"
+        },
+        "front_tr": {
+          "imgid": "1",
+          "rev": "3",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 53
+            },
+            "200": {
+              "h": 200,
+              "w": 106
+            },
+            "400": {
+              "h": 400,
+              "w": 212
+            },
+            "full": {
+              "h": 3793,
+              "w": 2007
+            }
+          }
+        },
+        "ingredients_tr": {
+          "imgid": "2",
+          "rev": "5",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 47
+            },
+            "200": {
+              "h": 200,
+              "w": 94
+            },
+            "400": {
+              "h": 400,
+              "w": 188
+            },
+            "full": {
+              "h": 3937,
+              "w": 1849
+            }
+          }
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "imported_source_reported_pending_package_check",
+    "review_note": "Kaynak metninde ve ambalaj fotoğrafında laktoz enzimi yazıyor. Bu ifade laktaz enzimi olarak sessizce değiştirilmedi."
+  },
+  {
+    "index": 23,
+    "code": "8695077112590",
+    "name": "Organik Pastörize İnek Sütü",
+    "submitted_ingredients": "%100 Organik sertifikalı pastörize inek sütü.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112590.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 24,
+    "code": "8695077112606",
+    "name": "Sürülebilir Lor Peyniri (400g)",
+    "submitted_ingredients": "Peynir altı suyu, inek sütü, tuz, sodyum laktat (kıvam düzenleyici).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112606.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 25,
+    "code": "8695077112613",
+    "name": "Organik Labne Peyniri (200g)",
+    "submitted_ingredients": "Organik pastörize inek sütü, organik süt kreması, yoğurt kültürü, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112613.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 26,
+    "code": "8695077112620",
+    "name": "Kelle Loru (500g)",
+    "submitted_ingredients": "İnek sütü peynir altı suyu, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112620.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 27,
+    "code": "8695077112637",
+    "name": "Hellim Peyniri (250g)",
+    "submitted_ingredients": "Pastörize inek, koyun ve keçi sütü karışımı, tuz, peynir mayası, nane.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112637.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 28,
+    "code": "8695077112644",
+    "name": "Bergama Tulum Peyniri",
+    "submitted_ingredients": "Pastörize inek sütü, peynir mayası, tuz. [En az 6 ay olgunlaştırılmıştır].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112644.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 29,
+    "code": "8695077112651",
+    "name": "Laktozsuz Tam Yağlı Ayran",
+    "submitted_ingredients": "Pastörize inek sütü, ayran kültürü, su, tuz, laktaz enzimi.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112651.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 30,
+    "code": "8695077112668",
+    "name": "Laktozsuz Sade Kefir (1 L)",
+    "submitted_ingredients": "Pastörize inek sütü, kefir kültürü, laktaz enzimi.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112668.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 31,
+    "code": "8695077112675",
+    "name": "Süzme Yoğurt (900g)",
+    "submitted_ingredients": "Pastörize inek sütü, yoğurt kültürü. [Kuru madde oranı yüksektir].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112675.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 32,
+    "code": "8695077112682",
+    "name": "Yarım Yağlı UHT Süt (1 L)",
+    "submitted_ingredients": "%100 UHT İnek Sütü (En az %1.5 süt yağı içerir).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112682.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 33,
+    "code": "8695077112699",
+    "name": "Yağsız (Skimmed) UHT Süt",
+    "submitted_ingredients": "%100 UHT İnek Sütü (En az %0.15 süt yağı içerir).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112699.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 34,
+    "code": "8695077112705",
+    "name": "Kaymaklı Tava Yoğurdu (1250g)",
+    "submitted_ingredients": "Pastörize inek sütü, süt kreması, yoğurt kültürü.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112705.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 35,
+    "code": "8695077112712",
+    "name": "Tam Yağlı Taze Kaşar Peyniri",
+    "submitted_ingredients": "Pastörize inek sütü, peynir mayası, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112712.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 36,
+    "code": "8695077112729",
+    "name": "Olgunlaştırılmış Beyaz Peynir",
+    "submitted_ingredients": "Pastörize inek sütü, peynir mayası, şirden mayası, tuz. [Dokuz ay olgunlaştırılmıştır].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112729.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 37,
+    "code": "8695077112736",
+    "name": "Sürülebilir Taze Peynir (Sade)",
+    "submitted_ingredients": "İnek sütü, süt kreması, stabilizatör (lokust fasulyesi sakızı), tuz, kültür.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112736.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 38,
+    "code": "8695077112743",
+    "name": "Krem Peynir (400g)",
+    "submitted_ingredients": "Beyaz peynir, eritme tuzları, tereyağı, su, peynir altı suyu tozu.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112743.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 39,
+    "code": "8695077112750",
+    "name": "Çilekli Kuark (150g)",
+    "submitted_ingredients": "Pastörize inek sütü, çilek sosu (%15) [çilek, şeker, nişasta], peynir kültürü.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112750.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 40,
+    "code": "8695077112767",
+    "name": "Kayısı ve Tahıllı Kefir (250ml)",
+    "submitted_ingredients": "Pastörize inek sütü, kayısı püresi (%10), yulaf ezmesi (%2), kefir kültürü.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077112767.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 41,
+    "code": "8695077109484",
+    "name": "Crunchies Çikolatalı Bisküvi",
+    "submitted_ingredients": "Sütlü çikolata kaplama [şeker, kakao yağı, süt tozu, kakao kitlesi, emülgatör], buğday unu (gluten), bitkisel yağ, şeker, kabartıcılar, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109484.json",
+    "source_product": {
+      "code": "8695077109484",
+      "product_name": "Harras Crunchies",
+      "product_name_tr": "Harras Crunchies",
+      "brands": "Harras",
+      "quantity": "145",
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": "tr",
+      "last_modified_t": 1777723500,
+      "allergens_tags": [],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/710/9484/front_tr.3.400.jpg",
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "uploaded_t": 1777723366,
+          "uploader": "mtkus"
+        },
+        "2": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          },
+          "uploaded_t": 1777723387,
+          "uploader": "mtkus"
+        },
+        "front_tr": {
+          "imgid": 1,
+          "rev": 3,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          }
+        },
+        "nutrition_tr": {
+          "imgid": 2,
+          "rev": 5,
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 75
+            },
+            "200": {
+              "h": 200,
+              "w": 150
+            },
+            "400": {
+              "h": 400,
+              "w": 300
+            },
+            "full": {
+              "h": 5712,
+              "w": 4284
+            }
+          }
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "incomplete_ingredients_not_imported",
+    "review_note": "Ürün kimliği ve 145 g miktarı kaynakta var; tam içerik metni eksik."
+  },
+  {
+    "index": 42,
+    "code": "8695077109491",
+    "name": "Tarçınlı İnce Bisküvi (Lotus Tipi)",
+    "submitted_ingredients": "Buğday unu (gluten), şeker, bitkisel yağ (palm, kolza), şeker şurubu, kabartıcı (sodyum hidrojen karbonat), soya unu, tuz, tarçın (%0.5).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109491.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 43,
+    "code": "8695077109507",
+    "name": "New Yorker Çikolatalı Kurabiye",
+    "submitted_ingredients": "Buğday unu, parça çikolata (%25) [şeker, kakao kitlesi, kakao yağı, emülgatör], bitkisel yağ, şeker, glukoz-fruktoz şurubu, tuz, kabartıcılar.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109507.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 44,
+    "code": "8695077109514",
+    "name": "Patlatmalık Mısır (Cin Mısır)",
+    "submitted_ingredients": "%100 Cin mısır taneleri.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109514.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 45,
+    "code": "8695077109521",
+    "name": "Soslu Yer Fıstığı (Kri Kri)",
+    "submitted_ingredients": "Yer fıstığı (%50), buğday unu, nişasta, bitkisel yağ, tuz, kajun baharat çeşnisi, aroma arttırıcı (monosodyum glutamat).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109521.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 46,
+    "code": "8695077109538",
+    "name": "Kavrulmuş Kaju Cevizi (150g)",
+    "submitted_ingredients": "Kaju cevizi içi, bitkisel yağ, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109538.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 47,
+    "code": "8695077109545",
+    "name": "Çiğ Badem İçi (150g)",
+    "submitted_ingredients": "%100 Çiğ badem içi. [Kavrulmamış ve tuzsuzdur].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109545.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 48,
+    "code": "8695077109552",
+    "name": "Pirinç Patlağı (Tuzlu & İnce)",
+    "submitted_ingredients": "Kahverengi pirinç (%98), deniz tuzu (%1.5), ayçiçek lesitini.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109552.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 49,
+    "code": "8695077109569",
+    "name": "Yer Fıstıklı Proteinli Toplar",
+    "submitted_ingredients": "Hurma, yer fıstığı (%25), peynir altı suyu proteini konsantresi (süt ürünü), kakao kitlesi, deniz tuzu.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109569.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 50,
+    "code": "8695077109576",
+    "name": "Çilekli Proteinli Toplar",
+    "submitted_ingredients": "Hurma, nohut unu, peynir altı suyu proteini, kurutulmuş çilek tozu (%4), hindistan cevizi.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109576.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 51,
+    "code": "8695077109583",
+    "name": "Fıstıklı Proteinli Toplar",
+    "submitted_ingredients": "Hurma, Antep fıstığı (%20), bezelye proteini izolatı, hindistan cevizi yağı, kakao.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109583.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 52,
+    "code": "8695077109590",
+    "name": "Yulaflı ve Lifli Bisküvi (300g)",
+    "submitted_ingredients": "Yulaf ezmesi (%35), buğday unu, bitkisel yağ, şeker, tam buğday unu, glukoz şurubu, kabartıcılar, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109590.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 53,
+    "code": "8695077109606",
+    "name": "Kavrulmuş İç Fındık (150g)",
+    "submitted_ingredients": "Kavrulmuş fındık içi.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109606.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 54,
+    "code": "8695077109613",
+    "name": "Tuzlu Kavrulmuş Kabak Çekirdeği",
+    "submitted_ingredients": "Kabak çekirdeği, tuz.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109613.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 55,
+    "code": "8695077109620",
+    "name": "Ceviz İçi (Görsel Seçme 150g)",
+    "submitted_ingredients": "%100 Kurutulmuş kelebek ceviz içi.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109620.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 56,
+    "code": "8695077109637",
+    "name": "Kuru Meyve Kokteyli (200g)",
+    "submitted_ingredients": "Kuru üzüm, kurutulmuş kayısı, kurutulmuş incir parçaları, turna yemişi (cranberry).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109637.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 57,
+    "code": "8695077109644",
+    "name": "Çıtır Soslu Mısır Çerezi",
+    "submitted_ingredients": "Mısır, bitkisel yağ, barbekü çeşnisi, tuz, tütsü aroması.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109644.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 58,
+    "code": "8695077109651",
+    "name": "Grisini (Sade & Zeytinyağlı)",
+    "submitted_ingredients": "Buğday unu, sızma zeytinyağı (%8), bitkisel yağ, yaş maya, tuz, malt unu.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109651.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 59,
+    "code": "8695077109668",
+    "name": "Çikolata Kaplı Pişmaniye",
+    "submitted_ingredients": "Şeker, buğday unu, tereyağı, asitlik düzenleyici (sitrik asit), sütlü çikolata kaplama [şeker, kakao yağı, süt tozu, emülgatör].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109668.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 60,
+    "code": "8695077109675",
+    "name": "Vanilyalı Macaron (Maron)",
+    "submitted_ingredients": "Şeker, badem unu, yumurta akı, bitkisel yağ, su, vanilya ekstraktı, stabilizatör.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077109675.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 61,
+    "code": "8684992004226",
+    "name": "Basmati Pirinç (2.5 kg)",
+    "submitted_ingredients": "%100 Basmati Pirinç.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004226.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported",
+    "review_note": "Şikayet kaydı ürün kimliğini bildirse de tam ambalaj içerik kanıtı değildir; %100 içerik varsayılmadı."
+  },
+  {
+    "index": 62,
+    "code": "8684992004233",
+    "name": "Osmancık Pirinç (2.5 kg)",
+    "submitted_ingredients": "%100 Osmancık Tipi Pirinç.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004233.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 63,
+    "code": "8684992004240",
+    "name": "Kırmızı Mercimek (1 kg)",
+    "submitted_ingredients": "%100 Futbol tipi kırmızı mercimek.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004240.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 64,
+    "code": "8684992004257",
+    "name": "Pilavlık Bulgur (1 kg)",
+    "submitted_ingredients": "%100 Durum buğdayından üretilmiş pilavlık bulgur.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004257.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 65,
+    "code": "8684992004264",
+    "name": "Koçbaşı Nohut (1 kg)",
+    "submitted_ingredients": "%100 Koçbaşı tipi nohut taneleri.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004264.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 66,
+    "code": "8684992004271",
+    "name": "Dermason Kuru Fasulye (1 kg)",
+    "submitted_ingredients": "%100 Dermason cinsi kuru fasulye.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004271.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 67,
+    "code": "8684992004288",
+    "name": "Yeşil Mercimek (1 kg)",
+    "submitted_ingredients": "%100 Yeşil mercimek taneleri.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004288.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 68,
+    "code": "8684992004295",
+    "name": "Yerli Pilavlık Pirinç (5 kg)",
+    "submitted_ingredients": "%100 Pilavlık yerli pirinç.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004295.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 69,
+    "code": "8684992004301",
+    "name": "Aşurelik Buğday (1 kg)",
+    "submitted_ingredients": "%100 Kabuğu soyulmuş aşurelik buğday (gluten).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004301.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 70,
+    "code": "8684992004318",
+    "name": "Lütenitsa Balkan Sosu (300g)",
+    "submitted_ingredients": "Közlenmiş patlıcan (%35), közlenmiş kırmızı biber (%35), domates salçası, ayçiçek yağı, şeker, sarımsak, tuz, baharat karışımı.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004318.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 71,
+    "code": "8684992004325",
+    "name": "Acı Biber Sosu (Hot Chili)",
+    "submitted_ingredients": "Acı kırmızı biber (%50), su, sirke, şeker, tuz, sarımsak, kıvam arttırıcı (ksantan gam).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004325.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 72,
+    "code": "8684992004332",
+    "name": "Domates Salçası (830g)",
+    "submitted_ingredients": "%100 Domates salçası. [Kuru madde oranı en az %28, ilave tuz içermez].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004332.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 73,
+    "code": "8684992004349",
+    "name": "Biber Salçası (Acı - 700g)",
+    "submitted_ingredients": "Kırmızı acı biber, tuz, asitlik düzenleyici (sitrik asit).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004349.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 74,
+    "code": "8684992004356",
+    "name": "Geleneksel Domates Rendesi",
+    "submitted_ingredients": "Domates (%99), tuz, asitlik düzenleyici (limon suyu konsantresi).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004356.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 75,
+    "code": "8684992004363",
+    "name": "Sızma Zeytinyağı (1 L)",
+    "submitted_ingredients": "%100 Doğal sızma zeytinyağı. [Maksimum asitlik %0.8].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004363.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 76,
+    "code": "8684992004370",
+    "name": "Riviera Zeytinyağı (1 L)",
+    "submitted_ingredients": "Rafine zeytinyağı ve prina yağı harici doğrudan zeytinden elde edilen zeytinyağı karışımı.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004370.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 77,
+    "code": "8684992004387",
+    "name": "Kornişon Turşusu (Alman Tipi)",
+    "submitted_ingredients": "Kornişon salatalık, su, sirke, şeker, tuz, dereotu, hardal tohumu, sarımsak aroması.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004387.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 78,
+    "code": "8684992004394",
+    "name": "Sarımsak Turşusu (200g)",
+    "submitted_ingredients": "Ayıklanmış sarımsak dişleri, su, sirke, tuz, asitlik düzenleyici.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004394.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 79,
+    "code": "8684992004400",
+    "name": "Mısır Koçanı Turşusu",
+    "submitted_ingredients": "Mini mısır koçanları, su, sirke, tuz, şeker, stabilizatör.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004400.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 80,
+    "code": "8684992004417",
+    "name": "Elma Sirkesi (Doğal Fermante)",
+    "submitted_ingredients": "Doğal fermente elma sirkesi. [Koruyucu ve yapay aroma içermez].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8684992004417.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 81,
+    "code": "8682536024921",
+    "name": "Glutensiz Çiğ Karabuğday Unu",
+    "submitted_ingredients": "%100 Çiğ karabuğday tanelerinden öğütülmüş un.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8682536024921.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 82,
+    "code": "8682536024938",
+    "name": "Glutensiz Badem Unu (200g)",
+    "submitted_ingredients": "%100 Kabuğu soyulmuş bademlerden üretilen badem unu.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8682536024938.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 83,
+    "code": "8682536024945",
+    "name": "Glutensiz Beyaz Kinoa (500g)",
+    "submitted_ingredients": "%100 Beyaz kinoa taneleri.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8682536024945.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 84,
+    "code": "8682536024952",
+    "name": "Glutensiz Chia Tohumu (250g)",
+    "submitted_ingredients": "%100 Salvia hispanica (Chia) tohumu.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8682536024952.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 85,
+    "code": "8682536024969",
+    "name": "Glutensiz Kırmızı Mercimek Penne",
+    "submitted_ingredients": "%100 Kırmızı mercimek unu ve su. [Glutensiz ve yüksek proteinli makarna].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8682536024969.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 86,
+    "code": "8682536024976",
+    "name": "Glutensiz Kırmızı Mercimek Fusilli",
+    "submitted_ingredients": "Kırmızı mercimek unu, su.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8682536024976.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 87,
+    "code": "8695077141019",
+    "name": "Maraş Usulü Keçi Sütlü Dondurma",
+    "submitted_ingredients": "Keçi sütü (%75), şeker, salep. [Renklendirici, yapay kıvam artırıcı ve aroma içermez].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141019.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 88,
+    "code": "8695077141026",
+    "name": "Limonlu Sorbe (500g)",
+    "submitted_ingredients": "Su, şeker, limon suyu (%20), limon kabuğu rendesi, bitkisel lifler (kıvam amaçlı).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141026.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 89,
+    "code": "8695077141033",
+    "name": "Dondurulmuş Gurme Mantı",
+    "submitted_ingredients": "Hamur [buğday unu, su, yumurta, tuz], İç harç [dana kıyması (%40), kuru soğan, karabiber, tuz].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141033.json",
+    "source_product": {
+      "code": "8695077141033",
+      "product_name": "YARIM YAĞLI TOST PEYNIR",
+      "product_name_tr": "YARIM YAĞLI TOST PEYNIR",
+      "brands": "Aknaz",
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": "tr",
+      "last_modified_t": 1770218127,
+      "allergens_tags": [],
+      "traces_tags": [],
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/714/1033/front_tr.3.400.jpg",
+      "images": {
+        "1": {
+          "sizes": {
+            "100": {
+              "h": 32,
+              "w": 100
+            },
+            "400": {
+              "h": 129,
+              "w": 400
+            },
+            "full": {
+              "h": 549,
+              "w": 1700
+            }
+          },
+          "uploaded_t": 1730720576,
+          "uploader": "macrofactor"
+        },
+        "2": {
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 97
+            },
+            "400": {
+              "h": 400,
+              "w": 388
+            },
+            "full": {
+              "h": 1123,
+              "w": 1088
+            }
+          },
+          "uploaded_t": 1730720577,
+          "uploader": "macrofactor"
+        },
+        "front_tr": {
+          "imgid": "1",
+          "rev": "3",
+          "sizes": {
+            "100": {
+              "h": 32,
+              "w": 100
+            },
+            "200": {
+              "h": 65,
+              "w": 200
+            },
+            "400": {
+              "h": 129,
+              "w": 400
+            },
+            "full": {
+              "h": 549,
+              "w": 1700
+            }
+          }
+        },
+        "nutrition_tr": {
+          "imgid": "2",
+          "rev": "5",
+          "sizes": {
+            "100": {
+              "h": 100,
+              "w": 97
+            },
+            "200": {
+              "h": 200,
+              "w": 194
+            },
+            "400": {
+              "h": 400,
+              "w": 388
+            },
+            "full": {
+              "h": 1123,
+              "w": 1088
+            }
+          }
+        }
+      }
+    },
+    "source_status": 1,
+    "status": "different_product_not_imported",
+    "review_note": "Kaynak Aknaz Yarım Yağlı Tost Peyniri bildiriyor; gönderilen Harras mantı eşleşmesi kabul edilmedi."
+  },
+  {
+    "index": 90,
+    "code": "8695077141040",
+    "name": "Dondurulmuş Patatesli Hingel",
+    "submitted_ingredients": "Hamur [buğday unu, su, tuz], İç harç [haşlanmış patates (%80), soğan, tuz, pul biber, ayçiçek yağı].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141040.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 91,
+    "code": "8695077141057",
+    "name": "Dana İlikli Kemik Suyu (6x60ml)",
+    "submitted_ingredients": "%100 Dana ilikli kemik suyu, defne yaprağı, elma sirkesi. [Mekanik süzülmüş, katkısız].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141057.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 92,
+    "code": "8695077141064",
+    "name": "Kajun Soslu Bebek Patates",
+    "submitted_ingredients": "Kabuklu bebek patates, ayçiçek yağı, kajun baharat çeşnisi (sarımsak tozu, soğan tozu, kekik, tatlı toz biber, tuz).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141064.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 93,
+    "code": "8695077141071",
+    "name": "Dondurulmuş Akdeniz Meyveleri",
+    "submitted_ingredients": "Dondurulmuş çilek, ahududu, böğürtlen, yaban mersini karışımı (eşit oranlarda).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141071.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 94,
+    "code": "8695077141088",
+    "name": "Dondurulmuş Çikolatalı Sufle",
+    "submitted_ingredients": "Şeker, yumurta, bitter çikolata [kakao kitlesi, şeker, emülgatör], tereyağı, buğday unu, kakao tozu.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141088.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 95,
+    "code": "8695077141095",
+    "name": "Kıymalı Fındık Pide (400g)",
+    "submitted_ingredients": "Hamur [buğday unu, su, maya, tuz], Üst harç [dana kıyması (%35), domates, biber, soğan, maydanoz, baharat].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141095.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 96,
+    "code": "8695077141101",
+    "name": "%100 Karışık Meyve Suyu (1 L)",
+    "submitted_ingredients": "Elma suyu konsantresi, üzüm suyu konsantresi, şeftali püresi. [İlave şeker ve su içermez].",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141101.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 97,
+    "code": "8695077141118",
+    "name": "Bergamot Aromalı Soğuk Çay",
+    "submitted_ingredients": "Su, şeker, asitlik düzenleyici (sitrik asit), siyah çay ekstraktı, doğal bergamot aroması.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141118.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 98,
+    "code": "8695077141125",
+    "name": "Seylan Çayı (Ceylon Tea - 500g)",
+    "submitted_ingredients": "%100 Büyük yapraklı Seylan (Sri Lanka) siyah çayı.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141125.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 99,
+    "code": "8695077141132",
+    "name": "Şekersiz Badem Sütü (1 L)",
+    "submitted_ingredients": "Su, badem (%2), trikalsiyum fosfat, deniz tuzu, stabilizatörler (jellan sakızı, keçiboynuzu gamı), vitaminler (B2, B12, E, D2).",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141132.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  },
+  {
+    "index": 100,
+    "code": "8695077141149",
+    "name": "Glutensiz Çilekli Granola",
+    "submitted_ingredients": "Glutensiz yulaf ezmesi (%60), turna yemişi, dondurularak kurutulmuş çilek (%5), elma suyu konsantresi, sızma zeytinyağı, fındık.",
+    "gtin_valid": true,
+    "source_url": "https://world.openfoodfacts.org/api/v0/product/8695077141149.json",
+    "source_product": {
+      "code": null,
+      "product_name": null,
+      "product_name_tr": null,
+      "brands": null,
+      "quantity": null,
+      "ingredients_text": null,
+      "ingredients_text_tr": null,
+      "lang": null,
+      "last_modified_t": null,
+      "allergens_tags": null,
+      "traces_tags": null,
+      "labels_tags": null,
+      "image_ingredients_url": null,
+      "image_ingredients_small_url": null,
+      "image_front_url": null,
+      "images": null
+    },
+    "source_status": 0,
+    "status": "not_found_not_imported"
+  }
+]

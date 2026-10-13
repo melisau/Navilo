@@ -1,0 +1,163 @@
+
+1. KATEGORİ: Ekmek ve Kahvaltılık Gevrek Çeşitleri (1 - 40)
+
+
+Paket Ekmek Çeşitleri (Uno, Doygun, Wasa) (1 - 20)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+1	8690629201128	Uno Tost Ekmeği Klasik (550g)	Buğday Unu (Gluten), Su, Şeker, Bitkisel Yağ (Palm), Ekmek Mayası, Sofra Tuzu, Un İşlem Maddesi (Askorbik Asit), Koruyucu (Kalsiyum Propiyonat).
+2	8690629201159	Uno Tam Buğday Ekmeği (350g)	Tam Buğday Unu (%55), Buğday Unu, Su, Şeker, Ekmek Mayası, Bitkisel Yağ, Sofra Tuzu, Buğday Gluteni, Koruyucu (Kalsiyum Propiyonat).
+3	8690629201203	Uno Çavdarlı ve Tahıllı (350g)	Çavdar Unu (%25), Buğday Unu, Tahıl Karışımı (%10) [Yulaf, Arpa, Keten Tohumu, Susam], Su, Malt Ekstratı, Maya, Tuz, Koruyucu.
+4	8690629201258	Uno Premium Çok Tahıllı (400g)	Tam Buğday Unu, Çavdar Ekşi Hamuru, Ayçekirdeği İçi, Keten Tohumu, Yulaf Ezmesi, Su, Bitkisel Yağ, Tuz, Kültürlü Buğday Unu.
+5	8690629201302	Uno Sandviç Ekmeği (6'lı 390g)	Buğday Unu, Su, Şeker, Bitkisel Yağ, Ekmek Mayası, Sofra Tuzu, Emülgatör (Sodyum Stearol-2-Laktilat), Koruyucu (Kalsiyum Propiyonat).
+6	8690629201357	Uno Hamburger Ekmeği (4'lü 320g)	Buğday Unu, Su, Şeker, Bitkisel Yağ, Ekmek Mayası, Tuz, Emülgatör, Un İşlem Maddesi (Askorbik Asit), Kalsiyum Propiyonat.
+7	8691834001119	Doygun Tam Buğday Ekmeği (350g)	Tam Buğday Unu (%58), Buğday Unu, Su, Ekmek Mayası, Bitkisel Yağ, Sofra Tuzu, Koruyucu (Kalsiyum Propiyonat, Sorbik Asit).
+8	8691834001157	Doygun Çavdarlı Ekmeği (350g)	Çavdar Unu (%30), Buğday Unu, Su, Arpa Maltı, Ekmek Mayası, Bitkisel Yağ, Sofra Tuzu, Koruyucu (Kalsiyum Propiyonat).
+9	8691834001201	Doygun Köy Ekmeği (450g)	Buğday Unu, Taş Değirmen Tam Buğday Unu (%15), Su, Ekşi Maya Kültürü, Ekmek Mayası, Sofra Tuzu, Askorbik Asit.
+10	8691834001256	Doygun Kornet Sandviç Ekmeği	Buğday Unu, Su, Şeker, Bitkisel Yağ, Maya, Tuz, Emülgatör (Yağ Asitlerinin Mono ve Digliseritleri), Kalsiyum Propiyonat.
+11	7300400117409	Wasa Original Kıtır Ekmek (275g)	Tam Çavdar Unu, Çavdar Kepeği, Maya, Sofra Tuzu. [Yüksek lifli, koruyucusuz İsveç tipi kıtır ekmek].
+12	7300400118109	Wasa Fibre Kıtır Ekmek (230g)	Tam Çavdar Unu, Çavdar Kepeği (%10), Buğday Gevreği, Susam Tohumu, Yulaf Gevreği, Sofra Tuzu.
+13	7300400124209	Wasa Sesame Kıtır Ekmek (200g)	Buğday Unu, Susam Tohumu (%10), Tam Çavdar Unu, Bitkisel Yağ (Rapeseed), Şeker, Maya, Sofra Tuzu.
+14	8690629201401	Uno Büyük Tost Ekmeği (670g)	Buğday Unu, Su, Şeker, Bitkisel Yağ, Ekmek Mayası, Sofra Tuzu, Gluten, Kıvam Düzenleyici, Kalsiyum Propiyonat.
+15	8690629201456	Uno Dönas Lavaş Ekmek (25cm)	Buğday Unu, Su, Bitkisel Yağ, Tuz, Stabilizatör (Gliserol), Kabartıcılar (Sodyum Asit Pirosülfat), Nem Verici, Koruyucular.
+16	8690629201500	Uno Glutensiz Ekmek (300g)	Mısır Nişastası, Pirinç Unu, Patates Nişastası, Su, Bitkisel Lif, Bitkisel Yağ, Kıvam Arttırıcı (Ksantan Gam), Maya, Tuz.
+17	8691834001300	Doygun Altın Yulaf Ekmeği (350g)	Buğday Unu, Yulaf Ezmesi (%15), Tam Buğday Unu, Su, Şeker, Ekmek Mayası, Bitkisel Yağ, Sofra Tuzu, Kalsiyum Propiyonat.
+18	8690629201609	Uno Premium Ekşi Mayalı (450g)	Buğday Unu, Geleneksel Ekşi Maya Kültürü (%20), Su, Tam Buğday Unu, Sofra Tuzu, Malt Unu. [Endüstriyel maya içermez].
+19	8691834001409	Doygun Glutensiz Karabuğdaylı	Karabuğday Unu (%30), Mısır Nişastası, Patates Unu, Su, Bitkisel Yağ, Kıvam Arttırıcı (Hidroksipropil Metil Selüloz), Maya, Tuz.
+20	8690629201708	Uno Ciabatta Ekmek (2'li 250g)	Buğday Unu, Su, Sızma Zeytinyağı (%3), Ekmek Mayası, Arpa Maltı Ekstratı, Sofra Tuzu, Askorbik Asit.
+
+
+Kahvaltılık Gevrek Çeşitleri (Kellogg's, Nestlé, Eti) (21 - 40)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+21	5054215001114	Kellogg's Corn Flakes Sade (450g)	Mısır Unu (%92), Şeker, Arpa Maltı Ekstratı, Sofra Tuzu, Vitaminler (Niasin, B6, B2, B1, Folik Asit, B12), Mineral (Demir).
+22	5054215001152	Kellogg's Coco Pops Çikolatalı (450g)	Mısır Unu, Şeker, Glukoz Şurubu, Kakao Tozu (%5), Bitter Çikolata (%2), Tuz, Arpa Maltı, Vitamin ve Mineraller.
+23	5054215001206	Kellogg's Special K Klasik (425g)	Pirinç (%44), Tam Buğday (%32), Şeker, Arpa, Tam Buğday Unu, Glukoz Şurubu, Tuz, Malt Ekstratı, Vitaminler, Demir.
+24	5054215001251	Kellogg's Special K Kırmızı Meyveli	Pirinç ve Tam Buğday Gevreği (%88), Dondurularak Kurutulmuş Kırmızı Meyveler (%5) [Çilek, Vişne], Şeker, Malt, Tuz, Vitaminler.
+25	7613034501112	Nestlé Nesquik Kakaolu Gevrek (450g)	Tam Buğday (%51.4), Mısır Unu, Şeker, Glukoz Şurubu, Kakao Tozu (%5.7), Bitkisel Yağ, Tuz, Vitamin ve Mineraller (Kalsiyum, Demir).
+26	7613034501150	Nestlé Nesfit Sade Gevrek (400g)	Tam Buğday (%48.7), Pirinç, Şeker, Tam Yulaf Gevreği (%5.6), Arpa Maltı, Glukoz Şurubu, Sofra Tuzu, Vitamin ve Mineraller.
+27	7613034501204	Nestlé Nesfit Karışık Meyveli (400g)	Tam Buğday ve Pirinç Gevreği (%75), Kuru Meyveler (%20) [Kuru Üzüm, Papaya, Ananas, Kükürt Dioksit], Şeker, Malt Şurubu, Tuz.
+28	7613034501259	Nestlé Cheerios Ballı Gevrek (375g)	Tahıl Unları (%79) [Tam Yulaf, Tam Buğday, Tam Arpa, Tam Mısır, Tam Pirinç], Çiçek Balı (%4.5), Şeker, Tuz, Vitaminler.
+29	8690526081123	Eti Lifalif Yulaf Ezmesi (500g)	%100 Doğal Yulaf Ezmesi. [İlave şeker, tuz, koruyucu içermez, yüksek lifli].
+30	8690526081154	Eti Lifalif İnce Öğütülmüş Yulaf	%100 Doğal İnce Öğütülmüş Yulaf Ezmesi.
+31	8690526081208	Eti Lifalif Kırmızı Meyveli Granola	Yulaf Ezmesi (%55), Zeytinyağı, Elma Suyu Konsantresi, Kurutulmuş Kırmızı Meyveler (%6) [Çilek, Turna Yemişi], Fındık, Badem.
+32	8690526081253	Eti Lifalif Çikolatalı Fındıklı Müsli	Yulaf Ezmesi (%45), Buğday Gevreği, Bitter Çikolata Parçacıkları (%8) [Şeker, Kakao Kitlesi], Kavrulmuş Fındık (%5), Kuru Üzüm.
+33	5054215001305	Kellogg's Granola Çikolatalı (400g)	Tam Yulaf Gevreği (%52), Şeker, Bitkisel Yağ, Çikolata Parçaları (%10) [Kakao Kitlesi, Şeker, Emülgatör], Buğday Unu, Kurutulmuş Hindistan Cevizi.
+34	5054215001350	Kellogg's Granola Meyveli (400g)	Tam Yulaf Gevreği (%54), Bitkisel Yağ, Şeker, Kuru Meyve Karışımı (%12) [Kuru Üzüm, Kurutulmuş Muz, Kurutulmuş Elma], Buğday Unu, Tuz.
+35	7613034501303	Nestlé Gold Flakes Ballı Mısır Gevreği	Mısır Unu (%78), Şeker, Çiçek Balı (%3.5), Arpa Maltı Ekstratı, Sofra Tuzu, Glukoz Şurubu, Vitaminler ve Mineraller (Demir, Kalsiyum).
+36	7613034501358	Nestlé Cini Minis Tarçınlı Gevrek	Tam Buğday (%32.5), Pirinç Unu, Şeker, Glukoz Şurubu, Bitkisel Yağ, Öğütülmüş Tarçın (%1.2), Sofra Tuzu, Doğal Aroma Verici, Vitaminler.
+37	8690526081307	Eti Lifalif Ballı Cevizli Müsli	Yulaf Ezmesi (%50), Şeker, Çiçek Balı (%3), Kurutulmuş Kelebek Ceviz İçi (%5), Kuru Üzüm, Kurutulmuş Elma Küpleri, Bitkisel Yağ.
+38	5054215001404	Kellogg's Coco Pops Çoko Topları	Mısır Unu, Şeker, Glukoz Şurubu, Kakao Tozu (%6), Sütlü Çikolata (%1.5), Sofra Tuzu, Kalsiyum Karbonat, Demir, B Grubu Vitaminleri.
+39	7613034501402	Nestlé Koko Krunch Kakaolu Gevrek	Tam Buğday (%38.5), Mısır Unu, Şeker, Kakao Tozu (%6.2), Glukoz Şurubu, Bitkisel Yağ, Tuz, Mineraller (Kalsiyum, Demir), Vitaminler.
+40	8690526081451	Eti Lifalif Glutensiz Yulaf Ezmesi	%100 Doğal Glutensiz Yulaf Ezmesi. [Kontamine olmamış hatlarda özel ambalajlanmıştır].
+
+
+2. KATEGORİ: Peynir ve Ayran Çeşitleri (41 - 95)
+
+
+Klasik, Kaşar, Beyaz ve Sürülebilir Peynirler (Sütaş, İçim, Pınar) (41 - 75)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+41	8690927111021	Sütaş Süzme Peynir Tam Yağlı (500g)	Pastörize İnek Sütü, Süt Yağı, Sofra Tuzu, Peynir Mayası, Laktik Asit Bakteri Kültürü. [Ultrafiltrasyon yöntemi ile kuru maddesi yükseltilmiştir].
+42	8690927111052	Sütaş Taze Kaşar Peyniri (700g)	Pastörize İnek Sütü, Sofra Tuzu, Peynir Mayası. [Kuru maddede süt yağı oranı en az %45'tir].
+43	8690927111120	Sütaş Olgunlaştırılmış Beyaz Peynir	Pastörize İnek Sütü, Şirden Peynir Mayası, Deniz Tuzu, Laktik Kültür. [En az 9 ay salamurada bekletilerek olgunlaştırılmıştır].
+44	8690927111151	Sütaş Krem Peynir Sürülebilir (400g)	Beyaz Peynir, Taze Kaşar Peyniri, Eritme Tuzları (Polifosfatlar), Tereyağı, Su, Peynir Altı Suyu Tozu (Süt Ürünü).
+45	8690927230043	Sütaş Labne Peyniri Yumuşak (200g)	Pastörize İnek Sütü Kreması, Sofra Tuzu, Taze Peynir Kültürü.
+46	8692226001112	İçim Taze Kaşar Peyniri (500g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu.
+47	8692226001150	İçim Süzme Peynir Yumuşak (500g)	Pastörize İnek Sütü, Süt Proteini Konsantresi, Sofra Tuzu, Mayalama Kültürü.
+48	8692226008678	İçim Labne Peyniri Pürüzsüz (200g)	Pastörize İnek Sütü Kreması, Peynir Altı Suyu Protein Konsantresi, Sofra Tuzu, Peynir Kültürü.
+49	8692226002126	İçim Üçgen Peynir (8'li Paket)	Peynir, Tereyağı, Süt Proteinleri, Eritme Tuzları (Sodyum Polifosfat), Su, Yağsız Süt Tozu.
+50	8692226003154	İçim Ezine Klasik Beyaz Peynir	Pastörize İnek Sütü, Deniz Tuzu, Maya, Kültür. [En az 6 ay olgunlaştırılmış blok peynir].
+51	8690526002012	Pınar Labne Peyniri Orijinal (200g)	Pastörize İnek Sütü Kreması, Pastörize İnek Sütü, Peynir Kültürü, Sofra Tuzu.
+52	8690526003125	Pınar Taze Kaşar Peyniri (400g)	Pastörize İnek Sütü, Sofra Tuzu, Peynir Mayası.
+53	8690526004153	Pınar Süzme Peynir İkiz Paket (2x250g)	Pastörize İnek Sütü, Sofra Tuzu, Peynir Mayası, Kültür.
+54	8690526005228	Pınar Krem Peynir Sürülebilir (400g)	Peynir, Tereyağı, Eritme Tuzları (Sodyum Fosfatlar), Su, Peynir Altı Suyu Tozu.
+55	8690526006119	Pınar Dil Peyniri Lifli Taze (250g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu. [Lif lif ayrılan yapı].
+56	8691515211023	Bahçıvan Labne Peyniri Doğal (200g)	Pastörize İnek Sütü, Süt Kreması, Süt Proteinleri, Sofra Tuzu, Taze Peynir Kültürü.
+57	8691515211152	Bahçıvan Dil Peyniri (250g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu.
+58	8691515211206	Bahçıvan Örgü Peyniri Diyarbakır	Pastörize İnek Sütü, Peynir Mayası, Yoğun Salamura Tuzu.
+59	8691515211251	Bahçıvan Hellim Peyniri Kıbrıs (250g)	Pastörize İnek Sütü, Peynir Mayası, Kuru Nane Yaprakları, Sofra Tuzu.
+60	8691515211305	Bahçıvan Çeçil Peyniri Lifli (200g)	Pastörize İnek Sütü, Peynir Mayası, Yoğun Sofra Tuzu.
+61	8690504031621	Teksüt Labne Peyniri Klasik (200g)	Pastörize İnek Sütü Kreması, Peynir Altı Suyu Tozu, Sofra Tuzu, Peynir Kültürü.
+62	8690504031652	Teksüt Taze Kaşar Peyniri (600g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu.
+63	8690504031706	Teksüt Gaziantep Usulü Sıkma Peynir	Pastörize İnek Sütü, Yoğun Tuz, Peynir Mayası.
+64	8690906004061	Kaanlar Taze Labne Peyniri (200g)	Pastörize İnek Sütü Kreması, Sofra Tuzu, Taze Peynir Kültürü.
+65	8690906004115	Kaanlar Çiftlik Kaşar Peyniri (700g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu.
+66	8697422700545	Yörsan Klasik Labne Peyniri (200g)	Pastörize İnek Sütü, Süt Yağı, Peynir Altı Suyu Tozu, Sofra Tuzu, Kültür.
+67	8697422700613	Yörsan Tava Yoğurdu Kıvamlı Peynir	Pastörize İnek Sütü, Yoğurt Kültürü, Süt Proteinleri, Tuz.
+68	8694034001007	Kebir Vakfıkebir Labnesi (200g)	Pastörize İnek Sütü Kreması (Karadeniz Bölgesi), Sofra Tuzu, Taze Kültür.
+69	3073720760594	Kiri Sürülebilir Küp Taze Peynir (150g)	Pastörize İnek Sütü (%56), Krema (%38), Süt Proteinleri, Eritme Tuzları, Sofra Tuzu.
+70	3228024100122	President Sürülebilir Labne Peyniri	Pastörize İnek Sütü, Krema, Sofra Tuzu, Stabilizatör (Keçiboynuzu Gamı), Kültür.
+71	8697415440755	Muratbey Misto Çocuk Labnesi (200g)	Pastörize İnek Sütü Kreması, Peynir Altı Suyu Proteinleri, Sofra Tuzu, Kültür.
+72	8697415440816	Muratbey Burgu Peyniri Doğal (250g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu. [Özel burgu sarmal yapı].
+73	8697415440854	Muratbey Topi Peynir Mini Misket	Pastörize İnek Sütü, Peynir Mayası, Düşük Oranlı Sofra Tuzu.
+74	8691953046102	Eker Taze Labne Peyniri (200g)	Pastörize İnek Sütü Kreması, Sofra Tuzu, Taze Peynir Kültürü.
+75	8680650000844	Sek Taze Labne Peyniri Klasik (200g)	Pastörize İnek Sütü Kreması, Sofra Tuzu, Taze Peynir Kültürü.
+
+
+Ayran Çeşitleri (Sütaş, Eker, İçim, Pınar) (76 - 95)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+76	8690927511012	Sütaş Ayran Klasik Tam Yağlı (1 L)	Pastörize İnek Sütü, Yoğurt Kültürü, Su, Sofra Tuzu (%0.8).
+77	8690927511050	Sütaş Ayran Küçük Boy Bardak (200ml)	Pastörize İnek Sütü, Yoğurt Kültürü, Su, Sofra Tuzu (%0.8).
+78	8690927511128	Sütaş Yayık Ayran Köpüklü (1 L)	Pastörize İnek Sütü, Yayık Kültürü Bakterileri, Su, Deniz Tuzu (%1).
+79	8690927511159	Sütaş Laktozsuz Ayran Rahat (1 L)	Pastörize İnek Sütü, Laktaz Enzimi, Yoğurt Kültürü, Su, Sofra Tuzu.
+80	8691953511112	Eker Ayran Tombul Şişe Geleneksel (1 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu (%0.85).
+81	8691953511150	Eker Ayran Bardak Plastik (250ml)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu.
+82	8691953511204	Eker Yayık Ayranı Yoğun Kıvamlı (1 L)	Pastörize İnek Sütü, Tereyağı Altı Suyu, Yoğurt Kültürü, Su, Kaya Tuzu.
+83	8691953511259	Eker Probiyotik Ayran Fonksiyonel	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Probiyotik Kültür, Sofra Tuzu.
+84	8692226011210	İçim Ayran Serinletici Lezzet (1 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu (%0.8).
+85	8692226011258	İçim Ayran Büyük Boy Ekonomik (2 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu (%0.8).
+86	8692226011302	İçim Laktozsuz Yarım Yağlı Ayran	Yarım Yağlı İnek Sütü, Laktaz Enzimi, Yoğurt Kültürü, Su, Sofra Tuzu.
+87	8692226011357	İçim Yayık Usulü Köpüklü Ayran	Pastörize İnek Sütü, Süt Kreması, Yoğurt Kültürü, Su, Sofra Tuzu.
+88	8690526511118	Pınar Ayran Ferah Lezzet (1 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu (%0.75).
+89	8690526511156	Pınar Ayran Bardak Ölçülü (200ml)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu.
+90	8680650511111	Sek Ayran Geleneksel Kıvam (1 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu (%0.8).
+91	8680006511117	Aynes Ayran Doğal Lezzet (1 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu.
+92	8693427511116	Altınkılıç Kefir Ayranı Karma (1 L)	Pastörize İnek Sütü, Kefir Kültürü Mayası, Yoğurt Kültürü, Su, Sofra Tuzu.
+93	8694034511117	Kebir Karadeniz Yayık Ayranı (1 L)	Pastörize İnek Sütü Kreması, Yoğurt Kültürü, Su, Vakum Sofra Tuzu.
+94	8691953511303	Eker Nane Aromalı Ferah Ayran	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Doğal Nane Ekstraktı (%0.1), Tuz.
+95	8692226011401	İçim Rahat Probiyotikli Yoğurt Ayranı	Pastörize İnek Sütü, Laktaz Enzimi, Probiyotik Bakteriler, Su, Sofra Tuzu.
+
+
+3. KATEGORİ: Dondurulmuş Dondurma Çeşitleri (96 - 145)
+
+
+Algida (Magnum, Cornetto, Carte d'Or) (96 - 125)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+96	8690637113116	Magnum Classic Çubuk Dondurma (100ml)	Sütlü Çikolata Kaplama (%30) [Şeker, Kakao Yağı, Tam Yağlı Süt Tozu, Kakao Kitlesi, Emülgatör (Soya Lesitini), Vanilin], Vanilyalı Dondurma (%70) [Su, Şeker, Bitkisel Yağ (Palm), Yağsız Süt Tozu, Glikoz Şurubu, Peynir Altı Suyu Tozu, Kıvam Arttırıcılar].
+97	8690637113154	Magnum Bademli Çubuk Dondurma	Sütlü Çikolata Kaplama (%30), Kavrulmuş Badem Parçacıkları (%5), Vanilyalı Dondurma (%65) [Su, Şeker, Bitkisel Yağ, Süt Proteini].
+98	8690637113208	Magnum Beyaz Çikolatalı (100ml)	Beyaz Çikolata Kaplama (%30) [Şeker, Kakao Yağı, Süt Tozu, Emülgatör], Vanilyalı Dondurma (%70) [Su, Pancar Şekeri, Bitkisel Yağ, Süt Tozu].
+99	8690637113253	Magnum Double Çikolata Haz Hazzı	Bitter Çikolata Kaplama (%25), Çikolata Sosu (%15) [Glikoz Şurubu, Kakao], Kakaolu Dondurma (%60) [Su, Şeker, Kakao Tozu %5].
+100	8690637121111	Cornetto Classico Kaymak Çikolata	Külah (%15) [Buğday Unu (Gluten), Şeker, Bitkisel Yağ, Emülgatör], Kaymaklı Dondurma (%75) [Su, Şeker, Süt Tozu], Kavrulmuş Fındık (%5), Çikolata Sosu (%5).
+101	8690637121159	Cornetto Aşk Ateşi Çilekli Külah	Külah (%15), Çilekli Sorbe ve Vanilyalı Dondurma (%75) [Çilek Püresi (%5), Su, Şeker], Çilek Sosu (%7), Çikolata Parçaları (%3).
+102	8690637121203	Cornetto Disc Çikolata Karnavalı	Külah (%15), Çikolatalı Dondurma (%70), Üst Çikolata Diski (%10) [Şeker, Kakao], Fındık Parçaları (%5).
+103	8690637131110	Carte d'Or Klasik Üç Lezzet (Sade-Çikolata-Antep Fıstığı)	Su, Şeker, Bitkisel Yağ (Palm), Yağsız Süt Tozu, Peynir Altı Suyu Tozu, Kakao Tozu (%3), Antep Fıstığı Püresi (%1.5), Kıvam Arttırıcılar (Guar Gam, Karrejenan), Renklendiriciler.
+104	8690637131158	Carte d'Or Selection Çikolata Karnavalı	Su, Şeker, Bitter Çikolata Parçaları (%8), Kakaolu Kek Küpleri (%5) [Buğday Unu, Yumurta], Kakao Kremalı Dondurma (%87).
+105	8690637131202	Carte d'Or Selection Meyve Şöleni	Su, Şeker, Vişne Sosu (%10), Çilek Parçaları (%4), Ahududu Püresi (%2), Vanilyalı Dondurma Basisi (%84).
+106	8690637141119	Algida Maraş Usulü Sade Dondurma	Su, Şeker, Pastörize Keçi Sütü (%15), Süt Tozu, Sığır Jelatini Ekstratı Olmayan Doğal Salep, Stabilizatör (Lokust Fasulyesi Gamı).
+107	8690637141157	Algida Maraş Usulü Çikolatalı Ekleme	Su, Şeker, Keçi Sütü (%10), Süt Tozu, Kakao Tozu (%4), Doğal Salep, Kıvam Arttırıcı.
+108	8690637141201	Algida Maraş Usulü Antep Fıstıklı	Sade Dondurma Tabanı (%85) [Keçi Sütlü], Öğütülmüş Antep Fıstığı İçi (%15).
+109	8690637151118	Algida Boom Boom Çikolata Kaplı	Kakaolu Dondurma (%80) [Su, Şeker, Bitkisel Yağ], Çikolata Kaplama Katmanı (%20) [Şeker, Kakao Yağı, Süt Tozu, Emülgatör].
+110	8690637151156	Algida Twister Mini Buz Parmak	Fil Çizgili Meyveli Şerbet: Su, Şeker, Çilek Suyu Konsantresi (%5), Limon S Suyu Konsantresi (%3), Doğal Renklendiriciler.
+111	8690637151200	Algida Fruttare Vişneli Meyveli Buz	Su, Vişne Suyu ve Püresi (%20), Şeker, Glikoz Şurubu, Kıvam Arttırıcı (Pektin), Asitlik Düzenleyici (Sitrik Asit).
+112	8690637113307	Magnum Gold Karamel Çubuk	Karamel Çikolata Kaplama (%30), Vanilyalı Dondurma (%60), Akışkan Deniz Tuzlu Karamel Sosu (%10).
+113	8690637113352	Magnum Matcha Yeşil Çay Aromalı	Beyaz Çikolata Dış Kabuk (%30), Matcha Yeşil Çay Tozu Dolgulu Dondurma (%70) [Su, Şeker, Matcha Tozu %2, Süt Tozu].
+114	8690637121302	Cornetto Milka Çikolatalı Külah	Külah (%15), Milka Sütlü Çikolatalı Dondurma (%80) [Milka Çikolata Parçaları %5], Üst Çikolata Parçacıkları (%5).
+115	8690637131301	Carte d'Or Geleneksel Kadayıflı	Geleneksel Muhallebili Dondurma (%80), Şerbetli Çıtır Kadayıf Parçaları (%15) [Buğday Unu, Şeker], Antep Fıstığı (%5).
+116	8690637131356	Carte d'Or Selection Tiramisu (850ml)	Mascarpone Peynirli Dondurma (%80) [Süt Ürünü], Kahve Soslu Kek Parçaları (%15) [Yumurta, Gluten], Kakao Tozu Dekor (%5).
+117	8690637151309	Algida Nogger Sandviç Dondurma	Bisküvi Yaprakları (%30) [Buğday Unu, Şeker, Kakao], Karamelli ve Vanilyalı Dondurma Kombini (%70).
+118	8690637151354	Algida Viennetta Pasta Çikolatalı	Katlı Dondurma Yapısı: Vanilyalı Dondurma Katmanları (%80), Çıtır Çikolata Plakaları Yaprakları (%20) [Şeker, Kakao].
+119	8690637113406	Magnum Sunlover Mango Hindistan Cevizi	Beyaz Çikolata ve Çıtır Hindistan Cevizi (%30), Mango ve Çarkıfelek Meyvesi Soslu Dondurma (%70).
+120	8690637113451	Magnum Starchaser Patlamış Mısırlı	Sütlü Çikolata ve Çıtır Mısır Parçaları (%30), Patlamış Mısır Aromalı Karamel Soslu Dondurma (%70).
+121	8690637121401	Cornetto Rose Gül Şekilli Çilekli	Özel Gül Kalıplı Çilekli Kremalı Dondurma (%85), Çıtır Pembe Külah Kılıfı (%15) [Doğal Renklendiricili].
+122	8690637131400	Carte d'Or Karamel Kurabiye Aşkı	Su, Şeker, Karamel Sosu (%12), Kurabiye Parçacıkları (%6) [Buğday Unu, Şeker, Karamelize Karışım], Karamel Aromalı Dondurma.
+123	8690637141300	Algida Maraş Usulü Sarma Kesme	%100 Yoğunlaştırılmış Rulo Kesme Dondurma [Keçi Sütü %20, Sığır Jelatin İçermeyen Gerçek Salep, Pancar Şekeri].
+124	8690637151408	Algida Calippo Cola Aromalı Buz	Su, Glikoz Şurubu, Şeker, Kola Aromalı Karışım Esansı (%3), Renklendirici (Karamel Şurubu Doğal).
+125	8690637151453	Algida Max Aslan Max Kakao Vanilya	Sütlü Çocuk Dondurması: Su, Süt Tozu (%8), Şeker, Kakao Tozu (%2), Mineraller, Kalsiyum Desteği.

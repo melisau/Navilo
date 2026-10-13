@@ -1,0 +1,666 @@
+[
+  {
+    "url": "https://b2c.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa",
+    "status": 200,
+    "variants": [
+      {
+        "title": "Default Title",
+        "barcode": "8809416470191",
+        "sku": "113021080"
+      }
+    ],
+    "ingredients_candidates": [
+      "Aqua/Water, Ethylhexyl Methoxycinnamate, Glycerin, Propylene Glycol, Dimethicone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Isoamyl p-Methoxycinnamate, Potassium Cetyl Phosphate, Alcohol, Butylene Glycol, Glyceryl Stearate, Titanium Dioxide, C14-22 Alcohols, Polymethyl Methacrylate, Cetearyl Alcohol, PEG-100 Stearate, Aloe Barbadensis Leaf Extract, Arginine, Silica, Sodium Hydroxide, C12-20 Alkyl Glucoside, Aluminum Hydroxide, Stearic Acid, Dimethicone/Vinyl Dimethicone Crosspolymer, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Dipotassium Glycyrrhizate, Xanthan Gum, Limonene, Tocopheryl Acetate, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Geraniol, Citronellol, Benzyl Benzoate, Citral, Benzyl Alcohol, Tocopherol",
+      "Aqua/Water, Ethylhexyl Methoxycinnamate, Glycerin, Propylene Glycol, Dimethicone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Isoamyl p-Methoxycinnamate, Potassium Cetyl Phosphate, Alcohol, Butylene Glycol, Glyceryl Stearate, Titanium Dioxide, C14-22 Alcohols, Polymethyl Methacrylate, Cetearyl Alcohol, PEG-100 Stearate, Aloe Barbadensis Leaf Extract, Arginine, Silica, Sodium Hydroxide, C12-20 Alkyl Glucoside, Aluminum Hydroxide, Stearic Acid, Dimethicone/Vinyl Dimethicone Crosspolymer, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Dipotassium Glycyrrhizate, Xanthan Gum, Limonene, Tocopheryl Acetate, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Geraniol, Citronellol, Benzyl Benzoate, Citral, Benzyl Alcohol, Tocopherol"
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.cosrx.com/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Aloe Soothing Sun Cream  SPF50+/ PA+++",
+            "item": "https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa"
+          }
+        ]
+      },
+      {
+        "@context": "http://schema.org/",
+        "@type": "Product",
+        "name": "Aloe Soothing Sun Cream  SPF50+/ PA+++",
+        "url": "https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa",
+        "image": [
+          "https://b2c.cosrx.com/cdn/shop/files/aloe-soothing-sun-cream-spf50-pa-cosrx-official-1_800x.jpg?v=1724835559"
+        ],
+        "description": "Size : 1.69 fl.oz / 50ml\nIs this moisturizer? No, it's sunscreen!Formulated with Aloe Arborescens Leaf Extract, the daily soothing sunblock is so lightweight that is feels like a moisturizer, and it does not leave any white cast. Designed to be travel friendly, you can easily carry COSRX Aloe Soothing Sun Cream anywhere and layer on sun protection anytime.",
+        "sku": "113021080",
+        "brand": {
+          "@type": "Brand",
+          "name": "COSRX official"
+        },
+        "mpn": "8809416470191",
+        "offers": [
+          {
+            "@type": "Offer",
+            "sku": "113021080",
+            "availability": "http://schema.org/OutOfStock",
+            "price": 16.0,
+            "priceCurrency": "USD",
+            "url": "https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa?variant=37420796739740",
+            "seller": {
+              "@type": "Organization",
+              "name": "COSRX Official"
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.6",
+          "reviewCount": "234"
+        },
+        "name": "Aloe Soothing Sun Cream  SPF50+/ PA+++",
+        "image": [
+          "https://b2c.cosrx.com/cdn/shop/files/aloe-soothing-sun-cream-spf50-pa-cosrx-official-1.jpg?v=1724835559&width=480"
+        ],
+        "offers": {
+          "@type": "Offer",
+          "availability": "https://schema.org/InStock",
+          "price": "16.0",
+          "priceCurrency": "USD",
+          "sku": "113021080",
+          "url": "https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa?variant=37420796739740"
+        },
+        "brand": {
+          "@type": "Brand",
+          "name": "COSRX official"
+        },
+        "description": "Size : 1.69 fl.oz / 50ml\nIs this moisturizer? No, it's sunscreen!Formulated with Aloe Arborescens Leaf Extract, the daily soothing sunblock is so lightweight that is feels like a moisturizer, and it does not leave any white cast. Designed to be travel friendly, you can easily carry COSRX Aloe Soothing Sun Cream anywhere and layer on sun protection anytime.",
+        "sku": "113021080"
+      }
+    ],
+    "text": "COSRX Aloe Soothing Sun Cream SPF50 PA+++, 50ml / 1.69 fl.oz | COSRX.COM – COSRX Official Skip to content Shopping cart You are $50.00 away from free shipping You are eligible for free shipping! Free gift with purchase in cart app! Wait for the cart app to load or allow cookies for best experience! I agree to the terms and refund policy Shop easier with Check out Your cart is empty Start shopping Available Coupons × Tap Apply to copy the code, then paste at checkout. NEW CUSTOMER ONLY NEWMEMBER20 20% OFF — First order One-time use only Apply SEP10 10% OFF — Orders $50+ Ends Sep 21 UTC, 2026 Apply SEP15 15% OFF — Orders $70+ Ends Sep 21 UTC, 2026 Apply SEP20 20% OFF — Orders $100+ Ends Sep 21 UTC, 2026 Apply Twitter Facebook Instagram Youtube ⚡ Skip the Wait — Fast Global Delivery From Official Store NEW l Blue Peptide Serum & Cream 🛡️ cosrx.com is the ONLY official COSRX store. Left Right Search Currency United States (USD $) Down Albania (ALL L) Andorra (EUR €) Angola (AOA Kz) Anguilla (XCD $) Antigua & Barbuda (XCD $) Armenia (AMD դր.) Aruba (AWG ƒ) Australia (AUD $) Austria (EUR €) Azerbaijan (AZN ₼) Bahamas (BSD $) Bahrain (USD $) Bangladesh (BDT ৳) Barbados (BBD $) Belgium (EUR €) Belize (BZD $) Benin (XOF Fr) Bermuda (USD $) Bhutan (USD $) Bolivia (BOB Bs.) Bosnia & Herzegovina (BAM КМ) Botswana (BWP P) Brazil (BRL R$) British Virgin Islands (USD $) Brunei (BND $) Bulgaria (EUR €) Burkina Faso (XOF Fr) Burundi (BIF Fr) Cambodia (KHR ៛) Cameroon (XAF CFA) Canada (CAD $) Cape Verde (CVE $) Cayman Islands (KYD $) Chad (XAF CFA) Chile (CLP $) China (CNY ¥) Colombia (COP $) Comoros (KMF Fr) Congo - Brazzaville (XAF CFA) Cook Islands (NZD $) Costa Rica (CRC ₡) Côte d’Ivoire (XOF Fr) Croatia (EUR €) Curaçao (USD $) Cyprus (EUR €) Czechia (CZK Kč) Denmark (DKK kr.) Djibouti (DJF Fdj) Dominica (XCD $) Dominican Republic (DOP $) Ecuador (USD $) Egypt (EGP ج.م) El Salvador (USD $) Equatorial Guinea (XAF CFA) Estonia (EUR €) Eswatini (SZL E) Ethiopia (ETB Br) Falkland Islands (FKP £) Faroe Islands (DKK kr.) Fiji (FJD $) Finland (EUR €) France (EUR €) French Guiana (EUR €) French Polynesia (XPF Fr) Gabon (USD $) Gambia (GMD D) Georgia (GEL ₾) Germany (EUR €) Ghana (USD $) Gibraltar (GBP £) Greece (EUR €) Greenland (DKK kr.) Grenada (XCD $) Guadeloupe (EUR €) Guatemala (GTQ Q) Guernsey (GBP £) Guinea (GNF Fr) Guinea-Bissau (XOF Fr) Guyana (GYD $) Honduras (HNL L) Hong Kong SAR (HKD $) Hungary (HUF Ft) Iceland (ISK kr) India (INR ₹) Ireland (EUR €) Isle of Man (GBP £) Israel (ILS ₪) Italy (EUR €) Jamaica (JMD $) Japan (JPY ¥) Jersey (GBP £) Jordan (USD $) Kazakhstan (KZT ₸) Kenya (KES KSh) Kiribati (USD $) Kuwait (USD $) Kyrgyzstan (KGS som) Laos (LAK ₭) Latvia (EUR €) Lebanon (LBP ل.ل) Lesotho (LSL L) Liberia (LRD $) Liechtenstein (CHF CHF) Lithuania (EUR €) Luxembourg (EUR €) Macao SAR (MOP P) Madagascar (USD $) Malawi (MWK MK) Maldives (MVR MVR) Malta (EUR €) Martinique (EUR €) Mauritania (USD $) Mauritius (MUR ₨) Mayotte (EUR €) Moldova (MDL L) Monaco (EUR €) Mongolia (MNT ₮) Montenegro (EUR €) Montserrat (XCD $) Morocco (MAD د.م.) Mozambique (MZN MTn) Namibia (NAD $) Nauru (AUD $) Nepal (NPR Rs.) Netherlands (EUR €) New Caledonia (XPF Fr) New Zealand (NZD $) Nicaragua (NIO C$) Niue (NZD $) North Macedonia (MKD ден) Norway (NOK kr) Oman (USD $) Pakistan (PKR ₨) Panama (USD $) Papua New Guinea (PGK K) Paraguay (PYG ₲) Philippines (PHP ₱) Poland (PLN zł) Portugal (EUR €) Qatar (QAR ر.ق) Réunion (EUR €) Romania (RON Lei) Rwanda (RWF FRw) Samoa (WST T) San Marino (EUR €) São Tomé & Príncipe (STD Db) Saudi Arabia (SAR ر.س) Senegal (XOF Fr) Serbia (RSD РСД) Seychelles (SCR ₨) Sierra Leone (SLL Le) Singapore (SGD $) Sint Maarten (USD $) Slovakia (EUR €) Slovenia (EUR €) Solomon Islands (SBD $) South Africa (ZAR R) Sri Lanka (LKR ₨) St. Barthélemy (EUR €) St. Helena (SHP £) St. Kitts & Nevis (XCD $) St. Lucia (XCD $) St. Martin (EUR €) St. Vincent & Grenadines (XCD $) Suriname (SRD $) Sweden (SEK kr) Switzerland (CHF CHF) Taiwan (TWD $) Tanzania (TZS Sh) Thailand (THB ฿) Timor-Leste (USD $) Togo (XOF Fr) Tonga (TOP T$) Trinidad & Tobago (TTD $) Tunisia (USD $) Turkmenistan (USD $) Turks & Caicos Islands (USD $) Tuvalu (AUD $) Uganda (UGX USh) United Arab Emirates (AED د.إ) United Kingdom (GBP £) United States (USD $) Uzbekistan (UZS so'm) Vanuatu (VUV Vt) Vatican City (EUR €) Wallis & Futuna (XPF Fr) Zambia (ZMW K) Zimbabwe (USD $) Account Search Cart What's your skin concern? Acne & Breakouts 25 products Fine lines & Wrinkles 25 products Dryness 37 products Pores & Oil Control 18 products Dullness & Uneven Tone 22 products Redness & Sensitivity 15 products Start Here Toggle menu Best Sellers Check your Rewards Find Stores /STEADY/ The One That Never Fails /NEW/ Blue Peptide Bakuchiol Serum New Set & Bundle Deal Skin Care Toggle menu By Skin Concern Toggle menu Fine lines & Wrinkles Acne & Breakouts Dryness Pores & Oil Control Dullness & Uneven Tone Redness & Sensitivity By Product Type Toggle menu Shop All Cleansers Toners Toner Pads Exfoliants Serums Moisturizers Sun Protection Eye Care Lip Care Spot Care Masks Derm Skincare By Ingredient Toggle menu Peptide PDRN Snail Mucin Rice Ceramide Vitamin C Retinol Niacinamide Hyaluronic Acid AHA / BHA Explore More Hair & Body Toggle menu From Skin to Hair Care Body Care Hair & Scalp Blog /NEW/ hair Mini Kit /NEW/ Jumbo size Shampoo /NEW/ Hair Mini Kit Blogs Toggle menu Snail Peptide Ceramide Vitamin C Retinol Hyaluronic acid Niacinamide Alpha-arbutin AHA Petrolatum Peptide Pairing Guide All about Exfoliation About Us Toggle menu Verify Authenticity ✈️Ships Worldwide - Delivered in 3 Days Delivery times may vary by location and carrier. ✈️ Ships Worldwide - Delivered in 3 Days Home Right Aloe Soothing Sun Cream  SPF50+/ PA+++ Sold Out Aloe Soothing Sun Cream  SPF50+/ PA+++ $16.00 Size : 1.69 fl.oz / 50ml Is this moisturizer? No, it's sunscreen! Formulated with Aloe Arborescens Leaf Extract, the daily soothing sunblock is so lightweight that is feels like a moisturizer, and it does not leave any white cast. Designed to be travel friendly, you can easily carry COSRX Aloe Soothing Sun Cream anywhere and layer on sun protection anytime. Not available at COSRX.COM Share Translation missing: en.general.social.share_on_x Pinterest Pin it Instagram Translation missing: en.general.social.share_on_instagram Translation missing: en.general.social.share_on_tiktok Translation missing: en.general.social.share_on_linkedin DETAILS BENEFITS • Block UV rays • Soothes & moisturizes skin • Lightweight texture TARGETS • Doesn't want a white cast • Enjoy outdoor activities often • Dehydrated skin HOW TO USE Apply a generous amount on over face 30 minutes before sun exposure.Reapply throughout the day as needed, especially during prolonged sun exposure. INGREDIENTS KEY INGREDIENTS • Aloe Complex 55,000ppm : Soothes & hydrates Full Ingredients × Full Ingredients Aqua/Water, Ethylhexyl Methoxycinnamate, Glycerin, Propylene Glycol, Dimethicone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Isoamyl p-Methoxycinnamate, Potassium Cetyl Phosphate, Alcohol, Butylene Glycol, Glyceryl Stearate, Titanium Dioxide, C14-22 Alcohols, Polymethyl Methacrylate, Cetearyl Alcohol, PEG-100 Stearate, Aloe Barbadensis Leaf Extract, Arginine, Silica, Sodium Hydroxide, C12-20 Alkyl Glucoside, Aluminum Hydroxide, Stearic Acid, Dimethicone/Vinyl Dimethicone Crosspolymer, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Dipotassium Glycyrrhizate, Xanthan Gum, Limonene, Tocopheryl Acetate, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Geraniol, Citronellol, Benzyl Benzoate, Citral, Benzyl Alcohol, Tocopherol DETAILS HOW TO USE INGREDIENTS BENEFITS • Block UV rays • Soothes & moisturizes skin • Lightweight texture TARGETS • Doesn't want a white cast • Enjoy outdoor activities often • Dehydrated skin Apply a generous amount on over face 30 minutes before sun exposure.Reapply throughout the day as needed, especially during prolonged sun exposure. KEY INGREDIENTS • Aloe Complex 55,000ppm : Soothes & hydrates Full Ingredients × Full Ingredients Aqua/Water, Ethylhexyl Methoxycinnamate, Glycerin, Propylene Glycol, Dimethicone, Phenylbenzimidazole Sulfonic Acid, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Dicaprylyl Carbonate, Isoamyl p-Methoxycinnamate, Potassium Cetyl Phosphate, Alcohol, Butylene Glycol, Glyceryl Stearate, Titanium Dioxide, C14-22 Alcohols, Polymethyl Methacrylate, Cetearyl Alcohol, PEG-100 Stearate, Aloe Barbadensis Leaf Extract, Arginine, Silica, Sodium Hydroxide, C12-20 Alkyl Glucoside, Aluminum Hydroxide, Stearic Acid, Dimethicone/Vinyl Dimethicone Crosspolymer, Parfum/Fragrance, Phenoxyethanol, Caprylyl Glycol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Carbomer, Dipotassium Glycyrrhizate, Xanthan Gum, Limonene, Tocopheryl Acetate, Disodium EDTA, Hexyl Cinnamal, Linalool, Benzyl Salicylate, Geraniol, Citronellol, Benzyl Benzoate, Citral, Benzyl Alcohol, Tocopherol Default Title More details Right Overall rating: 4.6340427 / 5 from 235 reviews. AI Generated Review Summary COSRX Aloe Soothing Sun Cream SPF50+/ PA+++ is a lightweight sunscreen that provides soothing protection without leaving a white cast. Customers appreciate its ability to give skin a healthy, hydrated, and shiny appearance. The product is also praised for its pleasant scent and non-greasy texture. Summary topics Skin Glow ( 4% ): Customers raved about how this product gives their skin a beautiful glow, giving it a nice subtle glow. White Cast ( 27% ): In general, customers do not like that the sunscreen doesn't leave a white cast on their skin. Skin Appearance ( 5% ): Customers keep praising how this product makes their skin look healthy, hydrated, and shiny. Product Texture ( 7% ): It was highlighted by customers that the texture of the product is amazing and doesn't leave a white cast. Skin Feel ( 11% ): Customers expressed appreciation for how this sunscreen feels on their skin, with no greasy or sticky feeling mentioned. Review topics: [\"feels\",\"skin\",\"texture\",\"scent\",\"looks\",\"face\",\"glow\",\"sunscreen\",\"bottle\",\"fragrance\",\"eyes\",\"cast\",\"protection\",\"oil\",\"absorbs\",\"spf\",\"formula\",\"breakouts\",\"irritation\",\"buy\",\"light\",\"balance\",\"pores\",\"moisturizer\",\"weight\",\"residue\",\"spots\",\"cream\",\"amount\",\"customer service\"]. Review highlights \"All in all I love the scent, the feel and the soothing hydration I get from this product.\" — Ashley S. \"This feels so good going on, has a clean light scent, and a natural and healthy glowy finish.\" — Hana M. \"Makes my skin look healthy and hydrated.\" — Talissa Reviews Still my favorite \"I keep checking to see if it will come back because I haven't found another sunscreen that I like as much as this one.\" — Roseanna S. ( 5/5 ) My Favorite Suncreen \"This is my FAVORITE sunscreen to use! It is so light anhydrating when applied. It carries this light aloe scent, which is so refreshing during the summer. It never irritates my eyes, and it has kept me from getting burned at festivals, hikes, and more! It is gentle, blends in easy, and is my go-to for a day out! Highly recommend for anyone who is looking for a sunscreen with both a good SPF rating and a P+ rating!\" — Brent R. ( 5/5 ) BRING HER BACK \"Please she was my favorite sunscreen. I have sensitive skin and this sunscreen wad the only one that felt lightweight, non-greasy, no white cast, moisturizing and especially didn't make break out in allergic reaction. BRING HER BACK! I LOVE HER!\" — Emmy ( 5/5 ) Bring it backkk \"I loveeee this sunscreen. It’s one of the only ones that’s ever worked for me and the Aloe is a huge plus. PLEASE BRING THIS BACK, I CANT FIND IT ANYWHERE!\" — Mar ( 5/5 ) PLEASE WHERE IS SHE \"I’m obsessed w this sunscreen, I usually buy 10 at a time. WHY IS IT SOLD OUT EVERYWHERE. PLEASE NOBODY IS LIKE HER I MISS HER SM COME HOME\" — Molly ( 5/5 ) BEST SUNSCREEN IN THE MARKET \"PLEASEEE IM BEGGING YOU BRING THIS BACK, IT'S THE BEST SUNSCREEN I HAVE TRIED!!! Plus, it's lightweight, very affordable for its benefits, and sooooo moisturizing with no cast white or greasy feeling, perfect for oily skin or one prone to acne. Please at least give us a date when it will be available. I'm almost running out of it :(\" — Lisa M. ( 5/5 ) No more dull face \"I loved the Aloe Vera sunscreen which also acts as a moisturiser. My face is supple and glowy\" — Margaret S. ( 5/5 ) The best sunscreen for me \"The best and only sunscreen I use. Now that my last bottle is almost empty, I am starting to panic. Please bring it back.\" — Gigi ( 5/5 ) Bring it back without fragrance \"Back in my teens I never had access to elegant sunscreens that weren't thick or chalky. I badly wanted a wearable sunscreen and couldn't find any. Then I found this by accident and got hooked. Been using it since 2017 and I am a loyal user. Love it to bits. Please bring it back without fragrance and with PA++++.\" — Advika ( 5/5 ) It is smooth \"I like everything about it\" — Dunia ( 5/5 ) Q&A Stay connected with COSRX Be the first to know about new arrivals, expert tips, and member-only perks! Subscribe HELP FAQ Contact Us TIKTOK Affiliate Club Terms of Service Privacy Policy Shipping Policy Return Policy SHOP Shop by Country Your Skin, Your Answer Routine Builder DermSkinCare Reviews Follow Us Twitter Facebook Instagram Youtube Apple Pay Google Pay Shop Pay American Express Bancontact Diners Club Discover iDEAL Wero JCB Mastercard MB WAY Union Pay Visa © 2026 COSRX Official . Powered by Shopify"
+  },
+  {
+    "url": "https://thepurestsolutions.com/products/nemlendirici-etkili-invisible-gunes-koruyucu-krem-50ml",
+    "status": 200,
+    "variants": [
+      {
+        "title": "Default Title",
+        "barcode": "8682773091335",
+        "sku": "TPS204"
+      }
+    ],
+    "ingredients_candidates": [
+      "Aqua, Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Octocrylene, Caprylic/capric Triglyceride, Glycerin, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Dimethiconol, Scenedesmus Rubescens Extract, Glyceryl Stearate, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Peg-100 Stearate, Potassium Cetyl Phosphate, Zinc Oxide, Titanium Dioxide, Dimethicone, Sodium Pca, Saccharide Isomerate,sodium Hyaluronate Crosspolymer,sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Erythritol, Chondrus Crispus, Hydrogenated Starch Hydrolysate, Ascophyllum Nodosum Extract, Asparagopsis Armata Extract, Tocopheryl Acetate, Bisabolol, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Butyrospermum Parkii Butter, Panthenol, Glycine Soja Seed Extract, Xanthan Gum, Disodium Edta, Polyhydroxystearic Acid, Phenoxyethanol ,ethylhexylglycerin, Citric Acid, Parfum, Sodium Citrate"
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "The Purest Solutions",
+        "alternateName": [
+          "The Purest",
+          "TPS",
+          "Purest Solutions"
+        ],
+        "url": "https://thepurestsolutions.com/",
+        "logo": "https://thepurestsolutions.myshopify.com/cdn/shop/files/Gri-Logo.png",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "08502418390",
+          "contactType": "customer service",
+          "contactOption": "TollFree",
+          "areaServed": "TR",
+          "availableLanguage": "Turkish"
+        },
+        "founders": [
+          {
+            "@type": "Person",
+            "jobTitle": "CEO",
+            "name": "Alim Ozan Evliyaoğlu",
+            "sameAs": [
+              "https://www.instagram.com/alimozann/",
+              "https://x.com/alimozann",
+              "https://www.linkedin.com/in/alim-ozan-evliyao%C4%9Flu-426545a9/"
+            ]
+          },
+          {
+            "@type": "Person",
+            "jobTitle": "CMO",
+            "name": "Hazal Evliyaoğlu",
+            "sameAs": "https://www.linkedin.com/in/hazal-evliyaoglu-05b381aa/"
+          }
+        ],
+        "sameAs": [
+          "https://www.facebook.com/thepurestsolutions/",
+          "https://x.com/purestsolutions",
+          "https://www.instagram.com/thepurestsolutions/",
+          "https://www.youtube.com/channel/UCTF4kSHIvRl7ZhIUcOPloaw",
+          "https://www.linkedin.com/company/the-purest-solutions/"
+        ]
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Anasayfa",
+            "item": "https://thepurestsolutions.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Tüm Ürünler",
+            "item": "https://thepurestsolutions.com/collections/all"
+          }
+        ]
+      }
+    ],
+    "text": "Nemlendirici Etkili Invisible Güneş Koruyucu Krem 50ml | The Purest Solutions İçeriğe geç 1.000 TL Ve Üzeri Alışverişlerde 100 TL İndirim! Hızlı Teslimat! Bugün Sipariş Ver, Aynı Gün Kargoda! ÇOK SATANLAR YENİ ÜRÜNLER CİLT BAKIMI CİLT BAKIMI Ürünlere Göre ► Serumlar Tonikler Temizleyiciler Güneş Kremleri Nemlendirici Krem Bantlar BB Kremler Fondöten Peelingler Setler Seyahat Boy Refill Ekolojik Yedek Paket Cilt Bakım Çantaları Tüm Ürünler Cilt İhtiyacına Göre ► Leke Sivilce/Akne Gözenek Problemi Renk Tonu Eşitsizliği Nemlendirme Güneş Koruma Yaşlanma Kırışıklık ve İnce Çizgiler Göz Çevresi Cilt Tipine Göre ► Kuru Cilt Yağlı Cilt Karma Cilt Hassas Cilt Aktif İçeriğe Göre ► AHA (Alfa Hidroksi Asit) BHA (Beta Hidroksi Asit) Glikolik Asit Azelaik Asit C Vitamini Malik Asit Etil Askorbik Asit Ferulik Asit Niasinamid Hyalüronik Asit Salisilik Asit Kafein Retinol Centella Asiatica (Cica) SAÇ & VÜCUT BAKIMI SAÇ & VÜCUT BAKIMI Saç Bakım Vücut Bakım CİLT ANALİZİ BLOG SÜRDÜRÜLEBİLİRLİK SÜRDÜRÜLEBİLİRLİK Gezegenimiz ve Sürdürülebilirlik Sürdürülebilirlik Manifestomuz & Yolculuğumuz Sürdürülebilir Kalkınma Amaçları İş Birliklerimiz ► Hayata Destek Haçiko ecording Sea Together Etki Çemberleri Vakfı Çorbada Tuzun Olsun Derneği Özel İş Birliklerimiz TPS Academy & TPS Heroes Raporlarımız ► 2023 Sürdürebilirlik Raporu (TR) 2023 Sürdürebilirlik Raporu (ENG) 2024 Sürdürebilirlik Raporu (TR) 2024 Sürdülebilirlik Raporu (ENG) Plastic-Free Festival GİRİŞ YAP ÇOK SATANLAR YENİ ÜRÜNLER CİLT BAKIMI Ürünlere Göre Serumlar Tonikler Temizleyiciler Güneş Kremleri Nemlendirici Krem Bantlar BB Kremler Fondöten Peelingler Setler Seyahat Boy Refill Ekolojik Yedek Paket Cilt Bakım Çantaları Tüm Ürünler Cilt İhtiyacına Göre Leke Sivilce/Akne Gözenek Problemi Renk Tonu Eşitsizliği Nemlendirme Güneş Koruma Yaşlanma Kırışıklık ve İnce Çizgiler Göz Çevresi Cilt Tipine Göre Kuru Cilt Yağlı Cilt Karma Cilt Hassas Cilt Aktif İçeriğe Göre AHA (Alfa Hidroksi Asit) BHA (Beta Hidroksi Asit) Glikolik Asit Azelaik Asit C Vitamini Malik Asit Etil Askorbik Asit Ferulik Asit Niasinamid Hyalüronik Asit Salisilik Asit Kafein Retinol Centella Asiatica (Cica) SAÇ & VÜCUT BAKIMI Saç Bakım Vücut Bakım CİLT ANALİZİ BLOG SÜRDÜRÜLEBİLİRLİK Gezegenimiz ve Sürdürülebilirlik Sürdürülebilirlik Manifestomuz & Yolculuğumuz Sürdürülebilir Kalkınma Amaçları İş Birliklerimiz Hayata Destek Haçiko ecording Sea Together Etki Çemberleri Vakfı Çorbada Tuzun Olsun Derneği Özel İş Birliklerimiz TPS Academy & TPS Heroes Raporlarımız 2023 Sürdürebilirlik Raporu (TR) 2023 Sürdürebilirlik Raporu (ENG) 2024 Sürdürebilirlik Raporu (TR) 2024 Sürdülebilirlik Raporu (ENG) Plastic-Free Festival Mağazada arayın Temizle Giriş Yap Kayıt Ol Yardım Sepet Sepet Ürün bilgilerine geç 1 / te 5 Anasayfa / Güneş Kremleri / Yüksek Koruma ve Nemlendirici Etkili Invisible Güneş Koruyucu Krem SPF 50, 50 Ml. Yüksek Koruma ve Nemlendirici Etkili Invisible Güneş Koruyucu Krem SPF 50, 50 Ml. Yağlı Cilt, Karma Cilt, Hassas Cilt, Kuru Cilt ve Tüm Cilt Tipleri Yüksek Koruma ve Nemlendirici Etkili Güneş Koruyucu Krem, UVA/UVB koruması hedefleyen içerdiği nemlendirici aktiflerin desteği ile ciltte nem dengesini korumaya yardımcı güneş kremidir. Normal fiyat 379.90TL Normal fiyat İndirimli fiyat 379.90TL Ürün varyantları Default Title\n\n            - 379.90TL 46 değerlendirme Sepete Ekle Ürün Açıklaması Yüksek Koruma ve Nemlendirici Etkili Invisible Güneş Koruyucu Krem UVA/UVB koruması hedefleyen içerdiği nemlendirici aktiflerin desteği ile ciltte nem dengesini korumaya yardımcı güneş kremidir. Bu Ürünün En Saf Çözümleri UVA/UVB koruması Nem ihtiyacı Yaşlanma karşıtı bakım Cilt Tipi Yağlı Cilt Karma Cilt Hassas Cilt Kuru Cilt Tüm Cilt Tipleri Aktif İçerik 4 tip Hyaluronik Asit: Farklı özelliklere sahip dört tip Sodyum Hyaluronat (HA) kombinasyonu olan Hyaluronik Asit, cildi nemlendirmek ve dolgunlaştırmak için üç boyutlu bir ağ oluşturarak cildin farklı katmanlarını doğru bir şekilde hedefler. Bu sayede cildin çok boyutlu nemlenmesinin sağlanması elastikiyet kazanmasına yardımcı olur. Shea Yağı: Shea fındıklarından elde edilen shea yağı, esansiyel yağ asitleri ve vitaminlerle doludur, bu da onu kolajen üretimi ve UV koruması için mükemmel kılar. Tereyağlı dokusu cilde nüfuz etmek için idealdir. Ayrıca, shea yağındaki doğal nemlendiriciler, cilt özümüzün yağ bezlerine benzer. Bütün bunlar birlikte shea'yı cildiniz için nemlendirici bir mucize yapar. Centella Asiatica Extract: Centella Asiatica ekstresi ciltte kolajen üretiminin artmasına katkı sağlayarak cilt yenilenmesine ve cildi yatıştırmaya yardımcı olur, ciltteki antioksidan seviyesini arttırmayı destekler. Glycerin: Gliserin, cildinizin ve havanın daha derin seviyelerinden cildinizin dış tabakasına su çeken bir tür nemlendirici ajandır. Ciltteki stresi azaltmak adına nem dengesi sağlamayı hedefler ve ciltteki UV sebepli tahribatı önler. Aynı zamanda çok iyi bir anti-ageing ajanıdır. Organik (Kimyasal) Filtreler: Ethylhexyl Methoxycinnamate (TinasorbS), Diethylamino Hydroxybenzoyl Hexyl Benzoate İnorganik (Fiziksel) Filtreler: Zinc Oxide, Titanium Dioxide İçindekiler Aqua, Ethylhexyl Methoxycinnamate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Bis-ethylhexyloxyphenol Methoxyphenyl Triazine, Octocrylene, Caprylic/capric Triglyceride, Glycerin, C12-15 Alkyl Benzoate, Cyclopentasiloxane, Dimethiconol, Scenedesmus Rubescens Extract, Glyceryl Stearate, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Peg-100 Stearate, Potassium Cetyl Phosphate, Zinc Oxide, Titanium Dioxide, Dimethicone, Sodium Pca, Saccharide Isomerate,sodium Hyaluronate Crosspolymer,sodium Hyaluronate, Sodium Acetylated Hyaluronate, Hydrolyzed Sodium Hyaluronate, Erythritol, Chondrus Crispus, Hydrogenated Starch Hydrolysate, Ascophyllum Nodosum Extract, Asparagopsis Armata Extract, Tocopheryl Acetate, Bisabolol, Centella Asiatica Extract, Camellia Sinensis Leaf Extract, Butyrospermum Parkii Butter, Panthenol, Glycine Soja Seed Extract, Xanthan Gum, Disodium Edta, Polyhydroxystearic Acid, Phenoxyethanol ,ethylhexylglycerin, Citric Acid, Parfum, Sodium Citrate Paylaş Paylaş Kapat Kopyala Kopyala Paylaş Paylaş Yeni bir pencerede açılır Tweetle Yeni bir pencerede açılır Pinle Yeni bir pencerede açılır Paylaş Yeni bir pencerede açılır Paylaş Yeni bir pencerede açılır E-posta Yeni bir pencerede açılır Yüksek Koruma ve Nemlendirici Etkili Invisible Güneş Koruyucu Krem SPF 50, 50 Ml. Normal fiyat 379.90TL Normal fiyat İndirimli fiyat 379.90TL Adet Sepete Ekle Faydaları Ciltte yağlanmaya sebep olmadan UV koruması hedefler. İçerdiği nemlendirici aktiflerin desteği ile ciltte nem dengesini korur Üç farklı cilt tabakasında nem dengesini sağlar ve uzun vadede korur. Cildin nemli, ışıltılı ve yumuşak bir görünümde olmasına yardımcı olur. Nasıl Kullanılır Cilt bakımının son adımında ve gün içerisinde 3 saatte bir tüm cildinize eşit miktarda dağıtarak uygulayınız. Uyarılar: Sadece harici kullanım içindir. Kullanmadan önce olası istenmeyen yan etkiler ve tahrişi önlemek adına cildinizin ufak bir kısmına ürünü uygulayınız, hassasiyet oluşmuyorsa ürünü kullanmaya devam ediniz.Uygulama sonrasında hassasiyet oluşması durumunda ürün kullanımını bırakınız ve doktorunuza danışınız. Oda sıcaklığında saklayınız. Güneşe çıkmadan 30 dakika önce tüm cildinize eşit miktarda uygulayınız. Gün içerisinde 3 saatte bir yenileyiniz. Güneş ışınlarına direkt maruz kalmamaya özen gösteriniz. Güneş ışınlarına fazla maruziyet sağlığınızı tehdit edebilir. Göz ile temasından kaçınınız. Teması durumunda bol su ile yıkayınız Customer Reviews Based on 46 reviews Write a review 78% (36) 9% (4) 2% (1) 2% (1) 9% (4) İ İbrahim ASLAN Kesinlikle çok memnunum Kesinlikle çok memnunum. İlk sürüldüğü zaman hafif bir yağlı doku bırakıyor. Fakat sonrasında hızlıca emiliyor. Tavsiyedir. M Mel Güneşsiz günlerde de güneşim Yıllardır stoklu aldığım , hassas kuru cildimle dost, silgi gibi soyulmayan, margarin gibi ağır hissettirmeyen yegane yoldaşım D Dila Bekir Güneş kremi,arbutin serumu,pembe tonik Güneş kremi yüzüme iyi gelen tek markadır,arbutin serumunu hep stoklarım gerçekten akne problemimi hemen hemen ortadan kaldırdı bu sefer ilk defa bu tonik aldım ve cidden çok kuru ve hassas cildime rağmen ışıltı verdi yüzüme bayildimmmm (pembe tonik) M Merve The Purest'in güneş kremine bayılıyorum The Purest'in güneş kremine bayılıyorum. Sürekli aldığım güneş kremim. Cildimi hem çok iyi nemlendiriyor hem de güneşten çok iyi koruyor. Yapış yapış bir his bırakmıyor ve kolay emiliyor. Makyaj yaptığımda ise yüzüme aydınlık ve sağlıklı bir görünüm verdiği için bayılıyorum. ❤︎ D Döne Kaya İki yıldır kullanıyorum İki yıldır kullanıyorum. Korumasının yanı sıra Cildime parlaklık verdiği için fondoten kullanmama gerek kalmıyor.. 1 2 3 Sıkça Sorulan Sorular The Purest Solutions Invisible Güneş Kremi Nedir? Invisible Güneş Kremi, +50 faktör UV ve mavi ışık koruması sağlarken içerdiği nemlendirici aktiflerin desteği ile ciltte nem dengesini korumaya yardımcı güneş kremidir. The Purest Solutions Invisible Güneş Kremi Ne İşe Yarar? Invisible Güneş Kremi, içerdiği nemlendirici aktiflerin desteği ile ciltte nem dengesini korur ve üç farklı cilt tabakasında nem dengesini sağlar ve uzun vadede korur. Cildin nemli, ışıltılı ve yumuşak bir görünümde olmasına yardımcı olur. The Purest Solutions Invisible Güneş Kremi Nasıl Kullanılır? Cilt bakımının son adımında ve gün içerisinde 2-3 saatte bir yenileyerek tüm cildinize eşit miktarda dağıtarak uygulayabilirsiniz. Invisible Güneş Kremi Hangi Ciltler İçin Uygundur? Kuru ve nem ihtiyacı olan ciltler başta olmak üzere tüm ciltler için uygundur. Benzer Ürünler • Son Gezilenler Vegan 🌱 Cruelty free 🐇 Biocompatible 👩‍🔬 Responsible 🌍 #thepurestsolutions Müşteri Memnuniyeti Hesabım İade Sayfası Kayıt Ol Mağazalar Biz Kimiz Broşürler Cilt Bakım Rutini Aktif İçerikler Kampanya Koşulları Sıkça Sorulan Sorular İletişim Bayii Eczane Başvurusu Geri Bildirim Formu Şirket Mesafeli Satış Sözleşmesi Kullanım Şartları Sözleşmesi Gizlilik Ve Güvenlik Politikası Kargo ve Teslimat Politikası İptal İade Politikası Çerez Politikası İnternet Sitesi Aydınlatma Metni Ticari Elektronik İleti Onayı Formu Bilgi Toplumu Hizmetleri Cilt Analizi Aydınlatma Metni KVKK Formu İçerik Üreten Kullanıcılar Onay Ve Beyan Metni Bize Ulaşın EVLY PHARMA KOZMETİK SAN. VE TİC. A.Ş. Şerifali Mah. Söyleşi Sok. No :41/A Ümraniye / Istanbul – TÜRKİYE hello@thepurestsolutions.com Tel: 0850 241 8390 Çağrı Merkezi Çalışma Saatleri Pazartesi Cuma 09:00/17:00 TPS Cilt Bakım Kulübüne Üye ol! E postanızı buraya giriniz İletişim e-postaların tarafıma gönderilmesine izin veriyorum. PAYLAŞ Bizi sosyal medyada takip edin © 2026, The Purest Solutions . Tüm hakları saklıdır Powered by‎ Holly Palm Dil Türkçe English Deutsch Dili güncelle Dil Türkçe Türkçe English Deutsch Ödeme yöntemleri Anasayfa Menü Arama Ürünler Sepet Hesap Bir seçim yaptığınızda sayfa yeniden yüklenir"
+  },
+  {
+    "url": "https://www.maruderm.com/maruderm-leke-karsiti-gunes-kremi-spf-50-pa-yeni-nesil-kore-filtreli-50-ml",
+    "status": 200,
+    "variants": [],
+    "ingredients_candidates": [
+      "Aqua (Water), Oryza Sativa (Rice) Bran Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Caprylic/Capric Triglyceride, Zinc Oxide, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Triazone, Propylene Glycol, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Alpha-Arbutin, Stearic Acid, Niacinamide, Glycyrrhiza Glabra Root (Licorice) Extract, Sodium PCA, Diacetyl Boldine, Allantoin, Potassium Cetyl Phosphate, Inulin Lauryl Carbamate, Decyl Glucoside, Sodium Lactate, Arginine, Xanthan Gum, Aspartic Acid, PCA, Glycine, Alanine, Serine, Valine, Proline, Threonine, Isoleucine, Histidine, Phenylalanine, Sodium Hydroxide, Potassium Sorbate, Sodium Benzoate, Lactic Acid, Tetrasodium EDTA."
+    ],
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "Maruderm",
+        "url": "https://maruderm.com",
+        "logo": "https://cdn.maruderm.com/brands/mrd/logo.png",
+        "description": "Maruderm cilt bakım ürünleri ile alışkanlık ve ihtiyaçlara yönelik çözümler sunuyor.",
+        "foundingDate": "2021-11",
+        "email": "info@maruderm.com",
+        "sameAs": [
+          "https://facebook.com/maruderm",
+          "https://www.instagram.com/marudermtr",
+          "https://www.youtube.com/@marudermcosmetics"
+        ],
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "customer service",
+          "email": "info@maruderm.com",
+          "availableLanguage": [
+            "Turkish",
+            "English"
+          ]
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "İstanbul, Türkiye",
+          "addressCountry": "TR"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "Maruderm",
+        "url": "https://maruderm.com",
+        "inLanguage": "tr-TR",
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": {
+            "@type": "EntryPoint",
+            "urlTemplate": "https://maruderm.com/arama?q={search_term_string}"
+          },
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Maruderm SPF 50+ Leke Karşıtı Güneş Kremi PA++++ – Alpha Arbutin İçeren Yeni Nesil Kore Filtreli Sunscreen 50 ML",
+        "description": "<p>SPF 50+ PA++++ yüksek koruma ve leke karşıtı aktif içerikler içeren bu güneş kremi, cildin güneş ışınlarına karşı korunmasına yardımcı olur. Aydınlatıcı ve nemlendirici formülü sayesinde cildin daha dengeli görünmesine katkıda bulunur.</p>",
+        "sku": "8682397031205",
+        "mpn": "8682397031205",
+        "gtin13": "8682397031205",
+        "brand": {
+          "@type": "Brand",
+          "name": "Maruderm"
+        },
+        "url": "https://www.maruderm.com/urunler/spf-50-leke-karsiti-gunes-kremi",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://www.maruderm.com/urunler/spf-50-leke-karsiti-gunes-kremi",
+          "priceCurrency": "TRY",
+          "price": "360.00",
+          "priceValidUntil": "2026-11-12",
+          "availability": "https://schema.org/InStock",
+          "itemCondition": "https://schema.org/NewCondition",
+          "seller": {
+            "@type": "Organization",
+            "name": "Maruderm Cosmetics"
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "49.90",
+              "currency": "TRY"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "TR"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 2,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 1,
+                "maxValue": 3,
+                "unitCode": "DAY"
+              }
+            }
+          },
+          "hasMerchantReturnPolicy": {
+            "@type": "MerchantReturnPolicy",
+            "applicableCountry": "TR",
+            "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+            "merchantReturnDays": 14,
+            "returnMethod": "https://schema.org/ReturnByMail",
+            "returnFees": "https://schema.org/FreeReturn"
+          }
+        },
+        "image": [
+          "https://cdn.maruderm.com/brands/mrd/images/products/1775829650106-f28dedbf413dbf14da2635677daa2249.png",
+          "https://cdn.maruderm.com/brands/mrd/images/products/1775829667174-0fc6f40a267eb5ca59c69fddb0e56bd3.png",
+          "https://cdn.maruderm.com/brands/mrd/images/products/1775829682307-ee49651523867f0ce59d8cd6eaae26df.png",
+          "https://cdn.maruderm.com/brands/mrd/images/products/1775829697091-bb8384a90092a2d6687ae3afaec466a0.png",
+          "https://cdn.maruderm.com/assets/product_galleries/8682397031205/1767087525722-c460a1c1f29422f9.png",
+          "https://cdn.maruderm.com/brands/mrd/images/products/1775829714037-a2c607f985cfee6d442bf6c2a55884d6.png",
+          "https://cdn.maruderm.com/brands/mrd/images/products/1775829734391-b466be3bd26305bb7174ead8c5675329.png"
+        ],
+        "category": "Güneş Bakım Ürünleri",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "bestRating": "5",
+          "worstRating": "1",
+          "reviewCount": 64
+        },
+        "review": {
+          "@type": "Review",
+          "reviewRating": {
+            "@type": "Rating",
+            "ratingValue": "4",
+            "bestRating": "5",
+            "worstRating": "1"
+          },
+          "author": {
+            "@type": "Person",
+            "name": "Hülya C."
+          },
+          "datePublished": "2026-08-10",
+          "reviewBody": "Güzel bir ürün, sonuçları görmek biraz zaman alıyor ama etkili."
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Ana Sayfa",
+            "item": "https://www.maruderm.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Güneş Bakım Ürünleri",
+            "item": "https://www.maruderm.com/gunes-bakim-urunleri"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Maruderm SPF 50+ Leke Karşıtı Güneş Kremi PA++++ – Alpha Arbutin İçeren Yeni Nesil Kore Filtreli Sunscreen 50 ML",
+            "item": "https://www.maruderm.com/urunler/spf-50-leke-karsiti-gunes-kremi"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MerchantReturnPolicy",
+        "@id": "https://www.maruderm.com/#return-policy",
+        "name": "Maruderm Cosmetics İade Politikası",
+        "url": "https://www.maruderm.com/mesafeli-satis-sozlesmesi",
+        "applicableCountry": "TR",
+        "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+        "merchantReturnDays": 14,
+        "returnMethod": "https://schema.org/ReturnByMail",
+        "returnFees": "https://schema.org/FreeReturn",
+        "description": "Ürünlerimizi teslim aldığınız tarihten itibaren 14 gün içinde iade edebilirsiniz. İade kargo ücretsizdir."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "OfferShippingDetails",
+        "@id": "https://www.maruderm.com/#shipping-policy",
+        "shippingRate": {
+          "@type": "MonetaryAmount",
+          "value": "49.90",
+          "currency": "TRY"
+        },
+        "shippingDestination": {
+          "@type": "DefinedRegion",
+          "addressCountry": "TR",
+          "addressRegion": [
+            "TR-01",
+            "TR-02",
+            "TR-03",
+            "TR-04",
+            "TR-05",
+            "TR-06",
+            "TR-07",
+            "TR-08",
+            "TR-09",
+            "TR-10",
+            "TR-11",
+            "TR-12",
+            "TR-13",
+            "TR-14",
+            "TR-15",
+            "TR-16",
+            "TR-17",
+            "TR-18",
+            "TR-19",
+            "TR-20",
+            "TR-21",
+            "TR-22",
+            "TR-23",
+            "TR-24",
+            "TR-25",
+            "TR-26",
+            "TR-27",
+            "TR-28",
+            "TR-29",
+            "TR-30",
+            "TR-31",
+            "TR-32",
+            "TR-33",
+            "TR-34",
+            "TR-35",
+            "TR-36",
+            "TR-37",
+            "TR-38",
+            "TR-39",
+            "TR-40",
+            "TR-41",
+            "TR-42",
+            "TR-43",
+            "TR-44",
+            "TR-45",
+            "TR-46",
+            "TR-47",
+            "TR-48",
+            "TR-49",
+            "TR-50",
+            "TR-51",
+            "TR-52",
+            "TR-53",
+            "TR-54",
+            "TR-55",
+            "TR-56",
+            "TR-57",
+            "TR-58",
+            "TR-59",
+            "TR-60",
+            "TR-61",
+            "TR-62",
+            "TR-63",
+            "TR-64",
+            "TR-65",
+            "TR-66",
+            "TR-67",
+            "TR-68",
+            "TR-69",
+            "TR-70",
+            "TR-71",
+            "TR-72",
+            "TR-73",
+            "TR-74",
+            "TR-75",
+            "TR-76",
+            "TR-77",
+            "TR-78",
+            "TR-79",
+            "TR-80",
+            "TR-81"
+          ]
+        },
+        "deliveryTime": {
+          "@type": "ShippingDeliveryTime",
+          "handlingTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 1,
+            "maxValue": 2,
+            "unitCode": "d"
+          },
+          "transitTime": {
+            "@type": "QuantitativeValue",
+            "minValue": 1,
+            "maxValue": 3,
+            "unitCode": "d"
+          },
+          "businessDays": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday",
+              "Tuesday",
+              "Wednesday",
+              "Thursday",
+              "Friday"
+            ]
+          }
+        },
+        "doesNotShip": false
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "url": "https://www.maruderm.com/urunler/spf-50-leke-karsiti-gunes-kremi",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [
+            ".product-title",
+            ".product-description"
+          ]
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi nasıl kullanılır?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Güneşe çıkmadan önce temiz ve kuru cilde eşit şekilde uygulanması önerilir. Gün içinde özellikle terleme, yüzme veya kurulama sonrası düzenli olarak tekrar uygulanmalıdır."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi hangi cilt tiplerine uygundur?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tüm cilt tipleri için uygun olacak şekilde formüle edilmiştir. Cilt tonunun daha dengeli görünmesine ve güneşten korunmasına yönelik günlük bakım rutinlerinde tercih edilebilir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi içeriğinde neler var?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Formülünde bulunan UV filtreleri (Tinosorb S, Uvinul T150, MBBT ve Zinc Oxide) ile birlikte alpha-arbutin, niacinamide ve meyan kökü ekstresi yer alır. Ayrıca pirinç suyu ve allantoin gibi bileşenler cilt yüzeyinin daha konforlu hissedilmesine katkı sağlamaya yardımcı olabilir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi ne sıklıkla kullanılmalıdır?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Güneşe maruz kalınan durumlarda düzenli aralıklarla tekrar uygulanması önerilir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi diğer ürünlerle birlikte kullanılabilir mi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evet, farklı cilt bakım ürünleri ile birlikte kullanılabilir. Rutin içerisinde nemlendirici sonrası ve makyaj öncesinde uygulanması tercih edilebilir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi makyaj altına uygun mudur?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Uygun miktarda kullanıldığında makyaj öncesi kullanım için tercih edilebilir. Uygulama sonrası ciltte emilmesi beklenmesi önerilir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi ciltte ağırlık hissi bırakır mı?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Formülü, ciltte ağırlık hissi bırakmayacak şekilde geliştirilmiştir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi yüz ve vücutta kullanılabilir mi?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Evet, yüz ve vücut kullanımına uygundur. "
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi tek başına yeterli koruma sağlar mı?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yüksek koruma faktörü ile günlük kullanım için uygundur. Yoğun güneş maruziyetinde düzenli olarak yenilenmesi önerilir."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "SPF 50+ Leke Karşıtı Güneş Kremi etkisi ne zaman gözlemlenebilir?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Uygulama sonrası ciltte koruyucu ve konforlu bir his oluşabilir. Düzenli kullanım ile birlikte cilt bakım rutini desteklenmiş olur."
+            }
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "HowTo",
+        "name": "Maruderm SPF 50+ Leke Karşıtı Güneş Kremi PA++++ – Alpha Arbutin İçeren Yeni Nesil Kore Filtreli Sunscreen 50 ML Nasıl Kullanılır",
+        "totalTime": "PT5M",
+        "step": [
+          {
+            "@type": "HowToStep",
+            "name": "Cildi Temizleyin ve Kurulayın",
+            "text": "Uygulama öncesinde cildinizin temiz ve kuru olması, ürünün homojen dağılımını ve etkinliğini artırır."
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Yeterli Miktarda Uygulayın",
+            "text": "Ürünü cilt bakım rutininizin son adımında, yüz ve/veya vücuda bol miktarda uygulayın. Yetersiz miktar, koruma seviyesini düşürebilir"
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Güneş Öncesi Uygulama Yapın",
+            "text": "Güneşe çıkmadan 15–20 dakika önce uygulayarak maksimum koruma sağlayın.  "
+          },
+          {
+            "@type": "HowToStep",
+            "name": "Düzenli Olarak Yenileyin",
+            "text": "Korumanın devamlılığı için ürünü 2 saatte bir, ayrıca terleme, yüzme veya havluyla kurulama sonrası yeniden uygulayın.  "
+          }
+        ]
+      }
+    ],
+    "text": "Maruderm SPF 50+ Leke Karşıtı Güneş Kremi PA++++ – Alpha Arbutin İçeren Yeni Nesil Kore Filtreli Sunscreen 50 ML 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! 500 TL ve Üzeri Alışverişlerde Kargo Bedava! Favorilerim 0 Sepetim 0 Giriş Yap Giriş Yap Üye Ol Ürün detayı yükleniyor... Müşteri Hizmetleri Yeni Üyelik Üye Girişi Şifremi Unuttum İletişim Bilgileri Sipariş Takibi Kurumsal Mesafeli Satış Sözleşmesi Kişisel Verilerin Korunması Gizlilik ve Güvenlik İptal & İade Şartları Hakkımızda UGC Başvuru Platformu Eczaneye Satış Sürdürülebilirlik Alışveriş Cilt Bakım Ürünleri Serumlar Kremler Temizleyiciler Tonikler Güneş Kremleri Blog Yeniliklerden Haberiniz Olsun! E-bültenimize kayıt olun! Gönder Ana Sayfa / Güneş Bakım Ürünleri / Maruderm SPF 50+ Leke Karşıtı Güneş Kremi PA++++ – Alpha Arbutin İçeren Yeni Nesil Kore Filtreli Sunscreen 50 ML ÇOK SATAN ‹ › Maruderm SPF 50+ Leke Karşıtı Güneş Kremi PA++++ – Alpha Arbutin İçeren Yeni Nesil Kore Filtreli Sunscreen 50 ML SPF 50+ PA++++ yüksek koruma ve leke karşıtı aktif içerikler içeren bu güneş kremi, cildin güneş ışınlarına karşı korunmasına yardımcı olur. Aydınlatıcı ve nemlendirici formülü sayesinde cildin daha dengeli görünmesine katkıda bulunur. ₺ 360.00 − + Sepete Ekle Paylaş: Açıklama Maruderm SPF 50+ PA++++ Leke Karşıtı Güneş Kremi, cildi güneş ışınlarının zararlı etkilerine karşı korumaya yardımcı olmak ve cilt tonu eşitsizliği görünümünü azaltmaya destek olmak için geliştirilmiş yeni nesil filtreli güneş koruyucudur. Formülünde bulunan yeni nesil UV filtre kompleksi (Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Ethylhexyl Triazone ve Methylene Bis-Benzotriazolyl Tetramethylbutylphenol), cildi UVA ve UVB ışınlarına karşı geniş spektrumlu korumaya yardımcı olur. Alpha-Arbutin, cilt tonu eşitsizliği görünümünün dengelenmesine yardımcı olur ve cildin daha aydınlık görünmesine katkıda bulunur. Niacinamide, cilt görünümünün dengelenmesine destek sağlar. Meyan Kökü Ekstraktı (Licorice Extract) ve Diacetyl Boldine, cilt bakımını destekleyen aydınlatıcı içeriklerdir. Pirinç Kepeği Suyu (Rice Bran Water), cildin daha canlı görünmesine katkıda bulunur ve cilt bakım rutinini destekler. Ayrıca içeriğinde bulunan Sodium PCA ve amino asit kompleksi, cildin nem dengesinin korunmasına yardımcı olur ve cilt bariyerini destekler. Düzenli kullanımda cildin güneş ışınlarına karşı korunmasına ve cilt tonunun daha dengeli görünmesine yardımcı olur. Aktif İçerik Kompleksi SPF 50+ PA++++ UV Filtre Kompleksi — Geniş spektrumlu UVA ve UVB koruması sağlar Alpha-Arbutin — Cilt tonu eşitsizliği görünümünün dengelenmesine yardımcı olur Niacinamide — Cilt görünümünün dengelenmesine katkıda bulunur Licorice Extract — Cilt bakımını destekleyen bitkisel içerik Rice Bran Water — Cildin daha canlı görünmesine yardımcı olur Öne Çıkan Faydalar SPF 50+ PA++++ yüksek güneş koruması sağlar Cilt tonu eşitsizliği görünümünün azalmasına yardımcı olur Cildin daha aydınlık görünmesine katkıda bulunur Cildin nem dengesini destekler Günlük kullanım için uygundur Cilt bakım rutinini destekler Kimler İçin Uygun Leke görünümü yaşayan ciltler Cilt tonu eşitsizliği yaşayan ciltler Günlük güneş koruyucu arayanlar Aydınlatıcı güneş kremi arayanlar İÇİNDEKİLER (INCI): Aqua (Water), Oryza Sativa (Rice) Bran Water, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Caprylic/Capric Triglyceride, Zinc Oxide, C12-15 Alkyl Benzoate, Glycerin, Ethylhexyl Triazone, Propylene Glycol, Methylene Bis-Benzotriazolyl Tetramethylbutylphenol, Alpha-Arbutin, Stearic Acid, Niacinamide, Glycyrrhiza Glabra Root (Licorice) Extract, Sodium PCA, Diacetyl Boldine, Allantoin, Potassium Cetyl Phosphate, Inulin Lauryl Carbamate, Decyl Glucoside, Sodium Lactate, Arginine, Xanthan Gum, Aspartic Acid, PCA, Glycine, Alanine, Serine, Valine, Proline, Threonine, Isoleucine, Histidine, Phenylalanine, Sodium Hydroxide, Potassium Sorbate, Sodium Benzoate, Lactic Acid, Tetrasodium EDTA. Nasıl Kullanılır? 1 Cildi Temizleyin ve Kurulayın Uygulama öncesinde cildinizin temiz ve kuru olması, ürünün homojen dağılımını ve etkinliğini artırır. 2 Yeterli Miktarda Uygulayın Ürünü cilt bakım rutininizin son adımında, yüz ve/veya vücuda bol miktarda uygulayın. Yetersiz miktar, koruma seviyesini düşürebilir 3 Güneş Öncesi Uygulama Yapın Güneşe çıkmadan 15–20 dakika önce uygulayarak maksimum koruma sağlayın. 4 Düzenli Olarak Yenileyin Korumanın devamlılığı için ürünü 2 saatte bir, ayrıca terleme, yüzme veya havluyla kurulama sonrası yeniden uygulayın. Sıkça Sorulan Sorular SPF 50+ Leke Karşıtı Güneş Kremi nasıl kullanılır? SPF 50+ Leke Karşıtı Güneş Kremi hangi cilt tiplerine uygundur? SPF 50+ Leke Karşıtı Güneş Kremi içeriğinde neler var? SPF 50+ Leke Karşıtı Güneş Kremi ne sıklıkla kullanılmalıdır? SPF 50+ Leke Karşıtı Güneş Kremi diğer ürünlerle birlikte kullanılabilir mi? SPF 50+ Leke Karşıtı Güneş Kremi makyaj altına uygun mudur? SPF 50+ Leke Karşıtı Güneş Kremi ciltte ağırlık hissi bırakır mı? SPF 50+ Leke Karşıtı Güneş Kremi yüz ve vücutta kullanılabilir mi? SPF 50+ Leke Karşıtı Güneş Kremi tek başına yeterli koruma sağlar mı? SPF 50+ Leke Karşıtı Güneş Kremi etkisi ne zaman gözlemlenebilir? Benzer Ürünler Yükleniyor... Yükleniyor... Yükleniyor... Yükleniyor... Yükleniyor... Yükleniyor... Yükleniyor... Yükleniyor..."
+  },
+  {
+    "url": "https://beautyofjoseon.com/products/relief-sun-rice-probiotics-spf50-pa-uk",
+    "status": 404,
+    "variants": [],
+    "ingredients_candidates": [],
+    "schema": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "Beauty of Joseon",
+        "logo": "https://beautyofjoseon.com/cdn/shop/files/boj-logo-text-default.png?v=1765267757&width=500",
+        "sameAs": [
+          "",
+          "",
+          "https://www.instagram.com/beautyofjoseon_official/",
+          "",
+          "",
+          "https://vt.tiktok.com/ZTNXmn13K/?page=TikTokShop",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "url": "https://beautyofjoseon.com"
+      }
+    ],
+    "text": "404 Not Found\n    \n    \n    \n      – Beauty of Joseon Skip to content This site has limited support for your browser. We recommend switching to Edge, Chrome, Safari, or Firefox. Up to 50% OFF Collect All 4 Free Gifts + Complete the Glow Rescue🎁 11 days to bring back your glow! Up to 50% OFF + Free Premium Gifts 🎁 09 Days 21 Hours 09 Minutes 36 Seconds Search Search Clear Account Cart 0 SHOP Shop All Ingredients By Product Sunscreen Cleanser Exfoliator Toner & Essence Serum Moisturizer Mask Life Style By Skin Concern Wrinkles Pores & Sebum Dullness & Uneven tone Sensitivity Dryness SAVE WITH SETS Glow Rescue Sale🏝️ BOJ REWARDS ABOUT ABOUT US BLOG TAKE SKIN QUIZ Build Your BOJ Routine Tinted Sunscreen Shade Finder Quiz NEED HELP? Account Search Search Clear Cart 0 SHOP Show menu Exit menu SHOP Shop All Show menu Exit menu Shop All Ingredients By Product Show menu Exit menu By Product Sunscreen Cleanser Exfoliator Toner & Essence Serum Moisturizer Mask Life Style By Skin Concern Show menu Exit menu By Skin Concern Wrinkles Pores & Sebum Dullness & Uneven tone Sensitivity Dryness SAVE WITH SETS Glow Rescue Sale🏝️ BOJ REWARDS ABOUT Show menu Exit menu ABOUT ABOUT US BLOG TAKE SKIN QUIZ Show menu Exit menu TAKE SKIN QUIZ Build Your BOJ Routine Tinted Sunscreen Shade Finder Quiz NEED HELP? SHOP Show menu Exit menu SHOP Shop All Ingredients By Product Show menu Exit menu By Product Sunscreen Cleanser Exfoliator Toner & Essence Serum Moisturizer Mask Life Style By Skin Concern Show menu Exit menu By Skin Concern Wrinkles Pores & Sebum Dullness & Uneven tone Sensitivity Dryness SAVE WITH SETS BEST SELLERS BOJ REWARDS ABOUT Show menu Exit menu ABOUT ABOUT US BLOG TAKE SKIN QUIZ Show menu Exit menu TAKE SKIN QUIZ Build Your BOJ Routine Tinted Sunscreen Shade Finder Quiz NEED HELP? Cart 0 Quantity Limit for This Product has Exceeded Products PAIRS WELL WITH 🛍️ Subtotal Free Check Out Shipping, taxes, and discount codes are calculated at checkout Your Cart is Empty SHOP SAVE WITH SETS INGREDIENTS TAKE SKIN QUIZ ABOUT BLOG 404 Page Not Found The page you requested does not exist. Clear Join Our Community Get on the list for K-beauty tips, exclusive deals, and more surprises from us. This customer is already subscribed! Sign Up Now This site is protected by hCaptcha and the hCaptcha Privacy Policy and Terms of Service apply. Menu Need Help? Gift 20% Off & Get 150 Gems BOJ Creator Club Retailers Shipping Return & Refund Privacy Policy Terms & Conditions Modern Slavery Act Contact GOODAI GLOBAL INC. 541 Eonju-ro, Gangnam-gu, Seoul, Republic of Korea Copyright © 2025. All rights Reserved Instagram TikTok Previous Next Close {        \n  \"items\": [\n  \n  \n  ]        \n}"
+  },
+  {
+    "url": "https://www.skin1004.com/products/hyalu-cica-water-fit-sun-serum",
+    "status": 404,
+    "variants": [],
+    "ingredients_candidates": [],
+    "schema": [
+      {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "SKIN1004",
+        "logo": "https://www.skin1004.com/cdn/shop/files/SKIN1004_LOGO_300PX_30c77c72-0035-4b50-ba2c-f2c7a36a0d9d.png?v=1738771518&width=500",
+        "sameAs": [
+          "",
+          "https://www.facebook.com/skin1004global/",
+          "https://www.pinterest.co.kr/skin1004official",
+          "https://www.instagram.com/skin1004official/",
+          "https://www.tiktok.com/@skin1004_official",
+          "",
+          "",
+          "https://www.youtube.com/channel/UCslty1jg7F3mpGM3VMjv8qg/featured",
+          ""
+        ],
+        "url": "https://www.skin1004.com"
+      }
+    ],
+    "text": "404 Not Found\n – SKIN1004 Skip to content ✨Up to 50% Off✨ Exclusive 1004 Day Set + Free Merch — Shop Now > SALE SHOP Chosen by Hudson Featured All Best Save with sets Mini & Travel Sizes Merch Product Type Sunscreen Ampoule & Serum Cleanser Moisturizer Mask & Pad Toner & Mist Product Line Lab in Nature Centella Hyalu-Cica Tone Brightening Poremizing Tea-Trica Probio-Cica Centella Teca Hyalu-Teca BRAND About SKIN1004 Our Ingredients COLLECTION THE UNTOUCHED NATURE LAB IN NATURE The Untouched Nature FLAGSHIP EXPERIENCE SKIN TEST Log in Create account SALE SHOP Featured All Best Save with sets Mini & Travel Sizes Merch Product Type Sunscreen Ampoule & Serum Cleanser Moisturizer Mask & Pad Toner & Mist Product Line Lab in Nature Centella Hyalu-Cica Tone Brightening Poremizing Tea-Trica Probio-Cica Centella TECA Centella Teca Hyalu-Teca Chosen by Hudson BRAND About SKIN1004 Our Ingredients COLLECTION The Untouched Nature THE UNTOUCHED NATURE LAB IN NATURE FLAGSHIP EXPERIENCE SKIN TEST MYEONG-DONG FLAGSHIP STORE NYC FLAGSHIP STORE SKIN TEST Search Suggestions appear below as you type. Press Tab or the down arrow key to browse them. Log in Cart Item added to your cart View cart Check out Continue shopping 404 Page not found Continue shopping Choosing a selection results in a full page refresh. Opens in a new window. {        \n  \"items\": [\n  \n  \n  ]        \n}"
+  }
+]

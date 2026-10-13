@@ -1,0 +1,47 @@
+
+1. Yeni Nesil Protein ve Bakliyat Cipsleri (Mercimek & Nohut)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+1	8681329623630	Züber Fırınlanmış Mercimek Cipsi Ekşi Krema & Soğanlı	Kırmızı mercimek unu (%70), bezelye proteini, bitkisel yağ (ayçiçek), ekşi krema ve soğan çeşnisi (%6) [peynir altı suyu tozu, soğan tozu (%1.2), tuz, sarımsak tozu, maya özütü, doğal aroma verici, asitlik düzenleyici (laktik asit), nane].
+2	8681329623647	Züber Fırınlanmış Mercimek Cipsi Haşhaşlı & Domatesli	Kırmızı mercimek unu (%72), bezelye proteini, ayçiçek yağı, mavi haşhaş (%3), kurutulmuş domates çeşnisi (%5) [domates tozu (%2), tuz, kekik, fesleğen, sarımsak tozu].
+3	8681329624514	Züber Fırınlanmış Nohut Cipsi Barbekü Çeşnili	Nohut unu (%75), bezelye lifi, ayçiçek yağı, barbekü çeşnisi (%6) [domates tozu, soğan tozu, sarımsak tozu, kimyon, tatlı toz biber, tuz, tütsü aroması].
+4	8681329624521	Züber Fırınlanmış Nohut Cipsi Deniz Tuzlu	Nohut unu (%78), bezelye lifi, ayçiçek yağı, deniz tuzu (%1.5). [Yağda kızartılmamış, fırınlanmıştır].
+5	8681029000109	Patiswiss Proteinli Mercimek Cipsi Barbekü	Kırmızı mercimek unu (%65), bezelye proteini izolatı, pirinç unu, ayçiçek yağı, barbekü çeşnisi (%6) [toz biber, esmer şeker, tuz, maya özütü, soğan tozu, sarımsak tozu, tütsü aroması].
+6	8681029000116	Patiswiss Proteinli Mercimek Cipsi Peynir & Soğan	Kırmızı mercimek unu (%65), bezelye proteini izolatı, pirinç unu, ayçiçek yağı, peynir ve soğan çeşnisi (%6) [peynir tozu (%1.5), soğan tozu (%1.2), tuz, maya özütü, aromalar].
+7	8682162035016	Fellas Yüksek Proteinli Mercimek Cipsi Sade	Kırmızı mercimek unu (%68), bezelye proteini konsantresi, pirinç unu, ayçiçek yağı, deniz tuzu (%1.2).
+8	8682162035023	Fellas Yüksek Proteinli Mercimek Cipsi Kekikli	Kırmızı mercimek unu (%66), bezelye proteini, pirinç unu, ayçiçek yağı, kurutulmuş dağ kekiği (%1.5), sarımsak tozu, tuz.
+9	8682162035054	Fellas Yüksek Proteinli Mercimek Cipsi Acı Biberli	Kırmızı mercimek unu (%66), bezelye proteini, pirinç unu, ayçiçek yağı, acı kırmızı biber çeşnisi (%6) [pul biber, acı toz biber, tuz, koruyucu].
+10	8681986060120	Soul Bites Pop-Chicks Nohut Cipsi Peynirli	Nohut unu (%60), pirinç unu, ayçiçek yağı, vegan peynir çeşnisi (%7) [besin mayası, tuz, doğal peynir aroması, zerdeçal].
+11	8681986060137	Soul Bites Pop-Chicks Nohut Cipsi Deniz Tuzlu & Sirkeli	Nohut unu (%62), pirinç unu, ayçiçek yağı, deniz tuzu ve sirke çeşnisi (%6) [asitlik düzenleyici (malik asit), deniz tuzu (%1.5), sodyum diasetat].
+
+
+2. Glutensiz ve Vegan Yeni Nesil Cipsler (Mısır, Pirinç & Karabağday)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+12	8699413627014	Mayi Tuz fırınlanmış Karabağday Cipsi Sade	Karabuğday unu (%80), mısır nişastası, ayçiçek yağı, Mayi coğrafi işaretli kaynak tuzu (%1.8).
+13	8699413627021	Mayi Tuz fırınlanmış Karabağday Cipsi Chia & Keten Tohumlu	Karabuğday unu (%75), chia tohumu (%3), keten tohumu (%3), mısır nişastası, ayçiçek yağı, kaynak tuzu (%1.8).
+14	3800233070014	Rice Up Kahverengi Pirinç Cipsi Chia & Kinoa	Tam tane kahverengi pirinç (%85), siyah pirinç, kinoa (%3), chia tohumu (%3), zeytinyağı (%7), deniz tuzu.
+15	3800233070052	Rice Up Kahverengi Pirinç Cipsi Karabiber & Tuz	Tam tane kahverengi pirinç (%88), zeytinyağı (%7), öğütülmüş tane karabiber (%1), deniz tuzu (%1.5).
+16	3800233070106	Rice Up Kahverengi Pirinç Cipsi Paprika	Tam tane kahverengi pirinç (%83), zeytinyağı (%7), tatlı kapya biber çeşnisi (%7) [toz tatlı kırmızı biber, tuz, soğan tozu, sarımsak tozu].
+17	8690623051118	Wasa Glutensiz Humus Cipsi Deniz Tuzlu	Nohut unu (%40), patates nişastası, patates unu, ayçiçek yağı, mısır unu, deniz tuzu (%1.2), potasyum klorür.
+18	8690623051125	Wasa Glutensiz Humus Cipsi Paprika & Biber	Nohut unu (%38), patates nişastası, ayçiçek yağı, mısır unu, tatlı kırmızı biber tozu (%2), kırmızı biber ekstraktı, tuz, sarımsak.
+19	8680112304118	Organyed Organik Glutensiz Mısır Cipsi Sade	Organik mısır unu (%92), organik ayçiçek yağı (%7), deniz tuzu (%1). [Organik sertifikalı ve koruyucusuzdur].
+20	8680112304125	Organyed Organik Glutensiz Mısır Cipsi Baharatlı	Organik mısır unu (%86), organik ayçiçek yağı, organik baharat karışımı (%6) [organik kekik, organik domates tozu, organik tatlı toz biber, tuz].
+21	5060413260015	Eat Real Humus Cipsi Sade (Vegan & Glutensiz)	Nohut unu (%45), pirinç, patates nişastası, mısır unu, ayçiçek yağı, tuz.
+22	5060413260053	Eat Real Humus Cipsi Acılı Limonlu (Chili & Lemon)	Nohut unu (%42), pirinç, patates nişastası, ayçiçek yağı, chili ve limon çeşnisi (%7) [asitlik düzenleyici (sitrik asit), toz acı biber, tuz, soğan tozu, doğal aroma verici].
+23	5060413260107	Eat Real Mercimek Cipsi Kremalı & Dereotlu (Vegan)	Mercimek unu (%48), patates nişastası, mısır unu, ayçiçek yağı, vegan kremalı dereotu çeşnisi (%6) [pirinç unu, tuz, dereotu parçacıkları (%0.5), soğan tozu, doğal bitkisel aroma vericiler].
+24	5060413260206	Eat Real Kinoa Cipsi Domates & Fesleğenli	Kinoa unu (%30), kurutulmuş patates, mısır nişastası, ayçiçek yağı, domates ve fesleğen çeşnisi (%6) [şeker, domates tozu, tuz, sarımsak, kurutulmuş fesleğen (%0.3), maya özütü].
+25	8683411540119	Greenola Glutensiz Amarant & Karabağday Cipsi	Karabuğday unu (%50), amarant unu (%25), mısır nişastası, zeytinyağı, deniz tuzu.
+
+
+3. Fonksiyonel Sebze, Meyve ve Hindistan Cevizi Cipsleri (Vegan)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+26	8681329621018	Züber %100 Doğal Hindistan Cevizi Cipsi Sade	%100 Kurutulmuş, ince dilimlenmiş ve fırınlanmıştır Hindistan Cevizi. [İlave şeker, yağ ve koruyucu içermez].
+27	8681329621025	Züber %100 Doğal Hindistan Cevizi Cipsi Kakaolu	Kurutulmuş fırınlanmış hindistan cevizi (%92), kakao kitlesi (%5), elma suyu konsantresi (%3).
+28	8682112340113	Eliot Dondurularak Kurutulmuş Elma Cipsi (Freeze-Dried)	%100 Dondurularak kurutulmuş çıtır elma dilimleri. [Kızartılmamıştır, nem oranı %1'in altındadır].
+29	8682112340151	Eliot Dondurularak Kurutulmuş Çilek Cipsi	%100 Freeze-dried teknolojisi ile kurutulmuş bütün çilek taneleri.
+30	8683112450012	Rawberry Kurutulmuş Pancar Cipsi Ekşi Mayalı	Dilimlenmiş taze kırmızı pancar (%90), zeytinyağı, ekşi maya tozu (buğday içermez, fermente pirinç özlü), deniz tuzu.

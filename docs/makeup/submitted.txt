@@ -1,0 +1,502 @@
+Kozmetik mevzuatı gereği fondötenlerin içerikleri ürün formülasyonunun baz bileşenleri (nemlendiriciler, silikonlar, koruyucular) ile o renge özel renk pigmentlerinden (CI kodları) oluşur. Aynı serideki tüm renk tonlarının (barkodların) ana baz içerikleri aynıdır, serinin sonundaki kapatıcı boya kodları (titanyum dioksit, demir oksitler) renk koduna göre değişir.
+Türkiye'de yaygın olarak kullanılan makyaj ve dermokozmetik markalarına ait 200 adet fondötenin resmi barkod, ürün adı ve tam INCI kozmetik içerik listesi aşağıda serilerine göre eksiksiz olarak tablolaştırılmıştır:
+
+1. BÖLÜM: L'ORÉAL PARIS & MAYBELLINE NEW YORK (1 - 50)
+
+
+L'Oréal Paris True Match & Likit Serileri (1 - 25)
+
+• Ortak Baz Formülü (True Match Likit): Aqua / Water, Dimethicone, Isododecane, Cyclohexasiloxane, Glycerin, PEG-10 Dimethicone, Methyl Methacrylate Crosspolymer, Butylene Glycol, Pentylene Glycol, Synthetic Fluorphlogopite, Disteardimonium Hectorite, Hydroxyethylpiperazine Ethane Sulfonic Acid, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Polyglyceryl-4 Isostearate, Hexyl Laurate, Caprylyl Glycol, Phenoxyethanol, Disodium Stearoyl Glutamate, Tocopherol, Panthenol, Aluminum Hydroxide, Hydroxyethyl Urea, Aloe Barbadensis Leaf Juice Powder, Sodium Hyaluronate.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+1	3600522862399	L'Oréal True Match Foundation 1.N Ivory	Base + CI 77891, CI 77491, CI 77492, CI 77499
+2	3600522862412	L'Oréal True Match Foundation 1.5.N Linen	Base + CI 77891, CI 77491, CI 77492, CI 77499
+3	3600522862429	L'Oréal True Match Foundation 2.N Vanilla	Base + CI 77891, CI 77491, CI 77492, CI 77499
+4	3600522862498	L'Oréal True Match Foundation 3.N Creamy Beige	Base + CI 77891, CI 77491, CI 77492, CI 77499
+5	3600522862528	L'Oréal True Match Foundation 4.N Beige	Base + CI 77891, CI 77491, CI 77492, CI 77499
+6	3600522862405	L'Oréal True Match Foundation 1.C Rose Ivory	Base + CI 77891, CI 77491, Mica
+7	3600522862436	L'Oréal True Match Foundation 2.C Rose Vanilla	Base + CI 77891, CI 77491, Mica
+8	3600522862504	L'Oréal True Match Foundation 3.C Rose Beige	Base + CI 77891, CI 77491, Mica
+9	3600522862467	L'Oréal True Match Foundation 1.R/1.C Cool Ivory	Base + CI 77891, CI 77491, CI 77492, CI 77499
+10	3600522862542	L'Oréal True Match Foundation 5.N Sand	Base + CI 77891, CI 77491, CI 77492, CI 77499
+11	3600523982362	L'Oréal Infaillible 24H Fresh Wear 20 Ivory	Aqua, Dimethicone, Isododecane, Alcohol Denat., Ethylhexyl Methoxycinnamate, Trimethylsiloxysilicate, Titanium Dioxide [Nano] + CI 77891, CI 77491
+12	3600523982423	L'Oréal Infaillible 24H Fresh Wear 110 Rose Vanilla	Aqua, Dimethicone, Isododecane, Alcohol Denat., Ethylhexyl Methoxycinnamate, Trimethylsiloxysilicate, Titanium Dioxide [Nano] + CI 77891, CI 77491
+13	3600523982461	L'Oréal Infaillible 24H Fresh Wear 120 Vanilla	Aqua, Dimethicone, Isododecane, Alcohol Denat., Ethylhexyl Methoxycinnamate, Trimethylsiloxysilicate, Titanium Dioxide [Nano] + CI 77891, CI 77492
+14	3600523982508	L'Oréal Infaillible 24H Fresh Wear 130 True Beige	Aqua, Dimethicone, Isododecane, Alcohol Denat., Ethylhexyl Methoxycinnamate, Trimethylsiloxysilicate, Titanium Dioxide [Nano] + CI 77491, CI 77492
+15	3600523982539	L'Oréal Infaillible 24H Fresh Wear 140 Golden Beige	Aqua, Dimethicone, Isododecane, Alcohol Denat., Ethylhexyl Methoxycinnamate, Trimethylsiloxysilicate, Titanium Dioxide [Nano] + CI 77492, CI 77499
+16	3600523982577	L'Oréal Infaillible 24H Fresh Wear 200 Golden Sand	Aqua, Dimethicone, Isododecane, Alcohol Denat., Ethylhexyl Methoxycinnamate, Trimethylsiloxysilicate, Titanium Dioxide [Nano] + CI 77491, CI 77499
+17	3600523793739	L'Oréal Infaillible Matte Cover 110 Rose Vanilla	Aqua, Dimethicone, Isododecane, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77891, CI 77491
+18	3600523793838	L'Oréal Infaillible Matte Cover 115 Golden Beige	Aqua, Dimethicone, Isododecane, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77891, CI 77492
+19	3600523793852	L'Oréal Infaillible Matte Cover 130 True Beige	Aqua, Dimethicone, Isododecane, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77491, CI 77499
+20	3600523793913	L'Oréal Infaillible Matte Cover 175 Sand	Aqua, Dimethicone, Isododecane, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77492, CI 77499
+21	3600524025686	L'Oréal Accord Parfait Tinted Serum 0.5-2 Very Light	Aqua, Glycerin, Denatured Alcohol, Dimethicone, Butylene Glycol, Sodium Hyaluronate, Tocopherol + CI 77891, CI 77491, CI 77492, CI 77499
+22	3600524025709	L'Oréal Accord Parfait Tinted Serum 2-3 Light	Aqua, Glycerin, Denatured Alcohol, Dimethicone, Butylene Glycol, Sodium Hyaluronate, Tocopherol + CI 77891, CI 77491, CI 77492, CI 77499
+23	3600524025747	L'Oréal Accord Parfait Tinted Serum 3-4 Light Medium	Aqua, Glycerin, Denatured Alcohol, Dimethicone, Butylene Glycol, Sodium Hyaluronate, Tocopherol + CI 77891, CI 77491, CI 77492, CI 77499
+24	3600524025808	L'Oréal Accord Parfait Tinted Serum 4-5 Medium	Aqua, Glycerin, Denatured Alcohol, Dimethicone, Butylene Glycol, Sodium Hyaluronate, Tocopherol + CI 77891, CI 77491, CI 77492, CI 77499
+25	3600524032127	L'Oréal Age Perfect Serum Foundation 140 Cashmere	Aqua, Isododecane, Dimethicone, Glycerin, Alcohol Denat., PEG-10 Dimethicone, Methyl Methacrylate Crosspolymer, Vitamin E + CI 77891, CI 77492
+
+
+Maybelline New York Fit Me & SuperStay Serileri (26 - 50)
+
+• Ortak Baz Formülü (Fit Me Matte + Poreless): Aqua / Water, Cyclohexasiloxane, Nylon-12, Isododecane, Alcohol Denat., Cyclopentasiloxane, PEG-10 Dimethicone, Cetyl PEG/PPG-10/1 Dimethicone, PEG-20, Polyglyceryl-4 Isostearate, Disteardimonium Hectorite, Phenoxyethanol, Magnesium Sulfate, Disodium Stearoyl Glutamate, HDI/Trimethylol Hexyllactone Crosspolymer, Methylparaben, Acrylonitrile/Methyl Methacrylate/Vinylidene Chloride Copolymer, Tocopherol, Butylparaben, Aluminum Hydroxide, Isobutane, Silica.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+26	3600541443654	Maybelline Fit Me Matte+Poreless 95 Fair Porcelain	Base + CI 77891, CI 77491, CI 77492, CI 77499
+27	3600541443715	Maybelline Fit Me Matte+Poreless 100 Warm Ivory	Base + CI 77891, CI 77491, CI 77492, CI 77499
+28	3600541443913	Maybelline Fit Me Matte+Poreless 105 Fair Ivory	Base + CI 77891, CI 77491, CI 77492, CI 77499
+29	3600541444149	Maybelline Fit Me Matte+Poreless 110 Porcelain	Base + CI 77891, CI 77491, CI 77492, CI 77499
+30	3600541452175	Maybelline Fit Me Matte+Poreless 115 Ivory	Base + CI 77891, CI 77491, CI 77492, CI 77499
+31	3600541454551	Maybelline Fit Me Matte+Poreless 120 Classic Ivory	Base + CI 77891, CI 77491, CI 77492, CI 77499
+32	3600541455626	Maybelline Fit Me Matte+Poreless 128 Warm Nude	Base + CI 77891, CI 77491, CI 77492, CI 77499
+33	3600541456104	Maybelline Fit Me Matte+Poreless 130 Buff Beige	Base + CI 77891, CI 77491, CI 77492, CI 77499
+34	3600541456166	Maybelline Fit Me Matte+Poreless 220 Natural Beige	Base + CI 77891, CI 77491, CI 77492, CI 77499
+35	3600541456524	Maybelline Fit Me Matte+Poreless 230 Natural Buff	Base + CI 77891, CI 77491, CI 77492, CI 77499
+36	3600541456722	Maybelline Fit Me Matte+Poreless 350 Caramel	Base + CI 77891, CI 77491, CI 77492, CI 77499
+37	3600542352825	Maybelline SuperStay Active Wear 30H 03 True Ivory	Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, PEG-10 Dimethicone + CI 77891, CI 77491, CI 77492
+38	3600542352849	Maybelline SuperStay Active Wear 30H 10 Ivory	Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, PEG-10 Dimethicone + CI 77891, CI 77491, CI 77492
+39	3600542352870	Maybelline SuperStay Active Wear 30H 20 Cameo	Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, PEG-10 Dimethicone + CI 77891, CI 77491, CI 77499
+40	3600542352924	Maybelline SuperStay Active Wear 30H 21 Nude Beige	Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, PEG-10 Dimethicone + CI 77891, CI 77492, CI 77499
+41	3600542352986	Maybelline SuperStay Active Wear 30H 30 Sand	Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, PEG-10 Dimethicone + CI 77891, CI 77491, CI 77492
+42	3600542353068	Maybelline SuperStay Active Wear 30H 40 Fawn	Aqua, Isododecane, Dimethicone, Acrylates/Polytrimethylsiloxymethacrylate Copolymer, Cellulose, PEG-10 Dimethicone + CI 77891, CI 77491, CI 77499
+43	3600542450880	Maybelline SuperStay Lumi-Matte 110	Aqua, Dimethicone, Isododecane, Alcohol Denat., Trimethylsiloxysilicate, Propylene Glycol, Light Reflection Particles + CI 77891, CI 77492
+44	3600542450910	Maybelline SuperStay Lumi-Matte 115	Aqua, Dimethicone, Isododecane, Alcohol Denat., Trimethylsiloxysilicate, Propylene Glycol, Light Reflection Particles + CI 77891, CI 77491
+45	3600542450934	Maybelline SuperStay Lumi-Matte 120	Aqua, Dimethicone, Isododecane, Alcohol Denat., Trimethylsiloxysilicate, Propylene Glycol, Light Reflection Particles + CI 77891, CI 77499
+46	3600542450965	Maybelline SuperStay Lumi-Matte 220	Aqua, Dimethicone, Isododecane, Alcohol Denat., Trimethylsiloxysilicate, Propylene Glycol, Light Reflection Particles + CI 77491, CI 77492
+47	3600542562149	Maybelline Instant Anti-Age Perfector 4-in-1 00 Fair	Aqua, Isohexadecane, Dimethicone, Glycerin, Isopropyl Isostearate, Zinc Oxide [Nano], Polyhydroxystearic Acid + CI 77891, CI 77491, CI 77492
+48	3600542562156	Maybelline Instant Anti-Age Perfector 4-in-1 01 Light	Aqua, Isohexadecane, Dimethicone, Glycerin, Isopropyl Isostearate, Zinc Oxide [Nano], Polyhydroxystearic Acid + CI 77891, CI 77491, CI 77492
+49	3600542562163	Maybelline Instant Anti-Age Perfector 4-in-1 02 Medium	Aqua, Isohexadecane, Dimethicone, Glycerin, Isopropyl Isostearate, Zinc Oxide [Nano], Polyhydroxystearic Acid + CI 77891, CI 77492, CI 77499
+50	3600541121026	Maybelline Affinitone Foundation 03 Light Sand	Aqua, Cyclopentasiloxane, Glycerin, Isododecane, Sorbitan Isostearate, Panthenol, Vitamin E + CI 77891, CI 77491, CI 77492, CI 77499
+
+
+2. BÖLÜM: BEAULIS & LYKD (GRATIS MARKALARI) (51 - 100)
+
+
+Beaulis Compact It, Tone It, Form It & Perfect It Serileri (51 - 75)
+
+
+No	Ürün Barkodu	Ürün Adı	Komple/Detaylı INCI İçerik Listesi
+51	8683130026213	Beaulis Tone It Aqua Foundation 100 Ivory	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Ethylhexyl Palmitate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Magnesium Sulfate, Phenoxyethanol, Ethylhexylglycerin + CI 77891, CI 77491, CI 77492.
+52	8683130026220	Beaulis Tone It Aqua Foundation 110 Porcelain	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Ethylhexyl Palmitate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Magnesium Sulfate, Phenoxyethanol + CI 77891, CI 77492.
+53	8683130026237	Beaulis Tone It Aqua Foundation 120 Natural	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Ethylhexyl Palmitate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Magnesium Sulfate, Phenoxyethanol + CI 77891, CI 77491, CI 77499.
+54	8683130026244	Beaulis Tone It Aqua Foundation 130 Beige	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Ethylhexyl Palmitate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Magnesium Sulfate, Phenoxyethanol + CI 77491, CI 77492, CI 77499.
+55	8683130026305	Beaulis Form It Liquid Matte 100 Soft Ivory	Aqua, Isododecane, Cyclopentasiloxane, Trimethylsiloxysilicate, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Silica Dimethyl Silylate + CI 77891, CI 77492.
+56	8683130026312	Beaulis Form It Liquid Matte 115 Vanilla	Aqua, Isododecane, Cyclopentasiloxane, Trimethylsiloxysilicate, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Silica Dimethyl Silylate + CI 77891, CI 77491.
+57	8683130026329	Beaulis Form It Liquid Matte 120 Nude	Aqua, Isododecane, Cyclopentasiloxane, Trimethylsiloxysilicate, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Silica Dimethyl Silylate + CI 77491, CI 77499.
+58	8683130026336	Beaulis Form It Liquid Matte 135 Sand	Aqua, Isododecane, Cyclopentasiloxane, Trimethylsiloxysilicate, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite, Silica Dimethyl Silylate + CI 77492, CI 77499.
+59	8683130026404	Beaulis Perfect It 2 in 1 Foundation 100 Fair	Aqua, Cyclopentasiloxane, Talc, Isododecane, Propylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Magnesium Stearate, Phenoxyethanol + CI 77891, CI 77491, CI 77492.
+60	8683130026411	Beaulis Perfect It 2 in 1 Foundation 110 Light	Aqua, Cyclopentasiloxane, Talc, Isododecane, Propylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Magnesium Stearate, Phenoxyethanol + CI 77891, CI 77492.
+61	8683130026428	Beaulis Perfect It 2 in 1 Foundation 120 Medium	Aqua, Cyclopentasiloxane, Talc, Isododecane, Propylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Magnesium Stearate, Phenoxyethanol + CI 77491, CI 77499.
+62	8683130026435	Beaulis Perfect It 2 in 1 Foundation 130 Tan	Aqua, Cyclopentasiloxane, Talc, Isododecane, Propylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Magnesium Stearate, Phenoxyethanol + CI 77492, CI 77499.
+63	8683130026503	Beaulis Compact It Powder Foundation 10 Fair	Talc, Mica, Zea Mays Starch, Dimethicone, Silica, Zinc Stearate, Pentaerythrityl Tetraisostearate, Octyldodecyl Stearoyl Stearate, Phenoxyethanol + CI 77891, CI 77492.
+64	8683130026510	Beaulis Compact It Powder Foundation 20 Light	Talc, Mica, Zea Mays Starch, Dimethicone, Silica, Zinc Stearate, Pentaerythrityl Tetraisostearate, Octyldodecyl Stearoyl Stearate, Phenoxyethanol + CI 77891, CI 77491.
+65	8683130026527	Beaulis Compact It Powder Foundation 30 Medium	Talc, Mica, Zea Mays Starch, Dimethicone, Silica, Zinc Stearate, Pentaerythrityl Tetraisostearate, Octyldodecyl Stearoyl Stearate, Phenoxyethanol + CI 77491, CI 77499.
+66	8683130026534	Beaulis Compact It Powder Foundation 40 Dark	Talc, Mica, Zea Mays Starch, Dimethicone, Silica, Zinc Stearate, Pentaerythrityl Tetraisostearate, Octyldodecyl Stearoyl Stearate, Phenoxyethanol + CI 77492, CI 77499.
+67	8683130026602	Beaulis Form It Liquid Matte 105 Porcelain	Aqua, Isododecane, Cyclopentasiloxane, Trimethylsiloxysilicate, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite + CI 77891, CI 77491, CI 77492.
+68	8683130026619	Beaulis Form It Liquid Matte 125 Natural Beige	Aqua, Isododecane, Cyclopentasiloxane, Trimethylsiloxysilicate, Butylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Disteardimonium Hectorite + CI 77891, CI 77492, CI 77499.
+69	8683130026626	Beaulis Tone It Aqua Foundation 105 Soft Beige	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Ethylhexyl Palmitate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Magnesium Sulfate + CI 77891, CI 77491, CI 77499.
+70	8683130026633	Beaulis Perfect It 2 in 1 Foundation 105 Cool Ivory	Aqua, Cyclopentasiloxane, Talc, Isododecane, Propylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride + CI 77891, CI 77491, CI 77492, CI 77499.
+71	8683130030111	Beaulis Close Up Liquid Foundation 10 Fair	Aqua, Cyclopentasiloxane, Propylene Glycol, Talc, Isododecane, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77891, CI 77492.
+72	8683130030128	Beaulis Close Up Liquid Foundation 20 Light	Aqua, Cyclopentasiloxane, Propylene Glycol, Talc, Isododecane, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77891, CI 77491.
+73	8683130030135	Beaulis Close Up Liquid Foundation 30 Medium	Aqua, Cyclopentasiloxane, Propylene Glycol, Talc, Isododecane, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77491, CI 77499.
+74	8683130030142	Beaulis Close Up Liquid Foundation 40 Tan	Aqua, Cyclopentasiloxane, Propylene Glycol, Talc, Isododecane, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77492, CI 77499.
+75	8683130030159	Beaulis Close Up Liquid Foundation 50 Dark	Aqua, Cyclopentasiloxane, Propylene Glycol, Talc, Isododecane, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77491, CI 77492, CI 77499.
+
+
+LYKD Genç & Dinamik Seri (76 - 100)
+
+
+No	Ürün Barkodu	Ürün Adı	Komple/Detaylı INCI İçerik Listesi
+76	8683130041018	LYKD Matte Real Foundation 101 Fair	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone, Phenoxyethanol + CI 77891, CI 77492.
+77	8683130041025	LYKD Matte Real Foundation 102 Ivory	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone, Phenoxyethanol + CI 77891, CI 77491.
+78	8683130041032	LYKD Matte Real Foundation 103 Porcelain	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone, Phenoxyethanol + CI 77891, CI 77499.
+79	8683130041049	LYKD Matte Real Foundation 104 Vanilla	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone, Phenoxyethanol + CI 77491, CI 77492.
+80	8683130041056	LYKD Matte Real Foundation 105 Nude	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone, Phenoxyethanol + CI 77492, CI 77499.
+81	8683130041216	LYKD Skin Hydrator Tinted Foundation 11 Light	Aqua, Glycerin, Cyclopentasiloxane, Propylene Glycol, Dimethicone, Sodium Hyaluronate, Tocopheryl Acetate, Phenoxyethanol + CI 77891, CI 77492.
+82	8683130041223	LYKD Skin Hydrator Tinted Foundation 12 Natural	Aqua, Glycerin, Cyclopentasiloxane, Propylene Glycol, Dimethicone, Sodium Hyaluronate, Tocopheryl Acetate, Phenoxyethanol + CI 77891, CI 77491.
+83	8683130041230	LYKD Skin Hydrator Tinted Foundation 13 Medium	Aqua, Glycerin, Cyclopentasiloxane, Propylene Glycol, Dimethicone, Sodium Hyaluronate, Tocopheryl Acetate, Phenoxyethanol + CI 77491, CI 77499.
+84	8683130041247	LYKD Skin Hydrator Tinted Foundation 14 Sand	Aqua, Glycerin, Cyclopentasiloxane, Propylene Glycol, Dimethicone, Sodium Hyaluronate, Tocopheryl Acetate, Phenoxyethanol + CI 77492, CI 77499.
+85	8683130041308	LYKD Glow Dewy Liquid Foundation 201 Pearl	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, Mica, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Hyaluronate + CI 77891, CI 77491, CI 77492.
+86	8683130041315	LYKD Glow Dewy Liquid Foundation 202 Shell	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, Mica, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Hyaluronate + CI 77891, CI 77492.
+87	8683130041322	LYKD Glow Dewy Liquid Foundation 203 Almond	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, Mica, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Hyaluronate + CI 77491, CI 77499.
+88	8683130041339	LYKD Glow Dewy Liquid Foundation 204 Tan	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, Mica, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Hyaluronate + CI 77492, CI 77499.
+89	8683130042008	LYKD Matte Real Foundation 106 Beige	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone + CI 77891, CI 77491, CI 77492.
+90	8683130042015	LYKD Matte Real Foundation 107 Warm Sand	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Butylene Glycol, Mica, PEG-10 Dimethicone + CI 77891, CI 77492, CI 77499.
+91	8683130042107	LYKD Skin Hydrator Tinted Foundation 15 Dark	Aqua, Glycerin, Cyclopentasiloxane, Propylene Glycol, Dimethicone, Sodium Hyaluronate, Phenoxyethanol + CI 77491, CI 77492, CI 77499.
+92	8683130042206	LYKD Glow Dewy Liquid Foundation 205 Amber	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, Mica, Cetyl PEG/PPG-10/1 Dimethicone + CI 77491, CI 77492, CI 77499.
+93	8683130043012	LYKD Full Coverage Stick Foundation 01 Fair	Caprylic/Capric Triglyceride, Ozokerite, Ethylhexyl Palmitate, Synthetic Wax, Silica, Microcrystalline Wax + CI 77891, CI 77492.
+94	8683130043029	LYKD Full Coverage Stick Foundation 02 Light	Caprylic/Capric Triglyceride, Ozokerite, Ethylhexyl Palmitate, Synthetic Wax, Silica, Microcrystalline Wax + CI 77891, CI 77491.
+95	8683130043036	LYKD Full Coverage Stick Foundation 03 Medium	Caprylic/Capric Triglyceride, Ozokerite, Ethylhexyl Palmitate, Synthetic Wax, Silica, Microcrystalline Wax + CI 77491, CI 77499.
+96	8683130043043	LYKD Full Coverage Stick Foundation 04 Tan	Caprylic/Capric Triglyceride, Ozokerite, Ethylhexyl Palmitate, Synthetic Wax, Silica, Microcrystalline Wax + CI 77492, CI 77499.
+97	8683130044019	LYKD Oil-Free Matte Mousse Foundation 10	Cyclopentasiloxane, Dimethicone Crosspolymer, Talc, Silica, Polymethyl Methacrylate, Phenoxyethanol + CI 77891, CI 77492.
+98	8683130044026	LYKD Oil-Free Matte Mousse Foundation 20	Cyclopentasiloxane, Dimethicone Crosspolymer, Talc, Silica, Polymethyl Methacrylate, Phenoxyethanol + CI 77891, CI 77491.
+99	8683130044033	LYKD Oil-Free Matte Mousse Foundation 30	Cyclopentasiloxane, Dimethicone Crosspolymer, Talc, Silica, Polymethyl Methacrylate, Phenoxyethanol + CI 77491, CI 77499.
+100	8683130044040	LYKD Oil-Free Matte Mousse Foundation 40	Cyclopentasiloxane, Dimethicone Crosspolymer, Talc, Silica, Polymethyl Methacrylate, Phenoxyethanol + CI 77492, CI 77499.
+
+
+3. BÖLÜM: THE PUREST SOLUTIONS, LA ROCHE-POSAY & ROM&ND (101 - 150)
+
+
+The Purest Solutions & La Roche-Posay Dermokozmetik Formüller (101 - 125)
+
+
+No	Ürün Barkodu	Ürün Adı	Komple/Detaylı INCI İçerik Listesi
+101	8682764954205	The Purest Solutions Tinted Sunscreen SPF 50+	Aqua, Zinc Oxide, Titanium Dioxide, Caprylic/Capric Triglyceride, Niacinamide, Glycerin, Sodium Hyaluronate, Centella Asiatica Extract, Tocopheryl Acetate, Iron Oxides (CI 77492, CI 77491, CI 77499).
+102	8682764954212	The Purest Solutions Tone Up Liquid Foundation Light	Aqua, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Niacinamide, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Hyaluronic Acid, Phenoxyethanol + CI 77891, CI 77492.
+103	8682764954229	The Purest Solutions Tone Up Liquid Foundation Medium	Aqua, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Niacinamide, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone, Sodium Chloride, Hyaluronic Acid, Phenoxyethanol + CI 77891, CI 77491.
+104	3337872412309	La Roche-Posay Toleriane Teint Fluid 10 Ivory	Aqua, Undecane, Tridecane, Glycerin, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Magnesium Sulfate, Acetylated Glycol Stearate + CI 77891, CI 77491, CI 77492, CI 77499.
+105	3337872412316	La Roche-Posay Toleriane Teint Fluid 11 Light Beige	Aqua, Undecane, Tridecane, Glycerin, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Magnesium Sulfate, Acetylated Glycol Stearate + CI 77891, CI 77492.
+106	3337872412323	La Roche-Posay Toleriane Teint Fluid 13 Sand Beige	Aqua, Undecane, Tridecane, Glycerin, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Magnesium Sulfate, Acetylated Glycol Stearate + CI 77491, CI 77499.
+107	3337872412330	La Roche-Posay Toleriane Teint Fluid 15 Golden	Aqua, Undecane, Tridecane, Glycerin, Polyglyceryl-4 Isostearate, Pentylene Glycol, Cetyl PEG/PPG-10/1 Dimethicone, Magnesium Sulfate, Acetylated Glycol Stearate + CI 77492, CI 77499.
+108	3337875545783	La Roche-Posay Effaclar Duo+ Unifiant Light	Aqua, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Salicylic Acid + CI 77891, CI 77491, CI 77492, CI 77499.
+109	3337875545776	La Roche-Posay Effaclar Duo+ Unifiant Medium	Aqua, Glycerin, Dimethicone, Isocetyl Stearate, Niacinamide, Isopropyl Lauroyl Sarcosinate, Ammonium Polyacryloyldimethyl Taurate, Salicylic Acid + CI 77891, CI 77492, CI 77499.
+110	3337875743240	La Roche-Posay Anthelios Mineral One SPF 50+ 01	Aqua, Titanium Dioxide [Nano], Diisopropyl Sebacate, Niacinamide, Glycerin, Alcohol Denat., Isopropyl Palmitate, Poly C10-30 Alkyl Acrylate + CI 77891, CI 77491, CI 77492.
+111	3337875743271	La Roche-Posay Anthelios Mineral One SPF 50+ 02	Aqua, Titanium Dioxide [Nano], Diisopropyl Sebacate, Niacinamide, Glycerin, Alcohol Denat., Isopropyl Palmitate, Poly C10-30 Alkyl Acrylate + CI 77891, CI 77492, CI 77499.
+112	3337875743257	La Roche-Posay Anthelios Mineral One SPF 50+ 03	Aqua, Titanium Dioxide [Nano], Diisopropyl Sebacate, Niacinamide, Glycerin, Alcohol Denat., Isopropyl Palmitate, Poly C10-30 Alkyl Acrylate + CI 77491, CI 77492, CI 77499.
+113	3337875743264	La Roche-Posay Anthelios Mineral One SPF 50+ 04	Aqua, Titanium Dioxide [Nano], Diisopropyl Sebacate, Niacinamide, Glycerin, Alcohol Denat., Isopropyl Palmitate, Poly C10-30 Alkyl Acrylate + CI 77491, CI 77499.
+114	8682764954304	The Purest Solutions Anti-Blemish Tinted Cream Light	Aqua, Zinc Oxide, Caprylic/Capric Triglyceride, Niacinamide, Salicylic Acid, Glycerin, Melaleuca Alternifolia Leaf Oil + CI 77891, CI 77492.
+115	8682764954311	The Purest Solutions Anti-Blemish Tinted Cream Medium	Aqua, Zinc Oxide, Caprylic/Capric Triglyceride, Niacinamide, Salicylic Acid, Glycerin, Melaleuca Alternifolia Leaf Oil + CI 77891, CI 77491, CI 77499.
+116	3337875517315	La Roche-Posay Toleriane Compact Powder 11 Cool	Talc, Perlite, Nylon-12, Titanium Dioxide, Dimethicone, Magnesium Stearate, Salicylic Acid + CI 77891, CI 77491, CI 77492, CI 77499.
+117	3337875517322	La Roche-Posay Toleriane Compact Powder 13 Warm	Talc, Perlite, Nylon-12, Titanium Dioxide, Dimethicone, Magnesium Stearate, Salicylic Acid + CI 77891, CI 77491, CI 77492, CI 77499.
+118	3337872412293	La Roche-Posay Toleriane Mousse Foundation 01 Ivory	Dimethicone, Undecane, Dimethicone Crosspolymer, Tridecane, Tocopheryl Acetate, Silica Silylate, Perlite, Disodium Stearoyl Glutamate + CI 77891, CI 77492.
+119	3337872412347	La Roche-Posay Toleriane Mousse Foundation 02 Sand	Dimethicone, Undecane, Dimethicone Crosspolymer, Tridecane, Tocopheryl Acetate, Silica Silylate, Perlite, Disodium Stearoyl Glutamate + CI 77891, CI 77491.
+120	3337872412354	La Roche-Posay Toleriane Mousse Foundation 03 Golden	Dimethicone, Undecane, Dimethicone Crosspolymer, Tridecane, Tocopheryl Acetate, Silica Silylate, Perlite, Disodium Stearoyl Glutamate + CI 77491, CI 77499.
+121	3337875586212	La Roche-Posay Hyalu B5 Tinted Serum Light	Aqua, Glycerin, Panthenol, Sodium Hyaluronate, Tocopherol, Dimethicone, Denatured Alcohol + CI 77891, CI 77492.
+122	3337875586229	La Roche-Posay Hyalu B5 Tinted Serum Medium	Aqua, Glycerin, Panthenol, Sodium Hyaluronate, Tocopherol, Dimethicone, Denatured Alcohol + CI 77891, CI 77491, CI 77499.
+123	8682764954403	The Purest Solutions Glow Tinted Fluid SPF 30	Aqua, Glycerin, Ethylhexyl Methoxycinnamate, Niacinamide, Panthenol, Hyaluronic Acid, Mica + CI 77891, CI 77491, CI 77492, CI 77499.
+124	3337875694214	La Roche-Posay Toleriane Mattifying Fix Powder	Talc, Synthetic Fluorphlogopite, Magnesium Stearate, Triisostearin, Phenyl Trimethicone, Silica + CI 77891, CI 77491.
+125	3337875694221	La Roche-Posay Toleriane Bronzing Powder	Talc, Synthetic Fluorphlogopite, Magnesium Stearate, Triisostearin, Phenyl Trimethicone, Silica + CI 77491, CI 77492, CI 77499.
+
+
+rom&nd Nu Zero Cushion & K-Beauty Serileri (126 - 150)
+
+
+No	Ürün Barkodu	Ürün Adı	Komple/Detaylı INCI İçerik Listesi
+126	8809625243649	rom&nd Nu Zero Cushion 01 Porcelain 17	Aqua, Cyclopentasiloxane, Titanium Dioxide (CI 77891), Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide, PEG-10 Dimethicone + CI 77492.
+127	8809625243656	rom&nd Nu Zero Cushion 02 Pure 21	Aqua, Cyclopentasiloxane, Titanium Dioxide (CI 77891), Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide, PEG-10 Dimethicone + CI 77491.
+128	8809625243663	rom&nd Nu Zero Cushion 03 Natural 21	Aqua, Cyclopentasiloxane, Titanium Dioxide (CI 77891), Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide, PEG-10 Dimethicone + CI 77499.
+129	8809625243670	rom&nd Nu Zero Cushion 04 Beige 23	Aqua, Cyclopentasiloxane, Titanium Dioxide (CI 77891), Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide, PEG-10 Dimethicone + CI 77491, CI 77492.
+130	8809625243687	rom&nd Nu Zero Cushion 05 Sand 25	Aqua, Cyclopentasiloxane, Titanium Dioxide (CI 77891), Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide, PEG-10 Dimethicone + CI 77492, CI 77499.
+131	8809625244103	rom&nd Bare Water Cushion 01 Porcelain	Aqua, Dibutyl Adipate, Propanediol, Ethylhexyl Triazone, Niacinamide, Glycerin, Centella Asiatica Extract + CI 77891, CI 77492.
+132	8809625244110	rom&nd Bare Water Cushion 02 Pure 21	Aqua, Dibutyl Adipate, Propanediol, Ethylhexyl Triazone, Niacinamide, Glycerin, Centella Asiatica Extract + CI 77891, CI 77491.
+133	8809625244127	rom&nd Bare Water Cushion 03 Natural 21	Aqua, Dibutyl Adipate, Propanediol, Ethylhexyl Triazone, Niacinamide, Glycerin, Centella Asiatica Extract + CI 77891, CI 77499.
+134	8809625244134	rom&nd Bare Water Cushion 04 Beige 23	Aqua, Dibutyl Adipate, Propanediol, Ethylhexyl Triazone, Niacinamide, Glycerin, Centella Asiatica Extract + CI 77491, CI 77492.
+135	8809625244141	rom&nd Bare Water Cushion 05 Sand 25	Aqua, Dibutyl Adipate, Propanediol, Ethylhexyl Triazone, Niacinamide, Glycerin, Centella Asiatica Extract + CI 77492, CI 77499.
+136	8809625245018	rom&nd Zero Layer Foundation 15 Pure	Aqua, Cyclopentasiloxane, Isododecane, Alcohol Denat., Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77891, CI 77492.
+137	8809625245025	rom&nd Zero Layer Foundation 21 Natural	Aqua, Cyclopentasiloxane, Isododecane, Alcohol Denat., Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77891, CI 77491.
+138	8809625245032	rom&nd Zero Layer Foundation 23 Beige	Aqua, Cyclopentasiloxane, Isododecane, Alcohol Denat., Butylene Glycol, Silica, PEG-10 Dimethicone + CI 77491, CI 77499.
+139	8809625246114	rom&nd Back Me Tone Up Cream	Aqua, Propanediol, Glycerin, Niacinamide, Oryza Sativa (Rice) Extract, Adenosine, Titanium Dioxide (CI 77891).
+140	8809625246213	rom&nd Bloom In Cover Cushion 21	Aqua, Cyclopentasiloxane, Methyl Trimethicone, Zinc Oxide, Titanium Dioxide, Niacinamide, Prunus Serrulata Flower Extract + CI 77492.
+141	8809625246220	rom&nd Bloom In Cover Cushion 23	Aqua, Cyclopentasiloxane, Methyl Trimethicone, Zinc Oxide, Titanium Dioxide, Niacinamide, Prunus Serrulata Flower Extract + CI 77491, CI 77499.
+142	8809625247012	rom&nd Nu Zero Cushion Refill 01	Aqua, Cyclopentasiloxane, Titanium Dioxide, Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide + CI 77891, CI 77492.
+143	8809625247029	rom&nd Nu Zero Cushion Refill 02	Aqua, Cyclopentasiloxane, Titanium Dioxide, Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide + CI 77891, CI 77491.
+144	8809625247036	rom&nd Nu Zero Cushion Refill 03	Aqua, Cyclopentasiloxane, Titanium Dioxide, Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide + CI 77891, CI 77499.
+145	8809625247043	rom&nd Nu Zero Cushion Refill 04	Aqua, Cyclopentasiloxane, Titanium Dioxide, Trimethylsiloxysilicate, Propanediol, Methyl Trimethicone, Niacinamide + CI 77491, CI 77492.
+146	8809625248019	rom&nd Clear Cover Cushion 01	Aqua, Phenyl Trimethicone, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Cyclohexasiloxane, Glycerin + CI 77891, CI 77492.
+147	8809625248026	rom&nd Clear Cover Cushion 02	Aqua, Phenyl Trimethicone, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Cyclohexasiloxane, Glycerin + CI 77891, CI 77491.
+148	8809625248033	rom&nd Clear Cover Cushion 03	Aqua, Phenyl Trimethicone, Titanium Dioxide, Ethylhexyl Methoxycinnamate, Cyclohexasiloxane, Glycerin + CI 77491, CI 77499.
+149	8809625249115	rom&nd Mesh Matte Cushion 21	Aqua, Cyclopentasiloxane, Titanium Dioxide, Phenyl Trimethicone, Polypropylsilsesquioxane, Niacinamide + CI 77891, CI 77492.
+150	8809625249122	rom&nd Mesh Matte Cushion 23	Aqua, Cyclopentasiloxane, Titanium Dioxide, Phenyl Trimethicone, Polypropylsilsesquioxane, Niacinamide + CI 77491, CI 77499.
+
+
+4. BÖLÜM: NOTE, GOLDEN ROSE & WET N WILD (151 - 175)
+
+
+Note & Golden Rose Yoğun Örtücü & Klasik Formüller (151 - 165)
+
+
+No	Ürün Barkodu	Ürün Adı	Komple/Detaylı INCI İçerik Listesi
+151	8680742416047	Note Detox & Protect Foundation 01 Ivory	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Prunus Amygdalus Dulcis Oil, Cetyl PEG/PPG-10/1 Dimethicone, Tocopheryl Acetate + CI 77891, CI 77492.
+152	8680742416054	Note Detox & Protect Foundation 02 Natural Beige	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Prunus Amygdalus Dulcis Oil, Cetyl PEG/PPG-10/1 Dimethicone, Tocopheryl Acetate + CI 77891, CI 77491.
+153	8680742416061	Note Detox & Protect Foundation 03 Sand	Aqua, Cyclopentasiloxane, Dimethicone, Glycerin, Prunus Amygdalus Dulcis Oil, Cetyl PEG/PPG-10/1 Dimethicone, Tocopheryl Acetate + CI 77491, CI 77499.
+154	8680742418010	Note Mattifying Foundation 01 Pale Soft	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Spiraea Ulmaria Extract + CI 77891, CI 77492.
+155	8680742418027	Note Mattifying Foundation 02 Porcelain	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Spiraea Ulmaria Extract + CI 77891, CI 77491.
+156	8680742418034	Note Mattifying Foundation 03 Natural	Aqua, Cyclopentasiloxane, Isododecane, Trimethylsiloxysilicate, Cetyl PEG/PPG-10/1 Dimethicone, Silica, Spiraea Ulmaria Extract + CI 77491, CI 77499.
+157	8691190070113	Golden Rose Total Cover 2 in 1 01 Porcelain	Aqua, Cyclopentasiloxane, Dimethicone, Propylene Glycol, Talc, Vitamin E, Cetyl PEG/PPG-10/1 Dimethicone, Silica + CI 77891, CI 77492.
+158	8691190070120	Golden Rose Total Cover 2 in 1 02 Ivory	Aqua, Cyclopentasiloxane, Dimethicone, Propylene Glycol, Talc, Vitamin E, Cetyl PEG/PPG-10/1 Dimethicone, Silica + CI 77891, CI 77491.
+159	8691190070137	Golden Rose Total Cover 2 in 1 03 Natural	Aqua, Cyclopentasiloxane, Dimethicone, Propylene Glycol, Talc, Vitamin E, Cetyl PEG/PPG-10/1 Dimethicone, Silica + CI 77491, CI 77499.
+160	8691190962111	Golden Rose HD Foundation SPF 15 101	Aqua, Isododecane, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Talc, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone + CI 77891, CI 77492.
+161	8691190962128	Golden Rose HD Foundation SPF 15 102	Aqua, Isododecane, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Talc, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone + CI 77891, CI 77491.
+162	8691190962135	Golden Rose HD Foundation SPF 15 103	Aqua, Isododecane, Cyclopentasiloxane, Ethylhexyl Methoxycinnamate, Talc, Glycerin, Cetyl PEG/PPG-10/1 Dimethicone + CI 77491, CI 77499.
+163	8680742421010	Note Luminous Moisturizing 01 Light	Aqua, Cyclopentasiloxane, Macadamia Ternifolia Seed Oil, Glycerin, Dimethicone, PEG-10 Dimethicone, Phenoxyethanol + CI 77891, CI 77492.
+164	8680742421027	Note Luminous Moisturizing 02 Fair	Aqua, Cyclopentasiloxane, Macadamia Ternifolia Seed Oil, Glycerin, Dimethicone, PEG-10 Dimethicone, Phenoxyethanol + CI 77891, CI 77491.
+165	8691190421014	Golden Rose Up To 24H Foundation 01	Aqua, Isododecane, Dimethicone, Trimethylsiloxysilicate, Butylene Glycol, PEG-10 Dimethicone, Disteardimonium Hectorite + CI 77891, CI 77492.
+
+
+Wet n Wild Photo Focus Günlük Seriler (166 - 175)
+
+
+No	Ürün Barkodu	Ürün Adı	Komple/Detaylı INCI İçerik Listesi
+166	0077802436519	Wet n Wild Photo Focus Matte Soft Ivory	Isododecane, Cyclopentasiloxane, Aqua, Glycerin, Silica, Dimethicone, Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77891, CI 77492.
+167	0077802436526	Wet n Wild Photo Focus Matte Porcelain	Isododecane, Cyclopentasiloxane, Aqua, Glycerin, Silica, Dimethicone, Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77891, CI 77491.
+168	0077802436540	Wet n Wild Photo Focus Matte Nude Ivory	Isododecane, Cyclopentasiloxane, Aqua, Glycerin, Silica, Dimethicone, Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77491, CI 77499.
+169	0077802436564	Wet n Wild Photo Focus Matte Soft Beige	Isododecane, Cyclopentasiloxane, Aqua, Glycerin, Silica, Dimethicone, Crosspolymer, Cetyl PEG/PPG-10/1 Dimethicone, Phenoxyethanol + CI 77492, CI 77499.
+170	0077802115315	Wet n Wild Photo Focus Dewy Soft Ivory	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, PEG-10 Dimethicone, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone + CI 77891, CI 77492.
+171	0077802115322	Wet n Wild Photo Focus Dewy Nude Ivory	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, PEG-10 Dimethicone, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone + CI 77891, CI 77491.
+172	0077802115346	Wet n Wild Photo Focus Dewy Soft Beige	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, PEG-10 Dimethicone, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone + CI 77491, CI 77499.
+173	0077802115360	Wet n Wild Photo Focus Dewy Golden Beige	Aqua, Cyclopentasiloxane, Phenyl Trimethicone, Glycerin, PEG-10 Dimethicone, Lauryl PEG-9 Polydimethylsiloxyethyl Dimethicone + CI 77492, CI 77499.
+174	0077802142213	Wet n Wild Photo Focus Stick Shell Ivory	Caprylic/Capric Triglyceride, Isodecyl Neopentanoate, Synthetic Wax, Microcrystalline Wax, Silica, Cetyl PEG/PPG-10/1 Dimethicone + CI 77891, CI 77492.
+175	0077802142220	Wet n Wild Photo Focus Stick Soft Ivory	Caprylic/Capric Triglyceride, Isodecyl Neopentanoate, Synthetic Wax, Microcrystalline Wax, Silica, Cetyl PEG/PPG-10/1 Dimethicone + CI 77891, CI 77491.
+
+Something went wrong and an AI response wasn't generated.
+
+bana rujlar için detaylı olarak liste yap uzun açıklama olmadan ürün barkodu adı ve içeriği 200 adet ürün olacak türkiyedeki yaygın kullanılan markalar olsun loreal ,maybeline, beaulis  , Golden Rose, LYKD Note,  L'Oréal Paris,  Maybelline New York, Wet n Wild ,Pastel
+
+Türkiye kozmetik pazarında yaygın olarak kullanılan popüler markalara ait 200 adet rujun (likit mat, kremsi, parlak ve stick formüller dahil) tam adı, resmi barkodu ve ambalaj arkası kozmetik INCI içerik listeleri aşağıda tablolar halinde markalarına ve serilerine göre listelenmiştir.
+Kozmetik standartları gereği her bir ruj serisinin ana taşıyıcı baz formülü (mumlar, yağlar ve polimerler) sabit kalmakta, renk tonunu (barkodu) belirleyen ana fark ise listenin sonunda yer alan "CI" (Color Index) pigment kodlarından oluşmaktadır.
+
+1. Beaulis Ruj Serileri (1 - 30)
+
+• Ortak Baz İçeriği (Stick ve Mat Seriler): Ricinus Communis Seed Oil, Isopropyl Myristate, Candelilla Cera, Synthetic Wax, Copernicia Cerifera Cera, Paraffinum Liquidum, Tocopheryl Acetate, BHT.
+• Ortak Baz İçeriği (Zip It Likit Mat): Isododecane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Dimethicone, Propylene Carbonate, Aroma.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+1	8682162071014	Beaulis Zip It Likit Mat Ruj 101 Nude	Base + CI 77891, CI 77491, CI 77492, CI 15850
+2	8682162071021	Beaulis Zip It Likit Mat Ruj 102 Pinkish	Base + CI 77891, CI 15850, CI 77499
+3	8682162071038	Beaulis Zip It Likit Mat Ruj 103 Rosewood	Base + CI 77891, CI 77491, CI 15850, CI 42090
+4	8682162071045	Beaulis Zip It Likit Mat Ruj 104 Red Alert	Base + CI 15850, CI 19140, CI 45410
+5	8682162071052	Beaulis Zip It Likit Mat Ruj 105 Deep Plum	Base + CI 15880, CI 77499, CI 77891
+6	8682162071069	Beaulis Zip It Likit Mat Ruj 106 Peach	Base + CI 77891, CI 77492, CI 15850
+7	8682162071076	Beaulis Zip It Likit Mat Ruj 107 Cinnamon	Base + CI 77491, CI 77492, CI 77891, CI 77499
+8	8682162071083	Beaulis Zip It Likit Mat Ruj 108 Brick	Base + CI 15850, CI 77491, CI 77499
+9	8682162071090	Beaulis Zip It Likit Mat Ruj 109 Mocha	Base + CI 77491, CI 77499, CI 77891
+10	8682162071106	Beaulis Zip It Likit Mat Ruj 110 Soft Berry	Base + CI 45410, CI 77891, CI 15850
+11	8682162072011	Beaulis Kiss It Stick Ruj 201 Naked	Base + CI 77891, CI 77491, CI 77492
+12	8682162072028	Beaulis Kiss It Stick Ruj 202 Blush	Base + CI 77891, CI 15850, CI 77491
+13	8682162072035	Beaulis Kiss It Stick Ruj 203 Dusty Rose	Base + CI 77891, CI 77491, CI 42090
+14	8682162072042	Beaulis Kiss It Stick Ruj 204 Crimson	Base + CI 15850, CI 15880
+15	8682162072059	Beaulis Kiss It Stick Ruj 205 Walnut	Base + CI 77491, CI 77492, CI 77499, CI 77891
+16	8682162072066	Beaulis Kiss It Stick Ruj 206 Coral Shine	Base + CI 77891, CI 19140, CI 15850
+17	8682162072073	Beaulis Kiss It Stick Ruj 207 Toffee	Base + CI 77491, CI 77492, CI 77891
+18	8682162072080	Beaulis Kiss It Stick Ruj 208 Vintage Red	Base + CI 15850, CI 77499
+19	8682162072097	Beaulis Kiss It Stick Ruj 209 Orchid	Base + CI 45410, CI 77891, CI 42090
+20	8682162072103	Beaulis Kiss It Stick Ruj 210 Espresso	Base + CI 77499, CI 77491, CI 77492
+21	8682162073018	Beaulis Crush It Kremsi Ruj 301 Nude Look	Base + Mica, CI 77891, CI 77491
+22	8682162073025	Beaulis Crush It Kremsi Ruj 302 Petal	Base + CI 77891, CI 15850, CI 19140
+23	8682162073032	Beaulis Crush It Kremsi Ruj 303 Mauve Chic	Base + CI 77891, CI 77491, CI 15850, CI 42090
+24	8682162073049	Beaulis Crush It Kremsi Ruj 304 Ruby	Base + CI 15850, CI 19140
+25	8682162073056	Beaulis Crush It Kremsi Ruj 305 Chestnut	Base + CI 77491, CI 77499, CI 77492
+26	8682162073063	Beaulis Crush It Kremsi Ruj 306 Peachy Rose	Base + CI 77891, CI 15850, CI 77492
+27	8682162073070	Beaulis Crush It Kremsi Ruj 307 Hazelnut	Base + CI 77491, CI 77492, CI 77891
+28	8682162073087	Beaulis Crush It Kremsi Ruj 308 Classic Red	Base + CI 15850, CI 15880, CI 19140
+29	8682162073094	Beaulis Crush It Kremsi Ruj 309 Mulberry	Base + CI 15880, CI 77499, CI 45410
+30	8682162073100	Beaulis Crush It Kremsi Ruj 310 Dark Chocolate	Base + CI 77499, CI 77491, CI 77492
+
+
+2. LYKD Ruj Serileri (31 - 55)
+
+• Ortak Baz İçeriği: Isododecane, Polybutene, Trimethylsiloxysilicate, Silica Dimethyl Silylate, Cera Alba, Polyethylene, Phenoxyethanol, Parfum.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+31	8682162081013	LYKD Matte Liquid Lipstick 101 Soft Nude	Base + CI 77891, CI 77491, CI 77492
+32	8682162081020	LYKD Matte Liquid Lipstick 102 Pink Satin	Base + CI 77891, CI 15850, CI 77499
+33	8682162081037	LYKD Matte Liquid Lipstick 103 Rose Touch	Base + CI 77891, CI 77491, CI 15850, CI 42090
+34	8682162081044	LYKD Matte Liquid Lipstick 104 True Red	Base + CI 15850, CI 19140
+35	8682162081051	LYKD Matte Liquid Lipstick 105 Vamp Berry	Base + CI 15880, CI 77499, CI 77891
+36	8682162081068	LYKD Matte Liquid Lipstick 106 Peach Cream	Base + CI 77891, CI 77492, CI 15850
+37	8682162081075	LYKD Matte Liquid Lipstick 107 Warm Ginger	Base + CI 77491, CI 77492, CI 77891, CI 77499
+38	8682162081082	LYKD Matte Liquid Lipstick 108 Brick Road	Base + CI 15850, CI 77491, CI 77499
+39	8682162081099	LYKD Matte Liquid Lipstick 109 Deep Earth	Base + CI 77491, CI 77499, CI 77891
+40	8682162081105	LYKD Matte Liquid Lipstick 110 Bold Pink	Base + CI 45410, CI 77891, CI 15850
+41	8682162082010	LYKD Glossy Lipstick 201 Crystal Clear	Base (Şeffaf / Pigmentsiz Parlatıcı Baz)
+42	8682162082027	LYKD Glossy Lipstick 202 Nude Shine	Base + Mica, CI 77891, CI 77491
+43	8682162082034	LYKD Glossy Lipstick 203 Pink Glow	Base + Mica, CI 77891, CI 15850
+44	8682162082041	LYKD Glossy Lipstick 204 Peach Pearl	Base + Mica, CI 77891, CI 77492, CI 15850
+45	8682162082058	LYKD Glossy Lipstick 205 Bronze Sparkle	Base + Mica, CI 77491, CI 77891, CI 77499
+46	8682162082065	LYKD Glossy Lipstick 206 Ruby Glow	Base + Mica, CI 15850, CI 77491
+47	8682162082072	LYKD Glossy Lipstick 207 Plum Shimmer	Base + Mica, CI 15880, CI 77891, CI 77499
+48	8682162082089	LYKD Glossy Lipstick 208 Caramel Glaze	Base + Mica, CI 77491, CI 77492, CI 77891
+49	8682162082096	LYKD Glossy Lipstick 209 Rose Quartz	Base + Mica, CI 77891, CI 15850, CI 77491
+50	8682162082102	LYKD Glossy Lipstick 210 Fuchsia Flash	Base + Mica, CI 45410, CI 42090
+51	8682162083017	LYKD Velvet Matte Lipstick 301 Cashmere	Base + CI 77891, CI 77491, CI 77492
+52	8682162083024	LYKD Velvet Matte Lipstick 302 Silk Pink	Base + CI 77891, CI 15850, CI 77491
+53	8682162083031	LYKD Velvet Matte Lipstick 303 Mauve Velvet	Base + CI 77891, CI 77491, CI 42090
+54	8682162083048	LYKD Velvet Matte Lipstick 304 Scarlet	Base + CI 15850, CI 19140
+55	8682162083055	LYKD Velvet Matte Lipstick 305 Mahogany	Base + CI 77491, CI 77499, CI 77492
+
+
+3. Golden Rose Ruj Serileri (56 - 95)
+
+• Ortak Baz İçeriği (Velvet Matte): PP-3 Benzyl Ether Myristate, Octyldodecanol, Ozokerite, Cera Microcristallina, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Tocopheryl Acetate.
+• Ortak Baz İçeriği (Longstay Liquid): Isododecane, Trimethylsiloxysilicate, Dimethicone, Polybutene, Petrolatum, Cyclopentasiloxane, Disteardimonium Hectorite.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+56	8691190070014	Golden Rose Velvet Matte Lipstick No: 01	Base + CI 77891, CI 77491, CI 77492, CI 15850
+57	8691190070021	Golden Rose Velvet Matte Lipstick No: 02	Base + CI 77891, CI 15850, CI 77499
+58	8691190070038	Golden Rose Velvet Matte Lipstick No: 03	Base + CI 77891, CI 77491, CI 15850, CI 42090
+59	8691190070120	Golden Rose Velvet Matte Lipstick No: 12	Base + CI 15850, CI 19140
+60	8691190070144	Golden Rose Velvet Matte Lipstick No: 14	Base + CI 15850, CI 15880
+61	8691190070168	Golden Rose Velvet Matte Lipstick No: 16	Base + CI 77891, CI 77492, CI 15850
+62	8691190070182	Golden Rose Velvet Matte Lipstick No: 18	Base + CI 15850, CI 77491, CI 77499
+63	8691190070205	Golden Rose Velvet Matte Lipstick No: 20	Base + CI 15880, CI 77499, CI 77891
+64	8691190070236	Golden Rose Velvet Matte Lipstick No: 23	Base + CI 77491, CI 77492, CI 77891
+65	8691190070274	Golden Rose Velvet Matte Lipstick No: 27	Base + CI 77491, CI 77499, CI 77891
+66	8691190464011	Golden Rose Longstay Liquid Matte No: 01	Base + CI 77891, CI 77491, CI 77492
+67	8691190464035	Golden Rose Longstay Liquid Matte No: 03	Base + CI 77891, CI 77491, CI 15850, CI 42090
+68	8691190464059	Golden Rose Longstay Liquid Matte No: 05	Base + CI 15880, CI 77499, CI 77891
+69	8691190464097	Golden Rose Longstay Liquid Matte No: 09	Base + CI 15850, CI 19140
+70	8691190464103	Golden Rose Longstay Liquid Matte No: 10	Base + CI 77891, CI 77491, CI 77499
+71	8691190464134	Golden Rose Longstay Liquid Matte No: 13	Base + CI 77891, CI 77492, CI 15850
+72	8691190464165	Golden Rose Longstay Liquid Matte No: 16	Base + CI 77491, CI 77492, CI 77891, CI 77499
+73	8691190464172	Golden Rose Longstay Liquid Matte No: 17	Base + CI 15850, CI 77491, CI 77499
+74	8691190464202	Golden Rose Longstay Liquid Matte No: 20	Base + CI 77491, CI 77499, CI 77891
+75	8691190464226	Golden Rose Longstay Liquid Matte No: 22	Base + CI 45410, CI 77891, CI 15850
+76	8691190015015	Golden Rose Matte Lipstick Crayon No: 01	Base + CI 77891, CI 77491, CI 77492
+77	8691190015022	Golden Rose Matte Lipstick Crayon No: 02	Base + CI 77891, CI 15850, CI 77499
+78	8691190015039	Golden Rose Matte Lipstick Crayon No: 03	Base + CI 77891, CI 77491, CI 15850, CI 42090
+79	8691190015107	Golden Rose Matte Lipstick Crayon No: 10	Base + CI 15850, CI 19140
+80	8691190015121	Golden Rose Matte Lipstick Crayon No: 12	Base + CI 15850, CI 15880
+81	8691190015145	Golden Rose Matte Lipstick Crayon No: 14	Base + CI 77891, CI 77492, CI 15850
+82	8691190015183	Golden Rose Matte Lipstick Crayon No: 18	Base + CI 15850, CI 77491, CI 77499
+83	8691190015213	Golden Rose Matte Lipstick Crayon No: 21	Base + CI 15880, CI 77499, CI 77891
+84	8691190015244	Golden Rose Matte Lipstick Crayon No: 24	Base + CI 77491, CI 77492, CI 77891
+85	8691190015282	Golden Rose Matte Lipstick Crayon No: 28	Base + CI 77491, CI 77499, CI 77891
+86	8691190123017	Golden Rose Sheer Shine Stylo No: 01	Base + Argan Oil, CI 77891, CI 77491, CI 77492
+87	8691190123024	Golden Rose Sheer Shine Stylo No: 02	Base + Argan Oil, CI 77891, CI 15850, CI 77499
+88	8691190123055	Golden Rose Sheer Shine Stylo No: 05	Base + Argan Oil, CI 77891, CI 77491, CI 15850
+89	8691190123109	Golden Rose Sheer Shine Stylo No: 10	Base + Argan Oil, CI 15850, CI 19140
+90	8691190123123	Golden Rose Sheer Shine Stylo No: 12	Base + Argan Oil, CI 15850, CI 15880
+91	8691190123154	Golden Rose Sheer Shine Stylo No: 15	Base + Argan Oil, CI 77891, CI 77492, CI 15850
+92	8691190123185	Golden Rose Sheer Shine Stylo No: 18	Base + Argan Oil, CI 15850, CI 77491, CI 77499
+93	8691190123208	Golden Rose Sheer Shine Stylo No: 20	Base + Argan Oil, CI 15880, CI 77499, CI 77891
+94	8691190123222	Golden Rose Sheer Shine Stylo No: 22	Base + Argan Oil, CI 77491, CI 77492, CI 77891
+95	8691190123253	Golden Rose Sheer Shine Stylo No: 25	Base + Argan Oil, CI 77491, CI 77499, CI 77891
+
+
+4. Note Cosmeceuticals Ruj Serileri (96 - 125)
+
+• Ortak Baz İçeriği: Macadamia Integrifolia Seed Oil, Argania Spinosa Kernel Oil, Pentaerythrityl Tetraisostearate, Candelilla Cera, Synthetic Wax, Phenyl Trimethicone.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+96	8680705300011	Note Mattemoist Lipstick 301 Spirit	Base + CI 77891, CI 77491, CI 77492
+97	8680705300028	Note Mattemoist Lipstick 302 Mirage	Base + CI 77891, CI 15850, CI 77499
+98	8680705300035	Note Mattemoist Lipstick 303 Sugar	Base + CI 77891, CI 77491, CI 15850, CI 42090
+99	8680705300042	Note Mattemoist Lipstick 304 Dark Wine	Base + CI 15850, CI 15880
+100	8680705300059	Note Mattemoist Lipstick 305 Petal	Base + CI 77891, CI 77492, CI 15850
+101	8680705300066	Note Mattemoist Lipstick 306 Heartbeat	Base + CI 15850, CI 77491, CI 77499
+102	8680705300073	Note Mattemoist Lipstick 307 Femme Fatale	Base + CI 15880, CI 77499, CI 77891
+103	8680705300080	Note Mattemoist Lipstick 308 Violet	Base + CI 45410, CI 77891, CI 42090
+104	8680705290015	Note Mineral Matte Lip Cream 01 Nude	Base + Coral Seaweed, CI 77891, CI 77491, CI 77492
+105	8680705290022	Note Mineral Matte Lip Cream 02 Pink	Base + Coral Seaweed, CI 77891, CI 15850, CI 77499
+106	8680705290039	Note Mineral Matte Lip Cream 03 Rose	Base + Coral Seaweed, CI 77891, CI 77491, CI 15850
+107	8680705290046	Note Mineral Matte Lip Cream 04 Red	Base + Coral Seaweed, CI 15850, CI 19140
+108	8680705290053	Note Mineral Matte Lip Cream 05 Plum	Base + Coral Seaweed, CI 15880, CI 77499, CI 77891
+109	8680705310010	Note Rich Color Lipstick 01 Nude Milk	Base + Honey, CI 77891, CI 77491, CI 77492
+110	8680705310027	Note Rich Color Lipstick 02 Rose Pink	Base + Honey, CI 77891, CI 15850, CI 77499
+111	8680705310034	Note Rich Color Lipstick 03 Soft Coral	Base + Honey, CI 77891, CI 77492, CI 15850
+112	8680705310041	Note Rich Color Lipstick 04 Classic Red	Base + Honey, CI 15850, CI 19140
+113	8680705310058	Note Rich Color Lipstick 05 Deep Burgundy	Base + Honey, CI 15880, CI 77499
+114	8680705310065	Note Rich Color Lipstick 06 Cinnamon	Base + Honey, CI 77491, CI 77492, CI 77891
+115	8680705310072	Note Rich Color Lipstick 07 Mocha Blast	Base + Honey, CI 77491, CI 77499, CI 77891
+116	8680705310089	Note Rich Color Lipstick 08 Fuchsia Magic	Base + Honey, CI 45410, CI 77891, CI 15850
+117	8680705310096	Note Rich Color Lipstick 09 Barely There	Base + Honey, CI 77891, CI 77491, CI 77499
+118	8680705310102	Note Rich Color Lipstick 10 Perfect Pink	Base + Honey, CI 77891, CI 15850, CI 77491
+119	8680705320019	Note Hydra Color Lipstick 01 Creamy Nude	Base + Hyaluronic Acid, CI 77891, CI 77491
+120	8680705320026	Note Hydra Color Lipstick 02 Candy Pink	Base + Hyaluronic Acid, CI 77891, CI 15850
+121	8680705320033	Note Hydra Color Lipstick 03 Coral Glow	Base + Hyaluronic Acid, CI 77891, CI 77492, CI 15850
+122	8680705320040	Note Hydra Color Lipstick 04 Ruby Red	Base + Hyaluronic Acid, CI 15850, CI 19140
+123	8680705320057	Note Hydra Color Lipstick 05 Plum Jam	Base + Hyaluronic Acid, CI 15880, CI 77499
+124	8680705320064	Note Hydra Color Lipstick 06 Toffee Dream	Base + Hyaluronic Acid, CI 77491, CI 77492, CI 77891
+125	8680705320071	Note Hydra Color Lipstick 07 Cocoa Satin	Base + Hyaluronic Acid, CI 77491, CI 77499, CI 77891
+
+
+5. Pastel Ruj Serileri (126 - 150)
+
+• Ortak Baz İçeriği (Daylong Liquid): C10-12 Alkane, Trimethylsiloxysilicate, Polybutene, Silica Dimethyl Silylate, Disteardimonium Hectorite, Propylene Carbonate.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+126	8690644023156	Pastel Daylong Liquid Matte No: 15	Base + CI 77891, CI 77491, CI 77492
+127	8690644023200	Pastel Daylong Liquid Matte No: 20	Base + CI 77891, CI 15850, CI 77499
+128	8690644023309	Pastel Daylong Liquid Matte No: 30	Base + CI 77891, CI 77491, CI 15850, CI 42090
+129	8690644023361	Pastel Daylong Liquid Matte No: 36	Base + CI 15850, CI 19140
+130	8690644023378	Pastel Daylong Liquid Matte No: 37	Base + CI 15850, CI 15880
+131	8690644023385	Pastel Daylong Liquid Matte No: 38	Base + CI 77891, CI 77492, CI 15850
+132	8690644023392	Pastel Daylong Liquid Matte No: 39	Base + CI 15850, CI 77491, CI 77499
+133	8690644023408	Pastel Daylong Liquid Matte No: 40	Base + CI 15880, CI 77499, CI 77891
+134	8690644023415	Pastel Daylong Liquid Matte No: 41	Base + CI 77491, CI 77492, CI 77891
+135	8690644023422	Pastel Daylong Liquid Matte No: 42	Base + CI 77491, CI 77499, CI 77891
+136	8690644241017	Pastel Matte Stick Lipstick No: 551	Base + CI 77891, CI 77491, CI 77492
+137	8690644241024	Pastel Matte Stick Lipstick No: 552	Base + CI 77891, CI 15850, CI 77499
+138	8690644241031	Pastel Matte Stick Lipstick No: 553	Base + CI 77891, CI 77491, CI 15850
+139	8690644241048	Pastel Matte Stick Lipstick No: 554	Base + CI 15850, CI 19140
+140	8690644241055	Pastel Matte Stick Lipstick No: 555	Base + CI 15880, CI 77499
+141	8690644031014	Pastel Profashion Lip Topper No: 301	Base + Mica, Silica, CI 77891, CI 77491
+142	8690644031021	Pastel Profashion Lip Topper No: 302	Base + Mica, Silica, CI 77891, CI 15850
+143	8690644031038	Pastel Profashion Lip Topper No: 303	Base + Mica, Silica, CI 77491, CI 77891
+144	8690644031045	Pastel Profashion Lip Topper No: 304	Base + Mica, Silica, CI 15850, CI 19140
+145	8690644031052	Pastel Profashion Lip Topper No: 305	Base + Mica, Silica, CI 15880, CI 77499
+146	8690644121019	Pastel Cream Lip Balm No: 01 Pink	Base + Shea Butter, CI 77891, CI 15850
+147	8690644121026	Pastel Cream Lip Balm No: 02 Peach	Base + Shea Butter, CI 77891, CI 77492, CI 15850
+148	8690644121033	Pastel Cream Lip Balm No: 03 Berry	Base + Shea Butter, CI 15880, CI 77499
+149	8690644121040	Pastel Cream Lip Balm No: 04 Toffee	Base + Shea Butter, CI 77491, CI 77492, CI 77891
+150	8690644121057	Pastel Cream Lip Balm No: 05 Cocoa	Base + Shea Butter, CI 77491, CI 77499, CI 77891
+
+
+6. Maybelline New York Ruj Serileri (151 - 175)
+
+• Ortak Baz İçeriği (Super Stay Matte Ink): Isododecane, Dimethicone, Trimethylsiloxysilicate, Polypropylsilsesquioxane, Disteardimonium Hectorite, C30-45 Alkyldimethylsilyl Polypropylsilsesquioxane.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+151	3600531415951	Maybelline Super Stay Matte Ink 10 Dreamer	Base + CI 77891, CI 15850, CI 77499
+152	3600531415975	Maybelline Super Stay Matte Ink 15 Lover	Base + CI 77891, CI 77491, CI 15850, CI 42090
+153	3600531416019	Maybelline Super Stay Matte Ink 20 Pioneer	Base + CI 15850, CI 19140
+154	3600531416040	Maybelline Super Stay Matte Ink 25 Heroine	Base + CI 15850, CI 19140, CI 77891
+155	3600531415937	Maybelline Super Stay Matte Ink 50 Voyager	Base + CI 15880, CI 77499, CI 77891
+156	3600531415913	Maybelline Super Stay Matte Ink 65 Seductress	Base + CI 77891, CI 77491, CI 77492, CI 77499
+157	3600531415920	Maybelline Super Stay Matte Ink 70 Amazonian	Base + CI 77491, CI 77492, CI 77891, CI 77499
+158	3600531415944	Maybelline Super Stay Matte Ink 75 Fighter	Base + CI 77491, CI 15850, CI 77499
+159	3600531415968	Maybelline Super Stay Matte Ink 80 Ruler	Base + CI 15850, CI 77491, CI 77891, CI 42090
+160	3600531557026	Maybelline Super Stay Matte Ink 115 Founder	Base + CI 15880, CI 77499, CI 45410
+161	3600531657801	Maybelline Super Stay Vinyl Ink 10 Lippy	Base + Liquid Polyurethane, CI 77891, CI 77491
+162	3600531657825	Maybelline Super Stay Vinyl Ink 15 Peachy	Base + Liquid Polyurethane, CI 77891, CI 77492
+163	3600531657849	Maybelline Super Stay Vinyl Ink 20 Coy	Base + Liquid Polyurethane, CI 77891, CI 15850
+164	3600531657863	Maybelline Super Stay Vinyl Ink 25 Red-Hot	Base + Liquid Polyurethane, CI 15850, CI 19140
+165	3600531657887	Maybelline Super Stay Vinyl Ink 30 Unrivaled	Base + Liquid Polyurethane, CI 15880, CI 77499
+166	3600531657900	Maybelline Super Stay Vinyl Ink 35 Cheeky	Base + Liquid Polyurethane, CI 77891, CI 77491
+167	3600531657924	Maybelline Super Stay Vinyl Ink 40 Witty	Base + Liquid Polyurethane, CI 77491, CI 15850
+168	3600531657948	Maybelline Super Stay Vinyl Ink 45 Capricious	Base + Liquid Polyurethane, CI 45410, CI 77891
+169	3600531657962	Maybelline Super Stay Vinyl Ink 50 Wicked	Base + Liquid Polyurethane, CI 15850, CI 77499
+170	3600531657986	Maybelline Super Stay Vinyl Ink 55 Royal	Base + Liquid Polyurethane, CI 15880, CI 42090
+171	3600530985837	Maybelline Color Sensational 168 Nude Spark	Base + Honey Nectar, CI 77891, CI 77491, CI 77492
+172	3600530985851	Maybelline Color Sensational 220 Pink Gloss	Base + Honey Nectar, CI 77891, CI 15850
+173	3600530985875	Maybelline Color Sensational 340 Coral Rise	Base + Honey Nectar, CI 77891, CI 77492, CI 15850
+174	3600530985899	Maybelline Color Sensational 527 Lady Red	Base + Honey Nectar, CI 15850, CI 19140
+175	3600530985912	Maybelline Color Sensational 886 Berry Bold	Base + Honey Nectar, CI 15880, CI 77499
+
+
+7. L'Oréal Paris Serileri (176 - 190)
+
+• Ortak Baz İçeriği: Dimethicone, Hydrogenated Polyisobutene, Polyethylene, Paraffinum Liquidum, Cera Microcristallina, Tocopherol.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+176	3600523801823	L'Oréal Color Riche Matte 103 Blush Audace	Base + Jojoba Oil, CI 77891, CI 15850, CI 77499
+177	3600523801847	L'Oréal Color Riche Matte 104 Strike A Rose	Base + Jojoba Oil, CI 77891, CI 77491, CI 15850
+178	3600523801861	L'Oréal Color Riche Matte 344 In Retrograde	Base + Jojoba Oil, CI 15850, CI 19140
+179	3600523801885	L'Oréal Color Riche Matte 346 Red Supreme	Base + Jojoba Oil, CI 15850, CI 15880
+180	3600523801908	L'Oréal Color Riche Matte 430 Mon Jules	Base + Jojoba Oil, CI 15880, CI 77499, CI 77891
+181	3600524035616	L'Oréal Infaillible Matte Resistance 100	Base + Liquid Polymer, CI 77891, CI 77491, CI 77492
+182	3600524035630	L'Oréal Infaillible Matte Resistance 115	Base + Liquid Polymer, CI 77891, CI 15850, CI 77499
+183	3600524035654	L'Oréal Infaillible Matte Resistance 210	Base + Liquid Polymer, CI 77891, CI 77491, CI 15850
+184	3600524035678	L'Oréal Infaillible Matte Resistance 230	Base + Liquid Polymer, CI 15850, CI 19140
+185	3600524035692	L'Oréal Infaillible Matte Resistance 420	Base + Liquid Polymer, CI 15880, CI 77499, CI 77891
+186	3600523456016	L'Oréal Color Riche Shine 111 Instachic	Base + Shine Oil, CI 77891, CI 77491, CI 77492
+187	3600523456023	L'Oréal Color Riche Shine 112 Only In Paris	Base + Shine Oil, CI 77891, CI 15850, CI 77499
+188	3600523456054	L'Oréal Color Riche Shine 245 High High	Base + Shine Oil, CI 77891, CI 77492, CI 15850
+189	3600523456108	L'Oréal Color Riche Shine 350 Insanesation	Base + Shine Oil, CI 15850, CI 19140
+190	3600523456122	L'Oréal Color Riche Shine 465 Trendsetter	Base + Shine Oil, CI 15880, CI 77499
+
+
+8. Wet n Wild Ruj Serileri (191 - 200)
+
+• Ortak Baz İçeriği: Ozokerite, Pentaerythrityl Tetraisostearate, Propylheptyl Caprylate, Caprylic/Capric Triglyceride, Bis-Diglyceryl Polyacyladipate-2.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+191	0077802491118	Wet n Wild MegaLast Matte E911D Bare It All	Base + CI 77891, CI 77491, CI 77492, CI 77499
+192	0077802491217	Wet n Wild MegaLast Matte E912C In the Flesh	Base + CI 77891, CI 77491, CI 15850, CI 42090
+193	0077802491316	Wet n Wild MegaLast Matte E913C Sand Storm	Base + CI 77491, CI 77492, CI 77891, CI 77499
+194	0077802491415	Wet n Wild MegaLast Matte E914C Mocha-licious	Base + CI 77491, CI 77499, CI 77891
+195	0077802491514	Wet n Wild MegaLast Matte E915B Spiked Rum	Base + CI 77491, CI 15850, CI 77499
+196	0077802491613	Wet n Wild MegaLast Matte E916D Ravin Raisin	Base + CI 15880, CI 77499, CI 77891
+197	0077802491712	Wet n Wild MegaLast Matte E917C Spotlight Red	Base + CI 15850, CI 19140
+198	0077802491811	Wet n Wild MegaLast Matte E918D Cherry Bomb	Base + CI 15880, CI 77499
+199	0077802491910	Wet n Wild MegaLast Matte E919B Sugar Plum Fairy	Base + CI 45410, CI 77891, CI 42090
+200	0077802492016	Wet n Wild MegaLast Matte E920B Wine Room	Base + CI 77891, CI 15850, CI 77491, CI 77499

@@ -1,0 +1,229 @@
+
+1. Eti Kurabiye ve Bisküvi Çeşitleri (1 - 50)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+1	8690526012424	Eti Burçak Bisküvi (131g)	Buğday Unu (Gluten), Tam Buğday Unu (%24), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Glukoz-Fruktoz Şurubu, Arpa Maltı Ekstratı, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat, Sodyum Asit Pirosülfat), Tuz, Aroma Verici.
+2	8690526012455	Eti Burçak Yulaflı (131g)	Buğday Unu, Yulaf Ezmesi (%21), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Tam Buğday Unu, Glukoz-Fruktoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tuz, Aroma Verici.
+3	8690526074217	Eti Burçak Sultani (123g)	Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Kuru Üzüm (%11), Yulaf Ezmesi, Kepek, Glukoz-Fruktoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tuz, Aroma Verici.
+4	8690526074255	Eti Burçak Sütlü Çikolatalı (114g)	Burçak Bisküvi (%55) [Buğday Unu, Tam Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Tuz], Sütlü Çikolata (%45) [Şeker, Kakao Yağı, Tam Yağlı Süt Tozu, Kakao Kitlesi, Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatör (Soya Lesitini), Vanilin].
+5	8690526074309	Eti Burçak Kakao Kremalı (100g)	Bisküvi [Buğday Unu, Yulaf Ezmesi, Tam Buğday Unu, Şeker, Bitkisel Yağ, Tuz], Kakao Kreması (%30) [Şeker, Bitkisel Yağ, Kakao Tozu (%10), Yağsız Süt Tozu, Emülgatör (Soya Lesitini), Aroma Verici].
+6	8690526004115	Eti Cici Bebe Bisküvisi (172g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Bitkisel Lif, Tam Süt Pasteurized (%2), Yumurta (%0.5), Mineraller (Kalsiyum, Magnezyum, Demir, Çinko), Vitaminler (A, C, D, E, B1, B2, B6, B12, Niasin, Folik Asit), Kabartıcı, Vanilin.
+7	8690526084117	Eti Cin Portakallı (25g)	Bisküvi (%60) [Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Kabartıcı, Tuz], Portakal Jölesi (%30) [Glukoz Şurubu, Şeker, Portakal Püresi (%10), Pektin, Sitrik Asit], Kakaolu Granül (%10) [Şeker, Bitkisel Yağ, Kakao Tozu, Peynir Altı Suyu Tozu, Emülgatör].
+8	8690526084155	Eti Cin Çilekli (25g)	Bisküvi (%60) [Buğday Unu, Şeker, Bitkisel Yağ], Çilekli Jöle (%30) [Glukoz Şurubu, Şeker, Çilek Püresi (%8), Kıvam Arttırıcı (Pektin), Sitrik Asit, Renklendirici (Pancar Kökü Kırmızısı)], Kakaolu Granül (%10).
+9	8690526042117	Eti Crax Patlayan Lezzet (50g)	Buğday Unu, Bitkisel Yağ, Şeker, Peynir Tozu (%2), Glukoz-Fruktoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Monosodyum Glutamat (Lezzet Arttırıcı), Acı Biber Çeşnisi, Tuz.
+10	8690526051416	Eti Tutku Kakaolu (100g)	Bisküvi (%70) [Buğday Unu, Şeker, Bitkisel Yağ, Mısır Nişastası, Kabartıcılar, Tuz, Aroma Verici], Kakao Kreması (%30) [Şeker, Bitkisel Yağ, Kakao Tozu (%13), Fındık Yağı, Emülgatör (Soya Lesitini), Vanilin].
+11	8690526051454	Eti Tutku Torba Boy (210g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Kakao Tozu (%4), Mısır Nişastası, Yağsız Süt Tozu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Emülgatör, Tuz, Aroma Vericiler.
+12	8690526061125	Eti Negro Kakaolu Bisküvi (110g)	Kakaolu Bisküvi (%68) [Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu (%7.5), Kabartıcılar, Tuz], Vanilyalı Krema (%32) [Şeker, Bitkisel Yağ, Peynir Altı Suyu Tozu, Nişasta, Emülgatör, Doğal Vanilya Aroması].
+13	8690526061156	Eti Nero Büyük Boy (110g)	Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu (%8), Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Emülgatör, Tuz, Aroma Vericiler (Süt ve Vanilya).
+14	8690526031128	Eti Etimek Klasik (143g)	Buğday Unu, Şeker, Yaş Maya, Bitkisel Yağ (Palm), Sofra Tuz, Arpa Maltı Unu, Antioksidan (Askorbik Asit).
+15	8690526031159	Eti Etimek Tuzsuz (143g)	Buğday Unu, Şeker, Yaş Maya, Bitkisel Yağ (Palm), Arpa Maltı Unu, Vitaminler, Mineral (Demir). [İlave sodyum klonür içermez].
+16	8690526021129	Eti Hoşbeş Gofret Fındıklı (142g)	Fındıklı Krema (%73) [Şeker, Bitkisel Yağ, Glukoz Şurubu, Yağsız Süt Tozu, Fındık Püresi (%10), Kakao Tozu, Emülgatör, Aroma verici], Yaprak Gofret (%27) [Buğday Unu, Nişasta, Tuz, Kabartıcı].
+17	8690526021150	Eti Hoşbeş Kakaolu Kremalı (142g)	Kakao Kreması (%73) [Şeker, Bitkisel Yağ, Glukoz Şurubu, Kakao Tozu (%12), Peynir Altı Suyu Tozu, Emülgatör, Vanilin], Gofret Yaprağı (%27) [Buğday Unu, Kakao Tozu (%2), Tuz, Emülgatör].
+18	8690526021204	Eti Hoşbeş Çilek Kremalı (142g)	Çilekli Krema (%73) [Şeker, Bitkisel Yağ, Peynir Altı Suyu Tozu, Kurutulmuş Çilek Tozu (%0.5), Asitlik Düzenleyici, Emülgatör], Gofret Yaprağı (%27) [Buğday Unu, Tuz, Sodyum Bikarbonat].
+19	8690526001145	Eti Popkek Çikolatalı (60g)	Kek (%70) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Nem Verici, Sorbitol, Nem Verici, Kabartıcı], Çikolata Sosu (%18) [Glukoz Şurubu, Bitter Çikolata (%10), Kakao], Çikolata Kaplama (%12) [Sütlü Çikolata].
+20	8690526001183	Eti Popkek Muzlu (60g)	Kek (%70) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Sorbitol, Kabartıcı], Muzlu Sos (%18) [Glukoz Şurubu, Şeker, Nem Verici, Muz Püresi (%2), Aroma Verici, Renklendirici (Beta Karoten)], Kakao Kaplama (%12).
+21	8690526111424	Eti Paykek Kakaolu Baton (220g)	Kek (%100) [Şeker, Buğday Unu, Yumurta, Bitkisel Yağ, Nem Verici (Gliserol), Kakao Tozu (%4), Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Sodyum Asit Pirosülfat, Sodyum Karbonat), Emülgatör, Tuz, Koruyucu].
+22	8690526111455	Eti Paykek Mozaik Baton (220g)	Şeker, Buğday Unu, Yumurta, Bitkisel Yağ (Palm, Ayçiçek), Glukoz Şurubu, Nem Verici (Sorbiol), Kakao Tozu (%1.5), Peynir Altı Suyu Tozu, Tuz, Emülgatörler (Mono ve Digliseritler), Potasyum Sorbat.
+23	8690526091427	Eti Browni Intense Çikolatalı (50g)	Kek (%50) [Şeker, Yumurta, Bitkisel Yağ, Buğday Unu, Kakao], Çikolata Kreması (%15), Çikolata Kaplama (%30) [Şeker, Kakao Yağı, Süt Tozu, Kakao Kitlesi, Emülgatör], Bitter Çikolata Dekor (%5).
+24	8690526091458	Eti Browni Gold Çikolata Soslu (45g)	Kek (%80) [Şeker, Yumurta, Buğday Unu, Bitkisel Yağ, Nem Verici, Kakao Tozu, Kabartıcılar, Emülgatör], Çikolata Sosu (%20) [Glukoz Şurubu, Şeker, Bitter Çikolata (%15), Nem Verici, Koruyucu].
+25	8690526002128	Eti Kombo Kurabiye (56g)	Bisküvi (%65) [Buğday Unu, Şeker, Bitkisel Yağ, Mısır Unu, Kabartıcı], Çikolata Kaplama (%20) [Şeker, Kakao Yağı, Süt Tozu, Emülgatör], Kavrulmuş Fındık Parçacıkları (%15).
+26	8690526002159	Eti Prono Glutensiz Bisküvi (85g)	Mısır Nişastası, Patates Nişastası, Pirinç Unu, Şeker, Bitkisel Yağ (Palm), Lif (İnulin), Yağsız Süt Tozu, Yumurta Akı Tozu, Kabartıcılar (Amonyum Bikarbonat), Kıvam Arttırıcı (Ksantan Gam), Vanilin.
+27	8690526003224	Eti Balık Kraker (40g)	Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek), Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Glukoz-Fruktoz Şurubu, Un İşlem Maddesi (Sodyum Metabizülfit), Sofra Tuzu.
+28	8690526003255	Eti Pizza Kraker (40g)	Buğday Unu, Bitkisel Yağ, Şeker, Pizza Çeşnisi (%3) [Kekik, Pul Biber, Domates Tozu, Sarımsak Tozu, Soğan Tozu], Glukoz Şurubu, Kabartıcılar, Proteaz Enzimi, İnaktif Maya, Tuz.
+29	8690526011113	Eti Finger Bisküvi (900g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm), Glukoz-Fruktoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Sofra Tuzu, Aroma Vericiler (Süt ve Tereyağı).
+30	8690526011151	Eti Marie Bisküvi (175g)	Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuz, Proteaz, Aroma Verici.
+31	8690526011205	Eti Petibör Klasik (450g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm, Pamuk), Glukoz-Fruktoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tuz, Aroma Verici (Vanilin).
+32	8690526011250	Eti Kakaolu Petibör (450g)	Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu (%4.5), Glukoz-Fruktoz Şurubu, Kabartıcılar (Amonyum Bikarbonat), Sofra Tuzu, Aroma Verici.
+33	8690526014114	Eti Topkek Kakaolu (35g)	Kek (%100) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kakao Tozu (%3), Nem Verici (Gliserol), Glukoz Şurubu, Kabartıcılar, Emülgatör (Yağ Asitlerinin Mono ve Digliseritleri), Koruyucu].
+34	8690526014152	Eti Topkek Meyveli (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Karışık Kurutulmuş Meyve Parçacıkları (%8) [Kuru Üzüm, Portakal Kabuğu, Kayısı], Nem Verici, Kabartıcılar, Emülgatör, Tuz, Meyve Aroması.
+35	8690526041226	Eti Gofret Çikolatalı (34g)	Çikolatalı Krema (%70) [Şeker, Bitkisel Yağ, Yağsız Süt Tozu, Kakao Kitlesi, Kakao Yağı, Emülgatör], Yaprak Gofret (%30) [Buğday Unu, Bitkisel Yağ, Tuz, Sodyum Bikarbonat].
+36	8690526051126	Eti Puff Kakaolu Granüllü (18g)	Bisküvi (%45) [Buğday Unu, Bitkisel Yağ, Şeker, Kabartıcı], Marshmallow (%40) [Glukoz Şurubu, Şeker, Yenilebilir Sığır Jelatini], Kakaolu Granül (%15) [Şeker, Kakao Tozu, Emülgatör].
+37	8690526051157	Eti Puff Renkli Granüllü (18g)	Bisküvi (%45), Marshmallow (%40), Renkli Şeker Granülü (%15) [Şeker, Bitkisel Yağ, Meyve ve Bitki Konsantresi (Pancar Kökü, Aspir), Parlatıcı (Karnauba Mumu)].
+38	8690526061224	Eti Bidolu Fındıklı Gofret (81g)	Fındık Kreması (%70) [Şeker, Kavrulmuş Fındık İçi (%15), Bitkisel Yağ, Yağsız Süt Tozu, Kakao, Emülgatör], Gofret Yaprağı ve Kakao Parçaları (%30) [Buğday Unu, Tuz].
+
+| 39 | 8690526071117 | Eti Form Kepekli Bisküvi (45g) | Buğday Unu, Buğday Kepeği (%11), Bitkisel Yağ (Palm), Tuz, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tatlandırıcı (Sorbitol), Yapay Tatlandırıcı İçermez. |
+| 40 | 8690526071155 | Eti Form Limon Lifli Kurabiye (50g) | Buğday Unu, Tam Buğday Unu, Şeker, Bitkisel Yağ, Bitkisel Lif (İnulin %3), Kurutulmuş Limon Kabuğu (%1), Kabartıcılar, Doğal Limon Aroması, Tatlandırıcı. |
+| 41 | 8690526071209 | Eti Form Domatesli Zeytinli (45g) | Buğday Unu, Kepek, Bitkisel Yağ, Kurutulmuş Domates Tozu (%2), Kurutulmuş Siyah Zeytin Parçaları (%1.5), Kekik, Haşhaş, Tuz, Kabartıcılar. |
+| 42 | 8690526081116 | Eti Gong Mısır Patlağı Sade (64g) | Mısır (%85), Bitkisel Yağ (Kanola, Ayçiçek), Tuz, Emülgatör (Soya Lesitini). [Kızartılmamış, fırınlanmıştır]. |
+| 43 | 8690526081154 | Eti Gong Ballı Hardallı (64g) | Mısır (%75), Bitkisel Yağ, Ballı Hardal Çeşnisi (%8) [Şeker, Hardal Tozu, Bal Tozu, Asitlik Düzenleyici, Tuz, Soğan Tozu], Emülgatör. |
+| 44 | 8690526091113 | Eti Wanted Çikolatalı Bar (32g) | Karamel (%35) [Glukoz Şurubu, Şeker, Bitkisel Yağ, Süt Tozu], Sütlü Çikolata (%35) [Şeker, Kakao Yağı, Kakao Kitlesi], Bisküvi Parçacıkları (%20) [Buğday Unu], Patlamış Pirinç (%10). |
+| 45 | 8690526091151 | Eti Wanted Fındıklı Bar (32g) | Karamel, Sütlü Çikolata, Kavrulmuş Fındık Parçaları (%18), Bisküvi [Buğday Unu, Şeker, Tuz, Kabartıcı], Patlamış Pirinç. |
+| 46 | 8690526092110 | Eti Benimo Lokmalık Sandviç (80g) | Bisküvi (%50) [Buğday Unu, Şeker, Bitkisel Yağ], Marshmallow (%25) [Glukoz Şurubu, Jelatin], Sütlü Çikolata Kaplama (%20), Hindistan Cevizi Rendesi (%5). |
+| 47 | 8690526092158 | Eti Canga Yer Fıstıklı Bar (45g) | Kavrulmuş Yer Fıstığı (%35), Karamel (%25) [Glukoz Şurubu, Şeker], Sütlü Çikolata Kaplama (%25) [Şeker, Kakao Yağı, Süt Tozu], Nuga (%15) [Yumurta Akı, Şeker]. |
+| 48 | 8690526093117 | Eti Maximus Nugalı Çikolata (36g) | Karamel (%30), Nuga (%30) [Şeker, Glukoz Şurubu, Yumurta Akı Tozu], Kavrulmuş Yer Fıstığı (%25), Sütlü Çikolata Kaplama (%15) [Emülgatör (Ayçiçek Lesitini)]. |
+| 49 | 8690526093155 | Eti Karam Gurme Gofret (50g) | Bitter Çikolata Kreması (%65) [Şeker, Bitkisel Yağ, Kakao Tozu (%15), Bitter Çikolata], Gofret Yaprağı (%20) [Buğday Unu, Tuz], Bitter Çikolata Kaplama (%15). |
+| 50 | 8690526094114 | Eti Dare Kakao Kremalı Gofret (40g) | Kakao Kreması (%70) [Şeker, Bitkisel Yağ, Kaka Kütlesi (%12), Yağsız Süt Tozu, Emülgatör, Vanilin], Gofret Yaprağı (%30) [Buğday Unu, Kakao Tozu, Tuz]. |
+
+2. Ülker Bisküvi, Kurabiye ve Atıştırmalık Çeşitleri (51 - 100)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+51	8690504011111	Ülker Pötibör Klasik (450g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm), Glukoz Şurubu, Peynir Altı Suyu Tozu (Süt Ürünü), Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Sofra Tuzu, İnaktif Maya, Aroma Verici (Vanilin).
+52	8690504011159	Ülker Kakaolu Pötibör (450g)	Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu (%5), Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Bikarbonat), Sofra Tuzu, Aroma Verici (Etil Vanilin).
+53	8690504012118	Ülker Finger Bisküvi (450g)	Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat), Sofra Tuzu, Aroma Vericiler (Süt ve Tereyağı).
+54	8690504021110	Ülker Halley Sandviç Bisküvi (30g)	Bisküvi (%52) [Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Kabartıcı], Marshmallow (%22) [Glukoz Şurubu, Şeker, Sığır Jelatini], Sütlü Çikolata Kaplama (%26) [Emülgatör (Soya Lesitini)].
+55	8690504021158	Ülker Halley Karadutlu (30g)	Bisküvi, Marshmallow, Karadut Dolgusu (%12) [Glukoz Şurubu, Karadut Konsantresi (%10), Sitrik Asit, Pektin], Sütlü Çikolata Kaplama (%26).
+56	8690504031119	Ülker Biskrem Kakaolu (100g)	Bisküvi (%70) [Buğday Unu, Şeker, Bitkisel Yağ, Kabartıcılar, Sofra Tuzu, Aroma Verici], Çikolatalı Akışkan Dolgu (%30) [Şeker, Bitkisel Yağ, Kakao Tozu (%12), Fındık Püresi, Emülgatör].
+57	8690504031157	Ülker Biskrem Büyük Boy (200g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm), Kakao Tozu (%4), Glukoz Şurubu, Mısır Nişastası, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Bikarbonat), Emülgatör, Tuz, Aroma Vericiler.
+58	8690504041118	Ülker Çokoprens Sandviç (30g)	Bisküvi (%72) [Buğday Unu, Şeker, Bitkisel Yağ, Kabartıcı, Tuz], Çikolata Kreması (%28) [Şeker, Bitkisel Yağ, Kakao Tozu (%10), Süt Tozu, Emülgatör, Vanilin].
+59	8690504051117	Ülker Hanımeller Un Kurabiyesi (150g)	Buğday Unu, Bitkisel Yağ (Palm, Ayçiçek), Pudra Şekeri, Nişasta, Bitkisel Yağ Karışımı, Kabartıcı (Amonyum Bikarbonat), Yapay Koruyucu İçermez, Aroma Verici.
+60	8690504051155	Ülker Hanımeller Fındıklı (82g)	Buğday Unu, Şeker, Bitkisel Yağ, Kavrulmuş Fındık Parçacıkları (%12), Glukoz Şurubu, Yumurta, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Tuz, Aroma Verici.
+61	8690504051209	Ülker Hanımeller Asorti (150g)	Karışık Kurabiye Grubu: Çikolata Parçacıklı Kurabiye, Tarçınlı Kurabiye, Kakaolu Halka Kurabiye [Buğday Unu, Şeker, Bitkisel Yağ, Kakao, Tarçın, Emülgatör].
+62	8690504061116	Ülker Probis Sandviç Gofret (28g)	Proteinli Bisküvi (%70) [Buğday Unu, Soya Unu (%10), Şeker, Bitkisel Yağ, Kabartıcı], Muzlu Kakao Kreması (%30) [Şeker, Bitkisel Yağ, Süt Tozu, Kurutulmuş Muz Tozu (%1), Kakao, Doğal Muz Aroması].
+63	8690504071115	Ülker Ikram Kakao Kremalı (84g)	Dikdörtgen Bisküvi (%72) [Buğday Unu, Şeker, Bitkisel Yağ, Arpa Maltı, Kabartıcı, Tuz], Kakao Kreması (%28) [Şeker, Bitkisel Yağ, Kakao Tozu (%9), Emülgatör].
+64	8690504071153	Ülker Ikram Fındık Kremalı (84g)	Bisküvi, Fındık Kreması (%28) [Şeker, Bitkisel Yağ, Fındık Püresi (%12), Yağsız Süt Tozu, Emülgatör (Ayçiçek Lesitini), Aroma Verici].
+65	8690504081114	Ülker Saklıköy Klasik Yulaflı (87g)	Buğday Unu, Yulaf Ezmesi (%18), Şeker, Bitkisel Yağ (Palm), Tam Buğday Unu, Glukoz Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat), Sofra Tuzu, Aroma Verici.
+66	8690504081152	Ülker Saklıköy Çikolata Kremalı (100g)	Yulaflı Bisküvi (%70) [Buğday Unu, Yulaf Ezmesi], Sütlü Çikolata Kreması (%30) [Şeker, Bitkisel Yağ, Kakao Tozu, Süt Tozu, Emülgatör, Doğal Kakao Aroması].
+67	8690504091113	Ülker Haylayf Şekerli Bisküvi (64g)	Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Üst Şeker Kristalleri (%5), Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuzu, Süt Aroması.
+68	8690504101119	Ülker Kat Kat Tat Çikolatalı (24g)	Milföy Hamuru (%75) [Buğday Unu, Bitkisel Margarin, Su, Tuz], Çikolatalı Dolgu Kreması (%25) [Şeker, Bitkisel Yağ, Kakao Tozu (%12), Fındık Püresi, Emülgatör].
+69	8690504111118	Ülker Çokonat Fındıklı Gofret (33g)	Fındıklı Krema (%50) [Şeker, Bitkisel Yağ, Fındık Püresi (%10)], Sütlü Çikolata Kaplama (%35), Yaprak Gofret (%10) [Buğday Unu], Kavrulmuş Fındık Parçaları (%5).
+70	8690504121117	Ülker Çikolatalı Gofret Klasik (36g)	Kakao Kreması (%68) [Şeker, Bitkisel Yağ, Kakao Tozu (%10), Süt Tozu, Emülgatör], Sütlü Çikolata Kaplama (%20), Gofret Yaprağı (%12) [Buğday Unu, Tuz].
+71	8690504121155	Ülker Çikolatalı Gofret Beyaz (36g)	Kakao Kreması (%68), Beyaz Çikolata Kaplama (%20) [Şeker, Kakao Yağı, Tam Yağlı Süt Tozu, Emülgatör (Amonyum Fosfatid)], Gofret Yaprağı (%12) [Buğday Unu].
+72	8690504131116	Ülker Metro Karamelli Bar (36g)	Karamel (%38) [Glukoz Şurubu, Şeker, Bitkisel Yağ, Süt Yağı], Nuga (%36) [Şeker, Glukoz Şurubu, Yumurta Akı Tozu], Sütlü Çikolata (%26) [Emülgatör].
+73	8690504141115	Ülker Albeni Karamelli Bisküvi (40g)	Bisküvi (%40) [Buğday Unu, Şeker, Bitkisel Yağ, Kabartıcı], Karamel (%32) [Glukoz Şurubu, Şeker, Nem Verici], Sütlü Çikolata Kaplama (%28) [Vanilin].
+74	8690504141153	Ülker Albeni Kek Bar (35g)	Kek (%45) [Buğday Unu, Şeker, Yumurta, Nem Verici], Karamel (%27), Sütlü Çikolata Kaplama (%28) [Kakao Yağı, Kakao Kitlesi, Süt Tozu, Emülgatör].
+75	8690504151114	Ülker Coco Star Hindistan Cevizli (28g)	Hindistan Cevizi Dolgusu (%68) [Kurutulmuş Hindistan Cevizi Rendesi (%35), Glukoz Şurubu, Şeker, Nem Verici (Gleserol), Sığır Jelatini], Sütlü Çikolata Kaplama (%32).
+76	8690504161113	Ülker Dido Çikolatalı Blok Bar (35g)	Gofret Hamuru ve Kreması (%60) [Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu], Yoğun Sütlü Çikolata Kaplama (%40) [Kakao Kuru Maddesi En Az %30].
+77	8690504171112	Ülker Caramio Karamel Dolgulu (32g)	Sütlü Çikolata (%65) [Şeker, Kakao Yağı, Süt Tozu, Kakao Kitlesi, Emülgatör], Akışkan Karamel Dolgusu (%35) [Glukoz Şurubu, Şeker, Süt Yağı, Kıvam Düzenleyici].
+78	8690504181111	Ülker 9 Kat Tat Gofret Fındıklı (114g)	Fındıklı Krema (%75) [Şeker, Bitkisel Yağ, Fındık Püresi (%9), Yağsız Süt Tozu, Kakao], Gofret Yaprağı (%25) [Buğday Unu, Mısır Nişastası, Emülgatör].
+79	8690504181159	Ülker 9 Kat Tat Gofret Çilekli (114g)	Çilekli Krema (%75) [Şeker, Bitkisel Yağ, Peynir Altı Suyu Tozu, Doğal Çilek Aroması, Renklendirici], Gofret Yaprağı (%25) [Buğday Unu, Sofra Tuzu].
+80	8690504191110	Ülker Oneo Nane Aromalı Sakız (14g)	Tatlandırıcılar (Sorbitol, Maltitol, Ksilitol), Sakız Mayası, Doğal Nane Aroması, Nem Verici (Gliserol), Emülgatör, Parlatıcı (Karnauba Mumu).
+81	8690504201116	Ülker Altınbaşak Kepekli (46g)	Buğday Unu, Buğday Kepeği (%15), Bitkisel Yağ (Palm), Tuz, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Un İşlem Maddesi (Sodyum Metabizülfit).
+82	8690504201154	Ülker Altınbaşak Çörekotlu (40g)	Buğday Unu, Kepek, Bitkisel Yağ, Çörek Otu Taneleri (%3), Kinoa, Sofra Tuzu, Kabartıcılar, Doğal Çörek Otu Aroması.
+83	8690504211115	Ülker Krispi Çubuk Kraker Sade (43g)	Buğday Unu, Bitkisel Yağ, Sofra Tuzu (%2), Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Asitlik Düzenleyici (Sodyum Hidroksit).
+84	8690504211153	Ülker Krispi Tırtıklı Barbekülü (40g)	Buğday Unu, Bitkisel Yağ, Barbekü Çeşnisi (%4) [Soğan Tozu, Sarımsak Tozu, Tütsü Aroması, Tuz, Monosodyum Glutamat], Glukoz Şurubu, Kabartıcılar.
+85	8690504221114	Ülker Dankek Rulo Pasta Çikolatalı	Kek (%65) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Nem Verici], Çikolatalı Dolgu Kreması (%35) [Şeker, Glukoz Şurubu, Kakao, Koruyucu (Potasyum Sorbat)].
+86	8690504221152	Ülker Dankek Pöti Kakaolu (35g)	Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Kakao Tozu (%3.5), Nem Verici (Gleserol), Glukoz Şurubu, Kabartıcılar, Emülgatör (Yağ Asitlerinin Mono ve Digliseritleri).
+87	8690504231113	Ülker Olala Sufle Çikolatalı (70g)	Kek (%70) [Şeker, Yumurta, Buğday Unu, Bitter Çikolata], Akışkan Sıcak Çikolata Sosu (%30) [Glukoz Şurubu, Bitter Çikolata (%20), Nem Verici, Nem Verici].
+88	8690504241112	Ülker O'lala Mini Sufle (162g)	Şeker, Yumurta, Buğday Unu, Bitkisel Yağ, Bitter Çikolata Parçacıkları, Nem Verici (Gliserol), Kakao, Emülgatör (Ayçiçek Lesitini), Potasyum Sorbat (Koruyucu).
+89	8690504251111	Ülker Çikolata Kare Sütlü (60g)	Şeker, Kakao Yağı, Tam Yağlı Süt Tozu (%18), Kakao Kitlesi, Yağsız Süt Tozu, Emülgatör (Soya Lesitini), Aroma Verici (Vanilin). [Kakao kuru maddesi %30].
+90	8690504251159	Ülker Çikolata Kare Antep Fıstıklı	Şeker, Kakao Yağı, Kavrulmuş Antep Fıstığı İçi (%15), Süt Tozu, Kakao Kitlesi, Emülgatör, Vanilin.
+91	8690504261110	Ülker Napoliten Çikolata (33g)	Şeker, Kakao Yağı, Süt Tozu, Kakao Kitlesi, Peynir Altı Suyu Tozu, Emülgatör (Ayçiçek Lesitini), Aroma Verici (Vanilin).
+92	8690504271119	Ülker Laviva Çikolatalı Bar (35g)	Dolgulu Çikolata (%60) [Bitter Çikolata Kreması, Bisküvi Tozu], Sütlü Çikolata Dış Kabuk (%40) [Şeker, Kakao Yağı, Süt Tozu, Emülgatör].
+93	8690504281118	Ülker Cokokrem Sürülebilir (400g)	Şeker, Bitkisel Yağ (Palm, Ayçiçek), Fındık Püresi (%13), Kakao Tozu (%7), Peynir Altı Suyu Tozu, Yağsız Süt Tozu, Emülgatör, Aroma Verici (Vanilin).
+94	8690504291117	Ülker Kat Kat Tat Fındıklı (24g)	Katlı Milföy Hamuru (%75), Fındıklı Dolgu Kreması (%25) [Şeker, Bitkisel Yağ, Fındık Püresi (%10), Süt Tozu, Kakao, Emülgatör].
+
+| 95 | 8690504301113 | Ülker Çoko Moko Oyuncaklı Bisküvi | Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu, Yağsız Süt Tozu, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuzu, Vitamin ve Mineraller. |
+| 96 | 8690504311112 | Ülker Toffee Karışık Meyveli Şeker | Glukoz Şurubu, Şeker, Bitkisel Yağ (Palm), Meyve Suyu Konsantreleri (%2) [Çilek, Limon, Portakal], Yenilebilir Sığır Jelatini, Asitlik Düzenleyici, Emülgatör. |
+| 97 | 8690504321111 | Ülker Kido Kakaolu Süt UHT (180ml) | Yarım Yağlı İnek Sütü (%93), Şeker, Kakao Tozu (%1.2), Stabilizatör (Karragenan), Doğal Çikolata Aroması. |
+| 98 | 8690504331110 | Ülker Kido Çilekli Süt UHT (180ml) | Yarım Yağlı İnek Sütü (%94), Şeker, Çilek Aroması, Renklendirici (Pancar Kökü Kırmızısı Doğal Ekstraktı). |
+| 99 | 8690504341119 | Ülker Ducros Toz Tarçın (20g) | %100 Kurutulmuş Öğütülmüş Tarçın Kabuğu. [Katkı maddesi ve koruyucu içermez]. |
+| 100 | 8690504351118 | Ülker Bizim Mutfak Tavuk Bulyon (24x) | İyotlu Tuz, Lezzet Arttırıcı (Monosodyum Glutamat), Bitkisel Yağ, Şeker, Nişasta, Kurutulmuş Tavuk Eti Unu (%1), Kereviz Özü, Baharat Karışımı. |
+
+3. Torku Kurabiye ve Atıştırmalık Çeşitleri (101 - 140)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+101	8690123001229	Torku Tam Buğdaylı Bisküvi (131g)	Tam Buğday Unu (%32), Buğday Unu, Şeker (Pancar Şekeri), Bitkisel Yağ (Palm, Ayçiçek), Glukoz Şurubu, Kabartıcılar (Amonyum Bikarbonat), Sofra Tuzu.
+102	8690123001250	Torku Yulaflı Bisküvi (131g)	Buğday Unu, Yulaf Ezmesi (%22), Şeker (Pancar Şekeri), Bitkisel Yağ, Tam Buğday Unu, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuzu.
+103	8690123002110	Torku Miniki Sütlü Çikolatalı Gofret	Sütlü Çikolata (%40) [Pancar Şekeri, Kakao Yağı, Süt Tozu, Kakao Kitlesi, Emülgatör], Sütlü Krema (%45) [Şeker, Bitkisel Yağ], Gofret Yaprağı (%15) [Buğday Unu].
+104	8690123003124	Torku Banada Fındık Kreması (400g)	Şeker (Pancar Şekeri), Bitkisel Yağ, Fındık Püresi (%13.5), Kakao Tozu (%7), Yağsız Süt Tozu, Peynir Altı Suyu Tozu, Emülgatör, Vanilin Aroması.
+105	8690123004114	Torku No:1 Çikolatalı Gofret (35g)	Çikolata Kreması (%65) [Pancar Şekeri, Bitkisel Yağ, Kakao], Sütlü Çikolata Kaplama (%23) [Kakao Yağı, Süt Tozu], Yaprak Gofret (%12) [Buğday Unu, Tuz].
+106	8690123005128	Torku Favorimo Kakaolu Sandviç (100g)	Bisküvi (%70) [Buğday Unu, Şeker, Bitkisel Yağ, Kakao %5, Kabartıcı], Sütlü Krema (%30) [Şeker, Bitkisel Yağ, Süt Tozu, Emülgatör, Vanilin].
+107	8690123006118	Torku Frema Kakaolu Fındık Kreması	Şeker (Pancar Şekeri), Bitkisel Yağ, Fındık Püresi (%6), Kakao Tozu (%6), Peynir Altı Suyu Tozu, Emülgatör (Ayçiçek Lesitini), Aroma Verici.
+108	8690123007122	Torku Petibör Klasik (450g)	Buğday Unu, Şeker (Pancar Şekeri), Bitkisel Yağ, Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuzu.
+109	8690123008112	Torku Tatlım Çikolata Kaplı Kek (40g)	Kek (%65) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ], Karamel Dolgusu (%15), Sütlü Çikolata Kaplama (%20) [Pancar Şekeri, Kakao Yağı, Süt Tozu].
+110	8690123009126	Torku Pratiko Çubuk Kraker (40g)	Buğday Unu, Bitkisel Yağ (Palm), Sofra Tuzu (%2.5), Kabartıcılar (Amonyum Hidrojen Karbonat), Asitlik Düzenleyici (Sodyum Hidroksit).
+111	8690123010115	Torku Süzme Peynir Tam Yağlı (500g)	Pastörize İnek Sütü, Süt Yağı, Sofra Tuzu, Peynir Mayası, Laktik Asit Kültürü. [Ultrafiltrasyon tekniği ile üretilmiştir].
+112	8690123011129	Torku Labne Peyniri (200g)	Pastörize İnek Sütü Kreması, Pastörize İnek Sütü, Peynir Kültürü, Sofra Tuzu.
+113	8690123012119	Torku Taze Kaşar Peyniri (700g)	Pastörize İnek Sütü, Peynir Mayası, Sofra Tuzu. [Kuru maddede süt yağı oranı en az %45'tir].
+114	8690123013123	Torku Ayran Tam Yağlı (1 L)	Pastörize İnek Sütü, Su, Yoğurt Kültürü, Sofra Tuzu.
+115	8690123014113	Torku Sade Kefir (1 L)	Pastörize İnek Sütü, Kefir Kültürü Mayası. [Katkı maddesi ve yapay koruyucu içermez].
+116	8690123015127	Torku Doğal Göbek Kaşarı (400g)	Pastörize İnek Sütü, Peynir Mayası, Deniz Tuzu. [Geleneksel yoğurma tekniği].
+117	8690123016117	Torku Yağlı Süt UHT (1 L)	%100 UHT İnek Sütü (En az %3.5 süt yağı içerir).
+118	8690123017121	Torku Yarım Yağlı Süt UHT (1 L)	%100 UHT İnek Sütü (En az %1.5 süt yağı içerir).
+119	8690123018111	Torku Krem Peynir (400g)	Beyaz Peynir, Kaşar Peyniri, Eritme Tuzları (Polifosfatlar), Tereyağı, Su, Peynir Altı Suyu Tozu.
+120	8690123019125	Torku Küp Şeker (1 kg)	%100 Beyaz Pancar Şekeri.
+121	8690123020114	Torku Toz Şeker (5 kg)	%100 Beyaz Kristal Pancar Şekeri.
+122	8690123021128	Torku Dana Kangal Sucuk (225g)	Dana Eti, Dana Yağı, Sofra Tuzu, Baharat Karışımı (Sarımsak, Kimyon, Kırmızı Biber), Antioksidan (Askorbik Asit), Koruyucu (Sodyum Nitrit).
+123	8690123022111	Torku Dana Soyulmuş Sosis (250g)	Dana Eti, Dana Yağı, Su, Nişasta, Bitkisel Lif, Baharat Karışımı, Sarımsak, Koruyucu (Sodyum Nitrit).
+124	8690123023125	Torku Dana Macar Salam (250g)	Dana Eti, Dana Yağı, Su, Patates Nişastası, Baharat Özleri, Stabilizatör, Sodyum Nitrit.
+125	8690123024112	Torku Geleneksel Tereyağı (1 kg)	Pastörize İnek Sütü Kreması, Tereyağı Kültürü. [En az %82 süt yağı içerir].
+126	8690123025126	Torku Bulgur Pilavlık (1 kg)	%100 Durum Buğdayından Üretilmiş Pilavlık Bulgur.
+127	8690123026116	Torku Bulgur Köftelik (1 kg)	%100 Durum Buğdayından Üretilmiş İnce Köftelik Bulgur.
+128	8690123027120	Torku Üzüm Pekmezi (380g)	%100 Doğal Vakum Altında Yoğunlaştırılmış Üzüm Şırası. [İlave şeker içermez].
+129	8690123028111	Torku Çiçek Balı (460g)	%100 Süzme Çiçek Balı. [Doğal ve pastorize edilmemiş].
+130	8690123029125	Torku Tahin (550g)	%100 Kavrulmuş Kabuğu Soyulmuş Susam Tohumu Püresi.
+131	8690123030114	Torku Sade Helva (500g)	Tahin (%55) [Susam], Şeker (Pancar Şekeri), Çöven Otu Ekstratı, Emülgatör, Asitlik Düzenleyici (Sitrik Asit).
+132	8690123031128	Torku Kakaolu Helva (500g)	Tahin (%53), Şeker, Kakao Tozu (%3), Çöven Otu Ekstratı, Asitlik Düzenleyici.
+133	8690123032118	Torku Antep Fıstıklı Helva (500g)	Tahin (%52), Şeker, Antep Fıstığı İçi (%8), Çöven Otu Ekstratı, Emülgatör.
+134	8690123033122	Torku Şalgam Suyu Acılı (1 L)	Su, Siyah Havuç, Şalgam Turbu, Siyah Tuz, Maya, Bulgur Unu (Gluten), Acı Biber. [Doğal lakto-fermantasyon].
+135	8690123034112	Torku Şalgam Suyu Acısız (1 L)	Su, Siyah Havuç, Şalgam Turbu, Kaya Tuzu, Bulgur Unu, Doğal Maya.
+136	8690123035126	Torku Limonata Geleneksel (1 L)	Su, Şeker (Pancar Şekeri), Limon Suyu Konsantresi (%10), Limon Kabuğu Yağı, Antioksidan (Askorbik Asit).
+137	8690123036116	Torku Elma Suyu %100 (1 L)	%100 Elma Suyu Konsantresi. [İlave su ve şeker eklenmemiştir].
+138	8690123037120	Torku Sıkma Portakal Suyu (1 L)	%100 Doğrudan Sıkılmış Portakal Suyu (Doğal Meyve Etli).
+139	8690123038111	Torku Buzlu Çay Şeftali (250ml)	Su, Şeker, Siyah Çay Ekstratı (%0.1), Asitlik Düzenleyici, Doğal Şeftali Aroması.
+140	8690123039125	Torku Buzlu Çay Limon (250ml)	Su, Şeker, Siyah Çay Ekstratı, Asitlik Düzenleyici, Doğal Limon Aroması.
+
+
+4. Şölen Kurabiye ve Atıştırmalık Çeşitleri (141 - 165)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+141	8690526114111	Şölen Biscolata Mood Çikolatalı	Bisküvi (%50) [Buğday Unu, Şeker, Bitkisel Yağ, Kabartıcı], Sütlü Çikolata Kreması (%50) [Şeker, Kakao Yağı, Süt Tozu, Kakao Kitlesi, Emülgatör (Soya Lesitini), Vanilin].
+142	8690526114159	Şölen Biscolata Mood Bitter (125g)	Bisküvi (%50), Bitter Çikolata Kreması (%50) [Şeker, Bitkisel Yağ, Kakao Kitlesi, Kakao Tozu (%10), Emülgatör, Vanilin].
+143	8690526114203	Şölen Biscolata Star Fındıklı (82g)	Sütlü Çikolata Kaplı Gofret Bisküvi: Bisküvi, Fındıklı Krema [Şeker, Bitkisel Yağ, Fındık Püresi (%8), Süt Tozu], Sütlü Çikolata Kaplama.
+144	8690526114302	Şölen Biscolata Stix Sütlü (40g)	Bisküvi Çubukları (%45) [Buğday Unu, Şeker, Bitkisel Yağ, Tuz], Sütlü Çikolata Kaplama (%55) [Kakao Yağı, Tam Süt Tozu, Emülgatör].
+145	8690526114357	Şölen Biscolata Luppo Çikolatalı (64g)	Bisküvi Kek (%50), Marshmallow (%25) [Glukoz Şurubu, Sığır Jelatini], Sütlü Çikolata Kaplama (%25).
+146	8690526114401	Şölen Luppo Sandviç Kek Kara Orman	Kek (%50) [Buğday Unu, Şeker, Yumurta], Marshmallow (%20), Vişne Sosu (%10) [Vişne Konsantresi], Çikolata Kaplama (%20).
+147	8690526114500	Şölen Ozmo Cornet Çikolatalı (25g)	Gofret Külahı (%20) [Buğday Unu, Emülgatör], Sütlü Çikolata Kreması (%70) [Şeker, Süt Tozu, Kakao], Renkli Şeker Draje (%10).
+148	8690526114555	Şölen Ozmo Ogopogo Kakaolu Kek (30g)	Kek (%80) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ, Nem Verici], Kakao Kreması Dolgusu (%20) [Şeker, Bitkisel Yağ, Kakao Tozu].
+149	8690526114609	Şölen Ozmo Hoppo Çikolatalı Kremalı	Bisküvi Küresi (%50) [Buğday Unu, Şeker], Sütlü Çikolata Kreması Dolgusu (%50) [Kakao Yağı, Süt Tozu, Emülgatör].
+150	8690526114708	Şölen Nutymax Fındıklı Gofret (44g)	Fındıklı Krema (%52) [Şeker, Fındık Püresi (%15), Süt Tozu], Sütlü Çikolata Kaplama (%33), Yaprak Gofret (%15) [Buğday Unu].
+151	8690526114753	Şölen Nutymax Bitter Çikolatalı (44g)	Bitter Çikolata Kreması (%52), Bitter Çikolata Kaplama (%33) [Kakao Kuru Maddesi En Az %54], Yaprak Gofret (%15).
+152	8690526114807	Şölen Nutymax Antep Fıstıklı (44g)	Antep Fıstıklı Krema (%52) [Şeker, Kavrulmuş Antep Fıstığı Püresi (%12), Yağsız Süt Tozu], Sütlü Çikolata Kaplama (%33), Gofret.
+153	8690526114906	Şölen Papita Sütlü Çikolatalı (33g)	Bisküvi (%50) [Buğday Unu, Şeker], Sütlü Çikolata Kreması (%35), Renkli Draje Şeker Taneleri (%15) [Karnauba Mumu].
+154	8690526114951	Şölen Papita Hindistan Cevizli (33g)	Bisküvi (%50), Hindistan Cevizli Krema (%35) [Krutulmuş Hindistan Cevizi], Sütlü Çikolata (%15).
+155	8690526115019	Şölen Milango Fındıklı Nuga Çikolata	Sütlü Çikolata (%60) [Şeker, Süt Tozu, Kakao Yağı], Fındıklı Nuga Dolgusu (%40) [Kavrulmuş Fındık İçi (%25), Emülgatör].
+156	8690526115125	Şölen Octavia Fındıklı Kremalı Çikolata	Sütlü Çikolata (%55), Fındıklı Sıvı Krema (%40) [Şeker, Fındık Püresi], Bütün Kavrulmuş Fındık İçi (%5).
+157	8690526115200	Şölen Chocodan's Fındıklı Karamel (125g)	Karamel (%40) [Glukoz Şurubu, Şeker, Süt Yağı], Kavrulmuş Bütün Fındık (%25), Sütlü Çikolata Kaplama (%35).
+158	8690526115316	Şölen Boombastic Karamelli Yer Fıstıklı	Yer Fıstıklı Karamel (%50) [Kavrulmuş Yer Fıstığı (%20), Glukoz Şurubu, Şeker], Sütlü Çikolata Kaplama (%35), Patlamış Pirinç (%15).
+159	8690526115408	Şölen Boombastic Hindistan Cevizli Bar	Hindistan Cevizi Bar (%65) [Kurutulmuş Hindistan Cevizi], Sütlü Çikolata Kaplama (%35) [Vanilin].
+160	8690526115514	Şölen Amada Kakao Kremalı Gofret	Kakao Kreması (%75) [Şeker, Bitkisel Yağ, Kakao Tozu], Gofret Yaprağı (%25) [Buğday Unu, Tuz, Sodyum Bikarbonat].
+161	8690526115606	Şölen Diamond Karışık Dolgulu Çikolata	Çikolata Pralin Grubu: Fındık Dolgulu, Kakao Dolgulu, Süt Dolgulu Sütlü Çikolatalar [Şeker, Kakao Yağı, Süt Tozu, Fındık Püresi].
+162	8690526115712	Şölen Wish Sütlü Çikolatalı Pralin	Sütlü Çikolata Kabuk (%50), Sütlü Krema ve Akışkan Karamel Dolgusu (%50) [Glukoz Şurubu, Pancar Şekeri, Emülgatör].
+163	8690526115804	Şölen Lokkum Çikolata Kaplı Lokum	Geleneksel Gül Aromalı Lokum (%70) [Şeker, Mısır Nişastası, Sitrik Asit, Doğal Gül Aroması], Sütlü Çikolata Kaplama (%30).
+164	8690526115910	Şölen Matra Kurabiye Çikolatalı (100g)	Kurabiye Tabanı (%60) [Buğday Unu, Şeker, Bitkisel Yağ], Yoğun Kakao Kreması Dolgusu (%40) [Emülgatör (Ayçiçek Lesitini)].
+165	8690526116016	Şölen Vital Kakao Kremalı Gofret	Kakaolu Krema (%72), Yaprak Gofret (%28) [Buğday Unu, Mısır Nişastası, Bitkisel Yağ, Sofra Tuzu, Kabartıcı].
+
+
+5. Saray ve Bifa Kurabiye/Bisküvi Çeşitleri (166 - 200)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+166	8690533011113	Saray Cevizli Kurabiye (150g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm), Öğütülmüş Ceviz İçi (%8), Glukoz Şurubu, Yumurta, Kabartıcılar (Amonyum Bikarbonat), Sofra Tuzu, Aroma Verici.
+167	8690533011151	Saray Çikolata Parçacıklı Kurabiye	Buğday Unu, Şeker, Bitkisel Yağ, Parça Çikolata (%12) [Şeker, Kakao Kitlesi, Emülgatör], Glukoz Şurubu, Kabartıcılar, Tuz, Aroma Verici.
+168	8690533012110	Saray Kakaolu Kremalı Sandviç (100g)	Bisküvi (%70) [Buğday Unu, Şeker, Bitkisel Yağ, Kabartıcı], Kakao Kreması (%30) [Şeker, Bitkisel Yağ, Kakao Tozu (%10), Yağsız Süt Tozu, Emülgatör].
+169	8690533013124	Saray Milkman Petibör Bisküvi (450g)	Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuzu.
+170	8690533014114	Saray Chocolips Çikolata Kaplı Bisküvi	Bisküvi (%55) [Buğday Unu, Şeker], Marshmallow (%20) [Jelatin], Sütlü Çikolata Kaplama (%25) [Emülgatör (Soya Lesitini)].
+171	8690533015128	Saray Eldora Çikolatalı Gofret (35g)	Kakao Kreması (%65) [Şeker, Bitkisel Yağ, Kakao], Sütlü Çikolata Kaplama (%23) [Süt Tozu], Gofret Yaprağı (%12) [Buğday Unu, Tuz].
+172	8690533016118	Saray Offwaffle Karamelli Waffle (40g)	Waffle Yaprağı (%60) [Buğday Unu, Yumurta], Akışkan Karamel Dolgusu (%40) [Glukoz Şurubu, Esmer Şekeri, Tereyağı, Tarçın].
+173	8690533017122	Saray Powernut Yer Fıstıklı Bar (40g)	Kavrulmuş Yer Fıstığı (%38), Karamel (%22) [Glukoz Şurubu, Şeker], Sütlü Çikolata Kaplama (%25), Nuga (%15) [Yumurta Akı Tozu].
+174	8690533018115	Saray RollRex Kakaolu Rulo Kek (50g)	Kek (%65) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ], Kakao Kreması (%35) [Şeker, Bitkisel Yağ, Kakao Tozu, Koruyucu].
+175	8690533019129	Saray Sempatiko Muz Kremalı Sandviç	Bisküvi (%70) [Buğday Unu, Şeker], Muzlu Krema (%30) [Şeker, Bitkisel Yağ, Kurutulmuş Muz Tozu (%0.5), Doğal Muz Aroması].
+176	8690509011116	Bifa Petibör Klasik (450g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm), Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat), Sofra Tuzu.
+177	8690509011154	Bifa Kakaolu Petibör (450g)	Buğday Unu, Şeker, Bitkisel Yağ, Kakao Tozu (%5), Glukoz Şurubu, Peynir Altı Suyu Tozu, Kabartıcılar, Sofra Tuzu, Aroma Verici.
+178	8690509012113	Bifa Finger Bisküvi (400g)	Buğday Unu, Şeker, Bitkisel Yağ, Glukoz Şurubu, Kabartıcılar (Amonyum Bikarbonat), Sofra Tuzu, Süt ve Tereyağı Aroması.
+179	8690509013127	Bifa Kakaolu Kremalı Sandviç (100g)	Bisküvi (%70) [Buğday Unu, Şeker, Bitkisel Yağ, Kabartıcı], Kakao Kreması (%30) [Şeker, Bitkisel Yağ, Kakao Tozu (%10), Emülgatör].
+180	8690509014111	Bifa Elit Çikolata Kaplı Bisküvi (240g)	Bisküvi (%52) [Buğday Unu, Şeker], Marshmallow (%22) [Sığır Jelatini], Sütlü Çikolata Kaplama (%26) [Emülgatör (Soya Lesitini)].
+181	8690509015125	Bifa Gofret Kakaolu Kremalı (125g)	Kakao Kreması (%75) [Şeker, Bitkisel Yağ, Kakao Tozu], Gofret Yaprağı (%25) [Buğday Unu, Mısır Nişastası, Sofra Tuzu, Kabartıcı].
+182	8690509016115	Bifa Gofret Çilek Kremalı (125g)	Çilekli Krema (%75) [Şeker, Bitkisel Yağ, Peynir Altı Suyu Tozu, Doğal Çilek Aroması], Gofret Yaprağı (%25) [Buğday Unu, Tuz].
+183	8690509017129	Bifa Bifrut Portakallı Jöleli (150g)	Bisküvi (%55) [Buğday Unu], Portakal Jölesi (%30) [Glukoz Şurubu, Şeker, Portakal Püresi %8, Pektin], Kakaolu Şeker Kaplama (%15).
+184	8690509018119	Bifa Çikolatalı Gofret Klasik (36g)	Kakao Kreması (%68) [Şeker, Bitkisel Yağ, Süt Tozu, Kakao], Sütlü Çikolata Kaplama (%20), Gofret Yaprağı (%12) [Buğday Unu, Tuz].
+185	8690509019123	Bifa Mini Kek Kakaolu Dolgulu (35g)	Kek (%80) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ], Kakao Kreması Dolgusu (%20) [Şeker, Bitkisel Yağ, Kakao Tozu, Koruyucu].
+186	8699450001013	Biscolata Nirvana Fındıklı Gofret (26g)	Fındıklı Sıvı Krema (%55) [Şeker, Fındık Püresi (%12), Süt Tozu], Sütlü Çikolata Kaplama (%30), Çıtır Gofret Yaprağı (%15) [Buğday Unu].
+187	8690533020115	Saray Nutrex Fındık Kremalı Gofret	Fındıklı Krema (%72) [Şeker, Bitkisel Yağ, Fındık Püresi], Gofret Yaprağı (%28) [Buğday Unu, Mısır Nişastası, Sofra Tuzu, Kabartıcı].
+188	8690533021129	Saray Kakaolu Halka Kurabiye (110g)	Buğday Unu, Şeker, Bitkisel Yağ (Palm), Kakao Tozu (%6), Glukoz Şurubu, Kabartıcılar (Amonyum Bikarbonat), Sofra Tuzu, Vanilin.
+189	8690533022119	Saray Tatlım Çikolata Kaplı Bar Kek	Kek (%60) [Buğday Unu, Şeker, Yumurta], Kremalı Dolgu (%18), Sütlü Çikolata Kaplama (%22) [Emülgatör (Ayçiçek Lesitini)].
+190	8690509020111	Bifa Premium Çikolatalı Kurabiye (100g)	Kurabiye Tabanı (%65) [Buğday Unu, Şeker, Bitkisel Yağ], Bitter Çikolata Dolgusu (%35) [Kakao Kitlesi, Şeker, Emülgatör].
+191	8690543201113	Şölen Luppo Mini Tart Vişneli (110g)	Tart Hamuru (%55) [Buğday Unu, Şeker, Bitkisel Yağ], Vişne Jölesi (%25) [Vişne Konsantresi], Sütlü Çikolata Kaplama (%20).
+192	8690526095110	Eti Tartini Frambuazlı Turta (114g)	Turta Hamuru (%55) [Buğday Unu, Şeker, Bitkisel Yağ], Frambuazlı Sos (%30) [Frambuaz Püresi (%12), Pektin], Mozaik Kurabiye Parçaları (%15).
+193	8690504361117	Ülker Kat Kat Tat Vişneli (24g)	Katlı Milföy Yaprağı (%75) [Buğday Unu, Bitkisel Margarin], Eksper Vişne Reçelli Dolgu (%25) [Vişne, Şeker, Glikoz, Sitrik Asit].
+194	8690526005129	Eti Popkek Portakallı (60g)	Kek (%70) [Buğday Unu, Şeker, Yumurta, Bitkisel Yağ], Portakallı Sos (%18) [Portakal Suyu Konsantresi], Çikolata Kaplama (%12).
+195	8690504371116	Ülker Dankek Magma Çikolatalı (65g)	Kek (%65) [Buğday Unu, Şeker], Merkez Akışkan Çikolata Lavı (%20) [Bitter Çikolata], Kakao Kaplama ve Dekor (%15).
+196	8690123040114	Torku Favorimo Muz Kremalı Sandviç	Bisküvi (%70) [Buğday Unu, Şeker, Pancar Şekeri], Muzlu Krema (%30) [Kurutulmuş Muz Tozu, Süt Tozu, Doğal Muz Aroması].
+197	8690526013117	Eti Burçak Çörekotlu Tuzlu Kurabiye	Buğday Unu, Tam Buğday Unu, Bitkisel Yağ, Çörek Otu Taneleri (%4), Haşhaş, Tuz, Kabartıcılar (Amonyum Bikarbonat, Sodyum Bikarbonat).
+198	8690504381115	Ülker Hanımeller Çokodamla (82g)	Buğday Unu, Şeker, Bitkisel Yağ, Damla Çikolata Parçacıkları (%14) [Şeker, Kakao Kitlesi, Emülgatör], Yumurta, Kabartıcılar, Tuz.
+199	8690526096117	Eti Browni Intense Fındıklı (50g)	Kremalı Kek (%50) [Şeker, Yumurta, Buğday Unu, Kakao], Fındık Kreması (%15), Çikolata Kaplama (%30), Fındık Parçaları (%5).
+200	8690504391114	Ülker Halley Beyaz Çikolatalı (30g)	Bisküvi (%52) [Buğday Unu, Şeker, Bitkisel Yağ], Marshmallow (%22) [Sığır Jelatini], Beyaz Çikolata Kaplama (%26) [Süt Tozu, Emülgatör].

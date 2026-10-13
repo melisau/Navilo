@@ -1,0 +1,106 @@
+[
+  {
+    "code": "8695077129444",
+    "category": "food",
+    "name": "Harras Bütün Fındıklı Sütlü Çikolata 65 g",
+    "ingredients": "Sütlü Çikolata (%82) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin) (Kakao kuru maddesi en az %30)), Fındık (%18).",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077129444",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [
+      "en:pistachios",
+      "en:almonds"
+    ],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Sütlü Çikolata (%82) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emülgatör (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin) (Kakao kuru maddesi en az %30)), Fındık (%18). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Domuz ve domuz ürünleri muhteviyatı içermez."
+  },
+  {
+    "code": "8695077129468",
+    "category": "food",
+    "name": "Harras Bütün Fındıklı Sütlü Çikolata 130 g",
+    "ingredients": "Sütlü Çikolata (%85) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emulgator (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin)), Fındık (%15), (Kakao kuru maddesi en az %30).",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077129468",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [
+      "en:pistachios",
+      "en:almonds"
+    ],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Sütlü Çikolata (%85) (Şeker, kakao yağı, tam yağlı süt tozu, kakao kitlesi, yağsız süt tozu, emulgator (ayçiçek lesitini, Poligliserol polirisinoleat), aroma verici (vanilin)), Fındık (%15), (Kakao kuru maddesi en az %30). Alerjen Uyarısı: Süt ürünleri ve fındık içerir. Eser miktarda Antep fıstığı ve badem içerebilir. Karbonhidrat (g) Domuz ve domuz ürünleri muhteviyatı içermez. Serin, kuru, kokusuz ve güneş görmeyen yerde muhafaza ediniz. Buzdolabında muhafaza etmeyiniz. - Şekerler (g) Protein (g) Tuz (g)"
+  },
+  {
+    "code": "8695077043641",
+    "category": "food",
+    "name": "Harras Bitter Tablet Çikolata %60 Kakao 80 g",
+    "ingredients": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%.",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077043641",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%."
+  },
+  {
+    "code": "8695077112583",
+    "category": "food",
+    "name": "Harras Laktozsuz Yarım Yağlı UHT İçme Sütü 1 L",
+    "ingredients": "Yarım yağlı inek sütü, laktoz enzimi.",
+    "source_name": "Open Food Facts · Harras (ODbL)",
+    "source_url": "https://world.openfoodfacts.org/product/8695077112583",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "community_transcription_pending_package_check",
+    "attribution": "© Open Food Facts contributors",
+    "license": "ODbL-1.0",
+    "license_url": "https://opendatacommons.org/licenses/odbl/1-0/",
+    "source_ingredients_raw": "Yarım yağlı inek sütü, laktoz enzimi."
+  },
+  {
+    "code": "8695077141453",
+    "category": "food",
+    "name": "Harras Özel Lezzet Kakaolu Fındık Ezmesi 350 g",
+    "ingredients": "Fındık (%35), şeker, fındık yağı, yağsız süt tozu, kakao (%4).",
+    "source_name": "Harras · perakende barkodu ve 2024 ambalaj fotoğrafı",
+    "source_url": "https://gidadedektifi.com/urun-incelemeleri/krema-sos-ve-ezmeler/harras-ozel-lezzet-kakaolu-findik-ezmesi-826",
+    "barcode_source_url": "https://www.trendyol.com/harras/kakaolu-findik-ezmesi-p-958670708",
+    "ingredient_evidence_url": "https://imagedelivery.net/Zcjn5gwAVfrAzXjwv_K0uw/af7f3edc-f2c3-4f64-b045-6d92b5096c00/public",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "source_published_at": "2024-05-20",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "catalog_batch": "harras-20261013",
+    "evidence_status": "retailer_identity_and_historical_label_photo_pending_current_package_check"
+  }
+]

@@ -1,0 +1,154 @@
+
+1. KATEGORİ: Patates Cipsleri - Klasik, Baharatlı ve Soslu Çeşitler (1 - 70)
+
+
+Lay's Serisi (1 - 25)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+1	8690624301113	Lay's Klasik Patates Cipsi Sade (150g)	Patates, bitkisel yağlar (mısır, ayçiçek ve kanola), sofra tuzu. [Katkı maddesi ve yapay koruyucu içermez].
+2	8690624301120	Lay's Mevsim Yeşillikleri ve Yoğurtlu	Patates, bitkisel yağlar, mevsim yeşillikleri ve yoğurt aromalı çeşni [şeker, Peynir Altı Suyu Tozu (Süt Ürünü), tuz, sarımsak tozu, hidrolize bitkisel protein, yoğurt tozu (%0.5), soğan tozu, maydanoz (%0.1), aroma arttırıcılar, asitlik düzenleyiciler, aroma vericiler].
+3	8690624301151	Lay's Fırından Yoğurt ve Mevsim Yeşillikli	Kurutulmuş patates püresi (%50), nişasta, bitkisel yağ, yoğurt ve mevsim yeşillikleri çeşnisi [Süt Tozu, tuz, soğan tozu, maydanoz, doğal aroma verici]. [Fırınlanmıştır, %50 daha az yağlı].
+4	8690624301205	Lay's Fırından Kurutulmuş Domatesli Soslu	Kurutulmuş patates püresi, nişasta, bitkisel yağ, şeker, kurutulmuş domates ve çeşni aroması [domates tozu (%1), tuz, sarımsak, kekik, fesleğen].
+5	8690624301250	Lay's Baharat Çeşnili Patates Cipsi (107g)	Patates, bitkisel yağlar, baharat çeşnisi [pul biber tozu, soğan tozu, sarımsak tozu, kimyon, karabiber, tuz, glukoz şurubu, asitlik düzenleyici].
+6	8690624301304	Lay's Tulum Peyniri ve Zeytinyağlı (107g)	Patates, bitkisel yağlar, tulum peyniri ve zeytinyağı aromalı çeşni [Peynir Tozu (Süt Ürünü %1.5), sızma zeytinyağı (%0.5), maya ekstraktı, tuz].
+7	8690624301359	Lay's Barbekü Soslu Patates Cipsi	Patates, bitkisel yağlar, barbekü aromalı çeşni [tuz, şeker, fruktoz, tütsü aroması, asitlik düzenleyici, domates tozu, soğan tozu, renklendirici].
+8	8690624301403	Lay's Fırından Sade Deniz Tuzlu (95g)	Kurutulmuş patates püresi, mısır nişastası, bitkisel yağ (ayçiçek), deniz tuzu (%1.5), şeker, emülgatör (ayçiçek lesitini).
+9	8690624301458	Lay's Izgara Soğan Aromalı Patates Cipsi	Patates, bitkisel yağlar, karamelize izgara soğan çeşnisi [soğan tozu (%2), şeker, tuz, maya ekstraktı, asitlik düzenleyici, doğal aroma].
+10	8690624301502	Lay's Cheddar Peynirli Patates Cipsi	Patates, bitkisel yağlar, cheddar peyniri aromalı çeşni [Cheddar Peyniri Tozu (%1), Yağsız Süt Tozu, tuz, aroma arttırıcı, paprika rengi].
+11	8690624301557	Lay's Hardal ve Ballı Patates Cipsi	Patates, bitkisel yağlar, hardal ve bal aromalı çeşni [Hardal Tohumu Tozu (%0.5), bal tozu (%0.2), şeker, tuz, asitlik düzenleyici].
+12	8690624301601	Lay's Acı Biberli ve Limonlu (Salsa)	Patates, bitkisel yağlar, chili biberi ve limon aromalı salsa çeşnisi [pul biber, asitlik düzenleyici (sitrik asit), doğal limon aroması, tuz].
+13	8690624301656	Lay's Sweet Chili Tatlı Acı Biberli	Patates, bitkisel yağlar, tatlı acı biber çeşnisi [şeker, tuz, sarımsak, acı biber ekstraktı, renklendirici (paprika ekstraktı)].
+14	8690624301700	Lay's Trüf Mantarı ve Parmesan Aromalı	Patates, bitkisel yağlar, trüf ve parmesan çeşnisi [Parmesan Pyniri Tozu (%0.8), tuz, doğal trüf aroması, maya özütü].
+15	8690624301755	Lay's Kekikli ve Zeytin Aromalı	Patates, bitkisel yağlar, kekik ve siyah zeytin aromalı çeşni [kurutulmuş dağ kekiği (%0.4), zeytin aroması, tuz, dekstroz].
+16	8690624301809	Lay's Deniz Tuzu ve Sirkeli (Salt & Vinegar)	Patates, bitkisel yağlar, tuz ve sirke aromalı çeşni [asitlik düzenleyici (sodyum diasetat, sitrik asit), deniz tuzu (%1.5), laktoz].
+17	8690624301854	Lay's Fırından Enginar Kalbi ve Otlu	Kurutulmuş patates püresi, nişasta, bitkisel yağ, kurutulmuş enginar tozu (%0.5), kurutulmuş fesleğen ve dereotu çeşnisi, tuz.
+18	8690624301908	Lay's Dalgalı Tırtıklı Sade (150g)	Patates, bitkisel yağlar (mısır, ayçiçek ve kanola), sofra tuzu. [Kalın kesim tırtıklı yapı].
+19	8690624301953	Lay's Kumpir Lezzeti Karışık Çeşnili	Patates, bitkisel yağlar, kumpir çeşnisi [Tereyağı Aroması, tuz, kurutulmuş mısır tozu, zeytin aroması, ketçap çeşnisi].
+20	8690624302011	Lay's Yoğurtlu Nane Aromalı Party Boy	Patates, bitkisel yağlar, yoğurt ve nane çeşnisi [Yağsız Süt Tozu, kurutulmuş nane (%0.2), tuz, asitlik düzenleyici].
+21	8690624302103	Lay's Fırından Haşhaş ve Taneli	Kurutulmuş patates püresi, nişasta, bitkisel yağ, mavi haşhaş tohumu (%2), kavrulmuş susam taneleri, deniz tuzu.
+22	8690624302158	Lay's Baharatlı Mega Boy (193g)	Patates, bitkisel yağlar, pul biber, soğan, sarımsak, kekik, kimyon, karabiber, tuz, asitlik düzenleyici, maya ekstraktı.
+23	8690624302202	Lay's Deniz Tuzlu Karabiberli Gurme	Patates, bitkisel yağlar, deniz tuzu (%1.2), öğütülmüş tane karabiber (%0.5), dekstroz.
+24	8690624302257	Lay's Fırından Humus Çeşnili (95g)	Kurutulmuş patates püresi, mısır nişastası, bitkisel yağ, nohut unu, tahin aromalı çeşni, kimyon, sarımsak, tuz.
+25	8690624302301	Lay's Labne Peynirli ve Köz Biberli	Patates, bitkisel yağlar, labne ve köz biber çeşnisi [Labne Tozu (%1), közlenmiş kırmızı kapya biber püresi tozu (%0.5), tuz].
+
+
+Ruffles Serisi (26 - 50)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+26	8690624201117	Ruffles Orijinal Tırtıklı Sade (150g)	Patates, bitkisel yağlar (mısır, ayçiçek ve kanola), sofra tuzu. [Kalın ve derin tırtıklı dalgalı kesim].
+27	8690624201124	Ruffles Ketçap Aromalı Patates Cipsi	Patates, bitkisel yağlar, ketçap aromalı çeşni [şeker, Buğday Türevi (Gluten Eser Miktar), tuz, domates tozu (%1.2), asitlik düzenleyiciler, aroma vericiler].
+28	8690624201155	Ruffles Peynir ve Soğan Aromalı	Patates, bitkisel yağlar, peynir ve soğan çeşnisi [Peynir Altı Suyu Tozu, tuz, soğan tozu (%1), renye edici (paprika), peynir tozu, aroma vericiler].
+29	8690624201209	Ruffles Max Acı Kanat Aromalı (107g)	Patates, bitkisel yağlar, acı tavuk kanadı aromalı çeşni [tuz, şeker, pul biber, sarımsak tozu, aroma arttırıcı (monosodyum glutamat), tütsü aroması].
+30	8690624201254	Ruffles Max Barbekü Et Aromalı	Patates, bitkisel yağlar, barbekü et aromalı çeşni [tuz, füme et aroması, karamelize esmer şeker, asitlik düzenleyici].
+31	8690624201308	Ruffles Cheddar ve Islak Hamburgerli	Patates, bitkisel yağlar, cheddar ve ıslak hamburger çeşnisi [Cheddar Peyniri Tozu (%0.8), et suyu aroması, domates püresi tozu, tuz].
+32	8690624201353	Ruffles Hot & Spicy Yoğun Acılı	Patates, bitkisel yağlar, yoğun acı biber çeşnisi [pul biber, kırmızı acı çili, karabiber, sarımsak, tuz, renklendirici].
+33	8690624201407	Ruffles Buffalo Soslu Tırtıklı Cips	Patates, bitkisel yağlar, buffalo sosu çeşnisi [sirke tozu, acı biber özütü, sarımsak, tereyağı aroması, tuz].
+34	8690624201452	Ruffles Peynir Dolgulu Jalapeno	Patates, bitkisel yağlar, jalapeno ve taze peynir çeşnisi [doğranmış jalapeno turşusu tozu, Eritme Peyniri Tozu, tuz, asitlik düzenleyici].
+35	8690624201506	Ruffles Ranch Soslu Patates Cipsi	Patates, bitkisel yağlar, ranch sos çeşnisi [Süt Tozu, tuz, sarımsak, kurutulmuş dereotu, asitlik düzenleyici].
+36	8690624201551	Ruffles Deniz Tuzlu Sade Mega Boy	Patates, bitkisel yağlar, deniz tuzu (%1.3). [Ekstra çıtır dalgalı kesim].
+37	8690624201605	Ruffles Max Köz Biberli Yoğurtlu	Patates, bitkisel yağlar, köz kırmızı biber ve yoğurt çeşnisi [Yoğurt Tozu, kırmızı kapya biber tozu, sarımsak, tuz].
+38	8690624201650	Ruffles Kekikli Sade Tırtıklı	Patates, bitkisel yağlar, kurutulmuş dağ kekiği (%0.5), sofra tuzu.
+39	8690624201704	Ruffles Steak Aromalı Patates Cipsi	Patates, bitkisel yağlar, biftek aromalı çeşni [tuz, maya özütü, soğan, et aroması vericiler].
+40	8690624201759	Ruffles Yoğun Peynirli (Quadruple Cheese)	Patates, bitkisel yağlar, dörtlü peynir çeşnisi [Parmesan, Cheddar, Mozzarella, Küflü Peynir Tozları Karışımı (%2), tuz].
+41	8690624201803	Ruffles Tatlı Patates Cipsi Tarçınlı	Tatlı patates, bitkisel yağ (ayçiçek), esmer şeker, öğütülmüş tarçın (%0.5), deniz tuzu.
+42	8690624201858	Ruffles Karabiber ve Sirke Aromalı	Patates, bitkisel yağlar, sirke tozu, tane karabiber ezmesi (%0.4), sofra tuzu, asitlik düzenleyici.
+43	8690624201902	Ruffles Smokey Bacon Tütsü Aromalı	Patates, bitkisel yağlar, tütsü aromalı çeşni [tuz, bitkisel protein, duman aroması özütü].
+44	8690624201957	Ruffles Cheddar ve Ekşi Kremalı	Patates, bitkisel yağlar, cheddar ve ekşi krema çeşnisi [Ekşi Krema Tozu (%1), Cheddar Peyniri Tozu, tuz].
+45	8690624202015	Ruffles Taco Soslu Tırtıklı Cips	Patates, bitkisel yağlar, taco çeşnisi [domates, kimyon, sarımsak, pul biber, tuz, koruyucu].
+46	8690624202107	Ruffles Sarımsak Tozlu Mayonezli	Patates, bitkisel yağlar, sarımsaklı mayonez çeşnisi [Yumurta Sarısı Tozu (Eser Miktar), sarımsak (%1), tuz].
+47	8690624202152	Ruffles Karamelize Soğanlı Akışkan	Patates, bitkisel yağlar, karamelize soğan püresi çeşnisi, bal aroması, tuz.
+48	8690624202206	Ruffles Max Pul Biberli Yoğun	Patates, bitkisel yağlar, ekstra acı kırmızı pul biber tanecikleri (%1.5), sofra tuzu.
+49	8690624202251	Ruffles Deniz Tuzlu Trüflü Patates	Patates, bitkisel yağlar, deniz tuzu, doğal siyah trüf mantarı esansı.
+50	8690624202305	Ruffles Kaşar Peyniri Aromalı	Patates, bitkisel yağlar, eski kaşar peyniri aromalı çeşni [Olgunlaştırılmış Kaşar Tozu (%1.2), tuz].
+
+
+Pringles ve Yerel Patates Cipsi Markaları (51 - 70)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+51	5053990101519	Pringles Original Sade Kurutulmuş (165g)	Kurutulmuş patates püresi, bitkisel yağlar (ayçiçek, mısır), pirinç unu, Buğday Nişastası (Gluten), emülgatör (mono ve digliseritler), maltodekstrin, tuz.
+52	5053990101533	Pringles Sour Cream & Onion (Ekşi Krema)	Kurutulmuş patates püresi, bitkisel yağlar, pirinç unu, Buğday Nişastası, ekşi krema ve soğan çeşnisi [şeker, soğan tozu, Ekşi Krema Tozu (Süt Ürünü), Peynir Altı Suyu Tozu, aroma vericiler, tuz].
+53	5053990101571	Pringles Paprika Baharatlı (165g)	Kurutulmuş patates püresi, bitkisel yağlar, paprika çeşnisi [paprika tozu (%2), sarımsak, soğan, maya özütü, tuz].
+54	5053990101595	Pringles Hot & Spicy Yoğun Acılı	Kurutulmuş patates püresi, bitkisel yağlar, acı baharat çeşnisi [pul biber, kırmızı biber salçası tozu, tuz, MSG].
+55	5053990101656	Pringles Barbecue Texas Barbekü Soslu	Kurutulmuş patates püresi, bitkisel yağlar, Teksas barbekü sosu çeşnisi [tütsü aroması, esmer şeker, domates tozu, tuz].
+56	5053990123504	Pringles Salt & Vinegar Sirkeli Tuzlu	Kurutulmuş patates püresi, bitkisel yağlar, asitlik düzenleyici (sitrik asit, malik asit), sirke esansı, tuz.
+57	5053990134609	Pringles Cheesy Cheese Yoğun Peynirli	Kurutulmuş patates püresi, bitkisel yağlar, peynir çeşnisi [Peynir Tozu (%1.5), Süt Proteinleri, tuz, sarımsak].
+58	8690526081124	Patito Klasik Sade Patates Cipsi (BİM)	Patates, bitkisel palm yağı, sofra tuzu. [Koruyucu ve renklendirici içermez].
+9	8690526081155	Patito Tırtıklı Ketçap Aromalı	Patates, bitkisel palm yağı, ketçap çeşnisi [domates tozu, şeker, tuz, asitlik düzenleyici].
+60	8690526081209	Patito Yoğurt ve Mevsim Yeşillikli	Patates, bitkisel palm yağı, yoğurt ve otlar çeşnisi [Peynir Altı Suyu Tozu, nane, maydanoz, sarımsak, tuz].
+61	8690504245110	Amigo Klasik Patates Cipsi Sade (ŞOK)	Patates, bitkisel palm ve ayçiçek yağı, sofra tuzu.
+62	8690504245158	Amigo Tırtıklı Baharat Çeşnili	Patates, bitkisel yağ, pul biber tozu, soğan, kimyon, karabiber, sarımsak, tuz.
+63	8680075581102	Krinkles Kabuklu Doğal Deniz Tuzlu	Dilimlenmiş kabuklu patates, ayçiçek yağı, deniz tuzu (%1.1).
+64	8680075581157	Krinkles Karabiberli Gurme Patates	Kabuklu patates dilimleri, ayçiçek yağı, ezilmiş tane karabiber (%0.6), deniz tuzu.
+65	8695077045119	Masternut Vakumda Kızarmış Kıtır Patates	Patates (%98), deniz tuzu, yüksek oleikli ayçiçek yağı. [Vakum teknolojisiyle düşük sıcaklıkta pişirilmiştir].
+66	8695077045157	Masternut Kıtır Patates Trüf Aromalı	Patates, ayçiçek yağı, deniz tuzu, kurutulmuş trüf mantarı tozu (%0.1), doğal trüf esansı.
+67	8690624302400	Lay's Light %50 Az Yağlı Fırınlanmış	Kurutulmuş patates, mısır nişastası, deniz tuzu, ayçiçek lesitini. [İlave şeker içermez].
+68	8690624202404	Ruffles Max Islak Hamburger Aromalı	Patates, bitkisel yağlar, ıslak hamburger sosu çeşnisi [sarımsak püresi tozu, domates salçası tozu, karabiber, et aroması, tuz].
+69	5053990145605	Pringles Flame Spicy Sour Cream (Acı)	Kurutulmuş patates püresi, bitkisel yağlar, ekstra acı çili, ekşi krema aroması, Süt Ürünleri, tuz, MSG.
+70	5053990156700	Pringles Flame Sweet Chili Tatlı Acı	Kurutulmuş patates püresi, bitkisel yağlar, tatlı acı kırmızı biber ekstraktı, sarımsak, esmer şeker, tuz.
+
+
+2. KATEGORİ: Mısır Cipsleri - Ekstrem Acılı, Peynirli ve Klasik Çeşitler (71 - 140)
+
+
+Doritos Serisi (71 - 105)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+71	8690624101119	Doritos Taco Baharat Aromalı Mısır Cipsi	Mısır (%75), bitkisel yağlar (mısır, ayçiçek ve kanola), taco baharat aromalı çeşni [şeker, soğan tozu, sarımsak tozu, domates tozu (%1), pul biber, kimyon, tuz, aroma arttırıcı (monosodyum glutamat), asitlik düzenleyici].
+72	8690624101126	Doritos Nacho Peynir Aromalı Mısır Cipsi	Mısır (%75), bitkisel yağlar, peynir aromalı çeşni [Peynir Altı Suyu Tozu, tuz, Peynir Tozu (%1), Süt Proteinleri, aroma arttırıcı, sarımsak, soğan, paprika].
+73	8690624101157	Doritos Hot Wave Acı Biber Aromalı	Mısır (%75), bitkisel yağlar, acı baharat çeşnisi [pul biber, kırmızı biber salçası tozu (%1.5), sarımsak, tuz, glukoz şurubu, aroma arttırıcı].
+74	8690624101201	Doritos Extreme Wasabi Aromalı (113g)	Mısır, bitkisel yağlar, wasabi çeşnisi [yaban turbu tozu, hardal esansı, yeşil bitki ekstraktı renklendiricisi, tuz, şeker].
+75	8690624101256	Doritos Flamin' Hot Ekstrem Acılı	Mısır, bitkisel yağlar, flamin' hot ekstrem acı çeşnisi [ekstra acı kırmızı çili biberi özütü (%2), sitrik asit, hidrolize soya proteini, maya ekstraktı, tuz, MSG].
+76	8690624101300	Doritos Turco Haşhaşlı ve Domatesli	Mısır (%70), bitkisel yağlar, mavi haşhaş tohumu (%3.5), kurutulmuş domatesli çeşni (%5) [domates tozu, tuz, kekik, sarımsak, soğan, şeker].
+77	8690624101355	Doritos Risk 5.0 Ekstrem Dil Boyayan	Mısır, bitkisel yağlar, peynir çeşnisi, gizli acı sos enjeksiyonu [dil boyayan mavi renklendirici (parlak mavi FCF), ekstra kapsaisin acısı, tuz].
+78	8690624101409	Doritos BBQ Füme Barbekü Soslu	Mısır, bitkisel yağlar, barbekü aromalı çeşni [tütsü esansı, esmer şeker şurubu tozu, soğan, sarımsak, tuz, asitlik düzenleyici].
+79	8690624101454	Doritos Sweet Chili Tatlı ve Acılı	Mısır, bitkisel yağlar, tatlı kırmızı çili sosu çeşnisi [şeker, tuz, sarımsak tozu, acı biber ekstraktı, paprika karotenleri].
+80	8690624101508	Doritos Süzme Yoğurtlu ve Naneli Mısır	Mısır, bitkisel yağlar, yoğurt nane çeşnisi [Yoğurt Tozu (%1), kurutulmuş nane yaprakları (%0.3), tuz, dekstroz].
+81	8690624101553	Doritos Guacamole Avokado Aromalı	Mısır, bitkisel yağlar, guacamole çeşnisi [avokado aroması, kurutulmuş soğan, maydanoz, yeşil bitki konsantresi, tuz].
+82	8690624101607	Doritos Cheddar Jalapeno Acılı Peynirli	Mısır, bitkisel yağlar, peynir ve jalapeno çeşnisi [Cheddar Peyniri Tozu (%0.9), jalapeno biberi, tuz, renklendirici].
+83	8690624101652	Doritos Kumpir Soslu Tereyağlı Mısır	Mısır, bitkisel yağlar, kumpir çeşnisi [Süt Yağı, tuz, domates, zeytin aroması, ketçap çeşnisi tozu].
+84	8690624101706	Doritos Sriracha Soslu Yoğun Acılı	Mısır, bitkisel yağlar, Tayland usulü sriracha sosu çeşnisi [acı biber salçası tozu, sarımsak sirkesi tozu, tuz, esmer şeker].
+85	8690624101751	Doritos Cool Ranch Ferah Soslu Mısır	Mısır, bitkisel yağlar, ranch sos çeşnisi [Peynir Altı Suyu, tuz, sarımsak, soğan, kurutulmuş domates, asitlik düzenleyiciler].
+86	8690624101805	Doritos Pizza Pepperoni Sucuk Aromalı	Mısır, bitkisel yağlar, pepperoni pizza çeşnisi [tütsü sucuk aroması, baharat karışımı, tuz, peynir tozu].
+87	8690624101850	Doritos Nacho Mega Boy Peynirli (193g)	Mısır, bitkisel yağlar, peynir aromalı çeşni [Peynir Tozu, tuz, Süt Proteinleri, sarımsak, soğan, MSG, paprika].
+88	8690624101904	Doritos Taco Party Boy Baharatlı (218g)	Mısır, bitkisel yağlar, taco baharat çeşnisi [şeker, soğan, sarımsak, domates tozu, kimyon, pul biber, tuz, asitlik düzenleyici].
+9	8690624101959	Doritos Buffalo Wings Acı Kanat Aromalı	Mısır, bitkisel yağlar, acı tavuk kanadı sosu çeşnisi, sirke tozu, tuz, maya özütü.
+90	8690624102017	Doritos Flamin' Hot Lime Limonlu Acılı	Mısır, bitkisel yağlar, flamin' hot acı çeşnisi, sitrik asit, doğal lime limon aroması, tuz, MSG.
+91	8690624102109	Doritos Extreme Hamburger Lezzeti	Mısır, bitkisel yağlar, hamburger eti aromalı çeşni, hardal aroması, ketçap tozu, turşu çeşnisi, tuz.
+92	8690624102154	Doritos Turco Domatesli Haşhaşlı Midi	Mısır, bitkisel yağlar, mavi haşhaş tohumu, domates tozu, kekik, sarımsak, soğan, tuz, şeker.
+93	8690624102208	Doritos Hot Wave Mega Boy Acı Biberli	Mısır, bitkisel yağlar, pul biber, kırmızı biber salçası tozu, sarımsak, tuz, glukoz şurubu, aroma arttırıcı.
+94	8690624102253	Doritos Cheddar Crunch Yoğun Peynirli	Mısır, bitkisel yağlar, ekstra yoğun cheddar peyniri çeşnisi [Cheddar Peyniri Tozu %2, tuz].
+95	8690624102307	Doritos Tangy Cheese Ekşi Peynirli	Mısır, bitkisel yağlar, ekşi peynir çeşnisi [Peynir Altı Suyu, laktik asit, peynir tozu, tuz].
+
+
+Cheetos ve Mısır Çerezi Çeşitleri (96 - 120)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+96	8690624401110	Cheetos Peynirli Şekilli Mısır Çerezi	Mısır irmiği (%68), bitkisel yağlar, peynir aromalı çeşni [Peynir Altı Suyu Tozu, tuz, Peynir Tozu (%1.2), Süt Proteinleri, potasyum klorür, aroma verici].
+97	8690624401127	Cheetos Fıstıklı Kıtır Mısır Çerezi	Mısır irmiği, bitkisel yağlar, Yer Fıstığı Ezmesi (%8), şeker, sofra tuzu. [Gluten içerebilir].
+98	8690624401158	Cheetos Ketçap Aromalı Mısır Çerezi	Mısır irmiği, bitkisel yağlar, ketçap çeşnisi [şeker, domates tozu (%1.5), tuz, asitlik düzenleyici (sitrik asit), aroma verici].
+99	8690624401202	Cheetos Taş Makas Kağıt Sütlü Peynirli	Mısır irmiği, bitkisel yağlar, peynir ve süt çeşnisi [Tam Yağlı Süt Tozu (%2), peynir tozu, tuz].
+100	8690624401257	Cheetos Shots Peynirli Granül Çerez	Mısır irmiği (%70), bitkisel yağlar, mikro peynir çeşnisi, tuz. [Şişe formunda dökerek yenen ambalaj].
+101	8690624401301	Cheetos Crunchetos Ekstra Çıtır Peynir	Fırınlanmış mısır irmiği, bitkisel yağlar, yoğun fırınlanmış cheddar peyniri çeşnisi, tuz.
+102	8690624401356	Cheetos Flamin' Hot Acılı Mısır Çerezi	Mısır irmiği, bitkisel yağlar, flamin' hot acı çeşnisi [acı biber özütü, sitrik asit, tuz, MSG].
+103	8690526082114	Party Haşhaşlı Domatesli Mısır Cipsi	Mısır unu (%70), bitkisel palm yağı, mavi haşhaş tohumu (%3), domates salçası tozu, tuz, kekik, sarımsak.
+104	8690526082152	Party Taco Baharatlı Mısır Cipsi (BİM)	Mısır unu, bitkisel palm yağı, soğan tozu, sarımsak tozu, kimyon, pul biber, tuz, asitlik düzenleyici.
+105	8690526082206	Party Nacho Peynirli Mısır Cipsi (BİM)	Mısır unu, bitkisel palm yağı, peynir aromalı çeşni [Peynir Altı Suyu Tozu, peynir tozu, tuz].
+106	8690504246117	Amigo Nacho Peynirli Mısır Cipsi (ŞOK)	Mısır unu, bitkisel yağ, peynir tozu, Peynir Altı Suyu Tozu, tuz, doğal renklendirici (paprika).
+107	8690504246155	Amigo Taco Baharatlı Mısır Cipsi (ŞOK)	Mısır unu, bitkisel yağ, soğan, sarımsak, domates, pul biber, kimyon, karabiber, tuz.
+108	8694034001007	Çerezos Sütlü Peynirli Tombik Çerez	Mısır irmiği, bitkisel yağ, Süt Tozu (%3), taze peynir tozu (%1.5), sofra tuzu.
+109	8694034001021	Çerezos Ketçaplı Kıvırcık Mısır Çerezi	Mısır irmiği, bitkisel yağ, şeker, domates tozu, sitrik asit, tuz, ketçap aroması.
+110	8694034001151	Çerezos Fıstıklı Tombik Çerez (100g)	Mısır irmiği, bitkisel yağ, Ezilmiş Yer Fıstığı (%7), şeker, sofra tuzu.
+111	8690624401400	Cheetos Biftek Aromalı Şekilli Çerez	Mısır irmiği, bitkisel yağlar, mangal biftek çeşnisi [tuz, maya özütü, duman aroması vericiler].
+112	8690624401455	Cheetos Pizza Aromalı Çıtır Çerez	Mısır irmiği, bitkisel yağlar, pizza baharat çeşnisi [kekik, domates, sarımsak, peynir tozu, tuz].
+113	8690624401509	Cheetos Sweet Chili Tatlı Acı Halkalar	Mısır irmiği, bitkisel yağlar, tatlı acı biber ekstraktı, esmer şeker, tuz.
+114	8690624401554	Cheetos Mini Peynirli 4'lü Paket	Mısır irmiği, bitkisel yağlar, Peynir Altı Suyu Tozu, peynir tozu, tuz. [Çocuk boyu mini paketler].
+115	8690526082251	Party Acı Biber Aromalı Mısır Cipsi	Mısır unu, bitkisel palm yağı, pul biber tozu, acı kırmızı çili biberi özütü, tuz.
+116	8690504246209	Amigo Haşhaşlı Domatesli Mısır Cipsi	Mısır unu, bitkisel yağ, mavi haşhaş tohumu (%2.5), domates tozu, kekik, tuz.
+117	8694034001205	Çerezos Acılı Tombik Çerez (80g)	Mısır irmiği, bitkisel yağ, kırmızı acı pul biber ekstraktı (%1), sarımsak, tuz.
+118	8690624102352	Doritos Risk 6.0 Dil Boyayan Ekstrem	Mısır, bitkisel yağlar, taco çeşnisi, yeşil dil boyayan gıda renklendiricisi, ekstra yoğun kapsaisin acısı, tuz.
+119	8690624401608	Cheetos Cheddar Soslu Çıtır Çubuklar	Mısır irmiği, bitkisel yağlar, sıvı konsantre cheddar peyniri çeşnisi, tuz, paprika rengi.

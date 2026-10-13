@@ -1,0 +1,103 @@
+{
+  "status": 1,
+  "code": "8695077141033",
+  "product": {
+    "code": "8695077141033",
+    "product_name": "YARIM YAĞLI TOST PEYNIR",
+    "product_name_tr": "YARIM YAĞLI TOST PEYNIR",
+    "brands": "Aknaz",
+    "quantity": null,
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "lang": "tr",
+    "last_modified_t": 1770218127,
+    "allergens_tags": [],
+    "traces_tags": [],
+    "labels_tags": null,
+    "image_ingredients_url": null,
+    "image_ingredients_small_url": null,
+    "image_front_url": "https://images.openfoodfacts.org/images/products/869/507/714/1033/front_tr.3.400.jpg",
+    "images": {
+      "1": {
+        "sizes": {
+          "100": {
+            "h": 32,
+            "w": 100
+          },
+          "400": {
+            "h": 129,
+            "w": 400
+          },
+          "full": {
+            "h": 549,
+            "w": 1700
+          }
+        },
+        "uploaded_t": 1730720576,
+        "uploader": "macrofactor"
+      },
+      "2": {
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 97
+          },
+          "400": {
+            "h": 400,
+            "w": 388
+          },
+          "full": {
+            "h": 1123,
+            "w": 1088
+          }
+        },
+        "uploaded_t": 1730720577,
+        "uploader": "macrofactor"
+      },
+      "front_tr": {
+        "imgid": "1",
+        "rev": "3",
+        "sizes": {
+          "100": {
+            "h": 32,
+            "w": 100
+          },
+          "200": {
+            "h": 65,
+            "w": 200
+          },
+          "400": {
+            "h": 129,
+            "w": 400
+          },
+          "full": {
+            "h": 549,
+            "w": 1700
+          }
+        }
+      },
+      "nutrition_tr": {
+        "imgid": "2",
+        "rev": "5",
+        "sizes": {
+          "100": {
+            "h": 100,
+            "w": 97
+          },
+          "200": {
+            "h": 200,
+            "w": 194
+          },
+          "400": {
+            "h": 400,
+            "w": 388
+          },
+          "full": {
+            "h": 1123,
+            "w": 1088
+          }
+        }
+      }
+    }
+  }
+}

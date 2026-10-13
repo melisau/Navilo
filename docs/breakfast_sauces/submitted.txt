@@ -1,0 +1,120 @@
+
+2. BÖLÜM: KAHVALTILIK SOSLAR GRUBU (101 - 200)
+
+
+Çokça Serisi (A101 Ürün Grubu - 101 - 125)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+101	8699118055419	Çokça Acılı Kahvaltılık Sos 300g	Domates salçası (%40), biber salçası (%25), ayçiçek yağı, su, tuz, sarımsak, şeker, baharat karışımı (kimyon, karabiber, nane), koruyucu (sodyum benzoat).
+102	8699118055426	Çokça Tatlı Kahvaltılık Sos 300g	Domates salçası (%45), biber salçası (%20), ayçiçek yağı, su, şeker, tuz, sarımsak, kimyon, kekik, koruyucu (potasyum sorbat).
+103	8699118055433	Çokça Cevizli Acuka Ezmesi 290g	Biber salçası, domates salçası, bitkisel yağ, öğütülmüş ceviz içi (%8), çemen unu, sarımsak, tuz, baharatlar, asitlik düzenleyici (sitrik asit).
+104	8699118055440	Çokça Balkan Sosu Lütenitsa 300g	Közlenmiş kırmızı biber (%35), közlenmiş patlıcan (%30), domates püresi (%20), ayçiçek yağı, şeker, tuz, sarımsak, karabiber.
+105	8699118055457	Çokça Çemenli Kahvaltılık Sos	Domates salçası, su, çemen unu (%6), pul biber, ayçiçek yağı, tuz, sarımsak püresi, kimyon, koruyucu.
+106	8699118055464	Çokça Fındıklı Acılı Ezme 290g	Biber salçası, domates püresi, kavrulmuş fındık parçacıkları (%6), zeytinyağı, sarımsak, tuz, nane, kekik, sitrik asit.
+107	8699118055471	Çokça Jalapeno Biberli Sos 300g	Domates püresi, doğranmış jalapeno biberi (%15), sirke, şeker, tuz, soğan tozu, kıvam arttırıcı (ksantan gam).
+108	8699118055488	Çokça Sarımsaklı Acı Biber Sosu	Acı kırmızı biber (%40), su, sirke, sarımsak (%4), şeker, tuz, modifiye mısır nişastası, renklendirici.
+109	8699118055495	Çokça Zeytinli Kahvaltılık Sos	Domates salçası, doğranmış yeşil ve siyah zeytin (%12), bitkisel yağ, tuz, kekik, sarımsak.
+110	8699118055501	Çokça Kurutulmuş Domatesli Sos	Kurutulmuş domates (%30), domates salçası, ayçiçek yağı, tuz, fesleğen, sarımsak, asitlik düzenleyici.
+111	8699118055518	Çokça Cheddarlı Kahvaltılık Ezme	Su, bitkisel yağ, domates püresi, cheddar peyniri tozu (%4), modifiye nişasta, tuz, peynir altı suyu tozu, renklendirici.
+112	8699118055525	Çokça Köz Patlıcanlı Kahvaltı Ezmesi	Közlenmiş patlıcan (%60), ayçiçek yağı, sirke, tuz, sarımsak püresi, antioksidan (askorbik asit).
+113	8699118055532	Çokça Barbekü Aromalı Kahvaltı Sosu	Domates püresi, glukoz şurubu, sirke, modifiye nişasta, tuz, tütsü aroması, karamel şurubu, baharatlar.
+114	8699118055549	Çokça Ajvar Sos (Tatlı) 300g	Kırmızı kapya biber (%70), közlenmiş patlıcan (%15), ayçiçek yağı, tuz, şeker, sarımsak, sirke.
+115	8699118055556	Çokça Ajvar Sos (Acılı) 300g	Kırmızı kapya biber (%65), acı kırmızı biber (%5), közlenmiş patlıcan (%15), ayçiçek yağı, tuz, sarımsak, sirke.
+116	8699118055563	Çokça Fesleğenli Domatesli Sos	Domates püresi (%80), domates salçası, zeytinyağı, kurutulmuş fesleğen (%1.5), şeker, tuz, sarımsak.
+117	8699118055570	Çokça Çörekotlu Acı Ezme	Biber salçası, domates püresi, bitkisel yağ, çörek otu (%2.5), sarımsak, kimyon, tuz, potasyum sorbat.
+118	8699118055587	Çokça Ege Usulü Kahvaltılık Sos	Kurutulmuş domates, yeşil zeytin, zeytinyağı, ceviz içi (%3), sarımsak, kekik, fesleğen, tuz.
+119	8699118055594	Çokça Köz Biberli Yoğurtlu Sos	Közlenmiş kırmızı biber (%30), su, bitkisel yağ, yoğurt tozu (süt ürünü %4), nişasta, tuz, sarımsak, asitlik düzenleyici.
+120	8699118055600	Çokça Meksika Usulü Salsa (Kahvaltılık)	Domates dilimleri, su, yeşil biber, jalapeno biberi, soğan, şeker, sirke, tuz, modifiye nişasta, kişniş özü.
+121	8699118055617	Çokça Kekikli Domates Ezmesi	Domates salçası, ayçiçek yağı, dağ kekiği (%2), tuz, sarımsak tozu, asitlik düzenleyici (sitrik asit).
+122	8699118055624	Çokça Kimyonlu Çemen (Sarımsaksız)	Çemen unu (%8), domates salçası, su, bitkisel yağ, öğütülmüş kimyon (%2), kırmızı toz biber, tuz.
+123	8699118055631	Çokça Nar Ekşili Acılı Sos	Biber salçası, nar ekşisi sosu (%8) [glukoz şurubu, nar suyu konsantresi, sitrik asit], bitkisel yağ, tuz, baharatlar.
+124	8699118055648	Çokça Antep Usulü Muhammara	Biber salçası, domates salçası, galeta unu (buğday), ceviz (%5), tahin (%2), kimyon, sarımsak, tuz, zeytinyağı.
+125	8699118055655	Çokça Pul Biberli Yoğun Acı Ezme	Acı biber salçası (%60), pul biber (%5), bitkisel yağ, su, sarımsak, tuz, nane, koruyucu.
+
+
+Tat, Tukaş, Burcu, Tamek ve Kühne Serisi (126 - 160)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+126	8690553406326	Tat Acılı Kahvaltılık Sos 300g	Domates püresi, biber salçası, bitkisel yağ, şeker, tuz, sarımsak, baharat karışımı, sirke, asitlik düzenleyici.
+127	8690553406333	Tat Tatlı Kahvaltılık Sos 300g	Domates püresi, tatlı biber salçası, zeytinyağı, şeker, tuz, sarımsak, kimyon, nane, sirke.
+128	8690553424108	Tat Cevizli Baharatlı Acuka 290g	Biber salçası, domates salçası, ceviz içi (%8.5), ayçiçek yağı, çemen unu, dondurulmuş sarımsak, tuz, baharat özleri.
+129	8690563004017	Tukaş Kahvaltılık Sos Acılı 300g	Domates salçası, biber salçası, su, ayçiçek yağı, tuz, sarımsak, şeker, kimyon, nane, koruyucu (potasyum sorbat).
+130	8690563004024	Tukaş Kahvaltılık Sos Tatlı 300g	Domates salçası, biber salçası, su, ayçiçek yağı, şeker, tuz, sarımsak, nane, kekik, koruyucu.
+131	8690563004154	Tukaş Cevizli Acuka 290g	Biber ve domates salçası, ceviz (%6), bitkisel yağ, çemen unu, sarımsak, tuz, asitlik düzenleyici (sitrik asit).
+132	8690563004222	Tukaş Lütenitsa Balkan Sosu	Közlenmiş kırmızı biber (%40), közlenmiş patlıcan (%25), domates salçası, şeker, ayçiçek yağı, tuz, sarımsak.
+133	8690764001907	Burcu Acılı Kahvaltılık Sos 310g	Domates salçası, biber salçası, ayçiçek yağı, tuz, baharat karışımı, sarımsak, koruyucu (sodyum benzoat).
+134	8690764001914	Burcu Tatlı Kahvaltılık Sos 310g	Domates salçası, biber salçası, ayçiçek yağı, şeker, tuz, kimyon, kekik, sarımsak, koruyucu.
+135	8690764003208	Burcu Cevizli Acuka Ezmesi 300g	Biber salçası, domates salçası, ceviz içi (%7), bitkisel yağ, sarımsak, çemen unu, baharatlar, tuz.
+136	8690520210253	Tamek Acılı Kahvaltılık Sos 300g	Domates salçası, biber salçası, bitkisel yağ, tuz, sarımsak, şeker, baharatlar (kimyon, karabiber), sitrik asit.
+137	8690520210260	Tamek Tatlı Kahvaltılık Sos 300g	Domates salçası, biber salçası, bitkisel yağ, şeker, tuz, sarımsak, nane, kekik, asitlik düzenleyici.
+138	8691380006243	Kühne Lütenitsa Balkan Ezmesi	Közlenmiş kırmızı kapya biber (%50), közlenmiş patlıcan (%20), domates salçası, ayçiçek yağı, şeker, tuz, sarımsak, sirke.
+139	8691380006359	Kühne Ajvar Sos Tatlı 370ml	Kırmızı biber (%75), patlıcan (%12), ayçiçek yağı, tuz, şeker, sarımsak, sirke, asitlik düzenleyici.
+140	8691380006366	Kühne Ajvar Sos Acılı 370ml	Kırmızı biber (%70), acı biber (%5), patlıcan (%12), ayçiçek yağı, tuz, sarımsak, sirke.
+141	8690553406500	Tat Ajvar Tatlı Kahvaltı Ezmesi	Kırmızı biber (%73), patlıcan (%15), ayçiçek yağı, tuz, şeker, sarımsak, sirke.
+142	8690764004502	Burcu Balkan Sosu Lütenitsa 300g	Közlenmiş biber, közlenmiş patlıcan, domates püresi, şeker, tuz, ayçiçek yağı, karabiber, sarımsak.
+143	8690563004505	Tukaş Geleneksel Çemen 250g	Çemen unu (%10), domates salçası, su, tuz, kırmızı toz biber, sarımsak püresi, kimyon, koruyucu.
+144	8690764001129	Burcu Sarımsaksız Çemen 250g	Çemen unu (%8), domates salçası, su, bitkisel yağ, kırmızı biber, kimyon, tuz, sitrik asit.
+145	8690520210802	Tamek Kurutulmuş Domatesli Ezme	Kurutulmuş domates (%35), domates püresi, zeytinyağı, sarımsak, tuz, fesleğen, kekik.
+146	8691380007103	Kühne Akdeniz Usulü Pesto Ezmesi	Fesleğen (%40), ayçiçek yağı, parmesan peyniri, kaju, tuz, sarımsak, sirke, laktik asit.
+147	8690553401123	Tat Sarımsaklı Acı Biber Ezmesi	Acı kırmızı biber (%45), su, sirke, sarımsak (%5), şeker, tuz, ksantan gam (kıvam arttırıcı).
+148	8690764005127	Burcu Fındıklı Acılı Kahvaltı Sosu	Domates salçası, biber salçası, kavrulmuş fındık (%6), bitkisel yağ, sarımsak, tuz, baharatlar.
+149	8690563005200	Tukaş Kekikli Domatesli Kahvaltı Sosu	Domates salçası, zeytinyağı, kurutulmuş yaprak kekik (%1.5), tuz, sarımsak, limon suyu.
+150	8691380008209	Kühne Fesleğenli Domates Ezmesi	Domates püresi (%85), zeytinyağı, taze fesleğen (%2), şeker, tuz, sarımsak tozu.
+151	8690520211007	Tamek Antep Usulü Muhammara	Biber salçası, galeta unu, ceviz (%6), tahin, kimyon, sarımsak, zeytinyağı, tuz.
+152	8690553424504	Tat Nar Ekşili Acuka Ezmesi	Biber salçası, domates salçası, nar ekşisi konsantresi (%5), ceviz, bitkisel yağ, baharatlar, tuz.
+153	8690764006124	Burcu Ege Otlu Kahvaltılık Ezme	Yeşil zeytin, kurutulmuş domates, zeytinyağı, nane, kekik, fesleğen, sarımsak, tuz.
+154	8690563006108	Tukaş Köz Biberli Kahvaltılık Sos	Közlenmiş kırmızı kapya biber (%85), ayçiçek yağı, tuz, sarımsak püresi, sirke.
+155	8691380009121	Kühne Acılı Jalapeno Kahvaltı Sosu	Domates püresi, doğranmış jalapeno (%12), kırmızı biber, sirke, şeker, tuz, soğan, nişasta.
+156	8690520211205	Tamek Yoğurt Çeşnili Köz Biber Sosu	Közlenmiş kırmızı biber, su, bitkisel yağ, süzme yoğurt tozu (%3), tuz, sarımsak, kıvam arttırıcı.
+157	8690553425006	Tat Domates Rendeli Kahvaltı Çeşnisi	Domates rendesi (%90), zeytinyağı, tuz, sarımsak, asitlik düzenleyici (limon suyu).
+158	8690764007152	Burcu Antep Ezme (Kahvaltılık)	Domates, yeşil biber, kırmızı biber, soğan, maydanoz, nar ekşisi, zeytinyağı, tuz, baharatlar.
+159	8690563007150	Tukaş Şekersiz Kahvaltılık Sos (Diyet)	Domates salçası, biber salçası, su, ayçiçek yağı, tuz, sarımsak, kimyon, kekik. [İlave şeker içermez].
+160	8691380009503	Kühne Akdeniz Güneşi Kurutulmuş Domates	Kurutulmuş domates (%55), ayçiçek yağı, kapari, tuz, sarımsak, kekik, sirke.
+
+
+Sosero, Calve, Penguen ve Gurme / Butik Markalar (161 - 200)
+
+
+No	Ürün Barkodu	Ürün Adı	Detaylı İçindekiler Listesi
+161	8697405230328	Sosero Gurme Acuka Ezmesi 290g	Biber salçası, domates salçası, ceviz içi (%10), sızma zeytinyağı, sarımsak, çemen unu, kimyon, tuz.
+162	8697405230458	Sosero Yeşil Zeytinli Kahvaltı Sosu	Çekirdeksiz yeşil zeytin (%40), domates salçası, bitkisel yağ, ceviz, sarımsak, kekik, tuz.
+163	8697405230557	Sosero Kurutulmuş Domates Ezmesi	Güneşte kurutulmuş domates (%60), sızma zeytinyağı, kapari, sarımsak, fesleğen, tuz, sirke.
+164	8697405230601	Sosero Cevizli Geleneksel Çemen	Çemen unu (%8), biber salçası, su, ceviz içi (%5), sarımsak püresi, kimyon, bitkisel yağ, tuz.
+165	8697405230724	Sosero Balkan Sosu Ajvar (Acılı)	Közlenmiş kapya biber (%70), acı biber (%5), közlenmiş patlıcan (%15), zeytinyağı, sarımsak, tuz.
+166	8680075581102	Bol Bol Acılı Kahvaltılık Sos 300g	Domates salçası, biber salçası, su, ayçiçek yağı, tuz, sarımsak, şeker, pul biber, potasyum sorbat.
+167	8680075581126	Bol Bol Cevizli Acuka Ezmesi	Biber salçası, domates püresi, ceviz (%6), çemen unu, sarımsak tozu, bitkisel yağ, tuz, sitrik asit.
+168	8714100654101	Calve Kahvaltılık Sos Acılı 290g	Domates püresi (%50), biber salçası, su, bitkisel yağ, sirke, şeker, tuz, sarımsak, baharat özleri.
+169	8714100654125	Calve Kahvaltılık Sos Tatlı 290g	Domates püresi (%55), biber salçası, su, bitkisel yağ, sirke, şeker, tuz, sarımsak, kekik, nane.
+170	8690656003252	Penguen Kahvaltılık Acı Sos 300g	Domates salçası, biber salçası, ayçiçek yağı, tuz, sarımsak, şeker, kimyon, nane, koruyucu.
+171	8690656003269	Penguen Kahvaltılık Tatlı Sos 300g	Domates salçası, biber salçası, ayçiçek yağı, şeker, tuz, sarımsak, kekik, karabiber, koruyucu.
+172	8690656004105	Penguen Balkan Sosu Lütenitsa	Közlenmiş kırmızı biber (%45), közlenmiş patlıcan (%25), domates püresi, şeker, tuz, bitkisel yağ.
+173	8697424103108	Berrak Kahvaltılık Acılı Ezme 300g	Domates, kırmızı biber, yeşil biber, soğan, sarımsak, sirke, tuz, bitkisel yağ, baharatlar, koruyucu.
+174	8697424103122	Berrak Kahvaltılık Tatlı Ezme 300g	Domates, tatlı kapya biber, soğan, sarımsak, zeytinyağı, şeker, tuz, nane, kekik, sirke.
+175	8690666011407	Marmarabirlik Siyah Zeytin Ezmesi	Çekirdeksiz siyah zeytin eti (%92), tuz, mısır yağı, baharat karışımı, asitlik düzenleyici (laktik asit).
+176	8690666011551	Marmarabirlik Baharatlı Zeytin Ezmesi	Siyah zeytin eti, mısır yağı, pul biber (%1.5), kekik (%1), kimyon, sarımsak, tuz.
+177	8691067000151	Fora Yeşil Zeytin Ezmesi (Kekikli)	Çekirdeksiz yeşil zeytin (%90), ayçiçek yağı, kurutulmuş dağ kekiği (%1.2), tuz, sitrik asit.
+178	8681682001106	Junior Meze Acuka Gurme 200g	Biber salçası, domates salçası, ceviz içi (%12), sızma zeytinyağı, taze sarımsak, çemen unu, baharatlar.
+179	8681682001229	Junior Meze Lütenitsa Balkan Sosu	Közlenmiş kırmızı biber (%55), közlenmiş patlıcan (%20), domates, zeytinyağı, esmer şeker, sarımsak, tuz.
+180	8681682001359	Junior Meze Girit Ezmesi (Peynirli Sos)	Beyaz peynir (%40), lor peyniri, ceviz içi (%10), sızma zeytinyağı, fesleğen, sarımsak, tuz.
+181	8697405231103	Sosero Fıstıklı Muhammara (Gurme)	Biber salçası, galeta unu, kavrulmuş Antep fıstığı (%8), tahin, sızma zeytinyağı, sarımsak, kimyon, tuz.
+182	8682162005408	Temmuz Organik Sertifikalı Sos	Organik domates (%70), organik kapya biber (%15), organik zeytinyağı, organik sarımsak, deniz tuzu.
+183	8690656005207	Penguen Cevizli Kahvaltı Ezmesi	Domates salçası, biber salçası, ceviz (%6.5), ayçiçek yağı, sarımsak, çemen unu, tuz, sitrik asit.
+184	8680075581508	Bol Bol Çemenli Kahvaltılık Sos	Domates salçası, su, çemen unu (%7), pul biber, sarımsak, bitkisel yağ, tuz, potasyum sorbat.
+185	8697424104204	Berrak Köz Patlıcanlı Kahvaltı Sosu	Közlenmiş patlıcan (%70), su, ayçiçek yağı, sirke, tuz, taze sarımsak, antioksidan.
+186	8690666011605	Marmarabirlik Yeşil Zeytin Ezmesi (Sade)	Çekirdeksiz yeşil zeytin eti (%93), tuz, bitkisel yağ, asitlik düzenleyici (sitrik asit).
+187	8691067000229	Fora Siyah Zeytin Ezmesi (Cevizli)	Çekirdeksiz siyah zeytin, ceviz parçaları (%5), mısır yağı, tuz, baharat karışımı, laktik asit.
+188	8681682001403	Junior Meze Kurutulmuş Domates Sosu	Güneşte kurutulmuş domates (%65), zeytinyağı, ceviz, sarımsak, kekik, tuz, sirke.
+189	8697405231257	Sosero Jalapeno Biber Dolgulu Sos	Süzme peynir dolgulu (%40) jalapeno biberi turşusu, ayçiçek yağı, tuz, asitlik düzenleyici.
+190	8697405231301	Sosero Kiraz Biber Dolgulu Peynirli Sos	Süzme peynir dolgulu (%40) kırmızı kiraz biberi turşusu, ayçiçek yağı, tuz, koruyucu.
+191	8690553426003	Tat Barbekü Kahvaltılık Sos 290g	Domates püresi, sirke, glukoz şurubu, tuz, modifiye nişasta, renklendirici, tütsü aroması.
+192	8690563008201	Tukaş Kahvaltılık Acılı Ezme (Cam)	Domates, kırmızı acı biber, soğan, maydanoz, sirke, zeytinyağı, sarımsak, tuz, baharatlar.
+193	8690764008203	Burcu Akdeniz Sosu (Fesleğenli)	Domates püresi (%80), zeytinyağı, taze fesleğen (%2), tuz, sarımsak, asitlik düzenleyici.
+194	8691380009800	Kühne İtalyan Usulü Pesto Rosso (Kırmızı)	Kurutulmuş domates (%40), ayçiçek yağı, parmesan peyniri, kaju, tuz, sarımsak, sirke.
+195	8690656006105	Penguen Sarımsaksız Kahvaltılık Sos	Domates salçası, biber salçası, ayçiçek yağı, şeker, tuz, kimyon, nane, kekik, koruyucu.
+196	8697424105157	Berrak Ajvar Sos Tatlı 350g	Kırmızı kapya biber (%75), patlıcan (%12), ayçiçek yağı, tuz, şeker, sarımsak, sirke.
+197	8681682001557	Junior Meze Humus Çeşnili Ezme	Haşlanmış nohut püresi (%60), tahin (%15), sızma zeytinyağı, sarımsak, kimyon, tuz, limon suyu.
+198	8697405231455	Sosero Köz Biberli Yoğurtlu Kahvaltı Sos	Közlenmiş kırmızı biber (%40), süzme yoğurt (%35), bitkisel yağ, sarımsak, tuz, kıvam arttırıcı.
+199	8680075582208	Bol Bol Fındıklı Acuka 290g	Biber salçası, domates püresi, kavrulmuş fındık parçaları (%7), çemen unu, sarımsak, tuz, yağ.
+200	8690553427000	Tat Cheddar Peynirli Kahvaltı Sosu	Su, bitkisel yağ, domates püresi, cheddar peyniri (%6), modifiye nişasta, peynir altı suyu, tuz, renk.

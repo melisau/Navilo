@@ -1,0 +1,393 @@
+
+1. BEAULIS (1 - 30)
+
+
+Drag It Eyeliner Pen Serisi (1 - 5)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+1	8682162074015	Beaulis Drag It Eyeliner Pen 100 Black	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266) [Nano].
+2	8682162074022	Beaulis Drag It Eyeliner Pen 110 Brown	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77491, CI 77499), Titanium Dioxide (CI 77891).
+3	8682162074039	Beaulis Drag It Eyeliner Pen 120 Deep Blue	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).
+4	8682162074046	Beaulis Drag It Eyeliner Pen 130 Emerald	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).
+5	8682162074053	Beaulis Drag It Eyeliner Pen 140 Burgundy	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77491), D&C Red No. 7 (CI 15850).
+
+
+Draw It Likit Dipliner Serisi (6 - 8)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+6	8682162074114	Beaulis Draw It Likit Dipliner Matte Black	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Silica, Carbon Black (CI 77266).
+7	8682162074121	Beaulis Draw It Likit Dipliner Glossy Black	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Polybutene, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266).
+8	8682162074138	Beaulis Draw It Likit Dipliner Deep Brown	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77499, CI 77491, CI 77492).
+
+
+Glide It Asansörlü Göz Kalemi Serisi (9 - 18)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+9	8682162074213	Beaulis Glide It Asansörlü Kalem 200 Black	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77499), Mica.
+10	8682162074220	Beaulis Glide It Asansörlü Kalem 210 Dark Cocoa	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77491, CI 77499, CI 77492).
+11	8682162074237	Beaulis Glide It Asansörlü Kalem 220 Navy Blue	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891), Mica.
+12	8682162074244	Beaulis Glide It Asansörlü Kalem 230 Khaki	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77499), Chromium Oxide Greens (CI 77288), Yellow 5 Lake (CI 19140).
+13	8682162074251	Beaulis Glide It Asansörlü Kalem 240 Charcoal	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).
+14	8682162074268	Beaulis Glide It Asansörlü Kalem 250 Silver Star	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Aluminum Powder (CI 77000), Mica, Titanium Dioxide (CI 77891).
+15	8682162074275	Beaulis Glide It Asansörlü Kalem 260 Gold Rush	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).
+16	8682162074282	Beaulis Glide It Asansörlü Kalem 270 White	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Titanium Dioxide (CI 77891).
+17	8682162074299	Beaulis Glide It Asansörlü Kalem 280 Nude Light	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).
+18	8682162074305	Beaulis Glide It Asansörlü Kalem 290 Amethyst	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Talc, Ascorbyl Palmitate, Manganese Violet (CI 77742), Iron Oxides (CI 77499), Mica.
+
+
+Fake It Jel Göz Kalemi Serisi (19 - 22)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+19	8682162074411	Beaulis Fake It Jel Göz Kalemi 300 Pitch Black	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Disteardimonium Hectorite, Iron Oxides (CI 77499).
+20	8682162074428	Beaulis Fake It Jel Göz Kalemi 310 Roasted Coffee	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Polybutene, Disteardimonium Hectorite, Iron Oxides (CI 77491, CI 77499).
+21	8682162074435	Beaulis Fake It Jel Göz Kalemi 320 Teal Ocean	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Ultramarines (CI 77007), Titanium Dioxide (CI 77891).
+22	8682162074442	Beaulis Fake It Jel Göz Kalemi 330 Metallic Grey	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).
+
+
+Define It Renkli Eyeliner Serisi (23 - 27)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+23	8682162074510	Beaulis Define It Eyeliner 400 White Neon	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Titanium Dioxide (CI 77891).
+24	8682162074527	Beaulis Define It Eyeliner 410 Electric	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Ultramarines (CI 77007).
+25	8682162074534	Beaulis Define It Eyeliner 420 Pink Pastel	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, D&C Red No. 28 (CI 45410), Titanium Dioxide (CI 77891).
+26	8682162074541	Beaulis Define It Eyeliner 430 Mint	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Chromium Hydroxide Green (CI 77289), Titanium Dioxide (CI 77891).
+27	8682162074558	Beaulis Define It Eyeliner 440 Lilac	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891).
+
+
+Wink It Parıltılı Eyeliner Serisi (28 - 30)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+28	8682162074619	Beaulis Wink It Parıltılı Eyeliner 500 Diamond	Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Silver (CI 77820).
+29	8682162074626	Beaulis Wink It Parıltılı Eyeliner 510 Bronze	Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Iron Oxides (CI 77491).
+30	8682162074633	Beaulis Wink It Parıltılı Eyeliner 520 Hologram	Aqua, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Aluminum Powder (CI 77000).
+
+
+2. LYKD (31 - 55)
+
+
+Epic & Liquid Eyeliner Grubu (31 - 33)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+31	8682162084014	LYKD Epic Black Matte Eyeliner	Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Phenoxyethanol, Carbon Black (CI 77266).
+32	8682162084021	LYKD Vinyl Shine Liquid Eyeliner	Aqua, Ammonium Acrylates Copolymer, Polyurethane-35, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Carbon Black (CI 77266).
+33	8682162084038	LYKD Waterproof Dip Eyeliner Black	Aqua, Acrylates/VA Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Phenoxyethanol, Iron Oxides (CI 77499).
+
+
+Intense Color Eye Pencil Serisi (34 - 40)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+34	8682162084113	LYKD Intense Color Eye Pencil 101 Blackout	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Iron Oxides (CI 77499).
+35	8682162084120	LYKD Intense Color Eye Pencil 102 Muddy Brown	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Iron Oxides (CI 77491, CI 77499, CI 77492).
+36	8682162084137	LYKD Intense Color Eye Pencil 103 Steel Grey	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499), Mica.
+37	8682162084144	LYKD Intense Color Eye Pencil 104 Ocean Deep	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).
+38	8682162084151	LYKD Intense Color Eye Pencil 105 Forest Green	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+39	8682162084168	LYKD Intense Color Eye Pencil 106 Pure White	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Titanium Dioxide (CI 77891).
+40	8682162084175	LYKD Intense Color Eye Pencil 107 Skin Tone	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).
+
+
+Metallic Shine & Dual Eyeliner (41 - 45)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+41	8682162084212	LYKD Metallic Shine Eye Pencil 201 Pyrite Gold	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).
+42	8682162084229	LYKD Metallic Shine Eye Pencil 202 Argento	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Aluminum Powder (CI 77000), Titanium Dioxide (CI 77891).
+43	8682162084236	LYKD Metallic Shine Eye Pencil 203 Copper Glow	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Iron Oxides (CI 77491).
+44	8682162084243	LYKD Metallic Shine Eye Pencil 204 Cosmic Violet	Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Mica, Manganese Violet (CI 77742), Iron Oxides (CI 77499).
+45	8682162084311	LYKD Line & Define Dual Eyeliner Black	Aqua, Ammonium Acrylates Copolymer, Styrene/Acrylates Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate, Carbon Black (CI 77266).
+
+
+Pastel Dream & Gel Kajal Serisi (46 - 55)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+46	8682162084410	LYKD Pastel Dream Eyeliner 301 Minty	Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Chromium Hydroxide Green (CI 77289), Titanium Dioxide (CI 77891).
+47	8682162084427	LYKD Pastel Dream Eyeliner 302 Lavender	Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891).
+48	8682162084434	LYKD Pastel Dream Eyeliner 303 Peach Smoothie	Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).
+49	8682162084441	LYKD Pastel Dream Eyeliner 304 Soft Yellow	Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Sodium Laureth Sulfate, Yellow 5 Lake (CI 19140), Titanium Dioxide (CI 77891).
+50	8682162084458	LYKD Pastel Dream Eyeliner 305 Sky High	Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Kaolin, Xanthan Gum, Ultramarines (CI 77007), Titanium Dioxide (CI 77891).
+51	8682162084519	LYKD Gel Kajal Eyeliner 01 Absolute Black	Isododecane, Cyclopentasiloxane, Polyethylene, Trimethylsiloxysilicate, Microcrystalline Wax, Ceramide NP, Iron Oxides (CI 77499).
+52	8682162084526	LYKD Gel Kajal Eyeliner 02 Bitter Chocolate	Isododecane, Cyclopentasiloxane, Polyethylene, Trimethylsiloxysilicate, Microcrystalline Wax, Ceramide NP, Iron Oxides (CI 77491, CI 77499).
+53	8682162084618	LYKD Glittering Eyeliner 401 Starry Night	Aqua, Ammonium Acrylates Copolymer, Glass Beads, Phenoxyethanol, Iron Oxides (CI 77499), Silver (CI 77820).
+54	8682162084625	LYKD Glittering Eyeliner 402 Golden Dust	Aqua, Ammonium Acrylates Copolymer, Polyurethane-11, Gold Leaf, Phenoxyethanol, Iron Oxides (CI 77491).
+55	8682162084632	LYKD Glittering Eyeliner 403 Rose Quartz	Aqua, Ammonium Acrylates Copolymer, Polyurethane-11, Mica, Phenoxyethanol, Titanium Dioxide (CI 77891).
+
+
+3. GOLDEN ROSE (56 - 95)
+
+
+Likit ve Metalik Eyeliner Serileri (56 - 64)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+56	8691190060015	Golden Rose Dipliner Black	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Methylpropanediol, Phenoxyethanol, Iron Oxides (CI 77499).
+57	8691190410025	Golden Rose Precision Liner Matte Black	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Methylpropanediol, Phenoxyethanol, Carbon Black (CI 77266) [Nano].
+58	8691190060053	Golden Rose Liquid Eyeliner Black	Aqua, Acrylates Copolymer, Alcohol Denat., Glycerin, Methylpropanediol, Phenoxyethanol, Iron Oxides (CI 77499).
+59	8691190061128	Golden Rose Metallic Liquid Eyeliner 01 Silver	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Titanium Dioxide (CI 77891), Aluminum Powder (CI 77000), Phenoxyethanol.
+60	8691190061135	Golden Rose Metallic Liquid Eyeliner 02 Gold	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891), Phenoxyethanol.
+61	8691190061142	Golden Rose Metallic Liquid Eyeliner 03 Copper	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Iron Oxides (CI 77491), Phenoxyethanol.
+62	8691190061159	Golden Rose Metallic Liquid Eyeliner 04 Blue	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891), Phenoxyethanol.
+63	8691190061166	Golden Rose Metallic Liquid Eyeliner 05 Green	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Chromium Oxide Greens (CI 77288), Titanium Dioxide (CI 77891), Phenoxyethanol.
+64	8691190061173	Golden Rose Metallic Liquid Eyeliner 06 Violet	Aqua, Alcohol Denat., Polyurethane-35, Glycerin, Mica, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891), Phenoxyethanol.
+
+
+Dream Eyes Eyeliner Serisi (65 - 74)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+65	8691190360016	Golden Rose Dream Eyes Eyeliner 401 Black	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Iron Oxides (CI 77499).
+66	8691190360023	Golden Rose Dream Eyes Eyeliner 402 D.Brown	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Iron Oxides (CI 77499, CI 77491, CI 77492).
+67	8691190360030	Golden Rose Dream Eyes Eyeliner 403 Grey	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).
+68	8691190360047	Golden Rose Dream Eyes Eyeliner 404 Blue	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007), Titanium Dioxide (CI 77891).
+69	8691190360054	Golden Rose Dream Eyes Eyeliner 405 Green	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+70	8691190360061	Golden Rose Dream Eyes Eyeliner 406 Purple	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Manganese Violet (CI 77742), Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).
+71	8691190360078	Golden Rose Dream Eyes Eyeliner 407 White	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben, Titanium Dioxide (CI 77891).
+72	8691190360085	Golden Rose Dream Eyes Eyeliner 408 Turquoise	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Titanium Dioxide (CI 77891), Chromium Hydroxide Green (CI 77289), Ferric Ferrocyanide (CI 77510).
+73	8691190360092	Golden Rose Dream Eyes Eyeliner 409 Emerald	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77491).
+74	8691190360108	Golden Rose Dream Eyes Eyeliner 410 Metallic	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).
+
+
+Emily Eye Pencil Serisi (75 - 84)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+75	8691190560010	Golden Rose Emily Eye Pencil No: 101 Black	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Iron Oxides (CI 77499).
+76	8691190560027	Golden Rose Emily Eye Pencil No: 102 Brown	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).
+77	8691190560034	Golden Rose Emily Eye Pencil No: 103 D.Grey	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).
+78	8691190560041	Golden Rose Emily Eye Pencil No: 104 Navy	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).
+79	8691190560058	Golden Rose Emily Eye Pencil No: 105 Emerald	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+80	8691190560065	Golden Rose Emily Eye Pencil No: 106 Light B.	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Titanium Dioxide (CI 77891), Ferric Ferrocyanide (CI 77510).
+81	8691190560072	Golden Rose Emily Eye Pencil No: 107 Violet	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Manganese Violet (CI 77742), Titanium Dioxide (CI 77891).
+82	8691190560089	Golden Rose Emily Eye Pencil No: 108 Petrol	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Chromium Hydroxide Green (CI 77289), Ferric Ferrocyanide (CI 77510).
+83	8691190560096	Golden Rose Emily Eye Pencil No: 109 White	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Titanium Dioxide (CI 77891).
+84	8691190560102	Golden Rose Emily Eye Pencil No: 110 Silver	C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).
+
+
+Jel, Asansörlü ve Parıltılı Gruplar (85 - 95)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+85	8691190420017	Golden Rose Waterproof Automatic Pencil 01	Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Iron Oxides (CI 77499).
+86	8691190420024	Golden Rose Waterproof Automatic Pencil 02	Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Iron Oxides (CI 77491).
+87	8691190420031	Golden Rose Waterproof Automatic Pencil 03	Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Ferric Ferrocyanide (CI 77510).
+88	8691190420048	Golden Rose Waterproof Automatic Pencil 04	Cyclopentasiloxane, Paraffin, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Cerisin, Chromium Oxide Greens (CI 77288).
+89	8691190240011	Golden Rose Miracle Pencil Contour & Eye	C10-18 Triglycerides, Hydrogenated Vegetable Oil, Butyrospermum Parkii (Shea) Butter, Caprylic/Capric Triglyceride, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).
+90	8691190065010	Golden Rose Gel Eyeliner Deep Black	Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77499).
+91	8691190065027	Golden Rose Gel Eyeliner Espresso Brown	Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77491, CI 77499).
+92	8691190570019	Golden Rose Glitter Eyeliner 101 Silver	Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Glycerin, Phenoxyethanol, Silver (CI 77820).
+93	8691190570026	Golden Rose Glitter Eyeliner 102 Gold	Aqua, Polyethylene Terephthalate, Polyurethane-11, Acrylates Copolymer, Glycerin, Phenoxyethanol, Iron Oxides (CI 77491).
+94	8691190570033	Golden Rose Glitter Eyeliner 103 Multicolor	Aqua, Polyurethane-11, Acrylates Copolymer, Glycerin, Phenoxyethanol, Aluminum Powder (CI 77000).
+95	8691190570040	Golden Rose Glitter Eyeliner 104 Blue Shine	Aqua, Polyethylene Terephthalate, Acrylates Copolymer, Glycerin, Phenoxyethanol, Ferric Ferrocyanide (CI 77510).
+
+
+4. NOTE COSMECEUTICALS (96 - 125)
+
+
+Eyeliner & Dipliner Çeşitleri (96 - 99)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+96	8680705350016	Note Ultra Black Eyeliner Liquid	Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glyceryl Stearate, Ceteareth-20, Ceteareth-12, Cetearyl Alcohol, Cetyl Palmitate, Phenoxyethanol, Iron Oxides (CI 77499).
+97	8680705350023	Note Precision Liner Black	Aqua, Styrene/Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266) [Nano].
+98	8680705350115	Note Intense Black Dipliner	Aqua, Prunus Amygdalus Dulcis (Sweet Almond) Oil, Glyceryl Stearate, Ceteareth-20, Cetearyl Alcohol, Phenoxyethanol, Carbon Black (CI 77266).
+99	8680705350122	Note Waterproof Dipliner Black	Aqua, Acrylates/VA Copolymer, Propylene Glycol, Xanthan Gum, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77499).
+
+
+Ultra Black & Smokey Eye Pencil Serisi (100 - 104)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+100	8680705360015	Note Ultra Black Eye Pencil 01	Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol, Iron Oxides (CI 77499).
+101	8680705360022	Note Smokey Eye Pencil 02 Dark Brown	Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).
+102	8680705360039	Note Smokey Eye Pencil 03 Grey Storm	Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499), Mica.
+103	8680705360046	Note Smokey Eye Pencil 04 Deep Navy	Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).
+104	8680705360053	Note Smokey Eye Pencil 05 Forest	Simmondsia Chinensis (Jojoba) Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+
+
+Mineral Khol Kajal Serisi (105 - 108)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+105	8680705361017	Note Mineral Khol Kajal 01 Carbon Black	Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis (Coral Seaweed) Extract, Tocopheryl Acetate, Synthetic Wax, C10-18 Triglycerides, Iron Oxides (CI 77499).
+106	8680705361024	Note Mineral Khol Kajal 02 Earth Brown	Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis Extract, Tocopheryl Acetate, Synthetic Wax, C10-18 Triglycerides, Iron Oxides (CI 77491, CI 77499).
+107	8680705361031	Note Mineral Khol Kajal 03 Sapphire Blue	Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis Extract, Tocopheryl Acetate, Synthetic Wax, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).
+108	8680705361048	Note Mineral Khol Kajal 04 Malachite Green	Simmondsia Chinensis Seed Oil, Hydrolyzed Corallina Officinalis Extract, Tocopheryl Acetate, Synthetic Wax, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).
+
+
+Gel Look Eye Pencil Serisi (109 - 114)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+109	8680705362014	Note Gel Look Eye Pencil 01 Velvet Black	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Tocopherol, Iron Oxides (CI 77499).
+110	8680705362021	Note Gel Look Eye Pencil 02 Velvet Brown	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Tocopherol, Iron Oxides (CI 77491, CI 77499).
+111	8680705362038	Note Gel Look Eye Pencil 03 Velvet Navy	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).
+112	8680705362045	Note Gel Look Eye Pencil 04 Velvet Khaki	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+113	8680705362052	Note Gel Look Eye Pencil 05 Velvet White	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Titanium Dioxide (CI 77891).
+114	8680705362069	Note Gel Look Eye Pencil 06 Velvet Nude	Isododecane, Polyethylene, Synthetic Wax, Hydrogenated Polydicyclopentadiene, Bis-Diglyceryl Polyacyladipate-2, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492, CI 77491).
+
+
+Longwear Eye Pencil & Glitters (115 - 125)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+115	8680705363011	Note Longwear Eye Pencil 01 Black	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Tocopherol, Iron Oxides (CI 77499).
+116	8680705363028	Note Longwear Eye Pencil 02 Espresso	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Tocopherol, Iron Oxides (CI 77491).
+117	8680705363035	Note Longwear Eye Pencil 03 Metallic Grey	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Mica, Titanium Dioxide (CI 77891).
+118	8680705363042	Note Longwear Eye Pencil 04 Ocean	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).
+119	8680705363059	Note Longwear Eye Pencil 05 Olive	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, Diisostearyl Dimer Dilinoleate, PEG-6 Beeswax, Ozonite, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).
+120	8680705364018	Note Glitter Eyeliner 01 Silver Spark	Aqua, Glycerin, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Sodium Hydroxide, Silver (CI 77820).
+121	8680705364025	Note Glitter Eyeliner 02 Gold Spark	Aqua, Glycerin, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Sodium Hydroxide, Iron Oxides (CI 77491).
+122	8680705364032	Note Glitter Eyeliner 03 Bronze Spark	Aqua, Glycerin, Polyurethane-11, Acrylates Copolymer, Phenoxyethanol, Sodium Hydroxide, Mica.
+123	8680705365015	Note Luminous Silk Eyeliner Matte Black	Aqua, Hydrolyzed Silk, Silica, Styrene/Acrylates Copolymer, Charcoal Powder, Phenoxyethanol, Carbon Black (CI 77266) [Nano].
+124	8680705365022	Note Luminous Silk Eyeliner Deep Brown	Aqua, Hydrolyzed Silk, Silica, Styrene/Acrylates Copolymer, Phenoxyethanol, Iron Oxides (CI 77499, CI 77491).
+125	8680705366012	Note Real Look Intense Eyeliner Pen Black	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Carbon Black (CI 77266).
+
+
+5. PASTEL (126 - 150)
+
+
+Profashion Matte/Glossy Liquid Eyeliner & Gel (126 - 130)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+126	8690644041013	Pastel Profashion Matte Liquid Eyeliner Black	Aqua, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Silica, Phenoxyethanol, Carbon Black (CI 77266) [Nano].
+127	8690644041020	Pastel Profashion Glossy Liquid Eyeliner Black	Aqua, Polyurethane-35, Alcohol Denat., Methylpropanediol, Phenoxyethanol, Caprylyl Glycol, Carbon Black (CI 77266).
+128	8690644042010	Pastel Profashion Waterproof Dipliner Black	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Laureth Sulfate, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77499).
+129	8690644043017	Pastel Profashion Gel Eyeliner 01 Blackout	Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77499).
+130	8690644043024	Pastel Profashion Gel Eyeliner 02 Coffee Bean	Isododecane, Polyethylene, Cyclopentasiloxane, Trimethylsiloxysilicate, Disteardimonium Hectorite, Propylene Carbonate, Iron Oxides (CI 77491, CI 77499).
+
+
+Metallic Eye Pencil Serisi (131 - 135)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+131	8690644051012	Pastel Metallic Eye Pencil No: 301 Silver	C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499).
+132	8690644051029	Pastel Metallic Eye Pencil No: 302 Gold	C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Iron Oxides (CI 77491), Titanium Dioxide (CI 77891).
+133	8690644051036	Pastel Metallic Eye Pencil No: 303 Bronze	C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Iron Oxides (CI 77491).
+134	8690644051043	Pastel Metallic Eye Pencil No: 304 Emerald	C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+135	8690644051050	Pastel Metallic Eye Pencil No: 305 Sapphire	C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Mica, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).
+
+
+Waterproof Eye Pencil & Show Your Game (136 - 150)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+136	8690644061011	Pastel Waterproof Eye Pencil No: 401 Black	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Iron Oxides (CI 77499).
+137	8690644061028	Pastel Waterproof Eye Pencil No: 402 Brown	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Iron Oxides (CI 77491).
+138	8690644061035	Pastel Waterproof Eye Pencil No: 403 Grey	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Iron Oxides (CI 77499).
+139	8690644061042	Pastel Waterproof Eye Pencil No: 404 Navy	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Ferric Ferrocyanide (CI 77510).
+140	8690644061059	Pastel Waterproof Eye Pencil No: 405 Green	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Chromium Oxide Greens (CI 77288).
+141	8690644061066	Pastel Waterproof Eye Pencil No: 406 White	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Titanium Dioxide (CI 77891).
+142	8690644061073	Pastel Waterproof Eye Pencil No: 407 Nude	Cyclopentasiloxane, Paraffin, C10-18 Triglycerides, PEG-6 Beeswax, Ozonite, Hydrogenated Castor Oil, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492).
+143	8690644071010	Pastel Show Your Game Waterproof Eyeliner 01	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Carbon Black (CI 77266).
+144	8690644071027	Pastel Show Your Game Waterproof Eyeliner 02	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Ultramarines (CI 77007).
+145	8690644071034	Pastel Show Your Game Waterproof Eyeliner 03	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Chromium Hydroxide Green (CI 77289).
+146	8690644071041	Pastel Show Your Game Waterproof Eyeliner 04	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, D&C Red No. 28 (CI 45410).
+147	8690644071058	Pastel Show Your Game Waterproof Eyeliner 05	Aqua, Acrylates Copolymer, Butylene Glycol, Sodium Dehydroacetate, Phenoxyethanol, Manganese Violet (CI 77742).
+148	8690644081016	Pastel Profashion Artliner Pen Black	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Phenoxyethanol, Laureth-21, Carbon Black (CI 77266) [Nano].
+149	8690644081023	Pastel Profashion Artliner Pen Deep Brown	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Phenoxyethanol, Laureth-21, Iron Oxides (CI 77499, CI 77491).
+150	8690644091015	Pastel Glitter Eyeliner No: 201 Silver Gold	Aqua, Glycerin, Polyethylene Terephthalate, Polyurethane-11, Phenoxyethanol, Aluminum Powder (CI 77000), Silver (CI 77820).
+
+
+6. MAYBELLINE NEW YORK (151 - 175)
+
+
+Tattoo Liner Gel Eyeliner Serisi (151 - 158)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+151	3600531506727	Maybelline Tattoo Liner Gel Eyeliner 900 Black	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Iron Oxides (CI 77499).
+152	3600531506734	Maybelline Tattoo Liner Gel Eyeliner 910 Brown	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Iron Oxides (CI 77491, CI 77499, CI 77492).
+153	3600531506758	Maybelline Tattoo Liner Gel Eyeliner 920 Grey	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Titanium Dioxide (CI 77891), Iron Oxides (CI 77499), Mica.
+154	3600531506765	Maybelline Tattoo Liner Gel Eyeliner 932 Blue	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007), Mica.
+155	3600531506796	Maybelline Tattoo Liner Gel Eyeliner 942 White	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Titanium Dioxide (CI 77891).
+156	3600531577710	Maybelline Tattoo Liner Gel Eyeliner 960 Rose	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Mica, Titanium Dioxide (CI 77891), Iron Oxides (CI 77491).
+157	3600531577727	Maybelline Tattoo Liner Gel Eyeliner 965 Gold	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Mica, Iron Oxides (CI 77491, CI 77492).
+158	3600531608117	Maybelline Tattoo Liner Gel Eyeliner 970 Amber	Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate, Iron Oxides (CI 77491, CI 77499).
+
+
+Hyper Precise & Master Ink Serileri (159 - 163)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+159	3600531396861	Maybelline Hyper Precise All Day Liner Black	Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Potassium Sorbate, Carbon Black (CI 77266) [Nano].
+160	3600531396885	Maybelline Hyper Precise All Day Liner Brown	Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Potassium Sorbate, Iron Oxides (CI 77499, CI 77491).
+161	3600531396908	Maybelline Hyper Precise All Day Liner Parrot	Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Potassium Sorbate, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).
+162	3600530743512	Maybelline Master Ink Liquid Eyeliner Satin	Aqua, Polyurethane-35, Alcohol Denat., Styrene/Acrylates Copolymer, Glycerin, Phenoxyethanol, Caprylyl Glycol, Carbon Black (CI 77266).
+163	3600530743550	Maybelline Master Ink Liquid Eyeliner Matte	Aqua, Silica, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Charcoal Powder, Phenoxyethanol, Carbon Black (CI 77266).
+
+
+Colossal Kajal & Expression Pencil Serileri (164 - 175)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+164	3600531649219	Maybelline Colossal Kajal Extra Black 12H	Ozokerite, Candelilla Cera, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).
+165	3600531649226	Maybelline Colossal Kajal Argan Oil Black	Ozokerite, Candelilla Cera, Argania Spinosa Kernel Oil, Hydrogenated Vegetable Oil, Caprylic/Capric Triglyceride, Synthetic Wax, Iron Oxides (CI 77499).
+166	3600530211103	Maybelline Expression Kajal Pencil 33 Black	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).
+167	3600530211127	Maybelline Expression Kajal Pencil 36 Brown	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77491).
+168	3600530211141	Maybelline Expression Kajal Pencil 38 Grey	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).
+169	3600530211165	Maybelline Expression Kajal Pencil 40 Blue	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Ferric Ferrocyanide (CI 77510).
+170	3600530211189	Maybelline Expression Kajal Pencil 42 Green	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Chromium Oxide Greens (CI 77288).
+171	3600530211202	Maybelline Expression Kajal Pencil 44 White	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/
+
+Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Titanium Dioxide (CI 77891). |
+| 172 | 3600531620119 | Maybelline Line Refine Liquid Eyeliner Black | Aqua, Acrylates/VA Copolymer, Butylene Glycol, Xanthan Gum, Phenoxyethanol, Sodium Laureth Sulfate, Iron Oxides (CI 77499). |
+| 173 | 3600531652103 | Maybelline Hyper Easy Liquid Eyeliner Pitch B.| Aqua, Styrene/Acrylates Copolymer, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Carbon Black (CI 77266) [Nano]. |
+| 174 | 3600531652127 | Maybelline Hyper Easy Liquid Eyeliner Pitch Br.| Aqua, Styrene/Acrylates Copolymer, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Phenoxyethanol, Iron Oxides (CI 77499, CI 77491). |
+| 175 | 3600530941123 | Maybelline Master Precise Curvitude Liner | Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol, Carbon Black (CI 77266). |
+
+7. L'ORÉAL PARIS (176 - 190)
+
+
+Super Liner Likit ve Keçe Uçlu Seriler (176 - 184)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+176	3600521855613	L'Oréal Super Liner Carbon Gloss Black	Aqua, Propylene Glycol, Acrylates Copolymer, Polyurethane-35, Phenoxyethanol, Sodium Dehydroacetate, Potassium Sorbate, Carbon Black (CI 77266).
+177	3600522045617	L'Oréal Super Liner Ultra Sharp Black	Aqua, Propylene Glycol, Styrene/Acrylates Copolymer, Phenoxyethanol, Sodium Dehydroacetate, Potassium Sorbate, Carbon Black (CI 77266) [Nano].
+178	3600522431618	L'Oréal Super Liner Perfect Slim Intense Blk	Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, Phenoxyethanol, Carbon Black (CI 77266) [Nano].
+179	3600522431632	L'Oréal Super Liner Perfect Slim Blue	Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, Phenoxyethanol, Ferric Ferrocyanide (CI 77510).
+180	3600522431656	L'Oréal Super Liner Perfect Slim Green	Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates Copolymer, Phenoxyethanol, Chromium Oxide Greens (CI 77288).
+181	3600523211127	L'Oréal Super Liner Matte Signature 01 Black	Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Charcoal Powder, Phenoxyethanol, Carbon Black (CI 77266).
+182	3600523211141	L'Oréal Super Liner Matte Signature 02 Brown	Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Phenoxyethanol, Iron Oxides (CI 77499, CI 77491).
+183	3600523211165	L'Oréal Super Liner Matte Signature 03 Blue	Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Phenoxyethanol, Ferric Ferrocyanide (CI 77510), Titanium Dioxide (CI 77891).
+184	3600523211189	L'Oréal Super Liner Matte Signature 04 Emerald	Aqua, Propylene Glycol, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Silica, Phenoxyethanol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77492).
+
+
+Infaillible Grip & Le Khol Serisi (185 - 190)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+185	3600523811211	L'Oréal Infaillible Grip 36H Gel Automatic 01	Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Iron Oxides (CI 77499), Mica.
+186	3600523811228	L'Oréal Infaillible Grip 36H Gel Automatic 02	Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).
+187	3600523811235	L'Oréal Infaillible Grip 36H Gel Automatic 03	Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).
+188	3600523811242	L'Oréal Infaillible Grip 36H Gel Automatic 04	Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+189	3600523811259	L'Oréal Infaillible Grip 36H Gel Automatic 05	Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol, Titanium Dioxide (CI 77891), Iron Oxides (CI 77492).
+190	3600521124504	L'Oréal Le Khol Contour Eye Pencil 101 Black	Hydrogenated Vegetable Oil, C10-18 Triglycerides, Caprylic/Capric Triglyceride, Copernicia Cerifera Cera, Tocopherol, Ascorbyl Palmitate, Iron Oxides (CI 77499).
+
+
+8. WET N WILD (191 - 200)
+
+
+MegaLiner & Color Icon Grupları (191 - 200)
+
+
+No	Ürün Barkodu	Ürün Adı	Tam INCI İçerik Listesi
+191	0077802406013	Wet n Wild MegaLiner Liquid Eyeliner Black	Aqua, Propylene Glycol, Polyurethane-35, Ammonium Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Carbon Black (CI 77266).
+192	0077802406020	Wet n Wild MegaLiner Liquid Eyeliner D.Brown	Aqua, Propylene Glycol, Polyurethane-35, Ammonium Acrylates Copolymer, Phenoxyethanol, Ethylhexylglycerin, Iron Oxides (CI 77499, CI 77491).
+193	0077802460114	Wet n Wild ProLine Felt Tip Eyeliner Black	Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Carbon Black (CI 77266).
+194	0077802465119	Wet n Wild Color Icon Eye Pencil E651 Black	Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Iron Oxides (CI 77499).
+195	0077802465218	Wet n Wild Color Icon Eye Pencil E652 D.Brown	Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Iron Oxides (CI 77491, CI 77499, CI 77492).
+196	0077802465317	Wet n Wild Color Icon Eye Pencil E653 Charcoal	Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Iron Oxides (CI 77499), Titanium Dioxide (CI 77891).
+197	0077802465416	Wet n Wild Color Icon Eye Pencil E654 Navy	Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Ferric Ferrocyanide (CI 77510), Ultramarines (CI 77007).
+198	0077802465515	Wet n Wild Color Icon Eye Pencil E655 Olive	Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Chromium Oxide Greens (CI 77288), Iron Oxides (CI 77499).
+199	0077802465614	Wet n Wild Color Icon Eye Pencil E656 White	Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol, Titanium Dioxide (CI 77891).
+200	0077802470113	Wet n Wild Breakup Proof Waterproof Eyeliner	Isododecane, Trimethylsiloxysilicate, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Iron Oxides (CI 77499).
+

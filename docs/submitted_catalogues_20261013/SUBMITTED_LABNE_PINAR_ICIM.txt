@@ -1,0 +1,123 @@
+
+1. BÖLÜM: Pınar Labne Ürün Ailesi Varyasyonları (1 - 55)
+
+Kategorinin en yaygın markası olan Pınar'ın tüm ticari ambalaj, gramaj, çoklu paket ve çeşnili/tatlı fonksiyonel labne serisi barkodlarıdır.
+
+No	Ürün Barkodu	Tam Ürün Adı ve Gramajı	Eksiksiz Gıda İçindekiler Listesi
+1	8690526002012	Pınar Labne (200g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+2	8690526002029	Pınar Labne (400g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+3	8690526002050	Pınar Labne Aile Boyu (750g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+4	8690526002104	Pınar Labne Ekonomik Paket (3x180g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+5	8690526084476	Pınar Laktozsuz Labne (200g)	Pastörize inek sütü kreması, pastörize inek sütü, laktaz enzimi, taze peynir kültürü, sofra tuzu.
+6	8690526002340	Pınar Organik Labne (200g)	%100 Organik sertifikalı pastörize inek sütü kreması, organik pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+7	8690526002159	Pınar Hafif Labne %50 Az Yağlı (200g)	Pastörize inek sütü, yağsız süt tozu, ultrafiltrasyon süt proteinleri, taze peynir kültürü, sofra tuzu.
+8	8690526002227	Pınar Yüksek Proteinli Labne (200g)	Pastörize inek sütü, süt proteini konsantresi, laktik asit taze peynir kültürü, sofra tuzu.
+9	8690526002418	Pınar Kekikli Sarımsaklı Labne (200g)	Taze peynir (inek sütü, krema, tuz, kültür), kurutulmuş dağ kekiği (%0.8), sarımsak tozu (%0.4).
+10	8690526002425	Pınar Siyah Zeytinli Labne (200g)	Taze peynir (inek sütü, krema, tuz, kültür), kurutulmuş siyah zeytin parçaları (%4), kekik, tuz.
+11	8690526002432	Pınar Acılı & Baharatlı Labne (200g)	Taze peynir (inek sütü, krema, tuz, kültür), pul biber (%1.2), kurutulmuş kırmızı domates tozu, karabiber, tuz.
+12	8690526002500	Pınar Gurme Yoğun Manda Sütlü Labne (300g)	Pastörize manda sütü kreması (%30), pastörize inek sütü kreması, taze peynir kültürü, sofra tuzu.
+13	8690526002036	Pınar Labne Mini Tekli (100g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+14	8690526002661	Pınar Cheddar Peynirli Labne (200g)	Taze peynir (inek sütü, krema, tuz, kültür), eritilmiş cheddar peyniri (%10), renklendirici (paprika ekstraktı), tuz.
+15	8690526002678	Pınar Gurme Siyah Trüflü Labne (200g)	Taze peynir, kurutulmuş siyah trüf mantarı parçaları (%0.5), doğal trüf aroması, sofra tuzu.
+16	8690526002685	Pınar Kültür Mantarlı Labne (200g)	Taze peynir, kurutulmuş kültür mantarı taneleri (%2), kurutulmuş soğan tozu, sofra tuzu.
+17	8690526002692	Pınar Acı Jalapeno Biberli Labne (200g)	Taze peynir, kurutulmuş jalapeno biberi halkaları (%1.5), asitlik düzenleyici (sitrik asit), tuz.
+18	8690526002708	Pınar Çikolatalı Tatlı Labne Kreması (180g)	Süt kreması, beyaz şeker, bitter çikolata (%8) [kakao kitlesi, şeker, kakao yağı, emülgatör (ayçiçek lesitini)], peynir kültürü.
+19	8690526002715	Pınar Karamelli Tatlı Labne Kreması (180g)	Süt kreması, beyaz şeker, karamelize şeker şurubu (%6), kıvam arttırıcı (pektin), taze peynir kültürü.
+20	8690526002722	Pınar Hindistan Cevizli Labne Kreması (180g)	Süt kreması, beyaz şeker, kurutulmuş hindistan cevizi rendesi (%4), taze peynir kültürü.
+21	8690526002739	Pınar Vanilya Özlü Labne Kreması (180g)	Süt kreması, beyaz şeker, doğal vanilya ekstraktı, mısır nişastası, taze peynir kültürü.
+22	8690526002746	Pınar Çilekli Tatlı Labne Kreması (180g)	Süt kreması, çilek sosu (%12) [çilek püresi, şeker, doğal renklendirici pancar kökü kırmızısı], peynir kültürü.
+23	8690526002753	Pınar Muzlu Tatlı Labne Kreması (180g)	Süt kreması, muz püresi (%10), beyaz şeker, doğal muz aroması, taze peynir kültürü.
+24	8690526002760	Pınar Bal Bademli Labne Kreması (180g)	Süt kreması, doğal çiçek balı (%5), kavrulmuş badem püresi (%3), beyaz şeker, peynir kültürü.
+25	8690526002777	Pınar Tahin Pekmezli Labne Kreması (180g)	Süt kreması, kavrulmuş susam tahini (%5), üzüm pekmezi (%5), beyaz şeker, taze peynir kültürü.
+26	8690526002043	Pınar Labne İkili Ekonomik Paket (2x200g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+27	8690526002067	Pınar Labne Dörtlü Paket (4x100g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+28	8690526002074	Pınar Labne Büyük Kova (1500g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+29	8690526002081	Pınar Labne Horeca Ev Dışı Tüketim (3000g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+30	8690526002098	Pınar Labne Endüstriyel Boy (5000g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+31	8690526084483	Pınar Laktozsuz Labne Büyük Boy (400g)	Pastörize inek sütü kreması, pastörize inek sütü, laktaz enzimi, taze peynir kültürü, sofra tuzu.
+32	8690526084490	Pınar Laktozsuz Labne Üçlü Paket (3x180g)	Pastörize inek sütü kreması, pastörize inek sütü, laktaz enzimi, taze peynir kültürü, sofra tuzu.
+33	8690526002357	Pınar Organik Labne Aile Boyu (400g)	%100 Organik pastörize inek sütü kreması, organik pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+34	8690526002166	Pınar Hafif Labne Büyük Boy (400g)	Pastörize inek sütü, yağsız süt tozu, ultrafiltrasyon süt proteinleri, taze peynir kültürü, sofra tuzu.
+35	8690526002234	Pınar Yüksek Proteinli Labne Büyük (400g)	Pastörize inek sütü, süt proteini konsantresi, laktik asit taze peynir kültürü, sofra tuzu.
+36	8690526002449	Pınar Kekikli Sarımsaklı Labne (400g)	Taze peynir, kurutulmuş dağ kekiği (%0.8), sarımsak tozu (%0.4), sofra tuzu.
+37	8690526002456	Pınar Siyah Zeytinli Labne (400g)	Taze peynir, kurutulmuş siyah zeytin parçaları (%4), dağ kekiği, sofra tuzu.
+38	8690526002463	Pınar Acılı & Baharatlı Labne (400g)	Taze peynir, pul biber (%1.2), kurutulmuş kırmızı domates tozu, karabiber, sofra tuzu.
+39	8690526002517	Pınar Gurme Yoğun Manda Sütlü (500g)	Pastörize manda sütü kreması (%30), pastörize inek sütü kreması, taze peynir kültürü, sofra tuzu.
+40	8690526002111	Pınar Labne Kahvaltılık Mini (20g Tek Kullanımlık)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+41	8690526002128	Pınar Labne Catering Koli (100x20g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+42	8690526002807	Pınar Labne Keçi Sütlü (200g)	Pastörize keçi sütü kreması (%40), pastörize keçi sütü, taze peynir kültürü, sofra tuzu.
+43	8690526002814	Pınar Labne Keçi Sütlü (400g)	Pastörize keçi sütü kreması (%40), pastörize keçi sütü, taze peynir kültürü, sofra tuzu.
+44	8690526002852	Pınar Labne Koyun Sütlü Gurme (200g)	Pastörize koyun sütü kreması (%30), pastörize koyun sütü, taze peynir kültürü, sofra tuzu.
+45	8690526002906	Pınar Labne Avokadolu (200g)	Taze peynir, avokado püresi (%6), dondurulmuş kurutulmuş taze soğan, limon suyu konsantresi, tuz.
+46	8690526002913	Pınar Labne Köz Kırmızı Biberli (200g)	Taze peynir, közlenmiş kırmızı kapya biber püresi (%8), sarımsak püresi, deniz tuzu.
+47	8690526002920	Pınar Labne Fesleğenli Pesto Soslu (200g)	Taze peynir, taze fesleğen püresi (%3), sızma zeytinyağı, sarımsak tozu, deniz tuzu.
+48	8690526002937	Pınar Labne Kurutulmuş Domatesli (200g)	Taze peynir, güneşte kurutulmuş Akdeniz domatesi taneleri (%4), kekik, sızma zeytinyağı, tuz.
+49	8690526002944	Pınar Labne Humus Çeşnili (200g)	Taze peynir, öğütülmüş susam tahini (%4), kimyon, sarımsak özü, nohut unu ekstraktı, tuz.
+50	8690526002951	Pınar Labne Trüflü & Zeytinli (200g)	Taze peynir, siyah zeytin ezmesi, kurutulmuş trüf mantarı parçaları (%0.2), doğal trüf aroması, tuz.
+51	8690526002968	Pınar Labne Dereotlu Taze Otlu (200g)	Taze peynir, dondurularak kurutulmuş taze dereotu (%1), maydanoz yaprakları, tuz.
+52	8690526002975	Pınar Labne Wasabili Uzak Doğu Çeşnili (200g)	Taze peynir, kurutulmuş wasabi kökü tozu (%0.5), yeşil bitki ekstraktı (renklendirici), tuz.
+53	8690526002784	Pınar Vişneli Labne Tatlı Kreması (180g)	Süt kreması, beyaz şeker, vişne sosu (%12) [vişne püresi, kıvam arttırıcı pektin], peynir kültürü.
+54	8690526002791	Pınar Yaban Mersinli Labne Kreması (180g)	Süt kreması, beyaz şeker, yaban mersini sosu (%12) [yaban mersini taneleri, pektin], kültür.
+55	8690526002135	Pınar Labne Profesyonel Pastacılık (2000g)	Pastörize inek sütü kreması, pastörize inek sütü, taze peynir kültürü, sofra tuzu.
+
+
+2. BÖLÜM: İçim Labne Ürün Ailesi Varyasyonları (56 - 110)
+
+İçim markasının kıvam dengesini koruyan ve peynir altı suyu proteinleriyle zenginleştirilmiş tüm ulusal dağıtım barkodlarıdır.
+
+No	Ürün Barkodu	Tam Ürün Adı Kurusu	Eksiksiz Gıda İçindekiler Listesi
+56	8692226008678	İçim Labne (200g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+57	8692226008685	İçim Labne (400g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+58	8692226008692	İçim Labne Ekonomik Boy (700g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+59	8692226009101	İçim Laktozsuz Labne (200g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, laktaz enzimi, sofra tuzu, kültür.
+60	8692226009224	İçim Fit Yüksek Proteinli Labne (200g)	Pastörize yağsız inek sütü, ultrafiltrasyon süt proteini izolatı, taze peynir kültürü, sofra tuzu.
+61	8692226009309	İçim Labne Profesyonel Şef Tercihi (1kg)	Pastörize inek sütü kreması, sade tereyağı, peynir altı suyu tozu, sofra tuzu, peynir kültürü.
+62	8692226009415	İçim Taze Fesleğenli & Sarımsaklı Labne	Taze peynir, kurutulmuş fesleğen yaprakları (%0.6), sarımsak özü (%0.3), sofra tuzu, peynir kültürü.
+63	8692226009422	İçim Kurutulmuş Akdeniz Domatesli Labne	Taze peynir, kurutulmuş Akdeniz domatesi parçacıkları (%3), natürel sızma zeytinyağı, sofra tuzu.
+64	8692226009439	İçim Avokadolu Pürüzsüz Labne (200g)	Taze peynir, avokado meyve püresi (%5), kurutulmuş taze soğan, sofra tuzu, asitlik düzenleyici.
+65	8692226009446	İçim Köz Kapya Biberli Labne (200g)	Taze peynir, közlenmiş kırmızı kapya biber püresi (%6), sofra tuzu, taze peynir kültürü.
+66	8692226009453	İçim Taze Tane Dereotlu Labne (200g)	Taze peynir, dondurularak kurutulmuş dereotu yaprakları (%0.8), sofra tuzu, peynir kültürü.
+67	8692226009460	İçim Akdeniz Otlu & Baharatlı Labne	Taze peynir, kurutulmuş maydanoz, nane, dağ kekiği, ince çekilmiş karabiber karışımı (%1.2), tuz.
+68	8692226009477	İçim Öğütülmüş Kimyonlu Pul Biberli Labne	Taze peynir, ince öğütülmüş kimyon (%0.4), acı pul biber taneleri (%0.8), deniz tuzu.
+69	8692226009484	İçim Cheddar Aromalı Sürülebilir Labne	Taze peynir, cheddar peyniri (%8), içme suyu, emülsifiye edici eritme tuzları, paprika özü.
+70	8692226009491	İçim Rokfor Küflü Peynir Aromalı Labne	Taze peynir, mavi rokfor küflü peynir aroması, sofra tuzu, peynir altı suyu proteinleri.
+71	8692226009507	İçim Organik Sertifikalı Labne (200g)	Organik pastörize inek sütü kreması, organik yağsız inek sütü, taze peynir kültürü, sofra tuzu.
+72	8692226009514	İçim Light %0.2 Yağsız Labne (200g)	Pastörize yağsız inek sütü, modifiye mısır nişastası, süt proteinleri, peynir kültürü, sofra tuzu.
+73	8692226009521	İçim Yoğun Kaymaklı Özel Seri Labne	Pastörize inek sütü kreması, pastörize taze süt kaymağı (%15), taze peynir kültürü, sofra tuzu.
+74	8692226009538	İçim Mini Labne Çoklu Paket (3x100g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+75	8692226009545	İçim Doğal Çiçek Ballı Tatlı Labne (180g)	Süt kreması, doğal çiçek balı (%8), beyaz şeker, gıda sınıfı kıvam arttırıcı pektin, kültür.
+76	8692226009552	İçim Kakaolu Fındıklı Labne Kreması	Süt kreması, esmer şeker, kavrulmuş fındık püresi (%4), doğal kakao tozu (%3), emülgatör.
+77	8692226009569	İçim Tane Yaban Mersinli Labne Kreması	Süt kreması, yaban mersini meyve sosu (%12) [yaban mersini taneleri, şeker, nişasta], kültür.
+78	8692226009576	İçim Limonlu Gurme Cheesecake Tadında	Süt kreması, beyaz şeker, taze limon suyu konsantresi (%2), doğal limon yağı aroması, kültür.
+79	8692226009583	İçim Doğal Kayısılı Keten Tohumlu Labne	Süt kreması, kurutulmuş kayısı püresi (%8), öğütülmüş keten tohumu (%1.5), şeker, kültür.
+80	8692226009590	İçim Hindistan Cevizli Badem Parçalı	Süt kreması, şeker, hindistan cevizi rendesi (%3), kavrulmuş badem içi parçaları (%2), kültür.
+81	8692226008708	İçim Labne İkili Avantaj Paketi (2x200g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+82	8692226008715	İçim Labne Üçlü Paket Kampanya (3x200g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+83	8692226008722	İçim Labne Büyük İkili Paket (2x400g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+84	8692226008739	İçim Labne Endüstriyel Büyük Boy (2kg)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+85	8692226008746	İçim Labne Horeca Kova Boyu (3kg)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+86	8692226008753	İçim Labne Büyük Sanayi Tipi (5kg)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, sofra tuzu, taze peynir kültürü.
+87	8692226009118	İçim Laktozsuz Labne Büyük Boy (400g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, laktaz enzimi, sofra tuzu, kültür.
+88	8692226009125	İçim Laktozsuz Labne İkili Paket (2x200g)	Pastörize inek sütü kreması, peynir altı suyu protein konsantresi, laktaz enzimi, sofra tuzu, kültür.
+89	8692226009231	İçim Fit Yüksek Proteinli Büyük Boy (400g)	Pastörize yağsız inek sütü, ultrafiltrasyon süt proteini izolatı, taze peynir kültürü, sofra tuzu.
+90	8692226009606	İçim Labne Manda Sütü Katkılı (200g)	Pastörize manda sütü kreması (%20), inek sütü kreması, peynir altı suyu proteini, tuz, kültür.
+91	8692226009613	İçim Labne Manda Sütü Katkılı (400g)	Pastörize manda sütü kreması (%20), inek sütü kreması, peynir altı suyu proteini, tuz, kültür.
+92	8692226009651	İçim Labne Keçi Sütü Katkılı (200g)	Pastörize keçi sütü kreması (%25), inek sütü kreması, peynir altı suyu proteini, tuz, kültür.
+93	8692226009668	İçim Labne Keçi Sütü Katkılı (400g)	Pastörize keçi sütü kreması (%25), inek sütü kreması, peynir altı suyu proteini, tuz, kültür.
+94	8692226009705	İçim Labne Çörek Otlu Geleneksel (200g)	Taze peynir, tane çörek otu tohumları (%1.5), sofra tuzu, laktik maya kültürleri.
+95	8692226009712	İçim Labne Chia Tohumlu Fonksiyonel	Taze peynir, ithal bütün chia tohumları (%2), deniz tuzu, taze peynir kültürü.
+96	8692226009729	İçim Labne Haşhaşlı & Kavrulmuş (200g)	Taze peynir, fırınlanmış mavi haşhaş taneleri (%1.8), sofra tuzu, peynir kültürü.
+97	8692226009736	İçim Labne Jalapeno Turşulu Akışkan	Taze peynir, ince doğranmış jalapeno biberi turşusu (%3), beyaz sirke, sofra tuzu.
+98	8692226009743	İçim Labne Közlenmiş Patlıcanlı (200g)	Taze peynir, közlenmiş patlıcan eti püresi (%5), sarımsak, zeytinyağı, tuz.
+99	8692226009750	İçim Labne Ceviz Ezmeli Gurme (200g)	Taze peynir, ezilmiş yerli ceviz içi parçaları (%4), sofra tuzu, taze peynir kültürü.
+100	8692226009767	İçim Labne Yer Fıstığı Parçacıklı	Taze peynir, kavrulmuş tuzsuz yer fıstığı kırıkları (%4), sofra tuzu, kültür.
+101	8692226009774	İçim Labne Kuru İncirli & Tarçınlı	Süt kreması, kurutulmuş Aydın inciri küpleri (%6), toz Seylan tarçını (%0.5), şeker, kültür.
+102	8692226009781	İçim Labne Elmalı & Zencefilli Tatlı	Süt kreması, elma püresi (%8), taze rendelenmiş zencefil ekstraktı (%0.3), şeker, kültür.
+103	8692226009798	İçim Labne Çilekli Mini Çocuk Boyu	Süt kreması, çilek püresi (%8), beyaz şeker, doğal kırmızı pancar kökü ekstresi, kültür.
+104	8692226009804	İçim Labne Muzlu Mini Çocuk Boyu	Süt kreması, muz püresi (%8), beyaz şeker, doğal sarı renk beta karoten, laktik kültürler.
+105	8692226009811	İçim Sürülebilir Taze Peynir (200g)	İnek sütü, taze süt tereyağı, peynir altı suyu tozu, emülgatör (guar gam), sofra tuzu, kültür.
+106	8692226009828	İçim Sürülebilir Taze Peynir (400g)	İnek sütü, taze süt tereyağı, peynir altı suyu tozu, emülgatör (guar gam), sofra tuzu, kültür.
+107	8692226009835	İçim Krem Peynir Geleneksel (200g)	Beyaz peynir, taze kaşar peyniri, gıda eritme tuzları (polifosfatlar), su, peynir altı suyu.
+108	8692226009842	İçim Krem Peynir Geleneksel (400g)	Beyaz peynir, taze kaşar peyniri, gıda eritme tuzları (polifosfatlar), su, peynir altı suyu.
+109	8692226009859	İçim Üçgen Eritme Peyniri (8x15g)	Peynir, taze tereyağı, süt proteini, eritme tuzları (sodyum fosfatlar), içme suyu, tuz.
+110	8692226009866	İçim Üçgen Eritme Peyniri (24x15g)	Peynir, taze tereyağı, süt proteini, eritme tuzları (sodyum fosfatlar), içme suyu, tuz.

@@ -59,10 +59,11 @@ void main() {
     expect(find.byType(TextField), findsNothing);
     expect(find.byType(CheckboxListTile), findsNothing);
     expect(find.text('Kaynaklar ve değerlendirme ayrıntıları'), findsNothing);
-    await tester.tap(find.text('Tercihlerim'));
+    await tester.tap(find.text('Profilim'));
     await waitForWidget(tester, find.text('Uygulama dili'));
     await tester.tap(find.text('English'));
     await tester.pump(const Duration(milliseconds: 300));
+    await tester.scrollUntilVisible(find.text('Dietary preferences'), -220, scrollable: find.byType(Scrollable).first);
     expect(find.text('Dietary preferences'), findsOneWidget);
     expect(tester.takeException(), isNull);
     await tester.runAsync(() async {
@@ -124,7 +125,7 @@ void main() {
     final after = tester.state<ScrollableState>(scrollable).position.pixels;
     expect(after, greaterThan(before));
     expect(tester.takeException(), isNull);
-    await tester.tap(find.text('Tercihlerim'));
+    await tester.tap(find.text('Profilim'));
     await waitForWidget(tester, find.text('Beslenme tercihlerin'));
     await tester.scrollUntilVisible(find.text('Beslenme tercihlerin'), 220);
     expect(find.text('Beslenme tercihlerin'), findsOneWidget);

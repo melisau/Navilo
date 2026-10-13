@@ -1,0 +1,258 @@
+• Ortak Likit/Pen Baz İçeriği (Draw It): Aqua, Butylene Glycol, Styrene/Acrylates Copolymer, Sodium Dehydroacetate, Phenoxyethanol, Laureth-21.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+1	8682162074015	Beaulis Drag It Eyeliner Pen 100 Black	Base + CI 77266 [Nano]
+2	8682162074022	Beaulis Drag It Eyeliner Pen 110 Brown	Base + CI 77491, CI 77499, CI 77891
+3	8682162074039	Beaulis Drag It Eyeliner Pen 120 Deep Blue	Base + CI 77510, CI 77891
+4	8682162074046	Beaulis Drag It Eyeliner Pen 130 Emerald	Base + CI 77288, CI 77492
+5	8682162074053	Beaulis Drag It Eyeliner Pen 140 Burgundy	Base + CI 77491, CI 15850
+6	8682162074114	Beaulis Draw It Likit Dipliner Matte Black	Base + Carbon Black, Silica
+7	8682162074121	Beaulis Draw It Likit Dipliner Glossy Black	Base + Polybutene, CI 77266
+8	8682162074138	Beaulis Draw It Likit Dipliner Deep Brown	Base + CI 77499, CI 77491, CI 77492
+9	8682162074213	Beaulis Glide It Asansörlü Kalem 200 Black	Base + CI 77499, Mica
+10	8682162074220	Beaulis Glide It Asansörlü Kalem 210 Dark Cocoa	Base + CI 77491, CI 77499, CI 77492
+11	8682162074237	Beaulis Glide It Asansörlü Kalem 220 Navy Blue	Base + CI 77510, CI 77891, Mica
+12	8682162074244	Beaulis Glide It Asansörlü Kalem 230 Khaki	Base + CI 77499, CI 77288, CI 19140
+13	8682162074251	Beaulis Glide It Asansörlü Kalem 240 Charcoal	Base + CI 77499, CI 77891
+14	8682162074268	Beaulis Glide It Asansörlü Kalem 250 Silver Star	Base + Aluminum Powder, Mica, CI 77891
+15	8682162074275	Beaulis Glide It Asansörlü Kalem 260 Gold Rush	Base + Mica, CI 77491, CI 77891
+16	8682162074282	Beaulis Glide It Asansörlü Kalem 270 White	Base + CI 77891
+17	8682162074299	Beaulis Glide It Asansörlü Kalem 280 Nude Light	Base + CI 77891, CI 77492, CI 77491
+18	8682162074305	Beaulis Glide It Asansörlü Kalem 290 Amethyst	Base + CI 77742, CI 77499, Mica
+19	8682162074411	Beaulis Fake It Jel Göz Kalemi 300 Pitch Black	Base + Isododecane, Polyethylene, CI 77499
+20	8682162074428	Beaulis Fake It Jel Göz Kalemi 310 Roasted Coffee	Base + Isododecane, Polyethylene, CI 77491, CI 77499
+21	8682162074435	Beaulis Fake It Jel Göz Kalemi 320 Teal Ocean	Base + Isododecane, CI 77007, CI 77891
+22	8682162074442	Beaulis Fake It Jel Göz Kalemi 330 Metallic Grey	Base + Isododecane, Mica, CI 77891, CI 77499
+23	8682162074510	Beaulis Define It Renkli Eyeliner 400 White Neon	Base + Aqua, Acrylates Copolymer, CI 77891
+24	8682162074527	Beaulis Define It Renkli Eyeliner 410 Electric	Base + Aqua, Acrylates Copolymer, CI 77007
+25	8682162074534	Beaulis Define It Renkli Eyeliner 420 Pink Pastel	Base + Aqua, Acrylates Copolymer, CI 45410, CI 77891
+26	8682162074541	Beaulis Define It Renkli Eyeliner 430 Mint	Base + Aqua, Acrylates Copolymer, CI 77289, CI 77891
+27	8682162074558	Beaulis Define It Renkli Eyeliner 440 Lilac	Base + Aqua, Acrylates Copolymer, CI 77742, CI 77891
+28	8682162074619	Beaulis Wink It Parıltılı Eyeliner 500 Diamond	Base + Aqua, Polyethylene Terephthalate, Silver
+29	8682162074626	Beaulis Wink It Parıltılı Eyeliner 510 Bronze	Base + Aqua, Polyethylene Terephthalate, CI 77491
+30	8682162074633	Beaulis Wink It Parıltılı Eyeliner 520 Hologram	Base + Aqua, Polyurethane-11, Aluminum
+
+
+2. LYKD Göz Kalemi ve Eyeliner Serileri (31 - 55)
+
+• Ortak Kalem Baz İçeriği: Ozokerite, Cyclopentasiloxane, Trimethylsiloxysilicate, Paraffin, Microcrystalline Wax, Phenoxyethanol.
+• Ortak Eyeliner Baz İçeriği: Aqua, Ammonium Acrylates Copolymer, Alcohol Denat., Xanthan Gum, Sodium Laureth Sulfate.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+31	8682162084014	LYKD Epic Black Matte Eyeliner	Base + Carbon Black (CI 77266)
+32	8682162084021	LYKD Vinyl Shine Liquid Eyeliner	Base + Polyurethane, CI 77266
+33	8682162084038	LYKD Waterproof Dip Eyeliner Black	Base + Acrylates/VA Copolymer, CI 77499
+34	8682162084113	LYKD Intense Color Eye Pencil 101 Blackout	Base + CI 77499
+35	8682162084120	LYKD Intense Color Eye Pencil 102 Muddy Brown	Base + CI 77491, CI 77499, CI 77492
+36	8682162084137	LYKD Intense Color Eye Pencil 103 Steel Grey	Base + CI 77891, CI 77499, Mica
+37	8682162084144	LYKD Intense Color Eye Pencil 104 Ocean Deep	Base + CI 77510, CI 77007
+38	8682162084151	LYKD Intense Color Eye Pencil 105 Forest Green	Base + CI 77288, CI 77499
+39	8682162084168	LYKD Intense Color Eye Pencil 106 Pure White	Base + CI 77891
+40	8682162084175	LYKD Intense Color Eye Pencil 107 Skin Tone	Base + CI 77891, CI 77492, CI 77491
+41	8682162084212	LYKD Metallic Shine Eye Pencil 201 Pyrite Gold	Base + Mica, CI 77491, CI 77891
+42	8682162084229	LYKD Metallic Shine Eye Pencil 202 Argento	Base + Mica, Aluminum Powder, CI 77891
+43	8682162084236	LYKD Metallic Shine Eye Pencil 203 Copper Glow	Base + Mica, CI 77491
+44	8682162084243	LYKD Metallic Shine Eye Pencil 204 Cosmic Violet	Base + Mica, CI 77742, CI 77499
+45	8682162084311	LYKD Line & Define Dual Eyeliner Black	Base + Aqua, Styrene/Acrylates, CI 77266
+46	8682162084410	LYKD Pastel Dream Eyeliner 301 Minty	Base + Aqua, Kaolin, CI 77289, CI 77891
+47	8682162084427	LYKD Pastel Dream Eyeliner 302 Lavender	Base + Aqua, Kaolin, CI 77742, CI 77891
+48	8682162084434	LYKD Pastel Dream Eyeliner 303 Peach Smoothie	Base + Aqua, Kaolin, CI 77491, CI 77891
+49	8682162084441	LYKD Pastel Dream Eyeliner 304 Soft Yellow	Base + Aqua, Kaolin, CI 19140, CI 77891
+50	8682162084458	LYKD Pastel Dream Eyeliner 305 Sky High	Base + Aqua, Kaolin, CI 77007, CI 77891
+51	8682162084519	LYKD Gel Kajal Eyeliner 01 Absolute Black	Base + Isododecane, Ceramide NP, CI 77499
+52	8682162084526	LYKD Gel Kajal Eyeliner 02 Bitter Chocolate	Base + Isododecane, Ceramide NP, CI 77491, CI 77499
+53	8682162084618	LYKD Glittering Eyeliner 401 Starry Night	Base + Aqua, Glass Beads, CI 77499, Silver
+54	8682162084625	LYKD Glittering Eyeliner 402 Golden Dust	Base + Aqua, Polyurethane-11, Gold Leaf, CI 77491
+55	8682162084632	LYKD Glittering Eyeliner 403 Rose Quartz	Base + Aqua, Polyurethane-11, Mica, CI 77891
+
+
+3. Golden Rose Göz Kalemi ve Eyeliner Serileri (56 - 95)
+
+• Ortak Kalem Baz İçeriği (Dream Eyes / Emily): C10-18 Triglycerides, Copernicia Cerifera Cera, Caprylic/Capric Triglyceride, Hydrogenated Cottonseed Oil, Tocopherol, Propylparaben.
+• Ortak Eyeliner Baz İçeriği (Dipliner / Precision): Aqua, CI 77499, Alcohol Denat., Polyurethane-35, Glycerin, Methylpropanediol, Phenoxyethanol.
+
+No	Ürün Barkodu	Ürün Anı	Renk Pigmentleri (İçeriğin Devamı)
+56	8691190060015	Golden Rose Dipliner Black	Base + CI 77499 (Iron Oxide Black)
+57	8691190410025	Golden Rose Precision Liner Matte Black	Base + CI 77266 [Nano] (Carbon Black)
+58	8691190060053	Golden Rose Liquid Eyeliner Black	Base + Acrylates Copolymer, CI 77499
+59	8691190061128	Golden Rose Metallic Liquid Eyeliner 01 Silver	Base + Mica, CI 77891, Aluminum Powder
+60	8691190061135	Golden Rose Metallic Liquid Eyeliner 02 Gold	Base + Mica, CI 77491, CI 77891
+61	8691190061142	Golden Rose Metallic Liquid Eyeliner 03 Copper	Base + Mica, CI 77491
+62	8691190061159	Golden Rose Metallic Liquid Eyeliner 04 Blue	Base + Mica, CI 77510, CI 77891
+63	8691190061166	Golden Rose Metallic Liquid Eyeliner 05 Green	Base + Mica, CI 77288, CI 77891
+64	8691190061173	Golden Rose Metallic Liquid Eyeliner 06 Violet	Base + Mica, CI 77742, CI 77891
+65	8691190360016	Golden Rose Dream Eyes Eyeliner 401 Black	Base + CI 77499
+66	8691190360023	Golden Rose Dream Eyes Eyeliner 402 D.Brown	Base + CI 77499, CI 77491, CI 77492
+67	8691190360030	Golden Rose Dream Eyes Eyeliner 403 Grey	Base + CI 77891, CI 77499
+68	8691190360047	Golden Rose Dream Eyes Eyeliner 404 Blue	Base + CI 77510, CI 77007, CI 77891
+69	8691190360054	Golden Rose Dream Eyes Eyeliner 405 Green	Base + CI 77288, CI 77499
+70	8691190360061	Golden Rose Dream Eyes Eyeliner 406 Purple	Base + CI 77742, CI 77499, CI 77891
+71	8691190360078	Golden Rose Dream Eyes Eyeliner 407 White	Base + CI 77891
+72	8691190360085	Golden Rose Dream Eyes Eyeliner 408 Turquoise	Base + CI 77891, CI 77289, CI 77510
+73	8691190360092	Golden Rose Dream Eyes Eyeliner 409 Emerald	Base + CI 77288, CI 77491
+74	8691190360108	Golden Rose Dream Eyes Eyeliner 410 Metallic	Base + Mica, CI 77891, CI 77499
+75	8691190560010	Golden Rose Emily Eye Pencil No: 101 Black	Base + CI 77499
+76	8691190560027	Golden Rose Emily Eye Pencil No: 102 Brown	Base + CI 77491, CI 77499, CI 77492
+77	8691190560034	Golden Rose Emily Eye Pencil No: 103 D.Grey	Base + CI 77499, CI 77891
+78	8691190560041	Golden Rose Emily Eye Pencil No: 104 Navy	Base + CI 77510, CI 77007
+79	8691190560058	Golden Rose Emily Eye Pencil No: 105 Emerald	Base + CI 77288, CI 77499
+80	8691190560065	Golden Rose Emily Eye Pencil No: 106 Light B.	Base + CI 77891, CI 77510
+81	8691190560072	Golden Rose Emily Eye Pencil No: 107 Violet	Base + CI 77742, CI 77891
+82	8691190560089	Golden Rose Emily Eye Pencil No: 108 Petrol	Base + CI 77289, CI 77510
+83	8691190560096	Golden Rose Emily Eye Pencil No: 109 White	Base + CI 77891
+84	8691190560102	Golden Rose Emily Eye Pencil No: 110 Silver	Base + Mica, CI 77891, CI 77499
+85	8691190420017	Golden Rose Waterproof Automatic Pencil 01	Base + Cyclopentasiloxane, Paraffin, CI 77499
+86	8691190420024	Golden Rose Waterproof Automatic Pencil 02	Base + Cyclopentasiloxane, Paraffin, CI 77491
+87	8691190420031	Golden Rose Waterproof Automatic Pencil 03	Base + Cyclopentasiloxane, Paraffin, CI 77510
+88	8691190420048	Golden Rose Waterproof Automatic Pencil 04	Base + Cyclopentasiloxane, Paraffin, CI 77288
+89	8691190240011	Golden Rose Miracle Pencil Contour & Eye	Base + Shea Butter, CI 77891, CI 77492, CI 77491
+90	8691190065010	Golden Rose Gel Eyeliner Deep Black	Base + Isododecane, Polyethylene, CI 77499
+91	8691190065027	Golden Rose Gel Eyeliner Espresso Brown	Base + Isododecane, Polyethylene, CI 77491, CI 77499
+92	8691190570019	Golden Rose Glitter Eyeliner 101 Silver	Base + Aqua, Polyethylene Terephthalate, Silver
+93	8691190570026	Golden Rose Glitter Eyeliner 102 Gold	Base + Aqua, Polyethylene Terephthalate, CI 77491
+94	8691190570033	Golden Rose Glitter Eyeliner 103 Multicolor	Base + Aqua, Polyurethane-11, Aluminum
+95	8691190570040	Golden Rose Glitter Eyeliner 104 Blue Shine	Base + Aqua, PET, CI 77510
+
+
+4. Note Cosmeceuticals Göz Kalemi ve Eyeliner Serileri (96 - 125)
+
+• Ortak Kalem Baz İçeriği (Ultra Black / Smokey): Simmondsia Chinensis Seed Oil, Macadamia Integrifolia Seed Oil, C10-18 Triglycerides, Ozokerite, Copernicia Cerifera Cera, Tocopherol.
+• Ortak Eyeliner Baz İçeriği (Ultra Black Liquid): Aqua, Prunus Amygdalus Dulcis Oil (Tatlı Badem Yağı), CI 77499, Glyceryl Stearate, Ceteareth-20, Phenoxyethanol.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+96	8680705350016	Note Ultra Black Eyeliner Liquid	Base + Sweet Almond Oil, CI 77499
+97	8680705350023	Note Precision Liner Black	Base + Aqua, Styrene/Acrylates, CI 77266 [Nano]
+98	8680705350115	Note Intense Black Dipliner	Base + Sweet Almond Oil, Carbon Black
+99	8680705350122	Note Waterproof Dipliner Black	Base + Acrylates/VA Copolymer, CI 77499
+100	8680705360015	Note Ultra Black Eye Pencil 01	Base + Jojoba Oil, Macadamia Oil, CI 77499
+101	8680705360022	Note Smokey Eye Pencil 02 Dark Brown	Base + Jojoba Oil, CI 77491, CI 77499, CI 77492
+102	8680705360039	Note Smokey Eye Pencil 03 Grey Storm	Base + Jojoba Oil, CI 77891, CI 77499, Mica
+103	8680705360046	Note Smokey Eye Pencil 04 Deep Navy	Base + Jojoba Oil, CI 77510, CI 77007
+104	8680705360053	Note Smokey Eye Pencil 05 Forest	Base + Jojoba Oil, CI 77288, CI 77499
+105	8680705361017	Note Mineral Khol Kajal 01 Carbon Black	Base + Coral Seaweed, Vitamin E, CI 77499
+106	8680705361024	Note Mineral Khol Kajal 02 Earth Brown	Base + Coral Seaweed, CI 77491, CI 77499
+107	8680705361031	Note Mineral Khol Kajal 03 Sapphire Blue	Base + Coral Seaweed, CI 77510, CI 77891
+108	8680705361048	Note Mineral Khol Kajal 04 Malachite Green	Base + Coral Seaweed, CI 77288, CI 77492
+109	8680705362014	Note Gel Look Eye Pencil 01 Velvet Black	Base + Isododecane, Vitamin E, CI 77499
+110	8680705362021	Note Gel Look Eye Pencil 02 Velvet Brown	Base + Isododecane, Vitamin E, CI 77491, CI 77499
+111	8680705362038	Note Gel Look Eye Pencil 03 Velvet Navy	Base + Isododecane, CI 77510, CI 77891
+112	8680705362045	Note Gel Look Eye Pencil 04 Velvet Khaki	Base + Isododecane, CI 77288, CI 77499
+113	8680705362052	Note Gel Look Eye Pencil 05 Velvet White	Base + Isododecane, CI 77891
+114	8680705362069	Note Gel Look Eye Pencil 06 Velvet Nude	Base + Isododecane, CI 77891, CI 77492, CI 77491
+115	8680705363011	Note Longwear Eye Pencil 01 Black	Base + Cyclopentasiloxane, Paraffin, CI 77499
+116	8680705363028	Note Longwear Eye Pencil 02 Espresso	Base + Cyclopentasiloxane, Paraffin, CI 77491
+117	8680705363035	Note Longwear Eye Pencil 03 Metallic Grey	Base + Cyclopentasiloxane, Mica, CI 77891
+118	8680705363042	Note Longwear Eye Pencil 04 Ocean	Base + Cyclopentasiloxane, CI 77510, CI 77007
+119	8680705363059	Note Longwear Eye Pencil 05 Olive	Base + Cyclopentasiloxane, CI 77288, CI 77492
+120	8680705364018	Note Glitter Eyeliner 01 Silver Spark	Base + Water, Glycerin, Polyurethane, Silver
+121	8680705364025	Note Glitter Eyeliner 02 Gold Spark	Base + Water, Glycerin, Polyurethane, CI 77491
+122	8680705364032	Note Glitter Eyeliner 03 Bronze Spark	Base + Water, Glycerin, Polyurethane, Mica
+123	8680705365015	Note Luminous Silk Eyeliner Matte Black	Base + Silk Protein, Aqua, CI 77266 [Nano]
+124	8680705365022	Note Luminous Silk Eyeliner Deep Brown	Base + Silk Protein, Aqua, CI 77499, CI 77491
+125	8680705366012	Note Real Look Intense Eyeliner Pen Black	Base + Aqua, Butylene Glycol, Carbon Black
+
+
+5. Pastel Göz Kalemi ve Eyeliner Serileri (126 - 150)
+
+• Ortak Kalem Baz İçeriği: C10-18 Triglycerides, Microcrystalline Wax, Hydrogenated Castor Oil, Synthetic Wax, Tocopherol, Ascorbyl Palmitate.
+• Ortak Eyeliner Baz İçeriği (Profashion Matte): Aqua, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Alcohol Denat., Silica, Phenoxyethanol.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+126	8690644041013	Pastel Profashion Matte Liquid Eyeliner Black	Base + CI 77266 [Nano] (Carbon Black)
+127	8690644041020	Pastel Profashion Glossy Liquid Eyeliner Black	Base + Polyurethane-35, CI 77266
+128	8690644042010	Pastel Profashion Waterproof Dipliner Black	Base + Acrylates Copolymer, CI 77499
+129	8690644043017	Pastel Profashion Gel Eyeliner 01 Blackout	Base + Isododecane, Polyethylene, CI 77499
+130	8690644043024	Pastel Profashion Gel Eyeliner 02 Coffee Bean	Base + Isododecane, Polyethylene, CI 77491, CI 77499
+131	8690644051012	Pastel Metallic Eye Pencil No: 301 Silver	Base + Mica, CI 77891, CI 77499
+132	8690644051029	Pastel Metallic Eye Pencil No: 302 Gold	Base + Mica, CI 77491, CI 77891
+133	8690644051036	Pastel Metallic Eye Pencil No: 303 Bronze	Base + Mica, CI 77491
+134	8690644051043	Pastel Metallic Eye Pencil No: 304 Emerald	Base + Mica, CI 77288, CI 77499
+135	8690644051050	Pastel Metallic Eye Pencil No: 305 Sapphire	Base + Mica, CI 77510, CI 77891
+136	8690644061011	Pastel Waterproof Eye Pencil No: 401 Black	Base + Cyclopentasiloxane, Paraffin, CI 77499
+137	8690644061028	Pastel Waterproof Eye Pencil No: 402 Brown	Base + Cyclopentasiloxane, Paraffin, CI 77491
+138	8690644061035	Pastel Waterproof Eye Pencil No: 403 Grey	Base + Cyclopentasiloxane, Paraffin, CI 77499
+139	8690644061042	Pastel Waterproof Eye Pencil No: 404 Navy	Base + Cyclopentasiloxane, Paraffin, CI 77510
+140	8690644061059	Pastel Waterproof Eye Pencil No: 405 Green	Base + Cyclopentasiloxane, Paraffin, CI 77288
+141	8690644061066	Pastel Waterproof Eye Pencil No: 406 White	Base + Cyclopentasiloxane, Paraffin, CI 77891
+142	8690644061073	Pastel Waterproof Eye Pencil No: 407 Nude	Base + Cyclopentasiloxane, Paraffin, CI 77891, CI 77492
+143	8690644071010	Pastel Show Your Game Waterproof Eyeliner 01	Base + Aqua, Acrylates Polymer, CI 77266
+144	8690644071027	Pastel Show Your Game Waterproof Eyeliner 02	Base + Aqua, Acrylates Polymer, CI 77007
+145	8690644071034	Pastel Show Your Game Waterproof Eyeliner 03	Base + Aqua, Acrylates Polymer, CI 77289
+146	8690644071041	Pastel Show Your Game Waterproof Eyeliner 04	Base + Aqua, Acrylates Polymer, CI 45410
+147	8690644071058	Pastel Show Your Game Waterproof Eyeliner 05	Base + Aqua, Acrylates Polymer, CI 77742
+148	8690644081016	Pastel Profashion Artliner Pen Black	Base + Aqua, Butylene Glycol, CI 77266 [Nano]
+149	8690644081023	Pastel Profashion Artliner Pen Deep Brown	Base + Aqua, Butylene Glycol, CI 77499, CI 77491
+150	8690644091015	Pastel Glitter Eyeliner No: 201 Silver Gold	Base + Aqua, Glycerin, PET, Aluminum, Silver
+
+
+6. Maybelline New York Göz Kalemi ve Eyeliner Serileri (151 - 175)
+
+• Ortak Kalem Baz İçeriği (Tattoo Liner): Trimethylsiloxysilicate, Hydrogenated Polyisobutene, Synthetic Wax, Isododecane, Polybutene, Ethylene/Propylene Copolymer, Silica Silylate.
+• Ortak Eyeliner Baz İçeriği (Hyper Precise): Aqua, Butylene Glycol, PEG-60 Hydrogenated Castor Oil, Styrene/Acrylates/Ammonium Methacrylate Copolymer, Phenoxyethanol.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+151	3600531506727	Maybelline Tattoo Liner Gel Eyeliner 900 Black	Base + CI 77499 (Iron Oxide Black)
+152	3600531506734	Maybelline Tattoo Liner Gel Eyeliner 910 Brown	Base + CI 77491, CI 77499, CI 77492
+153	3600531506758	Maybelline Tattoo Liner Gel Eyeliner 920 Grey	Base + CI 77891, CI 77499, Mica
+154	3600531506765	Maybelline Tattoo Liner Gel Eyeliner 932 Blue	Base + CI 77510, CI 77007, Mica
+155	3600531506796	Maybelline Tattoo Liner Gel Eyeliner 942 White	Base + CI 77891
+156	3600531577710	Maybelline Tattoo Liner Gel Eyeliner 960 Rose	Base + Mica, CI 77891, CI 77491
+157	3600531577727	Maybelline Tattoo Liner Gel Eyeliner 965 Gold	Base + Mica, CI 77491, CI 77492
+158	3600531608117	Maybelline Tattoo Liner Gel Eyeliner 970 Amber	Base + CI 77491, CI 77499
+159	3600531396861	Maybelline Hyper Precise All Day Liner Black	Base + CI 77266 [Nano] (Carbon Black)
+160	3600531396885	Maybelline Hyper Precise All Day Liner Brown	Base + CI 77499, CI 77491
+161	3600531396908	Maybelline Hyper Precise All Day Liner Parrot	Base + CI 77510, CI 77891
+162	3600530743512	Maybelline Master Ink Liquid Eyeliner Satin	Base + Aqua, Polyurethane-35, CI 77266
+163	3600530743550	Maybelline Master Ink Liquid Eyeliner Matte	Base + Aqua, Silica, Charcoal Powder, CI 77266
+164	3600531649219	Maybelline Colossal Kajal Extra Black 12H	Base + Ozokerite, Candelilla Cera, CI 77499
+165	3600531649226	Maybelline Colossal Kajal Argan Oil Black	Base + Argania Spinosa Kernel Oil, CI 77499
+166	3600530211103	Maybelline Expression Kajal Pencil 33 Black	Base + Hydrogenated Vegetable Oil, CI 77499
+167	3600530211127	Maybelline Expression Kajal Pencil 36 Brown	Base + Hydrogenated Vegetable Oil, CI 77491
+168	3600530211141	Maybelline Expression Kajal Pencil 38 Grey	Base + Hydrogenated Vegetable Oil, CI 77499
+169	3600530211165	Maybelline Expression Kajal Pencil 40 Blue	Base + Hydrogenated Vegetable Oil, CI 77510
+170	3600530211189	Maybelline Expression Kajal Pencil 42 Green	Base + Hydrogenated Vegetable Oil, CI 77288
+171	3600530211202	Maybelline Expression Kajal Pencil 44 White	Base + Hydrogenated Vegetable Oil, CI 77891
+172	3600531620119	Maybelline Line Refine Liquid Eyeliner Black	Base + Water, Acrylates/VA Copolymer, CI 77499
+173	3600531652103	Maybelline Hyper Easy Liquid Eyeliner Pitch B.	Base + Aqua, Styrene/Acrylates, CI 77266 [Nano]
+174	3600531652127	Maybelline Hyper Easy Liquid Eyeliner Pitch Br.	Base + Aqua, Styrene/Acrylates, CI 77499, CI 77491
+175	3600530941123	Maybelline Master Precise Curvitude Liner	Base + Aqua, Butylene Glycol, Carbon Black
+
+
+7. L'Oréal Paris Göz Kalemi ve Eyeliner Serileri (176 - 190)
+
+• Ortak Kalem Baz İçeriği (Infaillible): Trimethylsiloxysilicate, Isododecane, Polyethylene, Synthetic Wax, Silica, Ceresin, Polyisobutene, Tocopherol.
+• Ortak Eyeliner Baz İçeriği (Super Liner): Aqua, Propylene Glycol, Acrylates Copolymer, Phenoxyethanol, Sodium Dehydroacetate, Potassium Sorbate.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+176	3600521855613	L'Oréal Super Liner Carbon Gloss Black	Base + Polyurethane, Carbon Black (CI 77266)
+177	3600522045617	L'Oréal Super Liner Ultra Sharp Black	Base + Aqua, Styrene/Acrylates, CI 77266 [Nano]
+178	3600522431618	L'Oréal Super Liner Perfect Slim Intense Blk	Base + Aqua, Butylene Glycol, CI 77266 [Nano]
+179	3600522431632	L'Oréal Super Liner Perfect Slim Blue	Base + Aqua, Butylene Glycol, CI 77510
+180	3600522431656	L'Oréal Super Liner Perfect Slim Green	Base + Aqua, Butylene Glycol, CI 77288
+181	3600523211127	L'Oréal Super Liner Matte Signature 01 Black	Base + Aqua, Silica, Charcoal Powder, CI 77266
+182	3600523211141	L'Oréal Super Liner Matte Signature 02 Brown	Base + Aqua, Silica, CI 77499, CI 77491
+183	3600523211165	L'Oréal Super Liner Matte Signature 03 Blue	Base + Aqua, Silica, CI 77510, CI 77891
+184	3600523211189	L'Oréal Super Liner Matte Signature 04 Emerald	Base + Aqua, Silica, CI 77288, CI 77492
+185	3600523811211	L'Oréal Infaillible Grip 36H Gel Automatic 01	Base + CI 77499, Mica
+186	3600523811228	L'Oréal Infaillible Grip 36H Gel Automatic 02	Base + CI 77491, CI 77499, CI 77492
+187	3600523811235	L'Oréal Infaillible Grip 36H Gel Automatic 03	Base + CI 77510, CI 77007
+188	3600523811242	L'Oréal Infaillible Grip 36H Gel Automatic 04	Base + CI 77288, CI 77499
+189	3600523811259	L'Oréal Infaillible Grip 36H Gel Automatic 05	Base + CI 77891, CI 77492
+190	3600521124504	L'Oréal Le Khol Contour Eye Pencil 101 Black	Base + Hydrogenated Vegetable Oil, CI 77499
+
+
+8. Wet n Wild Göz Kalemi ve Eyeliner Serileri (191 - 200)
+
+• Ortak Kalem Baz İçeriği (Color Icon): Beeswax (Cera Alba), Copernicia Cerifera Cera, Ceresin, Petrolatum, Ricinus Communis Seed Oil, Tocopherol.
+
+No	Ürün Barkodu	Ürün Adı	Renk Pigmentleri (İçeriğin Devamı)
+191	0077802406013	Wet n Wild MegaLiner Liquid Eyeliner Black	Base + Aqua, Polyurethane-35, CI 77266
+192	0077802406020	Wet n Wild MegaLiner Liquid Eyeliner D.Brown	Base + Aqua, Polyurethane-35, CI 77499, CI 77491
+193	0077802460114	Wet n Wild ProLine Felt Tip Eyeliner Black	Base + Aqua, Butylene Glycol, Carbon Black
+194	0077802465119	Wet n Wild Color Icon Eye Pencil E651 Black	Base + CI 77499
+195	0077802465218	Wet n Wild Color Icon Eye Pencil E652 D.Brown	Base + CI 77491, CI 77499, CI 77492
+196	0077802465317	Wet n Wild Color Icon Eye Pencil E653 Charcoal	Base + CI 77499, CI 77891
+197	0077802465416	Wet n Wild Color Icon Eye Pencil E654 Navy	Base + CI 77510, CI 77007
+198	0077802465515	Wet n Wild Color Icon Eye Pencil E655 Olive	Base + CI 77288, CI 77499
+199	0077802465614	Wet n Wild Color Icon Eye Pencil E656 White	Base + CI 77891
+200	0077802470113	Wet n Wild Breakup Proof Waterproof Eyeliner	Base + Isododecane, Trimethylsiloxysilicate, CI 77499

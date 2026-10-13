@@ -1,0 +1,22 @@
+{
+  "status": 1,
+  "code": "8695077043641",
+  "product": {
+    "code": "8695077043641",
+    "product_name": "",
+    "product_name_tr": "Bitter Tablet Çikolata",
+    "brands": "Harras",
+    "quantity": "80 g",
+    "ingredients_text": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%.",
+    "ingredients_text_tr": "Kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (ayçiçek lesitini).; Kakao kuru maddesi en az 60%.",
+    "lang": "es",
+    "last_modified_t": 1778239974,
+    "allergens_tags": [],
+    "traces_tags": [],
+    "labels_tags": [],
+    "image_ingredients_url": null,
+    "image_ingredients_small_url": null,
+    "image_front_url": null,
+    "images": {}
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": 0,
+  "code": "8699118055471",
+  "product": {
+    "code": null,
+    "product_name": null,
+    "product_name_tr": null,
+    "brands": null,
+    "quantity": null,
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "lang": null,
+    "last_modified_t": null,
+    "allergens_tags": null,
+    "traces_tags": null,
+    "labels_tags": null,
+    "image_ingredients_url": null,
+    "image_ingredients_small_url": null,
+    "image_front_url": null,
+    "images": null
+  }
+}

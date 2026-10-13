@@ -1,0 +1,562 @@
+{
+  "date": "2026-10-13",
+  "imported": 220,
+  "submitted": [
+    {
+      "index": 1,
+      "code": "8691190703011",
+      "submitted_name": "Color Expert Nail Lacquer No: 01 White",
+      "submitted_pigments": "+ CI 77891",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 01 - Geniş Fırçalı Beyaz Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-01-opac-white-genis-fircali-oje"
+    },
+    {
+      "index": 2,
+      "code": "8691190703028",
+      "submitted_name": "Color Expert Nail Lacquer No: 02 Clear",
+      "submitted_pigments": "(Renksiz, şeffaf)",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 02 - Geniş Fırçalı Beyaz Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-02-ice-white-genis-fircali-oje"
+    },
+    {
+      "index": 3,
+      "code": "8691190703059",
+      "submitted_name": "Color Expert Nail Lacquer No: 05 Soft Pink",
+      "submitted_pigments": "+ CI 77891, CI 15850",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 05 - Geniş Fırçalı Nude Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-05-light-golden-genis-fircali-oje"
+    },
+    {
+      "index": 4,
+      "code": "8691190703066",
+      "submitted_name": "Color Expert Nail Lacquer No: 06 Golden",
+      "submitted_pigments": "+ Mica, CI 77491, CI 77891",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 06 - Geniş Fırçalı Nude Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-06-golden-genis-fircali-oje"
+    },
+    {
+      "index": 5,
+      "code": "8691190703097",
+      "submitted_name": "Color Expert Nail Lacquer No: 09 Rose Gold",
+      "submitted_pigments": "+ Mica, CI 77491, CI 77891",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 09 - Geniş Fırçalı Nude Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-09-rose-gold-genis-fircali-oje"
+    },
+    {
+      "index": 6,
+      "code": "8691190703110",
+      "submitted_name": "Color Expert Nail Lacquer No: 11 Nude Rose",
+      "submitted_pigments": "+ CI 77891, CI 77491, CI 77492",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 11 - Geniş Fırçalı Nude Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-11-silver-lilac-genis-fircali-oje"
+    },
+    {
+      "index": 7,
+      "code": "8691190703226",
+      "submitted_name": "Color Expert Nail Lacquer No: 22 Bright Red",
+      "submitted_pigments": "+ CI 15850, CI 15880",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 22 - Geniş Fırçalı Mercan Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-22-salmon-genis-fircali-oje"
+    },
+    {
+      "index": 8,
+      "code": "8691190703318",
+      "submitted_name": "Color Expert Nail Lacquer No: 31 Deep Red",
+      "submitted_pigments": "+ CI 15880, CI 77499",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 31 - Geniş Fırçalı Mor Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-31-berry-blast-genis-fircali-oje"
+    },
+    {
+      "index": 9,
+      "code": "8691190703349",
+      "submitted_name": "Color Expert Nail Lacquer No: 34 Burgundy",
+      "submitted_pigments": "+ CI 15880, CI 15850, CI 77499",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 34 - Geniş Fırçalı Bordo Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-34-blackcherry-genis-fircali-oje"
+    },
+    {
+      "index": 10,
+      "code": "8691190703356",
+      "submitted_name": "Color Expert Nail Lacquer No: 35 Plum",
+      "submitted_pigments": "+ CI 15880, CI 77510, CI 77891",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 35 - Geniş Fırçalı Bordo Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-35-velvet-bordeux-genis-fircali-oje"
+    },
+    {
+      "index": 11,
+      "code": "8691190703424",
+      "submitted_name": "Color Expert Nail Lacquer No: 42 Lavender",
+      "submitted_pigments": "+ CI 77891, CI 77007, CI 15850",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 42 - Geniş Fırçalı Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-42-lavender-genis-fircali-oje"
+    },
+    {
+      "index": 12,
+      "code": "8691190703509",
+      "submitted_name": "Color Expert Nail Lacquer No: 50 Ocean Blue",
+      "submitted_pigments": "+ CI 77510, CI 77891, CI 60725",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 50 - Geniş Fırçalı Yeşil Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-50-sea-foam-genis-fircali-oje"
+    },
+    {
+      "index": 13,
+      "code": "8691190703554",
+      "submitted_name": "Color Expert Nail Lacquer No: 55 Mint Green",
+      "submitted_pigments": "+ CI 77891, CI 19140, CI 77510",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 55 - Geniş Fırçalı Yeşil Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-55-seaweed-genis-fircali-oje"
+    },
+    {
+      "index": 14,
+      "code": "8691190703608",
+      "submitted_name": "Color Expert Nail Lacquer No: 60 Yellow",
+      "submitted_pigments": "+ CI 19140, CI 77891",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 60 - Geniş Fırçalı Siyah Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-60-black-genis-fircali-oje"
+    },
+    {
+      "index": 15,
+      "code": "8691190703714",
+      "submitted_name": "Color Expert Nail Lacquer No: 71 Coral",
+      "submitted_pigments": "+ CI 15850, CI 19140, CI 77891",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 71 - Geniş Fırçalı Nude Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-71-pearly-pink-genis-fircali-oje"
+    },
+    {
+      "index": 16,
+      "code": "8691190703820",
+      "submitted_name": "Color Expert Nail Lacquer No: 82 Soft Grey",
+      "submitted_pigments": "+ CI 77891, CI 77499",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 17,
+      "code": "8691190703905",
+      "submitted_name": "Color Expert Nail Lacquer No: 90 Dark Grey",
+      "submitted_pigments": "+ CI 77499, CI 77891",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 18,
+      "code": "8691190703950",
+      "submitted_name": "Color Expert Nail Lacquer No: 95 Pure Black",
+      "submitted_pigments": "+ CI 77266 [Nano], CI 77499",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 95 - Geniş Fırçalı Mor Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-95-heather-genis-fircali-oje"
+    },
+    {
+      "index": 19,
+      "code": "8691190837211",
+      "submitted_name": "Color Expert Nail Lacquer No: 121 Matte Brown",
+      "submitted_pigments": "+ Silica, CI 77491, CI 77499",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 121 - Geniş Fırçalı Kahverengi Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-121-antique-brown-genis-fircali-oje"
+    },
+    {
+      "index": 20,
+      "code": "8691190837303",
+      "submitted_name": "Color Expert Nail Lacquer No: 130 Chocolate",
+      "submitted_pigments": "+ CI 77491, CI 77492, CI 77499",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Color Expert Nail Lacquer - 130 - Geniş Fırçalı Mavi Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-color-expert-nail-lacquer-130-opera-mauve-genis-fircali-oje"
+    },
+    {
+      "index": 21,
+      "code": "8691190419011",
+      "submitted_name": "Extreme Gel Shine No: 01 Milky White",
+      "submitted_pigments": "+ CI 77891",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 22,
+      "code": "8691190419042",
+      "submitted_name": "Extreme Gel Shine No: 04 Powder Pink",
+      "submitted_pigments": "+ CI 77891, CI 15850",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 23,
+      "code": "8691190419066",
+      "submitted_name": "Extreme Gel Shine No: 06 Dusty Rose",
+      "submitted_pigments": "+ CI 77891, CI 77491, CI 15850",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 24,
+      "code": "8691190419103",
+      "submitted_name": "Extreme Gel Shine No: 10 Crimson Red",
+      "submitted_pigments": "+ CI 15850, CI 15880",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Extreme Gel Shine Nail Color - 04 - Jel Parlaklığında Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-extreme-gel-shine-nail-color-4-jel-parlakliginda-oje"
+    },
+    {
+      "index": 25,
+      "code": "8691190419165",
+      "submitted_name": "Extreme Gel Shine No: 16 Scarlett",
+      "submitted_pigments": "+ CI 15850",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 26,
+      "code": "8691190419196",
+      "submitted_name": "Extreme Gel Shine No: 19 Fuchsia",
+      "submitted_pigments": "+ CI 15850, CI 45410",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 27,
+      "code": "8691190419226",
+      "submitted_name": "Extreme Gel Shine No: 22 Cherry Red",
+      "submitted_pigments": "+ CI 15880, CI 15850",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Extreme Gel Shine Nail Color - 16 - Jel Parlaklığında Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-extreme-gel-shine-nail-color-16-jel-parlakliginda-oje"
+    },
+    {
+      "index": 28,
+      "code": "8691190419264",
+      "submitted_name": "Extreme Gel Shine No: 26 Deep Purple",
+      "submitted_pigments": "+ CI 15880, CI 77510",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 29,
+      "code": "8691190419271",
+      "submitted_name": "Extreme Gel Shine No: 27 Mauve",
+      "submitted_pigments": "+ CI 77891, CI 77007, CI 77491",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 30,
+      "code": "8691190419288",
+      "submitted_name": "Extreme Gel Shine No: 28 Emerald Green",
+      "submitted_pigments": "+ CI 77510, CI 19140",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Extreme Gel Shine Nail Color - 22 - Jel Parlaklığında Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-extreme-gel-shine-nail-color-22-jel-parlakliginda-oje"
+    },
+    {
+      "index": 31,
+      "code": "8691190419349",
+      "submitted_name": "Extreme Gel Shine No: 34 Sky Blue",
+      "submitted_pigments": "+ CI 77891, CI 77510",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Extreme Gel Shine Nail Color - 28 - Jel Parlaklığında Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-extreme-gel-shine-nail-color-28-jel-parlakliginda-oje"
+    },
+    {
+      "index": 32,
+      "code": "8691190419400",
+      "submitted_name": "Extreme Gel Shine No: 40 Lilac Sparkle",
+      "submitted_pigments": "+ Mica, CI 77891, CI 77007",
+      "gtin_valid": true,
+      "status": "official_record_found",
+      "official_name": "Golden Rose Extreme Gel Shine Nail Color - 34 - Jel Parlaklığında Oje",
+      "source_url": "https://shop.goldenrose.com.tr/golden-rose-extreme-gel-shine-nail-color-34-jel-parlakliginda-oje"
+    },
+    {
+      "index": 33,
+      "code": "8691190419455",
+      "submitted_name": "Extreme Gel Shine No: 45 Nude Beige",
+      "submitted_pigments": "+ CI 77891, CI 77491, CI 77492",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 34,
+      "code": "8691190419509",
+      "submitted_name": "Extreme Gel Shine No: 50 Metallic Silver",
+      "submitted_pigments": "+ Aluminum Powder (CI 77000)",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 35,
+      "code": "8691190419608",
+      "submitted_name": "Extreme Gel Shine No: 60 Carbon Black",
+      "submitted_pigments": "+ CI 77266 [Nano]",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 36,
+      "code": "8691190504014",
+      "submitted_name": "Ice Color Nail Lacquer No: 101 White",
+      "submitted_pigments": "+ CI 77891",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 37,
+      "code": "8691190504052",
+      "submitted_name": "Ice Color Nail Lacquer No: 105 Nude Pink",
+      "submitted_pigments": "+ CI 77891, CI 77491",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 38,
+      "code": "8691190504069",
+      "submitted_name": "Ice Color Nail Lacquer No: 106 Rose Beige",
+      "submitted_pigments": "+ CI 77891, CI 77491, CI 77492",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 39,
+      "code": "8691190504120",
+      "submitted_name": "Ice Color Nail Lacquer No: 112 Baby Pink",
+      "submitted_pigments": "+ CI 77891, CI 15850",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 40,
+      "code": "8691190504182",
+      "submitted_name": "Ice Color Nail Lacquer No: 118 Hot Pink",
+      "submitted_pigments": "+ CI 15850, CI 45410",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 41,
+      "code": "8691190504243",
+      "submitted_name": "Ice Color Nail Lacquer No: 124 Classic Red",
+      "submitted_pigments": "+ CI 15850",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 42,
+      "code": "8691190504281",
+      "submitted_name": "Ice Color Nail Lacquer No: 128 Dark Red",
+      "submitted_pigments": "+ CI 15880",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 43,
+      "code": "8691190504328",
+      "submitted_name": "Ice Color Nail Lacquer No: 132 Damson",
+      "submitted_pigments": "+ CI 15880, CI 77510",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 44,
+      "code": "8691190504397",
+      "submitted_name": "Ice Color Nail Lacquer No: 139 Royal Blue",
+      "submitted_pigments": "+ CI 77510, CI 77891",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 45,
+      "code": "8691190504441",
+      "submitted_name": "Ice Color Nail Lacquer No: 144 Pastel Teal",
+      "submitted_pigments": "+ CI 77891, CI 77510, CI 19140",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 46,
+      "code": "8691190504502",
+      "submitted_name": "Ice Color Nail Lacquer No: 150 Olive Green",
+      "submitted_pigments": "+ CI 77492, CI 77510, CI 77499",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 47,
+      "code": "8691190504625",
+      "submitted_name": "Ice Color Nail Lacquer No: 162 Charcoal",
+      "submitted_pigments": "+ CI 77499, CI 77891",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 48,
+      "code": "8691190504687",
+      "submitted_name": "Ice Color Nail Lacquer No: 168 Midnight Black",
+      "submitted_pigments": "+ CI 77266 [Nano]",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 49,
+      "code": "8691190505196",
+      "submitted_name": "Ice Color Glitter No: 1196 Gold Dust",
+      "submitted_pigments": "+ Polyethylene Terephthalate, CI 77491",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    },
+    {
+      "index": 50,
+      "code": "8691190505202",
+      "submitted_name": "Ice Color Glitter No: 1120 Silver Stars",
+      "submitted_pigments": "+ Polyethylene Terephthalate, Aluminum Powder",
+      "gtin_valid": true,
+      "status": "unverified_not_imported",
+      "official_name": null,
+      "source_url": null
+    }
+  ],
+  "missing_shades": [
+    {
+      "series": "color-expert-nail-lacquer",
+      "shade": 82
+    },
+    {
+      "series": "color-expert-nail-lacquer",
+      "shade": 90
+    },
+    {
+      "series": "extreme-gel-shine-nail-color",
+      "shade": 1
+    },
+    {
+      "series": "extreme-gel-shine-nail-color",
+      "shade": 10
+    },
+    {
+      "series": "extreme-gel-shine-nail-color",
+      "shade": 40
+    },
+    {
+      "series": "extreme-gel-shine-nail-color",
+      "shade": 45
+    },
+    {
+      "series": "extreme-gel-shine-nail-color",
+      "shade": 50
+    },
+    {
+      "series": "extreme-gel-shine-nail-color",
+      "shade": 60
+    },
+    {
+      "series": "ice-color-nail-lacquer",
+      "shade": 168
+    },
+    {
+      "series": "ice-color-nail-lacquer",
+      "shade": 1120
+    },
+    {
+      "series": "ice-color-nail-lacquer",
+      "shade": 1196
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://shop.goldenrose.com.tr/golden-rose-ice-color-nail-lacquer-201-mini-oje",
+      "error": "Missing INCI: https://shop.goldenrose.com.tr/golden-rose-ice-color-nail-lacquer-201-mini-oje"
+    },
+    {
+      "url": "https://shop.goldenrose.com.tr/golden-rose-ice-color-nail-lacquer-205-mini-oje",
+      "error": "Missing INCI: https://shop.goldenrose.com.tr/golden-rose-ice-color-nail-lacquer-205-mini-oje"
+    }
+  ]
+}

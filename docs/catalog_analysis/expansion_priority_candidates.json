@@ -1,0 +1,135 @@
+[
+  {
+    "barcode": "8690526002128",
+    "name": "Eti Kombo Kurabiye (56g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+    "source": "docs\\submitted_catalogues_20261013\\SUBMITTED_BISCUITS.txt",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690504171112",
+    "name": "Ülker Caramio Karamel Dolgulu (32g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+    "source": "docs\\submitted_catalogues_20261013\\SUBMITTED_BISCUITS.txt",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690504211115",
+    "name": "Ülker Krispi Çubuk Kraker Sade (43g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+    "source": "docs\\submitted_catalogues_20261013\\SUBMITTED_BISCUITS.txt",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690504211153",
+    "name": "Ülker Krispi Tırtıklı Barbekülü (40g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+    "source": "docs\\submitted_catalogues_20261013\\SUBMITTED_BISCUITS.txt",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690123002110",
+    "name": "Torku Miniki Sütlü Çikolatalı Gofret",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+    "source": "docs\\submitted_catalogues_20261013\\SUBMITTED_BISCUITS.txt",
+    "source_url": ""
+  },
+  {
+    "barcode": "8013546301129",
+    "name": "Barilla Penne Rigate (Kalem) (500g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+    "source": "docs\\submitted_catalogues_20261013\\SUBMITTED_NUTS_CAKES_PASTA.txt",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690120042459",
+    "name": "Torku Miniki Sütlü Çikolata (22g)",
+    "reason": "Barkod geçerli biçimde; ürün kimliği ve tam içerik için bağımsız kaynak gerekli; önceki denetim: Pending: barcode/product/ingredients need source verification",
+    "source": "docs\\SUBMITTED_SNACKS_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690504313333",
+    "name": "Ülker Caramio (32g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: barcode/product/ingredients need source verification",
+    "source": "docs\\SUBMITTED_SNACKS_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690504443337",
+    "name": "Ülker Krispi Peynirli Çubuk (43g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: barcode/product/ingredients need source verification",
+    "source": "docs\\SUBMITTED_SNACKS_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690526055556",
+    "name": "Eti Kombo (56g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: barcode/product/ingredients need source verification",
+    "source": "docs\\SUBMITTED_SNACKS_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690624202357",
+    "name": "Barilla Penne Rigate / Kalem (500g) (Türkiye dolumlu)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690554101010",
+    "name": "Sinangil Baklavalık Böreklik Un (1kg)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690747514331",
+    "name": "Dardanel Mısır Konservesi (3x150g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690547343007",
+    "name": "Tat Bezelye Konservesi (830g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690595112013",
+    "name": "Yudum Mısırözü Yağı (1L)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690833005316",
+    "name": "Kristal Sızma Zeytinyağı Dolgun Güçlü (1L)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690595302018",
+    "name": "Kırlangıç Riviera Zeytinyağı (1L)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8695022000010",
+    "name": "Çotanak Fındık Yağı (1L)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+    "source": "docs\\SUBMITTED_DAIRY_STAPLES_AUDIT_20261013.md",
+    "source_url": ""
+  },
+  {
+    "barcode": "8690752101014",
+    "name": "Koska Sade Tahin Helvası (400g)",
+    "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: source-confirmed barcode and complete ingredients needed",
+    "source": "docs\\SUBMITTED_PRODUCTS_66_100_AUDIT_20261013.md",
+    "source_url": ""
+  }
+]

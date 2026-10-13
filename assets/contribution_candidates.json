@@ -1,0 +1,557 @@
+[
+  {
+    "id": "local-8690574001802",
+    "name": "Pınar Kido Kakaolu Süt (180ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690519401551",
+    "name": "Sek Süzme Yoğurt (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8692383005226",
+    "name": "Teksüt Süzme Peynir (250g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690764005706",
+    "name": "Bahçıvan Süzme Peynir (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691901002225",
+    "name": "Ekici Tel Peyniri (250g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697422953253",
+    "name": "Muratbey Burgu Peynir (200g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8693245003507",
+    "name": "Kebir Kuymaklık Kolot Peyniri (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8693444001557",
+    "name": "Yörükoğlu Ayran (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691143003028",
+    "name": "Kaanlar Tam Yağlı Taze Beyaz Peynir (900g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8693524000302",
+    "name": "Gündoğdu Eski Kaşar Peyniri (300g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8692225010043",
+    "name": "Tahsildaroğlu Klasik Ezine Peyniri (450g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697410041160",
+    "name": "Altınkılıç Laktozsuz Kefir (250ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691150820069",
+    "name": "Eker Sütlü Ayva Tatlısı (150g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691350020016",
+    "name": "Danone Doğal Yoğurt (1.5kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691065525554",
+    "name": "Chokella Kakaolu Fındık Kreması (350g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690918005312",
+    "name": "Sütaş Süzme Peynir (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8694034001103",
+    "name": "CP Doğal Yumurta Large (10'lu)",
+    "category": "food"
+  },
+  {
+    "id": "local-8699130761109",
+    "name": "Flotty Organik Yumurta (10'lu)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691512002157",
+    "name": "Oba Makarna Fiyonk (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690624202357",
+    "name": "Barilla Penne Rigate / Kalem (500g) (Türkiye dolumlu)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690805111151",
+    "name": "Mutlu Makarna Arpa Şehriye (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690554101010",
+    "name": "Sinangil Baklavalık Böreklik Un (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697405230029",
+    "name": "Ulusoy Un Ekmeklik (2kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691349011025",
+    "name": "Reis Kırmızı Mercimek (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697412700348",
+    "name": "Yayla Dermason Fasulye (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690747514331",
+    "name": "Dardanel Mısır Konservesi (3x150g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690547343007",
+    "name": "Tat Bezelye Konservesi (830g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690637125308",
+    "name": "Bizim Mutfak Tavuk Bulyon (24'lü)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690637922204",
+    "name": "Knorr Tavuklu Şehriye Çorbası (51g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690562505503",
+    "name": "Tukaş Domates Rendesi (200g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690595112013",
+    "name": "Yudum Mısırözü Yağı (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690736202027",
+    "name": "Orkide Ayçiçek Yağı (2L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690833005316",
+    "name": "Kristal Sızma Zeytinyağı Dolgun Güçlü (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690595302018",
+    "name": "Kırlangıç Riviera Zeytinyağı (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8695022000010",
+    "name": "Çotanak Fındık Yağı (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690544521118",
+    "name": "SüperFresh Milföy Hamuru (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8693356002017",
+    "name": "Namet Dana Sucuk Klasik (250g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8692552002537",
+    "name": "Şahin Parmak Sucuk (400g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691522001119",
+    "name": "Cumhuriyet Dana Kangal Sucuk (300g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690574514555",
+    "name": "Pınar Uzun Sosis (225g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690626351114",
+    "name": "Aytaç Dilimli Dana Salam (60g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691724035036",
+    "name": "Banvit Piliç Kokteyl Sosis (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697426111109",
+    "name": "Şenpiliç Taze Piliç Baget (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697416411103",
+    "name": "Erpiliç Piliç Göğüs Eti (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697402633038",
+    "name": "Beypiliç Piliç Nugget (300g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690615003017",
+    "name": "Apikoğlu Dana Pastırma Dilimli (100g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697411630134",
+    "name": "Anavarza Süzme Çam Balı (450g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690752101014",
+    "name": "Koska Sade Tahin Helvası (400g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691653380404",
+    "name": "Seyidoğlu Vişne Reçeli (380g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690642203657",
+    "name": "Marmarabirlik Zeytin Ezmesi Sade (175g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691456101114",
+    "name": "Fora Çizik Yeşil Zeytin (400g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690623321554",
+    "name": "Sarelle Fındık Ezmesi (350g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690574601118",
+    "name": "Pınar Çikolatalı Sos (200g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697412711016",
+    "name": "Yayla Süzme Çiçek Balı (450g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697403360018",
+    "name": "Karali Karadeniz Çayı (1kg)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697424680010",
+    "name": "Tirebolu 42 Altınbaş Siyah Çay (500g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690612117168",
+    "name": "Doğadan Rahatlatıcı Rezene Çayı (20 Poşet)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691884001055",
+    "name": "Kocatepe Türk Kahvesi Orta Kavrulmuş (100g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690558110018",
+    "name": "Aroma %100 Elma Suyu (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690675122116",
+    "name": "Meysu Vişne Nektarı (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697405860134",
+    "name": "Juss Şeftali Nektarı (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691823000033",
+    "name": "Sarıkız Doğal Maden Suyu Sade (200ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697410220015",
+    "name": "Karlık Maden Suyu (200ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691167000152",
+    "name": "Özkaynak Doğal Kaynak Suyu (1.5L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504141011",
+    "name": "Çamlıca Gazoz (1L)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690616003252",
+    "name": "Dimes Cool Lime Özü (400ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691079300536",
+    "name": "Sırma C Vitaminli Limonlu Maden Suyu (200ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8697433850138",
+    "name": "Avşar Mandalina Aromalı Maden Suyu (200ml)",
+    "category": "food"
+  },
+  {
+    "id": "local-8698544400713",
+    "name": "Hardline 3Matrix chocolate 2300 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8698544400720",
+    "name": "Hardline 3Matrix banana 2300 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8680652021516",
+    "name": "Bigjoy Classic chocolate 2520 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8680652021578",
+    "name": "Bigjoy Classic strawberry 990 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8683411510427",
+    "name": "Run Nutrition chocolate 2400 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8683296001089",
+    "name": "SSN Quadro chocolate 2100 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8683296001225",
+    "name": "SSN Builder chocolate 2400 g",
+    "category": "food"
+  },
+  {
+    "id": "local-0748927028669",
+    "name": "ON Gold Standard chocolate 2270 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8681879001304",
+    "name": "Supplementler.com chocolate 1000 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8682696551350",
+    "name": "ProteinOcean banana 1000 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8681763389872",
+    "name": "Kingsize chocolate 2000 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8681879004015",
+    "name": "Mysupplement chocolate 900 g",
+    "category": "food"
+  },
+  {
+    "id": "local-5999056315570",
+    "name": "Scitec Professional chocolate 2350 g",
+    "category": "food"
+  },
+  {
+    "id": "local-0705016333333",
+    "name": "Dymatize ISO100 chocolate 2200 g",
+    "category": "food"
+  },
+  {
+    "id": "local-0631656603415",
+    "name": "Muscletech Nitro-Tech chocolate 2270 g",
+    "category": "food"
+  },
+  {
+    "id": "local-5060221201314",
+    "name": "Grenade Hydra6 chocolate 1816 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8682352821111",
+    "name": "Saf Organic Vegan Protein Mix cocoa 360 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8682352821258",
+    "name": "Saf Fit Mix strawberry vanilla 360 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8699943204909",
+    "name": "Fellas pea protein plain 500 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8699943204954",
+    "name": "Fellas plant protein chocolate 500 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8681533038107",
+    "name": "Züber Shake Mix cocoa 300 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8681533038121",
+    "name": "Züber Shake Mix vanilla hazelnut 300 g",
+    "category": "food"
+  },
+  {
+    "id": "local-8690120042459",
+    "name": "Torku Miniki Sütlü Çikolata (22g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690526013334",
+    "name": "Eti Puf Kakao Granüllü (18g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504313333",
+    "name": "Ülker Caramio (32g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690526041115",
+    "name": "Eti Wanted Karamel Nugat (45g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690731115162",
+    "name": "Bifa Kakaolu Bisküvi (100g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690943015409",
+    "name": "Anı Pıtır Çikolata Kaplı Draje (60g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8681923005524",
+    "name": "Patiswiss Yer Fıstığı Ezmeli Bitter Çikolata (80g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690772001103",
+    "name": "Tadım Kavrulmuş Badem İçi (150g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8693021011504",
+    "name": "Peyman Dorleo Kavrulmuş Kaju (130g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504443337",
+    "name": "Ülker Krispi Peynirli Çubuk (43g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690526055556",
+    "name": "Eti Kombo (56g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504116439",
+    "name": "Ülker Halley (30g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690120155012",
+    "name": "Torku Pratiko Patates Cipsi Sade (120g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690526012115",
+    "name": "Eti Burçak Yulaflı Bisküvi (131g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504018245",
+    "name": "Ülker Probis (28g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690526015567",
+    "name": "Eti Popkek Çikolatalı (45g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504014117",
+    "name": "Ülker Saklıköy Yulaflı (87g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690528001551",
+    "name": "Kent Olips Mentollü Okaliptüslü Şeker (28g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691583002629",
+    "name": "Kervan Bebeto Yumuşak Şeker Cola (80g)",
+    "category": "food"
+  },
+  {
+    "id": "local-8691244002641",
+    "name": "Haribo Altın Ayıcık (80g) (Türkiye üretimi)",
+    "category": "food"
+  },
+  {
+    "id": "local-8690504162443",
+    "name": "Ülker Dankek Rulo Pasta Çilekli (235g)",
+    "category": "food"
+  }
+]
