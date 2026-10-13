@@ -151,6 +151,7 @@ class _HomePageState extends State<HomePage> {
   final Set<String> preferences = {};
   List<IngredientRule>? matches;
   bool complete = false;
+  bool editingReview = false;
   bool reading = false;
   bool barcodeSearching = false;
   int lookupStep = 0;
@@ -312,6 +313,7 @@ class _HomePageState extends State<HomePage> {
     scanError = null;
     matches = null;
     complete = false;
+    editingReview = false;
     ingredientSectionDetected = false;
     stage = ScanStage.start;
   }
@@ -370,6 +372,7 @@ class _HomePageState extends State<HomePage> {
       productName = candidate.name;
       label.text = candidate.ingredients;
       complete = false;
+      editingReview = true;
       matches = null;
       localReviewDate = null;
       ingredientSectionDetected = true;
@@ -490,6 +493,7 @@ class _HomePageState extends State<HomePage> {
       activeBarcode = code;
       localReviewDate = null;
       complete = false;
+      editingReview = true;
       matches = null;
       stage = ScanStage.review;
     });
@@ -683,6 +687,7 @@ class _HomePageState extends State<HomePage> {
       productName = null;
       productRecord = null;
       complete = false;
+      editingReview = true;
       ingredientSectionDetected = false;
       photoPath = null;
       rawOcrText = '';
@@ -706,7 +711,8 @@ class _HomePageState extends State<HomePage> {
           label.text = saved.ingredients;
           localReviewDate = saved.reviewedAt;
           activeLocalId = saved.id;
-          complete = false;
+          complete = IngredientText.reviewIssues(saved.ingredients).isEmpty;
+          editingReview = false;
           matches = loadedPolicy.evaluate(saved.ingredients, category);
           stage = ScanStage.review;
         });
@@ -723,7 +729,9 @@ class _HomePageState extends State<HomePage> {
         productRecord = product;
         productName = product.name;
         label.text = product.ingredients;
-        complete = false;
+        complete = !product.nameMatched &&
+            IngredientText.reviewIssues(product.ingredients).isEmpty;
+        editingReview = false;
         ingredientSectionDetected = true;
         matches = loadedPolicy.evaluate(product.ingredients, category);
         stage = ScanStage.review;
@@ -1737,6 +1745,7 @@ class _HomePageState extends State<HomePage> {
 
   Widget reviewScreen(Policy data) {
     final issues = IngredientText.reviewIssues(label.text);
+    final reviewReadOnly = complete && !editingReview;
     return pageList([
       progressHeader(2),
       Text(copy('Okunan içeriği kontrol et', 'Check the ingredient text'),
@@ -1819,19 +1828,32 @@ class _HomePageState extends State<HomePage> {
           controller: label,
           minLines: 6,
           maxLines: 12,
+          readOnly: reviewReadOnly,
           keyboardType: TextInputType.multiline,
           style: const TextStyle(fontSize: 17, height: 1.6),
           onChanged: (_) => setState(() {
                 complete = false;
+                editingReview = true;
                 matches = null;
                 localReviewDate = null;
               }),
           decoration: InputDecoration(
               labelText: copy('Okunan içindekiler', 'Ingredient text'),
               helperText: copy(
-                  'Yalnızca yanlış okunan yerleri düzeltebilirsin.',
-                  'Correct any text that was misread.'),
+                  reviewReadOnly
+                      ? 'Kayıtlı içerik onaylandı. Düzenlemek için aşağıdaki düğmeyi kullan.'
+                      : 'Yalnızca yanlış okunan yerleri düzeltebilirsin.',
+                  reviewReadOnly
+                      ? 'The saved ingredients are confirmed. Use the button below to edit.'
+                      : 'Correct any text that was misread.'),
               helperMaxLines: 3)),
+      if (reviewReadOnly) ...[
+        const SizedBox(height: 8),
+        OutlinedButton.icon(
+            onPressed: () => setState(() => editingReview = true),
+            icon: const Icon(Icons.edit_outlined),
+            label: Text(copy('İçeriği düzenle', 'Edit ingredients'))),
+      ],
       if (productRecord?.mayContain.isNotEmpty == true)
         notice(
             copy(
@@ -1846,29 +1868,34 @@ class _HomePageState extends State<HomePage> {
                   padding: const EdgeInsets.all(16),
                   child: SelectableText(rawOcrText))
             ]),
-      const SizedBox(height: 20),
-      Container(
-          decoration: BoxDecoration(
-              color: Colors.white,
-              borderRadius: BorderRadius.circular(18),
-              border: Border.all(
-                  color: complete
-                      ? const Color(0xFF214D3B)
-                      : const Color(0xFFD8E2DC))),
-          child: Material(
-              type: MaterialType.transparency,
-              child: CheckboxListTile(
-                  key: const ValueKey('confirm-list'),
-                  contentPadding: const EdgeInsets.all(12),
-                  controlAffinity: ListTileControlAffinity.leading,
-                  title: Text(copy('Liste tam ve doğru okunmuş',
-                      'The list is complete and correctly read')),
-                  subtitle: Text(copy('Ambalajla karşılaştırdım.',
-                      'I checked it against the package.')),
-                  value: complete,
-                  onChanged: issues.isNotEmpty
-                      ? null
-                      : (value) => setState(() => complete = value ?? false)))),
+      if (!reviewReadOnly) ...[
+        const SizedBox(height: 20),
+        Container(
+            decoration: BoxDecoration(
+                color: Colors.white,
+                borderRadius: BorderRadius.circular(18),
+                border: Border.all(
+                    color: complete
+                        ? const Color(0xFF214D3B)
+                        : const Color(0xFFD8E2DC))),
+            child: Material(
+                type: MaterialType.transparency,
+                child: CheckboxListTile(
+                    key: const ValueKey('confirm-list'),
+                    contentPadding: const EdgeInsets.all(12),
+                    controlAffinity: ListTileControlAffinity.leading,
+                    title: Text(copy('Liste tam ve doğru okunmuş',
+                        'The list is complete and correctly read')),
+                    subtitle: Text(copy('Ambalajla karşılaştırdım.',
+                        'I checked it against the package.')),
+                    value: complete,
+                    onChanged: issues.isNotEmpty
+                        ? null
+                        : (value) => setState(() {
+                              complete = value ?? false;
+                              editingReview = true;
+                            })))),
+      ],
       if (!complete && issues.isEmpty)
         Padding(
             padding: const EdgeInsets.symmetric(vertical: 12),
@@ -2541,6 +2568,44 @@ class _HomePageState extends State<HomePage> {
             .where((p) => normalize(p['name'] as String)
                 .contains(normalize(contributionQuery)))
             .toList();
+        final updatedRecords = records
+            .where((candidate) =>
+                libraryProducts.any((p) => p.id == candidate['id']))
+            .toList();
+        final pendingRecords = records
+            .where((candidate) =>
+                !libraryProducts.any((p) => p.id == candidate['id']))
+            .toList();
+        Widget candidateSection(
+            String title, String subtitle, List<Map<String, dynamic>> items,
+            {required bool updated}) {
+          if (items.isEmpty) return const SizedBox.shrink();
+          return Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                const SizedBox(height: 16),
+                Text(title, style: Theme.of(context).textTheme.titleMedium),
+                const SizedBox(height: 4),
+                Text(subtitle, style: Theme.of(context).textTheme.bodySmall),
+                const SizedBox(height: 4),
+                for (final candidate in items) ...[
+                  ListTile(
+                      contentPadding: EdgeInsets.zero,
+                      title: Text(candidate['name'] as String),
+                      subtitle: Text(updated
+                          ? copy('Bu cihazda kaydedildi · Düzenle',
+                              'Saved on this device · Edit')
+                          : copy('Barkod ve içerik bekliyor',
+                              'Needs barcode and ingredients')),
+                      trailing: Icon(updated
+                          ? Icons.edit_outlined
+                          : Icons.add_circle_outline),
+                      onTap: () => openContribution(candidate)),
+                  const Divider(height: 1),
+                ],
+              ]);
+        }
+
         return pageList([
           Text(copy('Bir ürünle destek ol', 'Help with one product'),
               style: Theme.of(context).textTheme.titleLarge),
@@ -2562,20 +2627,18 @@ class _HomePageState extends State<HomePage> {
               style: Theme.of(context).textTheme.bodySmall),
           if (records.isEmpty)
             Text(copy('Eşleşen aday yok.', 'No matching candidates.')),
-          for (final candidate in records) ...[
-            ListTile(
-                contentPadding: EdgeInsets.zero,
-                title: Text(candidate['name'] as String),
-                subtitle: Text(
-                    libraryProducts.any((p) => p.id == candidate['id'])
-                        ? copy('Bu cihazda kaydedildi · Düzenle',
-                            'Saved on this device · Edit')
-                        : copy('Barkod ve içerik bekliyor',
-                            'Needs barcode and ingredients')),
-                trailing: const Icon(Icons.edit_outlined),
-                onTap: () => openContribution(candidate)),
-            const Divider(height: 1),
-          ],
+          candidateSection(
+              copy('Güncellendi', 'Updated'),
+              copy('Katkı bilgisi bu cihazda kaydedildi.',
+                  'Contribution information is saved on this device.'),
+              updatedRecords,
+              updated: true),
+          candidateSection(
+              copy('İşlem yapılmadı', 'Not updated'),
+              copy('Bu aday için henüz katkı yapılmadı.',
+                  'No contribution has been made for this candidate yet.'),
+              pendingRecords,
+              updated: false),
         ]);
       });
 
