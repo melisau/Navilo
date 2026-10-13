@@ -30,7 +30,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579140485",
@@ -63,7 +66,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579003339",
@@ -96,7 +102,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579054935",
@@ -129,7 +138,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579048934",
@@ -162,7 +174,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579993128",
@@ -195,7 +210,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579063937",
@@ -228,7 +246,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579024938",
@@ -261,7 +282,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579027939",
@@ -294,7 +318,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579057936",
@@ -327,7 +354,10 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690579140010",
@@ -360,6 +390,9 @@
     "catalog_batch": "food-sources-round4-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

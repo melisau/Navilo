@@ -7,13 +7,35 @@
     "source_url": "https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7",
     "barcode_source_url": "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/",
     "field_sources": {
-      "code": ["https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/", "https://partner.chipper.com.tr/urun/12114/c/eti-puf-kakaolu-18gr_86920124/"],
-      "name": ["https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7", "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/"],
-      "ingredients": ["https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7"]
+      "code": [
+        "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/",
+        "https://partner.chipper.com.tr/urun/12114/c/eti-puf-kakaolu-18gr_86920124/"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7",
+        "https://www.allturko.com.tr/urun/11905/c/eti-eti-puf-kakaolu-18gr-86920124-86920124/"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-puf-kakaolu-18-g-p-6afaa7"
+      ]
     },
-    "allergens": ["gluten", "sulphites"], "traces": ["soybeans", "milk"], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [
+      "gluten",
+      "sulphites"
+    ],
+    "traces": [
+      "soybeans",
+      "milk"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "86920117",
@@ -23,13 +45,34 @@
     "source_url": "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/",
     "barcode_source_url": "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr",
     "field_sources": {
-      "code": ["https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/", "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr"],
-      "name": ["https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/", "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr"],
-      "ingredients": ["https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/"]
+      "code": [
+        "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/",
+        "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr"
+      ],
+      "name": [
+        "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/",
+        "https://www.aftamarket.com.tr/eti-puf-hcevizli-16gr"
+      ],
+      "ingredients": [
+        "https://www.allturko.com.tr/urun/8482/c/eti-eti-puf-16-gr-atl-0161-86920117/"
+      ]
     },
-    "allergens": ["gluten", "sulphites"], "traces": ["milk"], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [
+      "gluten",
+      "sulphites"
+    ],
+    "traces": [
+      "milk"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690504034032",
@@ -39,13 +82,37 @@
     "source_url": "https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2",
     "barcode_source_url": "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862",
     "field_sources": {
-      "code": ["https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862"],
-      "name": ["https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2", "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862"],
-      "ingredients": ["https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2"]
+      "code": [
+        "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862"
+      ],
+      "name": [
+        "https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2",
+        "https://www.iyas.com.tr/ulker-halley-cikolata-kapli-biskuvi-30-g-25165-p-122862"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/ulker-halley-super-30-g-p-6b16e2"
+      ]
     },
-    "allergens": ["milk", "soybeans", "gluten", "eggs", "hazelnut", "sulphites"], "traces": ["sesame-seeds"], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [
+      "milk",
+      "soybeans",
+      "gluten",
+      "eggs",
+      "hazelnut",
+      "sulphites"
+    ],
+    "traces": [
+      "sesame-seeds"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690526061108",
@@ -55,13 +122,36 @@
     "source_url": "https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740",
     "barcode_source_url": "https://iyas.com.tr/eti-burcak-131-gr-biskuvi-42748-p-131228",
     "field_sources": {
-      "code": ["https://iyas.com.tr/eti-burcak-131-gr-biskuvi-42748-p-131228", "https://www.aykilicgross.com/marka/eti/page2"],
-      "name": ["https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740", "https://www.aykilicgross.com/marka/eti/page2"],
-      "ingredients": ["https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740"]
+      "code": [
+        "https://iyas.com.tr/eti-burcak-131-gr-biskuvi-42748-p-131228",
+        "https://www.aykilicgross.com/marka/eti/page2"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740",
+        "https://www.aykilicgross.com/marka/eti/page2"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-burcak-biskuvi-131-g-p-6af740"
+      ]
     },
-    "allergens": ["gluten", "milk", "eggs"], "traces": ["soybeans", "sesame-seeds"], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [
+      "gluten",
+      "milk",
+      "eggs"
+    ],
+    "traces": [
+      "soybeans",
+      "sesame-seeds"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690849820147",
@@ -71,13 +161,28 @@
     "source_url": "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg",
     "barcode_source_url": "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg",
     "field_sources": {
-      "code": ["https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg"],
-      "name": ["https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg"],
-      "ingredients": ["https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg", "https://www.carrefoursa.com/reis-kirmizi-mercimek-1-kg-p-30097623"]
+      "code": [
+        "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/reis-kirmizi-ic-mercimek-1-kg",
+        "https://www.carrefoursa.com/reis-kirmizi-mercimek-1-kg-p-30097623"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8693374111988",
@@ -87,13 +192,29 @@
     "source_url": "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d",
     "barcode_source_url": "https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog",
     "field_sources": {
-      "code": ["https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog"],
-      "name": ["https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog", "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d"],
-      "ingredients": ["https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d", "https://www.avansas.com/yayla-dermason-fasulye-1-kg-p-81979"]
+      "code": [
+        "https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog"
+      ],
+      "name": [
+        "https://www.sepetleyin.com/index.php?page=2&route=product%2Fcatalog",
+        "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/yayla-dermason-fasulye-1-kg-p-f995d",
+        "https://www.avansas.com/yayla-dermason-fasulye-1-kg-p-81979"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691313010033",
@@ -103,13 +224,29 @@
     "source_url": "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305",
     "barcode_source_url": "https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf",
     "field_sources": {
-      "code": ["https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf", "https://www.avansas.com/orkide-aycicek-yagi-2-litre-p-88259"],
-      "name": ["https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf", "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305"],
-      "ingredients": ["https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305"]
+      "code": [
+        "https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf",
+        "https://www.avansas.com/orkide-aycicek-yagi-2-litre-p-88259"
+      ],
+      "name": [
+        "https://www.orkide.com.tr/_FILES/Contents/1876/orkide_tuketici_katalog.pdf",
+        "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/orkide-aycicek-yagi-2-l-p-30043305"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690828000805",
@@ -119,12 +256,35 @@
     "source_url": "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956",
     "barcode_source_url": "https://www.obamakarna.com.tr/katalog.pdf",
     "field_sources": {
-      "code": ["https://www.obamakarna.com.tr/katalog.pdf", "https://www.kariapazar.com/oba-fiyonk-makarna-500-g-kelebek-ve-kulak-makarna"],
-      "name": ["https://www.obamakarna.com.tr/katalog.pdf", "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956"],
-      "ingredients": ["https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956"]
+      "code": [
+        "https://www.obamakarna.com.tr/katalog.pdf",
+        "https://www.kariapazar.com/oba-fiyonk-makarna-500-g-kelebek-ve-kulak-makarna"
+      ],
+      "name": [
+        "https://www.obamakarna.com.tr/katalog.pdf",
+        "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956"
+      ],
+      "ingredients": [
+        "https://www.a101.com.tr/kapida/temel-gida/oba-fiyonk-makarna-500-g_p-14001956"
+      ]
     },
-    "allergens": ["gluten"], "traces": ["almonds", "eggs", "milk", "celery"], "labels": [],
-    "category": "food", "catalog_batch": "food-repair-20261013", "checked_at": "2026-10-13T00:00:00+03:00",
-    "ingredient_evidence": "full_label_transcription", "evidence_status": "retailer_reported_pending_package_check"
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "almonds",
+      "eggs",
+      "milk",
+      "celery"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-repair-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

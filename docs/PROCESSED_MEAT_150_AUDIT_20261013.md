@@ -9,10 +9,10 @@
 Ek bulgular (bir satır birden fazla grupta olabilir; sayılar toplanmamalıdır):
 
 - 32 ve 126: aynı barkod ve ürünün tekrar gönderimi. 150 satırda 149 farklı barkod bulunur.
-- 11 satırda gramaj eksik: 5, 9, 10, 11, 14, 36, 39, 40, 47, 48, 72.
+- 11 satırda gramaj eksik: 5, 9, 10, 11, 14, 36, 39, 40, 47, 48, 72. Genel içerik değerlendirmesinde engel değildir; yalnızca miktara göre FODMAP sonucu için ek kanıt gerekir.
 - 15 satırda katkı maddesi ismi/E kodu yerine yalnızca “emülgatör”, “stabilizatör”, “antioksidan” gibi işlev yazıyor: 26, 41, 42, 93, 107, 108, 109, 114, 118, 119, 129, 134, 136, 139, 142. Bu, mevzuat ihlali tespiti değil; uygulamanın bileşen değerlendirmesi için yetersiz ayrıntı tespitidir.
 - 64 ve 143: karışık şarküteri paketinin bileşen ürünleri için tam alt içerik ayrı verilmemiş.
-- 10 ve 79: “deksitroz”; 97: “süt proteni”; 115: “hindistan cevizi cevizi (muskat)” yazım/anlam belirsizliği.
+- 10 ve 79: “dekstroz”; 97: “süt proteini”; 115: “muskat” olarak kullanıcı isteğiyle düzeltildi. Özgün metinler korunur.
 - 12 satırda içindekiler alanına proses/ambalaj açıklaması veya ayrı bir iddia karışmış: 38, 56, 60, 61, 63, 70, 81, 86, 101, 115, 120, 144. Örneğin “katkı maddesi içermeyen”, “nişasta ve glukoz içermez”, “gaz paketleme” bir bileşen adı değildir; kaynakla teyit edilerek ayrı alanda tutulmalıdır.
 
 Somut kaynak karşılaştırmaları:
@@ -25,6 +25,12 @@ Barkod kontrolünü geçen 34 satır:
 
 3, 4, 5, 6, 12, 18, 19, 27, 46, 49, 54, 55, 56, 57, 58, 59, 60, 61, 62, 64, 65, 83, 84, 85, 95, 98, 99, 110, 111, 116, 121, 125, 141, 148.
 
+## Kullanıcının son talebine göre güncelleme
+
+10 ve 79: “deksitroz” → “dekstroz”; 97: “süt proteni” → “süt proteini”; 115: “hindistan cevizi cevizi (muskat)” → “muskat”. Özgün metinler ve değişiklik geçmişi karantinada saklandı. Bu düzeltmeler kayıtların doğrulandığı veya yayımlandığı anlamına gelmez.
+
+Gramaj eksikliği/farklılığı, genel içerik değerlendirmesinde tek başına ret nedeni değildir. Farklı ambalajlarda içerik metni gerçekten aynıysa aynı madde kuralları uygulanır. FODMAP için ayrıca kaynaklı gram/porsiyon aralıkları gerekir. Düşük bir miktar bilgisinden hareketle daha yüksek tüm miktarların otomatik olarak yüksek olduğu varsayılmaz; yalnızca kaynakta doğrulanan aralıklar kullanılabilir. Son 150 kayıt hâlâ tamamen karantinadadır; daha önce düzeltilerek eklenen 2. satır da kullanıcının sonraki talebiyle geri çekilmiştir.
+
 ## Satır bazında bütün ürünler
 
 Her satırın tam adı, gönderilen barkodu ve bulunan sorunlar aşağıdadır. “Kaynak yok” ifadesi gönderilen metne ilişkindir; internet üzerinde hiçbir kaynak olmadığı iddiası değildir.
@@ -32,19 +38,19 @@ Her satırın tam adı, gönderilen barkodu ve bulunan sorunlar aşağıdadır. 
 | No | Ürün | Gönderilen barkod | Barkod kontrolü | Bulgular |
 |---:|---|---|---|---|
 | 1 | Pınar İllaki Dana Fermente Sucuk (220g) | `8690526006768` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 2 | Pınar Klasik Dana Kangal Sucuk (225g) | `8690526032415` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Önceki işlemde düzeltildi: aynı 225 g ürün 8690527021149 barkodu ve perakendeci etiket metniyle eklendi |
+| 2 | Pınar Klasik Dana Kangal Sucuk (225g) | `8690526032415` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Önceki işlemde 8690527021149 ile düzeltilmişti; kullanıcının sonraki talebiyle geri çekildi, karantinada |
 | 3 | Namet Klasik Dana Fermente Sucuk (225g) | `8690623223010` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 4 | Namet Isıl İşlem Görmüş Dana Sucuk (240g) | `8690623120159` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 5 | Şahin Kayseri Geleneksel Fermente Sucuk | `8691536001016` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 5 | Şahin Kayseri Geleneksel Fermente Sucuk | `8691536001016` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 6 | Şahin Altın Seri Dana Fermente Sucuk (200g) | `8691536001153` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 7 | Cumhuriyet Afyon Geleneksel Sucuk (225g) | `8690743001027` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 8 | Torku Doğal Dana Fermente Sucuk (225g) | `8690123021128` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 9 | Torku Pratiko Isıl İşlem Görmüş Sucuk | `8690123004114` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
-| 10 | Polonez Geleneksel Dana Fermente Sucuk | `8690632001145` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş; Metin hatası: “deksitroz”; etiket kaynağıyla teyit edilmeden otomatik düzeltme yapılmamalı |
-| 11 | Coşkun Geleneksel Dana Fermente Sucuk | `8690765001111` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 9 | Torku Pratiko Isıl İşlem Görmüş Sucuk | `8690123004114` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
+| 10 | Polonez Geleneksel Dana Fermente Sucuk | `8690632001145` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir; Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz |
+| 11 | Coşkun Geleneksel Dana Fermente Sucuk | `8690765001111` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 12 | Aytaç Klasik Dana Fermente Sucuk (220g) | `8690841001124` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 13 | Maret Pratik Isıl İşlem Görmüş Sucuk (200g) | `8690504141115` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 14 | Danet Afyon Geleneksel Fermente Sucuk | `8693214002153` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 14 | Danet Afyon Geleneksel Fermente Sucuk | `8693214002153` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 15 | Erpiliç Piliç Isıl İşlem Görmüş Sucuk (200g) | `8690754211125` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 16 | Pınar Uzun Dana Sosis (430g) | `8690526011434` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 17 | Pınar Kokteyl Dana Sosis (200g) | `8690526011403` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
@@ -66,19 +72,19 @@ Her satırın tam adı, gönderilen barkodu ve bulunan sorunlar aşağıdadır. 
 | 33 | Pınar Klasik Dilimli Dana Salam (150g) | `8690526012301` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 34 | Namet Gurme Dana Macar Salam (150g) | `8690623151011` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 35 | Namet Pratik Dana Macar Salam (60g) | `8690623151158` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 36 | Polonez Dilimli Hindi Füme Göğüs Eti | `8690632002111` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 36 | Polonez Dilimli Hindi Füme Göğüs Eti | `8690632002111` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 37 | Polonez Dana Füme Et (100g) | `8690632002159` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 38 | Polonez Fit Yağsız Hindi Füme (60g) | `8690632002227` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; İçindekiler alanına proses/ambalaj açıklaması veya ayrıca doğrulanması gereken iddia karışmış |
-| 39 | Torku Pratiko Dilimli Dana Macar Salam | `8690123015127` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
-| 40 | Maret Pratik Dilim Dana Macar Salam | `8690504141306` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 39 | Torku Pratiko Dilimli Dana Macar Salam | `8690123015127` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
+| 40 | Maret Pratik Dilim Dana Macar Salam | `8690504141306` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 41 | Banvit Piliç Dilimli Macar Salam (60g) | `8693240003407` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Katkının adı/E kodu yerine yalnızca işlev sınıfı yazılmış; değerlendirme için belirsiz |
 | 42 | Banvit Piliç Büfe Salam (750g) | `8693240003452` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Katkının adı/E kodu yerine yalnızca işlev sınıfı yazılmış; değerlendirme için belirsiz |
 | 43 | Erpiliç Piliç Dilimli Macar Salam (60g) | `8690754311122` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 44 | Erpiliç Piliç Büfe Salam (800g) | `8690754311252` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 45 | Danet Blok Dana Macar Salam (200g) | `8693214004119` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 46 | Şahin Dana Blok Macar Salam (250g) | `8691536002112` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 47 | Cumhuriyet Blok Dana Macar Salam | `8690743002154` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
-| 48 | Coşkun Geleneksel Dana Macar Salam | `8690765003115` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 47 | Cumhuriyet Blok Dana Macar Salam | `8690743002154` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
+| 48 | Coşkun Geleneksel Dana Macar Salam | `8690765003115` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 49 | Aytaç Dilimli Dana Macar Salam (75g) | `8690841003159` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 50 | Namet Gurme Dana Füme Kaburga (100g) | `8690623151400` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 51 | Pınar İllaki Dana Kasap Sucuk (240g) | `8690526006782` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adı/gramaj şüphesi: resmî mağazada İllaki Dana Sucuk 240 g ve İllaki Dana Kasap Sucuk 300 g ayrı ürünler; 240 g “Kasap” eşleşmesi teyit edilmeli |
@@ -102,14 +108,14 @@ Her satırın tam adı, gönderilen barkodu ve bulunan sorunlar aşağıdadır. 
 | 69 | Cumhuriyet Çemenli Afyon Pastırması (100g) | `8690743003014` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 70 | Torku Doğal Dana Kavurma (150g) | `8690123021159` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; İçindekiler alanına proses/ambalaj açıklaması veya ayrıca doğrulanması gereken iddia karışmış |
 | 71 | Torku Doğal Dilimli Dana Pastırma (100g) | `8690123021203` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 72 | Torku Pratiko Isıl İşlem Görmüş Dana Parmak Sucuk | `8690123004152` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Ürün adında net miktar/gramaj belirtilmemiş |
+| 72 | Torku Pratiko Isıl İşlem Görmüş Dana Parmak Sucuk | `8690123004152` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir |
 | 73 | Polonez Isıl İşlem Görmüş Dana Sucuk (200g) | `8690632001206` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 74 | Polonez Dana Mangal Tipi Sucuk (350g) | `8690632001350` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 75 | Polonez Karabiberli Dana Füme Et (100g) | `8690632002204` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 76 | Polonez Gurme Dana Füme Kaburga (100g) | `8690632002303` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 77 | Cumhuriyet Dana Sac Kavurma (150g) | `8690743001355` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 78 | Torku Doğal Dana Kasap Sucuk (240g) | `8690123021258` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 79 | Coşkun Klasik Dana Parmak Sucuk (220g) | `8690765001159` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Metin hatası: “deksitroz”; etiket kaynağıyla teyit edilmeden otomatik düzeltme yapılmamalı |
+| 79 | Coşkun Klasik Dana Parmak Sucuk (220g) | `8690765001159` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz |
 | 80 | Coşkun Dilimli Dana Fermente Sucuk (150g) | `8690765001227` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 81 | Coşkun Blok Dana Kavurma (200g) | `8690765003153` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; İçindekiler alanına proses/ambalaj açıklaması veya ayrıca doğrulanması gereken iddia karışmış |
 | 82 | Coşkun Çemenli Geleneksel Pastırma (100g) | `8690765004112` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
@@ -127,7 +133,7 @@ Her satırın tam adı, gönderilen barkodu ve bulunan sorunlar aşağıdadır. 
 | 94 | Coşkun Mangal Tipi Dana Sucuk (350g) | `8690765001357` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 95 | Aytaç Klasik Çemenli Pastırma (100g) | `8690841003111` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 96 | Pınar Büfe Dana Sosis (400g) | `8690526011458` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
-| 97 | Pınar Aç Bitir Dana Sosis (140g) | `8690526011502` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Metin hatası: “süt proteni”; beklenen ifade “süt proteini”, kaynak teyidi gerekli |
+| 97 | Pınar Aç Bitir Dana Sosis (140g) | `8690526011502` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz |
 | 98 | Namet Dana Uzun Sosis (360g) | `8690623141208` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 99 | Namet Gurme Dana Sosis Cheddarlı (250g) | `8690623141352` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 100 | Polonez Dana Kokteyl Sosis (250g) | `8690632001909` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
@@ -145,7 +151,7 @@ Her satırın tam adı, gönderilen barkodu ve bulunan sorunlar aşağıdadır. 
 | 112 | Coşkun Geleneksel Dana Kokteyl Sosis (200g) | `8690765002200` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 113 | Danet Dana Kokteyl Sosis (250g) | `8693214003150` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 114 | Maret Akdeniz Baharatlı Dana Sosis (250g) | `8690504141504` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Katkının adı/E kodu yerine yalnızca işlev sınıfı yazılmış; değerlendirme için belirsiz |
-| 115 | Pınar İllaki Gurme Dana Sosis (300g) | `8690526011557` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; İçindekiler alanına proses/ambalaj açıklaması veya ayrıca doğrulanması gereken iddia karışmış; “hindistan cevizi cevizi (muskat)” ifadesi tekrar ve bileşen adı belirsizliği içeriyor |
+| 115 | Pınar İllaki Gurme Dana Sosis (300g) | `8690526011557` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; İçindekiler alanına proses/ambalaj açıklaması veya ayrıca doğrulanması gereken iddia karışmış; Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz |
 | 116 | Namet Piliç Kokteyl Sosis (400g) | `8690623141505` | Geçer — kimlik teyidi değil | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 117 | Polonez Hindi Kokteyl Sosis (250g) | `8690632001985` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok |
 | 118 | Banvit Piliç Tombik Sosis (150g) | `8693240003421` | HATALI | Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok; Katkının adı/E kodu yerine yalnızca işlev sınıfı yazılmış; değerlendirme için belirsiz |

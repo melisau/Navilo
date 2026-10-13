@@ -7,11 +7,22 @@
     "source_url": "https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g",
     "barcode_source_url": "https://www.aftamarket.com.tr/ulker-caramio-32-gr",
     "field_sources": {
-      "code": ["https://www.aftamarket.com.tr/ulker-caramio-32-gr", "https://www.iyas.com.tr/ulker-caramio-karamelli-cikolata-32-gr-77782-p-122542", "https://www.elitteam.com.tr/userfiles/files/a.pdf"],
-      "name": ["https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g", "https://www.aftamarket.com.tr/ulker-caramio-32-gr"],
-      "ingredients": ["https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g"]
+      "code": [
+        "https://www.aftamarket.com.tr/ulker-caramio-32-gr",
+        "https://www.iyas.com.tr/ulker-caramio-karamelli-cikolata-32-gr-77782-p-122542",
+        "https://www.elitteam.com.tr/userfiles/files/a.pdf"
+      ],
+      "name": [
+        "https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g",
+        "https://www.aftamarket.com.tr/ulker-caramio-32-gr"
+      ],
+      "ingredients": [
+        "https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g"
+      ]
     },
-    "allergens": ["milk"],
+    "allergens": [
+      "milk"
+    ],
     "traces": [],
     "labels": [],
     "category": "food",
@@ -20,7 +31,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690504313333",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690526053394",
@@ -30,12 +44,29 @@
     "source_url": "https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/",
     "barcode_source_url": "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644",
     "field_sources": {
-      "code": ["https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644", "https://www.aykilicgross.com/urun/eti-kombo-hindistan-cevizi-ve-cikolata-kaplamali-biskuvi-56-gr.html"],
-      "name": ["https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/", "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644"],
-      "ingredients": ["https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/", "https://www.bizimtoptan.com.tr/eti-kombo-cikolata-56-g-18li"]
+      "code": [
+        "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644",
+        "https://www.aykilicgross.com/urun/eti-kombo-hindistan-cevizi-ve-cikolata-kaplamali-biskuvi-56-gr.html"
+      ],
+      "name": [
+        "https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/",
+        "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644"
+      ],
+      "ingredients": [
+        "https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/",
+        "https://www.bizimtoptan.com.tr/eti-kombo-cikolata-56-g-18li"
+      ]
     },
-    "allergens": ["gluten", "milk", "egg"],
-    "traces": ["hazelnut", "soy", "peanut"],
+    "allergens": [
+      "gluten",
+      "milk",
+      "egg"
+    ],
+    "traces": [
+      "hazelnut",
+      "soy",
+      "peanut"
+    ],
     "labels": [],
     "category": "food",
     "catalog_batch": "food-invalid-gtin-review-round2-20261013",
@@ -43,7 +74,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690526055556",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690504108849",
@@ -53,12 +87,28 @@
     "source_url": "https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878",
     "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690504108849-ulker-krispi-peynirli-cubuk-kraker-43-g",
     "field_sources": {
-      "code": ["https://marketkarsilastir.com/fiyat/8690504108849-ulker-krispi-peynirli-cubuk-kraker-43-g"],
-      "name": ["https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878", "https://www.carrefoursa.com/ulker-krispi-peynirli-cubuk-kraker-43-g-p-30019794"],
-      "ingredients": ["https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878", "https://www.macrocenter.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6b1d08"]
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690504108849-ulker-krispi-peynirli-cubuk-kraker-43-g"
+      ],
+      "name": [
+        "https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878",
+        "https://www.carrefoursa.com/ulker-krispi-peynirli-cubuk-kraker-43-g-p-30019794"
+      ],
+      "ingredients": [
+        "https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878",
+        "https://www.macrocenter.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6b1d08"
+      ]
     },
-    "allergens": ["gluten", "milk", "soy"],
-    "traces": ["egg", "sesame", "tree_nuts"],
+    "allergens": [
+      "gluten",
+      "milk",
+      "soy"
+    ],
+    "traces": [
+      "egg",
+      "sesame",
+      "tree_nuts"
+    ],
     "labels": [],
     "category": "food",
     "catalog_batch": "food-invalid-gtin-review-round2-20261013",
@@ -66,7 +116,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690504443337",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690504064428",
@@ -76,12 +129,28 @@
     "source_url": "https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g",
     "barcode_source_url": "https://www.elitteam.com.tr/userfiles/files/a.pdf",
     "field_sources": {
-      "code": ["https://www.elitteam.com.tr/userfiles/files/a.pdf"],
-      "name": ["https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g", "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431", "https://www.elitteam.com.tr/userfiles/files/a.pdf"],
-      "ingredients": ["https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g", "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431"]
+      "code": [
+        "https://www.elitteam.com.tr/userfiles/files/a.pdf"
+      ],
+      "name": [
+        "https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g",
+        "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431",
+        "https://www.elitteam.com.tr/userfiles/files/a.pdf"
+      ],
+      "ingredients": [
+        "https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g",
+        "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431"
+      ]
     },
-    "allergens": ["gluten", "egg", "soy", "milk"],
-    "traces": ["tree_nuts"],
+    "allergens": [
+      "gluten",
+      "egg",
+      "soy",
+      "milk"
+    ],
+    "traces": [
+      "tree_nuts"
+    ],
     "labels": [],
     "category": "food",
     "catalog_batch": "food-invalid-gtin-review-round2-20261013",
@@ -90,7 +159,10 @@
     "evidence_status": "retailer_reported",
     "submitted_code": "8690504162443",
     "submission_status": "verified_not_imported",
-    "review_note": "Exact 235 g flavor and product GTIN match the Ülker catalog; recipe transcription follows the current retailer label. Retailer formulations show minor list differences, so package recheck is recommended when available."
+    "review_note": "Exact 235 g flavor and product GTIN match the Ülker catalog; recipe transcription follows the current retailer label. Retailer formulations show minor list differences, so package recheck is recommended when available.",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690635060269",
@@ -100,9 +172,18 @@
     "source_url": "https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f",
     "barcode_source_url": "https://partner.chipper.com.tr/urun/13112/c/tat-bezelye-830-g_8690635060269/",
     "field_sources": {
-      "code": ["https://partner.chipper.com.tr/urun/13112/c/tat-bezelye-830-g_8690635060269/", "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"],
-      "name": ["https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f", "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"],
-      "ingredients": ["https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f", "https://tatb2b2c.blob.core.windows.net/tat-prod/Katalog-V1-dusuk.pdf"]
+      "code": [
+        "https://partner.chipper.com.tr/urun/13112/c/tat-bezelye-830-g_8690635060269/",
+        "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"
+      ],
+      "name": [
+        "https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f",
+        "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f",
+        "https://tatb2b2c.blob.core.windows.net/tat-prod/Katalog-V1-dusuk.pdf"
+      ]
     },
     "allergens": [],
     "traces": [],
@@ -113,7 +194,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690547343007",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690637812316",
@@ -123,12 +207,33 @@
     "source_url": "https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g",
     "barcode_source_url": "https://s101.com/tr/products/8690637812316",
     "field_sources": {
-      "code": ["https://s101.com/tr/products/8690637812316", "https://www.armay.net/wp-content/uploads/2020/01/FOOD-UNILEVER-22012020.pdf"],
-      "name": ["https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g", "https://s101.com/tr/products/8690637812316"],
-      "ingredients": ["https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g", "https://gidadedektifi.com/urun-incelemeleri/hazir-yemek-ve-toz-karisimlar/knorr-sehriyeli-tavuk-corbasi-toz-karisimi-422"]
+      "code": [
+        "https://s101.com/tr/products/8690637812316",
+        "https://www.armay.net/wp-content/uploads/2020/01/FOOD-UNILEVER-22012020.pdf"
+      ],
+      "name": [
+        "https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g",
+        "https://s101.com/tr/products/8690637812316"
+      ],
+      "ingredients": [
+        "https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g",
+        "https://gidadedektifi.com/urun-incelemeleri/hazir-yemek-ve-toz-karisimlar/knorr-sehriyeli-tavuk-corbasi-toz-karisimi-422"
+      ]
     },
-    "allergens": ["gluten", "celery"],
-    "traces": ["egg", "milk", "mustard", "soy", "hazelnut", "pistachio", "almond", "sesame"],
+    "allergens": [
+      "gluten",
+      "celery"
+    ],
+    "traces": [
+      "egg",
+      "milk",
+      "mustard",
+      "soy",
+      "hazelnut",
+      "pistachio",
+      "almond",
+      "sesame"
+    ],
     "labels": [],
     "category": "food",
     "catalog_batch": "food-invalid-gtin-review-round2-20261013",
@@ -136,6 +241,9 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690637922204",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

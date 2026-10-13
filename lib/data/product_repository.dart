@@ -3,6 +3,8 @@ import 'dart:io';
 import 'dart:async';
 import 'package:flutter/services.dart' show rootBundle;
 import '../domain/barcode.dart';
+import '../domain/catalogue_provenance.dart';
+import '../domain/catalogue_exclusions.dart';
 
 class ProductRecord {
   final String code, name, ingredients, sourceUrl;
@@ -10,6 +12,9 @@ class ProductRecord {
   final String mayContain;
   final String? imageUrl;
   final String? imageSourceUrl;
+  final String? sourceType;
+  final DateTime? verifiedAt;
+  final String verificationStatus;
   String get imageCredit => imageUrl != null &&
           Uri.tryParse(imageUrl!)?.host == 'images.openfoodfacts.org'
       ? 'Open Food Facts contributors · CC BY-SA 3.0'
@@ -24,6 +29,9 @@ class ProductRecord {
       this.mayContain = '',
       this.imageUrl,
       this.imageSourceUrl,
+      this.sourceType,
+      this.verifiedAt,
+      this.verificationStatus = 'unverified',
       this.nameMatched = false,
       this.nameLookupSource});
   static String? licensedImage(dynamic value) {
@@ -60,10 +68,16 @@ class ProductRecord {
       String sourceName = 'Open Food Facts',
       bool nameMatched = false,
       String? nameLookupSource}) {
+    if (!isValidGtin(code) || excludedCatalogueCodes.contains(code)) {
+      throw const FormatException('Unsupported barcode');
+    }
     if (json['status'] != 1 || json['product'] is! Map<String, dynamic>) {
       throw const FormatException('Product not found');
     }
     final p = json['product'] as Map<String, dynamic>;
+    if (p['code'] != null && p['code'].toString() != code) {
+      throw const FormatException('Barcode identity mismatch');
+    }
     String first(List<String> fields) => fields
         .map((key) => (p[key] ?? '').toString().trim())
         .firstWhere((v) => v.isNotEmpty, orElse: () => '');
@@ -92,6 +106,7 @@ class ProductRecord {
         tags('traces_tags'),
         tags('labels_tags'),
         sourceName: sourceName,
+        sourceType: 'open_food_facts',
         nameMatched: nameMatched,
         nameLookupSource: nameLookupSource,
         imageSourceUrl: host == 'world.openfoodfacts.org'
@@ -167,6 +182,9 @@ class ProductRepository {
       catalogUrl.isNotEmpty && catalogKey.isNotEmpty;
 
   Future<ProductRecord?> findCommunity(String code, String category) async {
+    if (!isValidGtin(code) || excludedCatalogueCodes.contains(code)) {
+      throw const FormatException('Unsupported barcode');
+    }
     final base = Uri.tryParse(catalogUrl);
     if (base == null ||
         base.scheme != 'https' ||
@@ -176,7 +194,9 @@ class ProductRepository {
     final uri = Uri.https(base.host, '/rest/v1/navilo_catalog', {
       'barcode': 'eq.$code',
       'category': 'eq.$category',
-      'select': 'barcode,category,product_name,ingredients,reviewed_at',
+      'status': 'eq.verified',
+      'select':
+          'barcode,category,product_name,ingredients,reviewed_at,source_type,source_url,verified_at,status',
       'limit': '1'
     });
     final client = HttpClient()..connectionTimeout = const Duration(seconds: 8);
@@ -196,6 +216,7 @@ class ProductRepository {
         if (rows.isEmpty) return null;
         final row = rows.single as Map<String, dynamic>;
         if (row['barcode'] != code ||
+            !hasVerifiedSource(row) ||
             row['category'] != category ||
             row['ingredients'] is! String ||
             (row['ingredients'] as String).trim().isEmpty) {
@@ -205,12 +226,15 @@ class ProductRepository {
             code,
             row['product_name'] as String,
             row['ingredients'] as String,
-            'https://${base.host}/rest/v1/navilo_catalog',
+            row['source_url'] as String,
             DateTime.tryParse(row['reviewed_at'] as String? ?? ''),
             [],
             [],
             [],
-            sourceName: 'Navilo Community');
+            sourceName: 'Navilo Community',
+            sourceType: row['source_type'] as String,
+            verifiedAt: DateTime.parse(row['verified_at'] as String),
+            verificationStatus: 'verified');
       })()
           .timeout(const Duration(seconds: 12));
     } finally {
@@ -231,6 +255,10 @@ class ProductRepository {
     String? productName,
     bool english = false,
   }) async {
+    if (barcode != null &&
+        (!isValidGtin(barcode) || excludedCatalogueCodes.contains(barcode))) {
+      throw const FormatException('Unsupported barcode');
+    }
     var query = productName?.trim() ?? '';
     final nameLookupSource =
         productName == null && barcode != null ? 'UPCitemdb' : null;
@@ -286,7 +314,8 @@ class ProductRepository {
           for (final row in rows) {
             if (row is! Map<String, dynamic>) continue;
             final code = (row['code'] ?? '').toString();
-            if (!RegExp(r'^\d{8,14}$').hasMatch(code) ||
+            if (!isValidGtin(code) ||
+                excludedCatalogueCodes.contains(code) ||
                 seenCodes.contains(code)) {
               continue;
             }
@@ -361,6 +390,8 @@ class ProductRepository {
           rejection = 'missing_source';
         } else if (DateTime.tryParse(field('checked_at')) == null) {
           rejection = 'missing_check_date';
+        } else if (!hasVerifiedSource(item)) {
+          rejection = 'unverified_source';
         } else if (['allergens', 'traces', 'labels']
             .any((key) => item[key] != null && item[key] is! List)) {
           rejection = 'invalid_tag_list';
@@ -386,6 +417,9 @@ class ProductRepository {
           (item['traces'] as List? ?? []).whereType<String>().toList(),
           (item['labels'] as List? ?? []).whereType<String>().toList(),
           sourceName: item['source_name'] as String? ?? 'Navilo curated label',
+          sourceType: field('source_type'),
+          verifiedAt: DateTime.parse(field('verified_at')),
+          verificationStatus: field('status'),
           mayContain: item['may_contain'] as String? ?? '',
           imageUrl: ProductRecord.curatedImage(item),
           imageSourceUrl: item['image_license'] == 'CC-BY-SA-3.0'
@@ -413,11 +447,23 @@ class ProductRepository {
       {bool english = false,
       String category = 'food',
       void Function(int step)? onProgress}) async {
-    if (!RegExp(r'^\d{8,14}$').hasMatch(code)) {
+    if (!isValidGtin(code) || excludedCatalogueCodes.contains(code)) {
       throw const FormatException('Unsupported barcode');
     }
     final attempts = <String>[];
     String? resolvedName;
+    ProductRecord? curatedFallback;
+    // Reviewed label/manufacturer/retailer evidence precedes community data.
+    try {
+      final product = await _findCurated(code, category);
+      if (product != null) {
+        if (product.sourceType != 'open_food_facts') return product;
+        curatedFallback = product;
+      }
+    } catch (error) {
+      attempts.add(
+          'Navilo curated data: ${failureMessage(error, english: english)}');
+    }
     if (catalogConfigured) {
       onProgress?.call(1);
       try {
@@ -428,13 +474,7 @@ class ProductRepository {
             'Navilo Community: ${failureMessage(error, english: english)}');
       }
     }
-    try {
-      final product = await _findCurated(code, category);
-      if (product != null) return product;
-    } catch (error) {
-      attempts.add(
-          'Navilo curated data: ${failureMessage(error, english: english)}');
-    }
+    if (curatedFallback != null) return curatedFallback;
     onProgress?.call(2);
     // Product type can be misclassified in any community database, so check
     // every sibling dataset. ProductRecord.parse only accepts status == 1 and

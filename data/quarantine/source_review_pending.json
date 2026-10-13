@@ -1,0 +1,141 @@
+[
+  {
+    "code": "8697471727219",
+    "name": "Namet Gurme Dana Kangal Sucuk 240 g",
+    "category": "food",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, tuz, sarımsak, stabilizör (E450, E452), antioksidan (E316), koruyucu madde (E250).",
+    "source_type": "retailer",
+    "source_url": "https://www.macrocenter.com.tr/namet-kangal-sucuk-240-g-p-d8d15c",
+    "barcode_source_url": "https://gurmar.com.tr/namet-gurme-dana-sucuk-240-gr-17632-p",
+    "source_name": "Perakendeci etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": null,
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "unverified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://gurmar.com.tr/namet-gurme-dana-sucuk-240-gr-17632-p"
+      ],
+      "name": [
+        "https://www.macrocenter.com.tr/namet-kangal-sucuk-240-g-p-d8d15c",
+        "https://gurmar.com.tr/namet-gurme-dana-sucuk-240-gr-17632-p"
+      ],
+      "ingredients": [
+        "https://www.macrocenter.com.tr/namet-kangal-sucuk-240-g-p-d8d15c"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "previous_verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "verification_note": "Antioksidan etiketten teyit edilmeli: aynı barkodda E301 / E316 kaynak çelişkisi.",
+    "field_status": {
+      "antioxidant": "label_check_required"
+    },
+    "review_updated_at": "2026-10-13T13:53:43.171690+00:00",
+    "conflicts": [
+      {
+        "field": "antioxidant",
+        "values": [
+          {
+            "value": "E316",
+            "source_type": "retailer",
+            "source_url": "https://www.macrocenter.com.tr/namet-kangal-sucuk-240-g-p-d8d15c",
+            "checked_at": "2026-10-13T13:53:43.171690+00:00"
+          },
+          {
+            "value": "E301",
+            "source_type": "open_food_facts",
+            "source_url": "https://world.openfoodfacts.org/product/8697471727219/namet-kangal-sucuk-240-g",
+            "api_url": "https://world.openfoodfacts.org/api/v2/product/8697471727219.json",
+            "checked_at": "2026-10-13T13:53:43.171690+00:00",
+            "snapshot": "docs/catalog_analysis/namet_conflict_20261013/off.json"
+          }
+        ],
+        "resolution": "current_package_label_required"
+      }
+    ],
+    "other_package_note": {
+      "source_url": "https://aksagida.com.tr/magaza/namet-dana-sucuk-kangal-vakumlu-200-gr--12",
+      "user_reported_antioxidant": "E301",
+      "quantity_grams": 200,
+      "retrieval_http_status": 410,
+      "used_to_resolve_240g": false
+    }
+  },
+  {
+    "category": "food",
+    "source_type": "retailer",
+    "verified_at": null,
+    "status": "unverified",
+    "review_updated_at": "2026-10-13T13:53:43.171690+00:00",
+    "code": null,
+    "name": "Aytaç Çiftlik Piliç Kokteyl Sosis 500 g",
+    "source_url": "https://www.sokmarket.com.tr/aytac-ciftlik-pilic-kokteyl-sosis-500-g-p-214005",
+    "ingredients": "Piliç eti, sığır yağı, su, patates nişastası, bitkisel protein (soya), baharat karışımı, ayçiçek yağı, tuz, kıvam arttırıcı(karragenan), süt proteini, stabilizör (sodyum polifosfat), dekstroz, antioksidan (askorbik asit), koruyucu (sodyum laktat, sodyum asetat, sodyum nitrit), aroma vericiler, doğal tütsü aroması.",
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "missing_fields": [
+      "barcode"
+    ],
+    "verification_note": "Tam içerik var; ürün barkodu bulunmadı. Şok ürün kodu barkod olarak kullanılmadı."
+  },
+  {
+    "category": "food",
+    "source_type": "retailer",
+    "verified_at": null,
+    "status": "unverified",
+    "review_updated_at": "2026-10-13T13:53:43.171690+00:00",
+    "code": null,
+    "name": "Aytaç Çiftlik Dana Kokteyl Sosis 250 g",
+    "source_url": "https://www.sokmarket.com.tr/aytac-ciftlik-dana-kokteyl-sosis-250-g-p-600510",
+    "ingredients": "Dana eti, sığır yağı, su, patates nişastası, bitkisel protein (soya), baharat karışımı, ayçiçek yağı, tuz, kıvam arttırıcı (karragenan), süt proteini, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum laktat, sodyum asetat, sodyum nitrit).",
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "missing_fields": [
+      "barcode"
+    ],
+    "verification_note": "Tam içerik var; ürün barkodu bulunmadı. 225 g adayla içerik kendiliğinden eşleştirilmedi."
+  },
+  {
+    "category": "food",
+    "source_type": "retailer",
+    "verified_at": null,
+    "status": "unverified",
+    "review_updated_at": "2026-10-13T13:53:43.171690+00:00",
+    "code": "8691520104198",
+    "name": "Aytaç Kokteyl Sosis 225 g",
+    "source_url": "https://www.mismarsanalmarket.com/aytac-kokteyl-sosis-225-gr",
+    "ingredients": null,
+    "missing_fields": [
+      "ingredients"
+    ],
+    "gtin_checksum_pass": true,
+    "identity_evidence": "retailer_product_jsonld_gtin",
+    "verification_note": "Yapılandırılmış veride barkod doğrulandı; aynı ürüne bağlı tam içerik bulunmadı. 250/500 g içerikleri aktarılmadı."
+  },
+  {
+    "category": "food",
+    "source_type": "retailer",
+    "verified_at": null,
+    "status": "unverified",
+    "review_updated_at": "2026-10-13T13:53:43.171690+00:00",
+    "code": "8696024317020",
+    "name": "Erpiliç Kokteyl Sosis 700 g",
+    "source_url": "https://www.mismarsanalmarket.com/erpilic-kokteyl-sosis-700-gr",
+    "ingredients": null,
+    "missing_fields": [
+      "ingredients"
+    ],
+    "gtin_checksum_pass": true,
+    "identity_evidence": "retailer_product_jsonld_gtin",
+    "verification_note": "Yapılandırılmış veride barkod doğrulandı; genel sosis içerikleri bu ürüne bağlanmadı."
+  }
+]

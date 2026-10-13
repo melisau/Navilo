@@ -18,7 +18,11 @@
     "image_matched_code": "8682536035699",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:12.06489+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035712",
@@ -39,7 +43,11 @@
     "image_matched_code": "8682536035712",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:11.406895+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035729",
@@ -60,7 +68,11 @@
     "image_matched_code": "8682536035729",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:11.597891+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035736",
@@ -81,7 +93,11 @@
     "image_matched_code": "8682536035736",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:10.642828+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035743",
@@ -102,7 +118,11 @@
     "image_matched_code": "8682536035743",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:09.95111+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035750",
@@ -123,7 +143,11 @@
     "image_matched_code": "8682536035750",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:14.78273+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035767",
@@ -144,7 +168,11 @@
     "image_matched_code": "8682536035767",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:15.045728+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035774",
@@ -165,7 +193,11 @@
     "image_matched_code": "8682536035774",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:16.03573+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035781",
@@ -186,7 +218,11 @@
     "image_matched_code": "8682536035781",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:16.055738+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035798",
@@ -207,7 +243,11 @@
     "image_matched_code": "8682536035798",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:16.190742+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035811",
@@ -228,7 +268,11 @@
     "image_matched_code": "8682536035811",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:18.463583+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035828",
@@ -249,7 +293,11 @@
     "image_matched_code": "8682536035828",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:18.681586+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035835",
@@ -270,7 +318,11 @@
     "image_matched_code": "8682536035835",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:20.222399+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035842",
@@ -291,7 +343,11 @@
     "image_matched_code": "8682536035842",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:20.21039+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035859",
@@ -312,7 +368,11 @@
     "image_matched_code": "8682536035859",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:19.551389+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035866",
@@ -333,7 +393,11 @@
     "image_matched_code": "8682536035866",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:22.234451+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035873",
@@ -354,7 +418,11 @@
     "image_matched_code": "8682536035873",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:22.57645+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035880",
@@ -375,7 +443,11 @@
     "image_matched_code": "8682536035880",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:23.302453+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035897",
@@ -396,7 +468,11 @@
     "image_matched_code": "8682536035897",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:23.253451+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035903",
@@ -417,7 +493,11 @@
     "image_matched_code": "8682536035903",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:23.390451+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035910",
@@ -438,7 +518,11 @@
     "image_matched_code": "8682536035910",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:25.374584+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035927",
@@ -459,7 +543,11 @@
     "image_matched_code": "8682536035927",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:26.167393+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035934",
@@ -480,7 +568,11 @@
     "image_matched_code": "8682536035934",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:27.107392+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035941",
@@ -501,7 +593,11 @@
     "image_matched_code": "8682536035941",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:26.885387+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035958",
@@ -522,7 +618,11 @@
     "image_matched_code": "8682536035958",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:27.224643+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035965",
@@ -543,7 +643,11 @@
     "image_matched_code": "8682536035965",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:28.202266+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035972",
@@ -564,7 +668,11 @@
     "image_matched_code": "8682536035972",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:29.396284+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035989",
@@ -585,7 +693,11 @@
     "image_matched_code": "8682536035989",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:29.595276+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536035996",
@@ -606,7 +718,11 @@
     "image_matched_code": "8682536035996",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:30.400289+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036009",
@@ -627,7 +743,11 @@
     "image_matched_code": "8682536036009",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:30.121283+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036016",
@@ -648,7 +768,11 @@
     "image_matched_code": "8682536036016",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:30.503608+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036023",
@@ -669,7 +793,11 @@
     "image_matched_code": "8682536036023",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:32.176064+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036030",
@@ -690,7 +818,11 @@
     "image_matched_code": "8682536036030",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:32.494954+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036047",
@@ -711,7 +843,11 @@
     "image_matched_code": "8682536036047",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:33.161179+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036054",
@@ -732,7 +868,11 @@
     "image_matched_code": "8682536036054",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:33.246224+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036061",
@@ -753,7 +893,11 @@
     "image_matched_code": "8682536036061",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:33.609259+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036078",
@@ -774,7 +918,11 @@
     "image_matched_code": "8682536036078",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:35.321592+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036108",
@@ -795,7 +943,11 @@
     "image_matched_code": "8682536036108",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:35.235631+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036115",
@@ -816,7 +968,11 @@
     "image_matched_code": "8682536036115",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:36.423548+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036122",
@@ -837,7 +993,11 @@
     "image_matched_code": "8682536036122",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:36.311588+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036139",
@@ -858,7 +1018,11 @@
     "image_matched_code": "8682536036139",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:36.554549+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036146",
@@ -879,7 +1043,11 @@
     "image_matched_code": "8682536036146",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:37.642181+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036153",
@@ -900,7 +1068,11 @@
     "image_matched_code": "8682536036153",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:38.287012+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036160",
@@ -921,7 +1093,11 @@
     "image_matched_code": "8682536036160",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:39.525256+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036177",
@@ -942,7 +1118,11 @@
     "image_matched_code": "8682536036177",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:39.222909+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036184",
@@ -963,7 +1143,11 @@
     "image_matched_code": "8682536036184",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:39.381253+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036191",
@@ -984,7 +1168,11 @@
     "image_matched_code": "8682536036191",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:40.326832+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036207",
@@ -1005,7 +1193,11 @@
     "image_matched_code": "8682536036207",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:41.413672+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036214",
@@ -1026,7 +1218,11 @@
     "image_matched_code": "8682536036214",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:41.716194+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036221",
@@ -1047,7 +1243,11 @@
     "image_matched_code": "8682536036221",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:42.072189+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036245",
@@ -1068,7 +1268,11 @@
     "image_matched_code": "8682536036245",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:42.447193+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036252",
@@ -1089,7 +1293,11 @@
     "image_matched_code": "8682536036252",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:43.230191+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036269",
@@ -1110,7 +1318,11 @@
     "image_matched_code": "8682536036269",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:43.949784+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036276",
@@ -1131,7 +1343,11 @@
     "image_matched_code": "8682536036276",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:45.389839+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036283",
@@ -1152,7 +1368,11 @@
     "image_matched_code": "8682536036283",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:45.875676+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036290",
@@ -1173,7 +1393,11 @@
     "image_matched_code": "8682536036290",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:46.022463+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036306",
@@ -1194,7 +1418,11 @@
     "image_matched_code": "8682536036306",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:46.695466+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036313",
@@ -1215,7 +1443,11 @@
     "image_matched_code": "8682536036313",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:47.488282+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036320",
@@ -1236,7 +1468,11 @@
     "image_matched_code": "8682536036320",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:48.763655+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036337",
@@ -1257,7 +1493,11 @@
     "image_matched_code": "8682536036337",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:48.553696+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036344",
@@ -1278,7 +1518,11 @@
     "image_matched_code": "8682536036344",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:49.83066+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036351",
@@ -1299,7 +1543,11 @@
     "image_matched_code": "8682536036351",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:49.265661+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036368",
@@ -1320,7 +1568,11 @@
     "image_matched_code": "8682536036368",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:50.626966+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036375",
@@ -1341,7 +1593,11 @@
     "image_matched_code": "8682536036375",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:51.308055+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536036382",
@@ -1362,7 +1618,11 @@
     "image_matched_code": "8682536036382",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:51.820053+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536047807",
@@ -1383,7 +1643,11 @@
     "image_matched_code": "8682536047807",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:52.631157+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536047814",
@@ -1404,7 +1668,11 @@
     "image_matched_code": "8682536047814",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:52.721812+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536047821",
@@ -1425,7 +1693,11 @@
     "image_matched_code": "8682536047821",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:53.689812+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536047845",
@@ -1446,7 +1718,11 @@
     "image_matched_code": "8682536047845",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:53.823832+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536052993",
@@ -1467,7 +1743,11 @@
     "image_matched_code": "8682536052993",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:54.39483+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536053099",
@@ -1488,7 +1768,11 @@
     "image_matched_code": "8682536053099",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:55.919948+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536054478",
@@ -1509,7 +1793,11 @@
     "image_matched_code": "8682536054478",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:55.883952+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536054492",
@@ -1530,7 +1818,11 @@
     "image_matched_code": "8682536054492",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:56.677921+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536054515",
@@ -1551,7 +1843,11 @@
     "image_matched_code": "8682536054515",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:57.224855+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536054539",
@@ -1572,7 +1868,11 @@
     "image_matched_code": "8682536054539",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:57.845044+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536054553",
@@ -1593,7 +1893,11 @@
     "image_matched_code": "8682536054553",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:59.753578+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536054676",
@@ -1614,7 +1918,11 @@
     "image_matched_code": "8682536054676",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:59.360574+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682536118668",
@@ -1635,7 +1943,11 @@
     "image_matched_code": "8682536118668",
     "image_attribution": "www.flormar.com.tr",
     "image_checked_at": "2026-10-13T15:52:59.959577+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419103",
@@ -1656,7 +1968,11 @@
     "image_matched_code": "8691190419103",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:52:59.525575+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419127",
@@ -1677,7 +1993,11 @@
     "image_matched_code": "8691190419127",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:00.228581+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419226",
@@ -1698,7 +2018,11 @@
     "image_matched_code": "8691190419226",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:01.35137+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419257",
@@ -1719,7 +2043,11 @@
     "image_matched_code": "8691190419257",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:01.682004+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419288",
@@ -1740,7 +2068,11 @@
     "image_matched_code": "8691190419288",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:01.842008+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419325",
@@ -1761,7 +2093,11 @@
     "image_matched_code": "8691190419325",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:02.379011+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419332",
@@ -1782,7 +2118,11 @@
     "image_matched_code": "8691190419332",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:02.345007+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419349",
@@ -1803,7 +2143,11 @@
     "image_matched_code": "8691190419349",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:03.264027+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419400",
@@ -1824,7 +2168,11 @@
     "image_matched_code": "8691190419400",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:03.675811+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419417",
@@ -1845,7 +2193,11 @@
     "image_matched_code": "8691190419417",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:04.608544+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419530",
@@ -1866,7 +2218,11 @@
     "image_matched_code": "8691190419530",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:04.296548+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419578",
@@ -1887,7 +2243,11 @@
     "image_matched_code": "8691190419578",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:04.463544+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419622",
@@ -1908,7 +2268,11 @@
     "image_matched_code": "8691190419622",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:05.335544+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419646",
@@ -1929,7 +2293,11 @@
     "image_matched_code": "8691190419646",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:05.640544+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419653",
@@ -1950,7 +2318,11 @@
     "image_matched_code": "8691190419653",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:06.154451+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419677",
@@ -1971,7 +2343,11 @@
     "image_matched_code": "8691190419677",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:06.704453+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419691",
@@ -1992,7 +2368,11 @@
     "image_matched_code": "8691190419691",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:06.695454+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419721",
@@ -2013,7 +2393,11 @@
     "image_matched_code": "8691190419721",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:07.400924+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419776",
@@ -2034,7 +2418,11 @@
     "image_matched_code": "8691190419776",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:07.621921+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419790",
@@ -2055,7 +2443,11 @@
     "image_matched_code": "8691190419790",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:08.107477+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190421823",
@@ -2076,7 +2468,11 @@
     "image_matched_code": "8691190421823",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:08.698466+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190463496",
@@ -2097,7 +2493,11 @@
     "image_matched_code": "8691190463496",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:08.7727+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190463502",
@@ -2118,7 +2518,11 @@
     "image_matched_code": "8691190463502",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:10.084867+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190463533",
@@ -2139,7 +2543,11 @@
     "image_matched_code": "8691190463533",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:10.250686+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466527",
@@ -2160,7 +2568,11 @@
     "image_matched_code": "8691190466527",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:10.303354+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466534",
@@ -2181,7 +2593,11 @@
     "image_matched_code": "8691190466534",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:10.478208+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190535483",
@@ -2202,7 +2618,11 @@
     "image_matched_code": "8691190535483",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:10.807205+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190539962",
@@ -2223,7 +2643,11 @@
     "image_matched_code": "8691190539962",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:12.056496+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190562076",
@@ -2244,7 +2668,11 @@
     "image_matched_code": "8691190562076",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:12.082459+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190562083",
@@ -2265,7 +2693,11 @@
     "image_matched_code": "8691190562083",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:12.235459+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190562090",
@@ -2286,7 +2718,11 @@
     "image_matched_code": "8691190562090",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:12.654655+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190562106",
@@ -2307,7 +2743,11 @@
     "image_matched_code": "8691190562106",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:12.802653+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190562113",
@@ -2328,7 +2768,11 @@
     "image_matched_code": "8691190562113",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:14.694118+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643010",
@@ -2349,7 +2793,11 @@
     "image_matched_code": "8691190643010",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:14.537179+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643027",
@@ -2370,7 +2818,11 @@
     "image_matched_code": "8691190643027",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:14.67293+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643034",
@@ -2391,7 +2843,11 @@
     "image_matched_code": "8691190643034",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:14.94715+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643041",
@@ -2412,7 +2868,11 @@
     "image_matched_code": "8691190643041",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:15.192119+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643058",
@@ -2433,7 +2893,11 @@
     "image_matched_code": "8691190643058",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:16.522762+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643065",
@@ -2454,7 +2918,11 @@
     "image_matched_code": "8691190643065",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:16.647763+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643072",
@@ -2475,7 +2943,11 @@
     "image_matched_code": "8691190643072",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:16.682764+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643126",
@@ -2496,7 +2968,11 @@
     "image_matched_code": "8691190643126",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:17.080867+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643133",
@@ -2517,7 +2993,11 @@
     "image_matched_code": "8691190643133",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:17.141866+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643140",
@@ -2538,7 +3018,11 @@
     "image_matched_code": "8691190643140",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:18.482293+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643157",
@@ -2559,7 +3043,11 @@
     "image_matched_code": "8691190643157",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:18.612298+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643164",
@@ -2580,7 +3068,11 @@
     "image_matched_code": "8691190643164",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:18.695291+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643171",
@@ -2601,7 +3093,11 @@
     "image_matched_code": "8691190643171",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:19.321414+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643188",
@@ -2622,7 +3118,11 @@
     "image_matched_code": "8691190643188",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:19.234411+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643195",
@@ -2643,7 +3143,11 @@
     "image_matched_code": "8691190643195",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:20.479408+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643201",
@@ -2664,7 +3168,11 @@
     "image_matched_code": "8691190643201",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:22.145942+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643218",
@@ -2685,7 +3193,11 @@
     "image_matched_code": "8691190643218",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:20.55341+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643225",
@@ -2706,7 +3218,11 @@
     "image_matched_code": "8691190643225",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:21.173419+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643249",
@@ -2727,7 +3243,11 @@
     "image_matched_code": "8691190643249",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:22.102835+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643256",
@@ -2748,7 +3268,11 @@
     "image_matched_code": "8691190643256",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:22.815831+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643263",
@@ -2769,7 +3293,11 @@
     "image_matched_code": "8691190643263",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:23.09184+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643270",
@@ -2790,7 +3318,11 @@
     "image_matched_code": "8691190643270",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:23.904224+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643287",
@@ -2811,7 +3343,11 @@
     "image_matched_code": "8691190643287",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:24.92822+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643294",
@@ -2832,7 +3368,11 @@
     "image_matched_code": "8691190643294",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:24.851225+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643300",
@@ -2853,7 +3393,11 @@
     "image_matched_code": "8691190643300",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:25.482222+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643317",
@@ -2874,7 +3418,11 @@
     "image_matched_code": "8691190643317",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:25.549227+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643324",
@@ -2895,7 +3443,11 @@
     "image_matched_code": "8691190643324",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:26.464393+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643331",
@@ -2916,7 +3468,11 @@
     "image_matched_code": "8691190643331",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:27.548436+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643348",
@@ -2937,7 +3493,11 @@
     "image_matched_code": "8691190643348",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:27.721447+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643355",
@@ -2958,7 +3518,11 @@
     "image_matched_code": "8691190643355",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:28.414604+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643362",
@@ -2979,7 +3543,11 @@
     "image_matched_code": "8691190643362",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:28.478602+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643379",
@@ -3000,7 +3568,11 @@
     "image_matched_code": "8691190643379",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:29.412603+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643386",
@@ -3021,7 +3593,11 @@
     "image_matched_code": "8691190643386",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:30.28677+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643393",
@@ -3042,7 +3618,11 @@
     "image_matched_code": "8691190643393",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:30.353297+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643409",
@@ -3063,7 +3643,11 @@
     "image_matched_code": "8691190643409",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:31.181295+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643416",
@@ -3084,7 +3668,11 @@
     "image_matched_code": "8691190643416",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:31.135298+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643423",
@@ -3105,7 +3693,11 @@
     "image_matched_code": "8691190643423",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:31.863291+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643430",
@@ -3126,7 +3718,11 @@
     "image_matched_code": "8691190643430",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:33.616782+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643447",
@@ -3147,7 +3743,11 @@
     "image_matched_code": "8691190643447",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:34.068782+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643454",
@@ -3168,7 +3768,11 @@
     "image_matched_code": "8691190643454",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:34.266779+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643461",
@@ -3189,7 +3793,11 @@
     "image_matched_code": "8691190643461",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:34.185783+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643478",
@@ -3210,7 +3818,11 @@
     "image_matched_code": "8691190643478",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:34.630596+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643485",
@@ -3231,7 +3843,11 @@
     "image_matched_code": "8691190643485",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:36.379459+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643492",
@@ -3252,7 +3868,11 @@
     "image_matched_code": "8691190643492",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:36.413471+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643508",
@@ -3273,7 +3893,11 @@
     "image_matched_code": "8691190643508",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:36.822476+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643515",
@@ -3294,7 +3918,11 @@
     "image_matched_code": "8691190643515",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:37.059228+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643539",
@@ -3315,7 +3943,11 @@
     "image_matched_code": "8691190643539",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:37.165228+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643553",
@@ -3336,7 +3968,11 @@
     "image_matched_code": "8691190643553",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:39.005117+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643560",
@@ -3357,7 +3993,11 @@
     "image_matched_code": "8691190643560",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:38.519078+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643577",
@@ -3378,7 +4018,11 @@
     "image_matched_code": "8691190643577",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:38.836079+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643584",
@@ -3399,7 +4043,11 @@
     "image_matched_code": "8691190643584",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:39.276213+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643591",
@@ -3420,7 +4068,11 @@
     "image_matched_code": "8691190643591",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:39.367427+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643614",
@@ -3441,7 +4093,11 @@
     "image_matched_code": "8691190643614",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:40.859273+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643621",
@@ -3462,7 +4118,11 @@
     "image_matched_code": "8691190643621",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:41.08325+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643652",
@@ -3483,7 +4143,11 @@
     "image_matched_code": "8691190643652",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:41.33325+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643669",
@@ -3504,7 +4168,11 @@
     "image_matched_code": "8691190643669",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:42.304932+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643676",
@@ -3525,7 +4193,11 @@
     "image_matched_code": "8691190643676",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:41.987934+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643744",
@@ -3546,7 +4218,11 @@
     "image_matched_code": "8691190643744",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:43.494932+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643799",
@@ -3567,7 +4243,11 @@
     "image_matched_code": "8691190643799",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:43.602932+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643836",
@@ -3588,7 +4268,11 @@
     "image_matched_code": "8691190643836",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:45.095716+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643843",
@@ -3609,7 +4293,11 @@
     "image_matched_code": "8691190643843",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:45.131724+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643850",
@@ -3630,7 +4318,11 @@
     "image_matched_code": "8691190643850",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:44.835721+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643898",
@@ -3651,7 +4343,11 @@
     "image_matched_code": "8691190643898",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:45.875176+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190643928",
@@ -3672,7 +4368,11 @@
     "image_matched_code": "8691190643928",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:46.181186+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644116",
@@ -3693,7 +4393,11 @@
     "image_matched_code": "8691190644116",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:48.029567+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644123",
@@ -3714,7 +4418,11 @@
     "image_matched_code": "8691190644123",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:48.231433+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644130",
@@ -3735,7 +4443,11 @@
     "image_matched_code": "8691190644130",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:48.198428+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644147",
@@ -3756,7 +4468,11 @@
     "image_matched_code": "8691190644147",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:48.797612+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644154",
@@ -3777,7 +4493,11 @@
     "image_matched_code": "8691190644154",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:48.929611+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644178",
@@ -3798,7 +4518,11 @@
     "image_matched_code": "8691190644178",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:50.553612+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644192",
@@ -3819,7 +4543,11 @@
     "image_matched_code": "8691190644192",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:50.81547+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190644208",
@@ -3840,7 +4568,11 @@
     "image_matched_code": "8691190644208",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:50.835467+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703004",
@@ -3861,7 +4593,11 @@
     "image_matched_code": "8691190703004",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:50.941468+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703011",
@@ -3882,7 +4618,11 @@
     "image_matched_code": "8691190703011",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:51.606497+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703028",
@@ -3903,7 +4643,11 @@
     "image_matched_code": "8691190703028",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:52.965919+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703035",
@@ -3924,7 +4668,11 @@
     "image_matched_code": "8691190703035",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:53.213429+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703042",
@@ -3945,7 +4693,11 @@
     "image_matched_code": "8691190703042",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:53.22043+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703059",
@@ -3966,7 +4718,11 @@
     "image_matched_code": "8691190703059",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:53.480429+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703066",
@@ -3987,7 +4743,11 @@
     "image_matched_code": "8691190703066",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:53.598429+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703073",
@@ -4008,7 +4768,11 @@
     "image_matched_code": "8691190703073",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:55.079908+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703080",
@@ -4029,7 +4793,11 @@
     "image_matched_code": "8691190703080",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:55.575229+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703097",
@@ -4050,7 +4818,11 @@
     "image_matched_code": "8691190703097",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:55.31523+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703103",
@@ -4071,7 +4843,11 @@
     "image_matched_code": "8691190703103",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:55.831224+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703110",
@@ -4092,7 +4868,11 @@
     "image_matched_code": "8691190703110",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:55.964257+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703127",
@@ -4113,7 +4893,11 @@
     "image_matched_code": "8691190703127",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:56.977229+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703134",
@@ -4134,7 +4918,11 @@
     "image_matched_code": "8691190703134",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:57.408566+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703141",
@@ -4155,7 +4943,11 @@
     "image_matched_code": "8691190703141",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:57.681102+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703158",
@@ -4176,7 +4968,11 @@
     "image_matched_code": "8691190703158",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:57.9961+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703165",
@@ -4197,7 +4993,11 @@
     "image_matched_code": "8691190703165",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:58.119101+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703172",
@@ -4218,7 +5018,11 @@
     "image_matched_code": "8691190703172",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:59.479095+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703189",
@@ -4239,7 +5043,11 @@
     "image_matched_code": "8691190703189",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:53:59.913984+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703196",
@@ -4260,7 +5068,11 @@
     "image_matched_code": "8691190703196",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:00.519085+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703202",
@@ -4281,7 +5093,11 @@
     "image_matched_code": "8691190703202",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:00.699085+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703219",
@@ -4302,7 +5118,11 @@
     "image_matched_code": "8691190703219",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:00.938092+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703226",
@@ -4323,7 +5143,11 @@
     "image_matched_code": "8691190703226",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:02.380129+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703233",
@@ -4344,7 +5168,11 @@
     "image_matched_code": "8691190703233",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:02.402127+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703240",
@@ -4365,7 +5193,11 @@
     "image_matched_code": "8691190703240",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:02.969126+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703257",
@@ -4386,7 +5218,11 @@
     "image_matched_code": "8691190703257",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:03.070158+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703264",
@@ -4407,7 +5243,11 @@
     "image_matched_code": "8691190703264",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:03.227133+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703271",
@@ -4428,7 +5268,11 @@
     "image_matched_code": "8691190703271",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:04.56427+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703288",
@@ -4449,7 +5293,11 @@
     "image_matched_code": "8691190703288",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:04.558277+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703295",
@@ -4470,7 +5318,11 @@
     "image_matched_code": "8691190703295",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:05.349754+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703301",
@@ -4491,7 +5343,11 @@
     "image_matched_code": "8691190703301",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:05.074751+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703318",
@@ -4512,7 +5368,11 @@
     "image_matched_code": "8691190703318",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:05.441795+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703325",
@@ -4533,7 +5393,11 @@
     "image_matched_code": "8691190703325",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:06.728443+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703332",
@@ -4554,7 +5418,11 @@
     "image_matched_code": "8691190703332",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:06.673479+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703349",
@@ -4575,7 +5443,11 @@
     "image_matched_code": "8691190703349",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:07.026444+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703356",
@@ -4596,7 +5468,11 @@
     "image_matched_code": "8691190703356",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:07.27348+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703363",
@@ -4617,7 +5493,11 @@
     "image_matched_code": "8691190703363",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:07.482448+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703370",
@@ -4638,7 +5518,11 @@
     "image_matched_code": "8691190703370",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:09.738473+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703387",
@@ -4659,7 +5543,11 @@
     "image_matched_code": "8691190703387",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:08.898447+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703394",
@@ -4680,7 +5568,11 @@
     "image_matched_code": "8691190703394",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:09.323445+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703424",
@@ -4701,7 +5593,11 @@
     "image_matched_code": "8691190703424",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:09.771474+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703431",
@@ -4722,7 +5618,11 @@
     "image_matched_code": "8691190703431",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:09.893474+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703448",
@@ -4743,7 +5643,11 @@
     "image_matched_code": "8691190703448",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:11.200006+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703455",
@@ -4764,7 +5668,11 @@
     "image_matched_code": "8691190703455",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:11.304002+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703479",
@@ -4785,7 +5693,11 @@
     "image_matched_code": "8691190703479",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:11.757007+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703486",
@@ -4806,7 +5718,11 @@
     "image_matched_code": "8691190703486",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:11.820008+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703509",
@@ -4827,7 +5743,11 @@
     "image_matched_code": "8691190703509",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:12.524041+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703516",
@@ -4848,7 +5768,11 @@
     "image_matched_code": "8691190703516",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:13.699749+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703523",
@@ -4869,7 +5793,11 @@
     "image_matched_code": "8691190703523",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:13.690746+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703530",
@@ -4890,7 +5818,11 @@
     "image_matched_code": "8691190703530",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:14.097747+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703547",
@@ -4911,7 +5843,11 @@
     "image_matched_code": "8691190703547",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:14.562749+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703554",
@@ -4932,7 +5868,11 @@
     "image_matched_code": "8691190703554",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:16.428097+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703561",
@@ -4953,7 +5893,11 @@
     "image_matched_code": "8691190703561",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:16.913099+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703578",
@@ -4974,7 +5918,11 @@
     "image_matched_code": "8691190703578",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:17.914996+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703585",
@@ -4995,7 +5943,11 @@
     "image_matched_code": "8691190703585",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:17.746497+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703592",
@@ -5016,7 +5968,11 @@
     "image_matched_code": "8691190703592",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:18.141059+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703608",
@@ -5037,7 +5993,11 @@
     "image_matched_code": "8691190703608",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:19.367579+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703615",
@@ -5058,7 +6018,11 @@
     "image_matched_code": "8691190703615",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:19.525546+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703622",
@@ -5079,7 +6043,11 @@
     "image_matched_code": "8691190703622",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:20.059545+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703646",
@@ -5100,7 +6068,11 @@
     "image_matched_code": "8691190703646",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:20.329148+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703660",
@@ -5121,7 +6093,11 @@
     "image_matched_code": "8691190703660",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:20.416152+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703677",
@@ -5142,7 +6118,11 @@
     "image_matched_code": "8691190703677",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:21.859186+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703684",
@@ -5163,7 +6143,11 @@
     "image_matched_code": "8691190703684",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:22.145191+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703691",
@@ -5184,7 +6168,11 @@
     "image_matched_code": "8691190703691",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:22.382061+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703714",
@@ -5205,7 +6193,11 @@
     "image_matched_code": "8691190703714",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:22.972116+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703721",
@@ -5226,7 +6218,11 @@
     "image_matched_code": "8691190703721",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:23.102112+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703738",
@@ -5247,7 +6243,11 @@
     "image_matched_code": "8691190703738",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:24.589032+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703745",
@@ -5268,7 +6268,11 @@
     "image_matched_code": "8691190703745",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:24.603176+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703752",
@@ -5289,7 +6293,11 @@
     "image_matched_code": "8691190703752",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:24.652923+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703769",
@@ -5310,7 +6318,11 @@
     "image_matched_code": "8691190703769",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:25.399244+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703776",
@@ -5331,7 +6343,11 @@
     "image_matched_code": "8691190703776",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:25.321354+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703783",
@@ -5352,7 +6368,11 @@
     "image_matched_code": "8691190703783",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:26.95792+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703790",
@@ -5373,7 +6393,11 @@
     "image_matched_code": "8691190703790",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:26.999922+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703806",
@@ -5394,7 +6418,11 @@
     "image_matched_code": "8691190703806",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:27.058922+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703813",
@@ -5415,7 +6443,11 @@
     "image_matched_code": "8691190703813",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:27.541035+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703851",
@@ -5436,7 +6468,11 @@
     "image_matched_code": "8691190703851",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:27.713027+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703868",
@@ -5457,7 +6493,11 @@
     "image_matched_code": "8691190703868",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:29.312419+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703899",
@@ -5478,7 +6518,11 @@
     "image_matched_code": "8691190703899",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:29.10588+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703950",
@@ -5499,7 +6543,11 @@
     "image_matched_code": "8691190703950",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:29.301425+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703974",
@@ -5520,7 +6568,11 @@
     "image_matched_code": "8691190703974",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:29.932419+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703981",
@@ -5541,7 +6593,11 @@
     "image_matched_code": "8691190703981",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:29.892422+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703998",
@@ -5562,7 +6618,11 @@
     "image_matched_code": "8691190703998",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:31.252634+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837006",
@@ -5583,7 +6643,11 @@
     "image_matched_code": "8691190837006",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:31.880678+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837013",
@@ -5604,7 +6668,11 @@
     "image_matched_code": "8691190837013",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:31.726675+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837020",
@@ -5625,7 +6693,11 @@
     "image_matched_code": "8691190837020",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:32.325672+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837037",
@@ -5646,7 +6718,11 @@
     "image_matched_code": "8691190837037",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:32.396691+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837051",
@@ -5667,7 +6743,11 @@
     "image_matched_code": "8691190837051",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:33.355695+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837068",
@@ -5688,7 +6768,11 @@
     "image_matched_code": "8691190837068",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:33.719916+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837075",
@@ -5709,7 +6793,11 @@
     "image_matched_code": "8691190837075",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:34.597885+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837082",
@@ -5730,7 +6818,11 @@
     "image_matched_code": "8691190837082",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:34.696916+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837105",
@@ -5751,7 +6843,11 @@
     "image_matched_code": "8691190837105",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:35.058912+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837112",
@@ -5772,7 +6868,11 @@
     "image_matched_code": "8691190837112",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:35.173881+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837129",
@@ -5793,7 +6893,11 @@
     "image_matched_code": "8691190837129",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:35.58188+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837136",
@@ -5814,7 +6918,11 @@
     "image_matched_code": "8691190837136",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:36.761166+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837143",
@@ -5835,7 +6943,11 @@
     "image_matched_code": "8691190837143",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:36.818166+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837150",
@@ -5856,7 +6968,11 @@
     "image_matched_code": "8691190837150",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:37.480046+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837198",
@@ -5877,7 +6993,11 @@
     "image_matched_code": "8691190837198",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:37.260046+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837211",
@@ -5898,7 +7018,11 @@
     "image_matched_code": "8691190837211",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:37.60805+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837266",
@@ -5919,7 +7043,11 @@
     "image_matched_code": "8691190837266",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:39.112738+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837273",
@@ -5940,7 +7068,11 @@
     "image_matched_code": "8691190837273",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:39.255743+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837297",
@@ -5961,7 +7093,11 @@
     "image_matched_code": "8691190837297",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:39.982821+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837303",
@@ -5982,7 +7118,11 @@
     "image_matched_code": "8691190837303",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:40.348868+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837334",
@@ -6003,7 +7143,11 @@
     "image_matched_code": "8691190837334",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:40.212827+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837358",
@@ -6024,7 +7168,11 @@
     "image_matched_code": "8691190837358",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:41.750382+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837365",
@@ -6045,7 +7193,11 @@
     "image_matched_code": "8691190837365",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:42.350385+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837372",
@@ -6066,7 +7218,11 @@
     "image_matched_code": "8691190837372",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:43.199574+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837389",
@@ -6087,7 +7243,11 @@
     "image_matched_code": "8691190837389",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:43.688673+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837402",
@@ -6108,7 +7268,11 @@
     "image_matched_code": "8691190837402",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:43.693553+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837419",
@@ -6129,7 +7293,11 @@
     "image_matched_code": "8691190837419",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:44.823553+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837426",
@@ -6150,7 +7318,11 @@
     "image_matched_code": "8691190837426",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:46.09921+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837433",
@@ -6171,7 +7343,11 @@
     "image_matched_code": "8691190837433",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:46.176213+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837440",
@@ -6192,7 +7368,11 @@
     "image_matched_code": "8691190837440",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:47.18821+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837464",
@@ -6213,7 +7393,11 @@
     "image_matched_code": "8691190837464",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:47.464651+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837471",
@@ -6234,7 +7418,11 @@
     "image_matched_code": "8691190837471",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:48.212867+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190837488",
@@ -6255,7 +7443,11 @@
     "image_matched_code": "8691190837488",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:49.505863+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8809416470191",
@@ -6270,7 +7462,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8684083320785",
@@ -6285,7 +7481,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682773091687",
@@ -6300,7 +7500,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682773091694",
@@ -6315,7 +7519,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8684083321423",
@@ -6330,7 +7538,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682773091335",
@@ -6345,7 +7557,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8684083320624",
@@ -6360,7 +7576,11 @@
     "allergens": [],
     "traces": [],
     "labels": [],
-    "catalog_batch": "sunscreens-20261013"
+    "catalog_batch": "sunscreens-20261013",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031342",
@@ -6382,7 +7602,11 @@
     "image_matched_code": "8682397031342",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:52.608495+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031199",
@@ -6404,7 +7628,11 @@
     "image_matched_code": "8682397031199",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:52.864496+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031649",
@@ -6426,7 +7654,11 @@
     "image_matched_code": "8682397031649",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:53.554499+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397033704",
@@ -6448,7 +7680,11 @@
     "image_matched_code": "8682397033704",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:53.770507+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031670",
@@ -6470,7 +7706,11 @@
     "image_matched_code": "8682397031670",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:54.356372+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031946",
@@ -6492,7 +7732,11 @@
     "image_matched_code": "8682397031946",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:55.086189+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031687",
@@ -6514,7 +7758,11 @@
     "image_matched_code": "8682397031687",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:55.250192+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031205",
@@ -6536,7 +7784,11 @@
     "image_matched_code": "8682397031205",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:56.009201+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031656",
@@ -6558,7 +7810,11 @@
     "image_matched_code": "8682397031656",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:56.642195+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031182",
@@ -6580,7 +7836,11 @@
     "image_matched_code": "8682397031182",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:57.078192+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8682397031212",
@@ -6602,7 +7862,11 @@
     "image_matched_code": "8682397031212",
     "image_attribution": "www.maruderm.com",
     "image_checked_at": "2026-10-13T15:54:59.123884+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466015",
@@ -6623,7 +7887,11 @@
     "image_matched_code": "8691190466015",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:59.00289+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466022",
@@ -6644,7 +7912,11 @@
     "image_matched_code": "8691190466022",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:59.129886+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466039",
@@ -6665,7 +7937,11 @@
     "image_matched_code": "8691190466039",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:54:59.965378+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466053",
@@ -6686,7 +7962,11 @@
     "image_matched_code": "8691190466053",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:00.106248+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466077",
@@ -6707,7 +7987,11 @@
     "image_matched_code": "8691190466077",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:01.423247+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466107",
@@ -6728,7 +8012,11 @@
     "image_matched_code": "8691190466107",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:01.613241+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466121",
@@ -6749,7 +8037,11 @@
     "image_matched_code": "8691190466121",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:01.642245+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466145",
@@ -6770,7 +8062,11 @@
     "image_matched_code": "8691190466145",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:02.432361+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466169",
@@ -6791,7 +8087,11 @@
     "image_matched_code": "8691190466169",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:02.486357+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466183",
@@ -6812,7 +8112,11 @@
     "image_matched_code": "8691190466183",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:04.414475+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466206",
@@ -6833,7 +8137,11 @@
     "image_matched_code": "8691190466206",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:04.793095+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466220",
@@ -6854,7 +8162,11 @@
     "image_matched_code": "8691190466220",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:04.711296+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190466275",
@@ -6875,7 +8187,11 @@
     "image_matched_code": "8691190466275",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:05.146468+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190198831",
@@ -6896,7 +8212,11 @@
     "image_matched_code": "8691190198831",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:05.19159+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142018",
@@ -6917,7 +8237,11 @@
     "image_matched_code": "8691190142018",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:06.96337+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142025",
@@ -6938,7 +8262,11 @@
     "image_matched_code": "8691190142025",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:07.373363+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142032",
@@ -6959,7 +8287,11 @@
     "image_matched_code": "8691190142032",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:07.508368+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142049",
@@ -6980,7 +8312,11 @@
     "image_matched_code": "8691190142049",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:07.76937+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142056",
@@ -7001,7 +8337,11 @@
     "image_matched_code": "8691190142056",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:07.743369+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142063",
@@ -7022,7 +8362,11 @@
     "image_matched_code": "8691190142063",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:09.289366+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142070",
@@ -7043,7 +8387,11 @@
     "image_matched_code": "8691190142070",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:09.839429+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142087",
@@ -7064,7 +8412,11 @@
     "image_matched_code": "8691190142087",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:10.113432+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142094",
@@ -7085,7 +8437,11 @@
     "image_matched_code": "8691190142094",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:10.297429+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190142100",
@@ -7106,7 +8462,11 @@
     "image_matched_code": "8691190142100",
     "image_attribution": "shop.goldenrose.com.tr",
     "image_checked_at": "2026-10-13T15:55:10.321437+03:00",
-    "image_evidence": "catalogue_product_page"
+    "image_evidence": "catalogue_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "3616303392086",
@@ -7122,7 +8482,11 @@
     "evidence_status": "manufacturer_formula_retailer_gtin",
     "allergens": [],
     "traces": [],
-    "labels": []
+    "labels": [],
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "3607349631611",
@@ -7149,7 +8513,11 @@
     "catalog_batch": "cosmetic-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8809566991560",
@@ -7178,7 +8546,11 @@
     "catalog_batch": "cosmetic-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_cross_checked"
+    "evidence_status": "retailer_reported_cross_checked",
+    "source_type": "retailer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "3607349666019",
@@ -7205,7 +8577,11 @@
     "catalog_batch": "cosmetic-sources-round3-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_identity_corrected"
+    "evidence_status": "retailer_reported_identity_corrected",
+    "source_type": "retailer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "3607349666064",
@@ -7232,7 +8608,11 @@
     "catalog_batch": "cosmetic-sources-round3-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_identity_corrected"
+    "evidence_status": "retailer_reported_identity_corrected",
+    "source_type": "retailer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703820",
@@ -7259,7 +8639,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190703905",
@@ -7288,7 +8672,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419165",
@@ -7319,7 +8707,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419196",
@@ -7350,7 +8742,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419264",
@@ -7381,7 +8777,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419271",
@@ -7412,7 +8812,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419455",
@@ -7443,7 +8847,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419509",
@@ -7474,7 +8882,11 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   },
   {
     "code": "8691190419608",
@@ -7505,6 +8917,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-13T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
   }
 ]

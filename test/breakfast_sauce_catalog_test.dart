@@ -61,8 +61,8 @@ void main() {
         {for (var i = 101; i <= 200; i++) i});
     final repo = ProductRepository(loader: (_) async => {'status': 0});
     for (final row in audit.where((r) => r['gtin_valid'] == false)) {
-      await expectLater(repo.find(row['code'] as String),
-          throwsA(isA<ProductLookupException>()));
+      await expectLater(
+          repo.find(row['code'] as String), throwsFormatException);
     }
     for (final code in [
       '8690575171513',

@@ -2,6 +2,8 @@ import 'dart:convert';
 import 'dart:io';
 import 'local_product_store.dart';
 import 'product_repository.dart';
+import '../domain/barcode.dart';
+import '../domain/catalogue_exclusions.dart';
 
 /// Explicit text-only contributions; never publishes personal photos or profiles.
 class CommunitySubmission {
@@ -11,7 +13,8 @@ class CommunitySubmission {
     final base = Uri.parse(ProductRepository.catalogUrl);
     if (base.scheme != 'https' ||
         !base.host.endsWith('.supabase.co') ||
-        !RegExp(r'^\d{8,14}$').hasMatch(product.barcode)) {
+        !isValidGtin(product.barcode) ||
+        excludedCatalogueCodes.contains(product.barcode)) {
       throw const FormatException('Invalid catalogue or barcode');
     }
     final client = HttpClient()..connectionTimeout = const Duration(seconds: 8);

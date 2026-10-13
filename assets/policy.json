@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0-draft",
+  "version": "0.2.0-draft",
   "status": "prototype_not_scientifically_reviewed",
   "groups": [
     {
@@ -10,7 +10,11 @@
         "gum base",
         "sakız mayası"
       ],
-      "name_en": "Gum base"
+      "name_en": "Gum base",
+      "summary_tr": "Bileşimi değişen bir karışımdır. Yalnızca “sakız mayası” adı, belirli bir zararlı madde bulunduğunu göstermez.",
+      "summary_en": "Its composition varies. “Gum base” alone does not identify a harmful substance.",
+      "source_url": "https://www.efsa.europa.eu/enIE/safe2eat/food-additives",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "maltitol",
@@ -20,7 +24,11 @@
         "maltitol",
         "e965"
       ],
-      "name_en": "Maltitol"
+      "name_en": "Maltitol",
+      "summary_tr": "Fazla tüketimi gaz, şişkinlik veya ishale yol açabilir; etki miktara ve kişisel toleransa bağlıdır.",
+      "summary_en": "Larger amounts may cause gas, bloating or diarrhoea; effects depend on dose and personal tolerance.",
+      "source_url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "palm",
@@ -31,7 +39,11 @@
         "palm yağı",
         "palmiye yağı"
       ],
-      "name_en": "Palm oil"
+      "name_en": "Palm oil",
+      "summary_tr": "Doymuş yağ içerir. Fazla doymuş yağ tüketimi kalp-damar sağlığı açısından önemlidir; toplam beslenme ve porsiyon değerlendirilmelidir.",
+      "summary_en": "Contains saturated fat. Excess saturated fat matters for cardiovascular health; consider portions and the whole diet.",
+      "source_url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "margarine",
@@ -41,7 +53,11 @@
         "margarine",
         "margarin"
       ],
-      "name_en": "Margarine"
+      "name_en": "Margarine",
+      "summary_tr": "Yağ bileşimi ürüne göre değişir. Margarin adı tek başına trans yağ içerdiğini göstermez; doymuş ve trans yağ bilgisi incelenmelidir.",
+      "summary_en": "Fat composition varies. Margarine does not automatically mean trans fat; check saturated and trans fat information.",
+      "source_url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat/",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "hydrogenated",
@@ -53,7 +69,11 @@
         "hidrojenize bitkisel yağ",
         "kısmen hidrojenize bitkisel yağ"
       ],
-      "name_en": "Hydrogenated oil"
+      "name_en": "Hydrogenated oil",
+      "summary_tr": "Kısmen hidrojenize yağlar trans yağ kaynağı olabilir ve kalp-damar riskini artırabilir. Tam hidrojenize yağla aynı değildir.",
+      "summary_en": "Partially hydrogenated oils can supply trans fat and increase cardiovascular risk. Fully hydrogenated oils are different.",
+      "source_url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat/",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "trans",
@@ -63,7 +83,11 @@
         "trans fat",
         "trans yağ"
       ],
-      "name_en": "Trans fat"
+      "name_en": "Trans fat",
+      "summary_tr": "LDL kolesterolü ve kalp-damar hastalığı riskini artırır. Tüketimin mümkün olduğunca azaltılması önerilir.",
+      "summary_en": "Raises LDL cholesterol and cardiovascular disease risk. Intake should be kept as low as possible.",
+      "source_url": "https://www.who.int/news-room/fact-sheets/detail/trans-fat/",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "colors_food",
@@ -76,7 +100,11 @@
         "e102",
         "e129"
       ],
-      "name_en": "Tartrazine / Allura Red"
+      "name_en": "Tartrazine / Allura Red",
+      "summary_tr": "Bazı renklendiriciler hassas kişilerde reaksiyona yol açabilir. Bu gruptaki tüm boyaların etkisi aynı değildir.",
+      "summary_en": "Some colour additives can trigger reactions in sensitive people. Dyes in this group do not all have the same effects.",
+      "source_url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "msg",
@@ -88,7 +116,11 @@
         "msg",
         "e621"
       ],
-      "name_en": "Monosodium glutamate"
+      "name_en": "Monosodium glutamate",
+      "summary_tr": "Genel kullanımda güvenli kabul edilir. Bazı kişiler yüksek miktarı yemeksiz aldığında geçici belirtiler bildirmiştir; herkeste zararlı olduğu gösterilmemiştir.",
+      "summary_en": "Generally recognised as safe. Some people report temporary symptoms after large amounts without food; harm is not established for everyone.",
+      "source_url": "https://www.fda.gov/food/food-additives-petitions/questions-and-answers-monosodium-glutamate-msg",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "nitrites",
@@ -108,7 +140,11 @@
         "e251",
         "e252"
       ],
-      "name_en": "Nitrites and nitrates"
+      "name_en": "Nitrites and nitrates",
+      "summary_tr": "Nitritler bazı koşullarda kanserojen nitrozaminlerin oluşumuna katkıda bulunabilir. Risk miktara ve toplam maruziyete bağlıdır.",
+      "summary_en": "Nitrites can contribute to carcinogenic nitrosamine formation under some conditions. Risk depends on amount and overall exposure.",
+      "source_url": "https://www.efsa.europa.eu/en/press/news/170615",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "sorbate",
@@ -119,7 +155,11 @@
         "potasyum sorbat",
         "e202"
       ],
-      "name_en": "Potassium sorbate"
+      "name_en": "Potassium sorbate",
+      "summary_tr": "Mikrobiyal bozulmayı önleyen bir koruyucudur. Etikette bulunması tek başına zarar kanıtı değildir; kullanım miktarı önemlidir.",
+      "summary_en": "A preservative that limits microbial spoilage. Its presence alone is not evidence of harm; the amount matters.",
+      "source_url": "https://www.efsa.europa.eu/enIE/safe2eat/food-additives",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "benzoate",
@@ -130,7 +170,11 @@
         "sodyum benzoat",
         "e211"
       ],
-      "name_en": "Sodium benzoate"
+      "name_en": "Sodium benzoate",
+      "summary_tr": "Koruyucu olarak kullanılır. Kişisel hassasiyet ve tüketim miktarı değerlendirilmelidir; yalnızca E211 görülmesi ürünü zararlı yapmaz.",
+      "summary_en": "Used as a preservative. Consider personal sensitivity and intake; E211 on a label alone does not establish harm.",
+      "source_url": "https://www.efsa.europa.eu/enIE/safe2eat/food-additives",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "bha_bht",
@@ -144,7 +188,11 @@
         "e320",
         "e321"
       ],
-      "name_en": "BHA / BHT"
+      "name_en": "BHA / BHT",
+      "summary_tr": "Oksidasyonu önleyen iki farklı katkıdır. Güvenlik değerlendirmeleri ve miktar sınırları ayrı ele alınır; tek bir zarar hükmü verilemez.",
+      "summary_en": "Two distinct antioxidants. Their safety assessments and dose limits differ; a single harm claim cannot cover both.",
+      "source_url": "https://www.efsa.europa.eu/enIE/safe2eat/food-additives",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "sulfites",
@@ -167,7 +215,11 @@
         "e227",
         "e228"
       ],
-      "name_en": "Sulfur dioxide and sulfites"
+      "name_en": "Sulfur dioxide and sulfites",
+      "summary_tr": "Sülfit hassasiyeti olan kişilerde, özellikle bazı astımlılarda, solunum şikâyetleri veya alerji benzeri reaksiyonları tetikleyebilir.",
+      "summary_en": "Can trigger breathing symptoms or allergy-like reactions in sulfite-sensitive people, including some people with asthma.",
+      "source_url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/food-allergies",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "carrageenan",
@@ -178,7 +230,11 @@
         "karagenan",
         "e407"
       ],
-      "name_en": "Carrageenan"
+      "name_en": "Carrageenan",
+      "summary_tr": "Kıvam vericidir. Yalnızca E407 adı ve içerik listesinden kişisel zarar veya güvenli tüketim miktarı belirlenemez.",
+      "summary_en": "A thickener. E407 on a label alone cannot establish personal harm or a safe intake amount.",
+      "source_url": "https://www.efsa.europa.eu/enIE/safe2eat/food-additives",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "titanium_food",
@@ -189,7 +245,11 @@
         "titanyum dioksit",
         "e171"
       ],
-      "name_en": "Titanium dioxide"
+      "name_en": "Titanium dioxide",
+      "summary_tr": "EFSA, gıdada E171 için genetik materyale zarar ihtimalini dışlayamadığından güvenli kabul etmemiştir. Bu değerlendirme gıda kullanımına aittir.",
+      "summary_en": "EFSA could not rule out genotoxicity and no longer considered E171 safe as a food additive. This assessment concerns food use.",
+      "source_url": "https://www.efsa.europa.eu/en/news/titanium-dioxide-e171-no-longer-considered-safe-when-used-food-additive",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "bromate",
@@ -201,7 +261,11 @@
         "e924",
         "e924a"
       ],
-      "name_en": "Potassium bromate"
+      "name_en": "Potassium bromate",
+      "summary_tr": "Potasyum bromat, hayvan çalışmalarındaki kanser bulguları nedeniyle IARC tarafından insan için olası kanserojen olarak sınıflandırılır; insan kanıtı yetersizdir. Etiketten maruz kalınan miktar anlaşılamaz.",
+      "summary_en": "IARC classifies potassium bromate as possibly carcinogenic to humans based on animal evidence; human evidence is inadequate. Exposure cannot be determined from the label.",
+      "source_url": "https://inchem.org/documents/iarc/vol73/73-17.html",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "parabens",
@@ -217,7 +281,11 @@
         "sodium methylparaben",
         "sodium propylparaben"
       ],
-      "name_en": "Parabens"
+      "name_en": "Parabens",
+      "summary_tr": "Hormon benzeri etkileri araştırılır; paraben türü ve miktarı önemlidir. Kozmetikteki tüm parabenlerin insanlarda zarar verdiği gösterilmiş değildir.",
+      "summary_en": "Potential hormone-like effects are studied; type and concentration matter. Harm from all cosmetic parabens has not been established in humans.",
+      "source_url": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-parabens",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "sulfates",
@@ -229,7 +297,11 @@
         "sls",
         "sles"
       ],
-      "name_en": "SLS / SLES"
+      "name_en": "SLS / SLES",
+      "summary_tr": "Özellikle SLS, hassas ciltte yanma, kaşıntı ve tahrişe neden olabilir. SLS ile SLES aynı değildir; formül ve durulama önemlidir.",
+      "summary_en": "SLS in particular can cause burning, itching and irritation on sensitive skin. SLS and SLES differ; formulation and rinsing matter.",
+      "source_url": "https://www.nhs.uk/tests-and-treatments/emollients/",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "fragrance",
@@ -241,7 +313,11 @@
         "perfume",
         "parfüm"
       ],
-      "name_en": "Fragrance (origin unknown)"
+      "name_en": "Fragrance (origin unknown)",
+      "summary_tr": "Hassas kişilerde kaşıntı, kızarıklık veya alerjik kontakt dermatit yapabilir. “Parfüm” ifadesi karışımdaki maddeleri tek tek belirtmez.",
+      "summary_en": "May cause itching, redness or allergic contact dermatitis in sensitive people. “Fragrance” does not identify each component.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/allergens-cosmetics",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "mineral",
@@ -252,7 +328,11 @@
         "petrolatum",
         "mineral oil"
       ],
-      "name_en": "Mineral oils"
+      "name_en": "Mineral oils",
+      "summary_tr": "Mineral yağ adı tek başına zararlı safsızlık bulunduğunu göstermez. Saflık ve bitmiş ürün değerlendirmesi için ek veri gerekir.",
+      "summary_en": "The ingredient name alone does not establish harmful contamination. Purity and finished-product assessment require further data.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products-ingredients",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "uv",
@@ -265,7 +345,11 @@
         "ethylhexyl methoxycinnamate",
         "homosalate"
       ],
-      "name_en": "Selected UV filters"
+      "name_en": "Selected UV filters",
+      "summary_tr": "Bu filtrelerin değerlendirmesi maddeye ve konsantrasyona göre değişir. Etiket eşleşmesi güneş koruyucunun zararlı olduğunu göstermez.",
+      "summary_en": "Assessments differ by filter and concentration. A label match does not establish that a sunscreen is harmful.",
+      "source_url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-products-specific-topics_en",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "aluminum",
@@ -282,7 +366,11 @@
         "potassium alum",
         "ammonium alum"
       ],
-      "name_en": "Selected aluminum compounds"
+      "name_en": "Selected aluminum compounds",
+      "summary_tr": "Bu grupta farklı bileşikler bulunur; hepsi aynı etkiye sahip değildir. Ürün türü ve konsantrasyon bilinmeden zarar düzeyi belirlenemez.",
+      "summary_en": "This group contains different compounds with different effects. Product type and concentration are needed to assess risk.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products-ingredients",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "triclosan",
@@ -292,7 +380,11 @@
         "triclosan",
         "triklozan"
       ],
-      "name_en": "Triclosan"
+      "name_en": "Triclosan",
+      "summary_tr": "Uzun süreli günlük kullanımın güvenliği konusunda veri eksikleri vardır. FDA, triklosanlı tüketici antibakteriyel yıkama ürünlerinde güvenlik ve ek etkinliğin yeterince gösterilmediğini belirtir; bu değerlendirme tüm kozmetik kullanımlarına genellenemez.",
+      "summary_en": "Long-term daily-use safety data have gaps. FDA found insufficient evidence of safety and added effectiveness for consumer antibacterial washes with triclosan; this cannot be generalized to every cosmetic use.",
+      "source_url": "https://www.fda.gov/consumers/consumer-updates/skip-antibacterial-soap-use-plain-soap-and-water",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "formaldehyde",
@@ -302,7 +394,11 @@
         "formaldehyde",
         "formaldehit"
       ],
-      "name_en": "Formaldehyde"
+      "name_en": "Formaldehyde",
+      "summary_tr": "Ciltte hassasiyet ve alerjik reaksiyon yapabilir. Buhar maruziyeti ayrıca değerlendirilmelidir; ürün miktarı ve kullanım şekli önemlidir.",
+      "summary_en": "Can cause skin sensitisation and allergic reactions. Vapour exposure needs separate assessment; amount and use matter.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products/nail-care-products",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "resin",
@@ -311,7 +407,11 @@
       "aliases": [
         "tosylamide/formaldehyde resin"
       ],
-      "name_en": "Selected formaldehyde resin"
+      "name_en": "Selected formaldehyde resin",
+      "summary_tr": "Bazı kişilerde kontakt alerjiye yol açabilir. Formaldehit reçinesi ile serbest formaldehit aynı madde değildir.",
+      "summary_en": "May cause contact allergy in some people. Formaldehyde resin is not the same substance as free formaldehyde.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products/nail-care-products",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "toluene",
@@ -321,7 +421,11 @@
         "toluene",
         "toluen"
       ],
-      "name_en": "Toluene"
+      "name_en": "Toluene",
+      "summary_tr": "Buharının fazla solunması sinir sistemini etkileyebilir. Maruziyet süresi, miktar ve havalandırma önemlidir.",
+      "summary_en": "Excessive inhalation of vapour can affect the nervous system. Duration, amount and ventilation matter.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products/nail-care-products",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "dbp",
@@ -332,7 +436,11 @@
         "dbp",
         "dibutil ftalat"
       ],
-      "name_en": "Dibutyl phthalate"
+      "name_en": "Dibutyl phthalate",
+      "summary_tr": "DBP, üreme sağlığına ve anne karnındaki gelişime zarar verebilir; hormonal sistemi etkileyebilir. Risk, maruz kalınan miktara ve kullanım biçimine bağlıdır.",
+      "summary_en": "DBP may damage fertility or the unborn baby and interfere with the hormonal system. Risk depends on exposure and use.",
+      "source_url": "https://echa.europa.eu/hot-topics/phthalates",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "hema",
@@ -342,7 +450,11 @@
         "hema",
         "hydroxyethyl methacrylate"
       ],
-      "name_en": "HEMA"
+      "name_en": "HEMA",
+      "summary_tr": "Cilde temas eden sertleşmemiş ürün alerjik hassasiyet geliştirebilir. Özellikle tırnak çevresine temas ve hatalı uygulama önemlidir.",
+      "summary_en": "Uncured product contacting skin may cause allergic sensitisation, especially around nails or with incorrect application.",
+      "source_url": "https://op.europa.eu/en/publication-detail/-/publication/b9e91eef-38cb-11e9-8d04-01aa75ed71a1",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "dihema",
@@ -351,7 +463,11 @@
       "aliases": [
         "di-hema trimethylhexyl dicarbamate"
       ],
-      "name_en": "Di-HEMA"
+      "name_en": "Di-HEMA",
+      "summary_tr": "Tırnak çevresindeki cilde temas alerjik hassasiyet oluşturabilir. Uygulama tekniği ve sertleşmemiş ürünle temas önemlidir.",
+      "summary_en": "Contact with skin around nails may cause allergic sensitisation. Application technique and contact with uncured product matter.",
+      "source_url": "https://op.europa.eu/en/publication-detail/-/publication/b9e91eef-38cb-11e9-8d04-01aa75ed71a1",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "tpo",
@@ -361,7 +477,11 @@
         "trimethylbenzoyl diphenylphosphine oxide",
         "tpo"
       ],
-      "name_en": "TPO"
+      "name_en": "TPO",
+      "summary_tr": "Üreme sağlığına yönelik toksisite nedeniyle AB kozmetiklerinde 1 Eylül 2025’ten beri yasaktır. Bu, AB’ye ait düzenleme bilgisidir.",
+      "summary_en": "Banned in EU cosmetics since 1 September 2025 following reproductive-toxicity classification. This is EU regulatory information.",
+      "source_url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/tpo-nail-products-questions-answers_en",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "silicones",
@@ -379,7 +499,11 @@
         "caprylyl methicone",
         "cetyl dimethicone"
       ],
-      "name_en": "Selected silicones"
+      "name_en": "Selected silicones",
+      "summary_tr": "Farklı silikonların özellikleri aynı değildir. Dimethicone ile döngüsel silikonlar topluca aynı zararla değerlendirilemez.",
+      "summary_en": "Silicones have different properties. Dimethicone and cyclic silicones cannot be assigned the same harm claim.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products-ingredients",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "talc",
@@ -389,7 +513,11 @@
         "talc",
         "talk"
       ],
-      "name_en": "Talc"
+      "name_en": "Talc",
+      "summary_tr": "Talkta asbest bulaşı ihtimali ürün testiyle değerlendirilir. Etikette “talc” yazması asbest bulunduğunu kanıtlamaz.",
+      "summary_en": "Potential asbestos contamination requires product testing. “Talc” on a label does not prove asbestos is present.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/talc",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "carbon",
@@ -400,7 +528,11 @@
         "ci 77266",
         "d&c black no. 2"
       ],
-      "name_en": "Carbon black"
+      "name_en": "Carbon black",
+      "summary_tr": "Pigmentin saflığı, parçacık özellikleri ve solunabilir formda olup olmadığı önemlidir. Yalnızca adından kişisel zarar belirlenemez.",
+      "summary_en": "Pigment purity, particle properties and whether it can be inhaled matter. Its name alone cannot establish personal harm.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-products-ingredients",
+      "summary_reviewed_on": "2026-10-13"
     },
     {
       "id": "makeup_colors",
@@ -421,7 +553,11 @@
         "fd&c yellow no. 5",
         "fd&c blue no. 1"
       ],
-      "name_en": "Selected makeup colorants"
+      "name_en": "Selected makeup colorants",
+      "summary_tr": "Bazı renklendiriciler hassas kişilerde alerjik reaksiyon yapabilir. Tüm CI kodları aynı riski taşımaz.",
+      "summary_en": "Some colourants can trigger allergic reactions in sensitive people. Not all CI codes carry the same risk.",
+      "source_url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/allergens-cosmetics",
+      "summary_reviewed_on": "2026-10-13"
     }
   ],
   "unobservable_contaminants": [

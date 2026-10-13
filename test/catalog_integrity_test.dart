@@ -10,6 +10,9 @@ Map<String, dynamic> row(String code, {String name = 'Sample'}) => {
       'ingredients': 'Su, tuz',
       'source_url': 'https://example.org/product/$code',
       'checked_at': '2026-10-13',
+      'source_type': 'retailer',
+      'status': 'verified',
+      'verified_at': '2026-10-13T00:00:00+03:00',
     };
 
 void main() {

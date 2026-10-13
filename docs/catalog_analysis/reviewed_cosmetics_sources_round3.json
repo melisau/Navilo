@@ -8,15 +8,26 @@
     "source_url": "https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/",
     "barcode_source_url": "https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/",
     "field_sources": {
-      "code": ["https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/"],
-      "name": ["https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/"],
-      "ingredients": ["https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/"]
+      "code": [
+        "https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/"
+      ],
+      "name": [
+        "https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/"
+      ],
+      "ingredients": [
+        "https://www.bol.com/be/nl/p/rimmel-london-scandal-eyes-retroglam-mascara-003-extreme-black/9200000022160495/"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
+    "allergens": [],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "cosmetic-sources-round3-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_identity_corrected"
+    "evidence_status": "retailer_reported_identity_corrected",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "3607349666064",
@@ -27,14 +38,25 @@
     "source_url": "https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/",
     "barcode_source_url": "https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/",
     "field_sources": {
-      "code": ["https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/"],
-      "name": ["https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/"],
-      "ingredients": ["https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/"]
+      "code": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/"
+      ],
+      "name": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/"
+      ],
+      "ingredients": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandal-eyes-retroglam-waterproof-mascara-001-waterproof-black/9200000022160602/"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
+    "allergens": [],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "cosmetic-sources-round3-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_identity_corrected"
+    "evidence_status": "retailer_reported_identity_corrected",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

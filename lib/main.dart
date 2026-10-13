@@ -3,6 +3,7 @@ import 'features/skin_test/skin_test_service.dart';
 import 'features/skin_test/skin_test_screen.dart';
 import 'features/skin_test/skin_fit_evaluator.dart';
 import 'widgets/navilo_wordmark.dart';
+import 'widgets/ingredient_explanation.dart';
 import 'package:image_cropper/image_cropper.dart';
 import 'package:path_provider/path_provider.dart';
 import 'data/local_product_store.dart';
@@ -2160,6 +2161,13 @@ class _HomePageState extends State<HomePage> {
             matches!.map((r) => english ? r.englishName : r.name).toList(),
             warning: matches!.isNotEmpty),
         if (matches!.isNotEmpty) ingredientEvidence(),
+        if (matches!.isNotEmpty) ...[
+          const SizedBox(height: 12),
+          Text(copy('Neden dikkat edilmeli?', 'Why pay attention?'),
+              style: Theme.of(context).textTheme.titleMedium),
+          for (final rule in matches!)
+            IngredientExplanation(rule: rule, english: english),
+        ],
         if (category == 'food') dietaryPanel(),
         if (category == 'cosmetic') skinFitCard(label.text, reviewed: complete),
         const SizedBox(height: 12),
@@ -3269,6 +3277,7 @@ class _HomePageState extends State<HomePage> {
                   ? copy('Gıda', 'Food')
                   : copy('Bakım ve kozmetik', 'Beauty & care')),
               children: [
+                IngredientExplanation(rule: rule, english: english),
                 Padding(
                     padding: const EdgeInsets.only(bottom: 16, right: 12),
                     child: SelectableText(rule.aliases.join(', ')))

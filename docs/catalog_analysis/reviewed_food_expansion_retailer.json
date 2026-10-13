@@ -28,7 +28,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527130551",
@@ -59,7 +62,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690565026441",
@@ -89,7 +95,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690575878627",
@@ -117,7 +126,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527110317",
@@ -147,7 +159,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527102039",
@@ -178,7 +193,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527010938",
@@ -208,7 +226,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527030653",
@@ -239,7 +260,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527020920",
@@ -266,7 +290,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527100011",
@@ -295,7 +322,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "5449000103697",
@@ -322,7 +352,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "86926973",
@@ -351,7 +384,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8692971429588",
@@ -380,7 +416,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690767710223",
@@ -409,7 +448,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8681324010306",
@@ -438,7 +480,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8692971441641",
@@ -467,7 +512,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8692971441689",
@@ -496,7 +544,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690767675195",
@@ -525,7 +576,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "86903332",
@@ -552,7 +606,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690575061913",
@@ -579,7 +636,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690575061715",
@@ -606,7 +666,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690575012519",
@@ -633,7 +696,10 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690575865214",
@@ -660,6 +726,9 @@
     "catalog_batch": "food-expansion-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

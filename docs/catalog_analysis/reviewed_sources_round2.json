@@ -8,15 +8,31 @@
     "source_url": "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
     "barcode_source_url": "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/",
     "field_sources": {
-      "code": ["https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr", "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"],
-      "name": ["https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr", "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"],
-      "ingredients": ["https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr", "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"]
+      "code": [
+        "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
+        "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
+        "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
+        "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"
+      ]
     },
-    "allergens": ["milk"], "traces": [], "labels": [],
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "food-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_cross_checked"
+    "evidence_status": "retailer_reported_cross_checked",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690527130827",
@@ -27,15 +43,31 @@
     "source_url": "https://www.sariyermarket.com/pinar-citir-balik-400-gr",
     "barcode_source_url": "https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf",
     "field_sources": {
-      "code": ["https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf", "https://www.sariyermarket.com/pinar-citir-balik-400-gr"],
-      "name": ["https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf", "https://www.sariyermarket.com/pinar-citir-balik-400-gr"],
-      "ingredients": ["https://www.sariyermarket.com/pinar-citir-balik-400-gr"]
+      "code": [
+        "https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf",
+        "https://www.sariyermarket.com/pinar-citir-balik-400-gr"
+      ],
+      "name": [
+        "https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf",
+        "https://www.sariyermarket.com/pinar-citir-balik-400-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-citir-balik-400-gr"
+      ]
     },
-    "allergens": ["fish", "gluten"], "traces": [], "labels": [],
+    "allergens": [
+      "fish",
+      "gluten"
+    ],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "food-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_label_and_manufacturer_gtin"
+    "evidence_status": "retailer_label_and_manufacturer_gtin",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690767670060",
@@ -46,15 +78,28 @@
     "source_url": "https://www.sariyermarket.com/sutas-krema-200-gr",
     "barcode_source_url": "https://www.sariyermarket.com/sutas-krema-200-gr",
     "field_sources": {
-      "code": ["https://www.sariyermarket.com/sutas-krema-200-gr"],
-      "name": ["https://www.sariyermarket.com/sutas-krema-200-gr"],
-      "ingredients": ["https://www.sariyermarket.com/sutas-krema-200-gr"]
+      "code": [
+        "https://www.sariyermarket.com/sutas-krema-200-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/sutas-krema-200-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/sutas-krema-200-gr"
+      ]
     },
-    "allergens": ["milk"], "traces": [], "labels": [],
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "food-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8692971433561",
@@ -65,15 +110,30 @@
     "source_url": "https://www.sariyermarket.com/icim-suzme-peynir-500-gr",
     "barcode_source_url": "https://www.peynircibaba.com/icim-suzme-peynir-500-gr",
     "field_sources": {
-      "code": ["https://www.sariyermarket.com/icim-suzme-peynir-500-gr", "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"],
-      "name": ["https://www.sariyermarket.com/icim-suzme-peynir-500-gr", "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"],
-      "ingredients": ["https://www.sariyermarket.com/icim-suzme-peynir-500-gr"]
+      "code": [
+        "https://www.sariyermarket.com/icim-suzme-peynir-500-gr",
+        "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-suzme-peynir-500-gr",
+        "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-suzme-peynir-500-gr"
+      ]
     },
-    "allergens": ["milk"], "traces": [], "labels": [],
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "food-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "3607349631611",
@@ -84,15 +144,26 @@
     "source_url": "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/",
     "barcode_source_url": "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/",
     "field_sources": {
-      "code": ["https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"],
-      "name": ["https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"],
-      "ingredients": ["https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"]
+      "code": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"
+      ],
+      "name": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"
+      ],
+      "ingredients": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
+    "allergens": [],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "cosmetic-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_pending_package_check"
+    "evidence_status": "retailer_reported_pending_package_check",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8809566991560",
@@ -103,14 +174,27 @@
     "source_url": "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
     "barcode_source_url": "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/",
     "field_sources": {
-      "code": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560", "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"],
-      "name": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560", "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"],
-      "ingredients": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560"]
+      "code": [
+        "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
+        "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"
+      ],
+      "name": [
+        "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
+        "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"
+      ],
+      "ingredients": [
+        "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560"
+      ]
     },
-    "allergens": [], "traces": [], "labels": [],
+    "allergens": [],
+    "traces": [],
+    "labels": [],
     "catalog_batch": "cosmetic-sources-round2-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_reported_cross_checked"
+    "evidence_status": "retailer_reported_cross_checked",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

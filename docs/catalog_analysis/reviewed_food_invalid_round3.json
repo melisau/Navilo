@@ -34,7 +34,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690526004115",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690526057019",
@@ -71,7 +74,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690526031128",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690526095226",
@@ -110,7 +116,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690526021129",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690526777054",
@@ -147,7 +156,10 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690526084117",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8690526296326",
@@ -184,6 +196,9 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "retailer_reported",
     "submitted_code": "8690526084155",
-    "submission_status": "verified_not_imported"
+    "submission_status": "verified_not_imported",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

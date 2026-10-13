@@ -5,7 +5,7 @@ void main() {
   test(
       'Empty translated field falls back, preserves original ingredients and evidence',
       () {
-    final p = ProductRecord.parse('12345678', {
+    final p = ProductRecord.parse('12345670', {
       'status': 1,
       'product': {
         'ingredients_text_tr': '',
@@ -22,9 +22,9 @@ void main() {
     expect(p.modified, isNotNull);
   });
   test('Unknown product or missing ingredients never yields analysis data', () {
-    expect(() => ProductRecord.parse('12345678', {'status': 0}),
+    expect(() => ProductRecord.parse('12345670', {'status': 0}),
         throwsFormatException);
-    expect(() => ProductRecord.parse('12345678', {'status': 1, 'product': {}}),
+    expect(() => ProductRecord.parse('12345670', {'status': 1, 'product': {}}),
         throwsFormatException);
   });
 }

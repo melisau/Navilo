@@ -11,7 +11,7 @@ void main() {
         'product': {'ingredients_text': 'Milk, sugar'}
       };
     });
-    final p = await repo.find('12345678');
+    final p = await repo.find('12345670');
     expect(hosts, ['world.openfoodfacts.org']);
     expect(p.ingredients, 'Milk, sugar');
     expect(p.sourceName, 'Open Food Facts');
@@ -25,7 +25,7 @@ void main() {
       };
     });
     await expectLater(
-        repo.find('12345678'),
+        repo.find('12345670'),
         throwsA(isA<ProductLookupException>()
             .having((e) => e.attempts.length, 'attempt count', 5)));
     expect(hosts, [
@@ -45,7 +45,7 @@ void main() {
         'product': {'ingredients_text': 'Aqua, Parfum'}
       };
     });
-    expect((await repo.find('12345678', category: 'cosmetic')).sourceName,
+    expect((await repo.find('12345670', category: 'cosmetic')).sourceName,
         'Open Food Facts');
   });
 
@@ -68,7 +68,7 @@ void main() {
         }
       };
     });
-    final product = await repo.find('12345678');
+    final product = await repo.find('12345670');
     expect(hosts, [
       'world.openfoodfacts.org',
       'world.openbeautyfacts.org',
@@ -102,12 +102,12 @@ void main() {
         return {
           'products': [
             {
-              'code': '8691234567890',
+              'code': '036000291452',
               'product_name': 'Sample Brand Oat Drink',
               'ingredients_text': 'Water, oats, salt',
               'last_modified_t': 1791782400
             },
-            {'code': '8691234567807', 'product_name': 'Missing ingredients'}
+            {'code': '8691234567007', 'product_name': 'Missing ingredients'}
           ]
         };
       }
@@ -115,9 +115,9 @@ void main() {
     });
 
     final candidates =
-        await repo.findNameCandidates(barcode: '8691111111111', english: true);
+        await repo.findNameCandidates(barcode: '10012345000017', english: true);
     expect(candidates, hasLength(1));
-    expect(candidates.single.code, '8691234567890');
+    expect(candidates.single.code, '036000291452');
     expect(candidates.single.nameMatched, isTrue);
     expect(candidates.single.nameLookupSource, 'UPCitemdb');
     expect(candidates.single.sourceName, 'Open Food Facts');

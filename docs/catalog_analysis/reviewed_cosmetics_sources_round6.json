@@ -24,7 +24,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190703905",
@@ -53,7 +56,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419165",
@@ -84,7 +90,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419196",
@@ -115,7 +124,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419264",
@@ -146,7 +158,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419271",
@@ -177,7 +192,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419455",
@@ -208,7 +226,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419509",
@@ -239,7 +260,10 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   },
   {
     "code": "8691190419608",
@@ -270,6 +294,9 @@
     "catalog_batch": "cosmetics-sources-round6-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources"
+    "evidence_status": "manufacturer_formula_family_and_exact_gtin_variant_sources",
+    "source_type": "manufacturer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

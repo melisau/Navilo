@@ -1,0 +1,41 @@
+[
+  {
+    "code": "8690527021149",
+    "name": "Pınar Klasik Dana Kangal Sucuk 225 g",
+    "category": "food",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, tuz, tatlı kırmızıbiber, sarımsak, antioksidan(askorbik asit), koruyucu madde(sodyum nitrit).",
+    "source_url": "https://www.carrefoursa.com/pinar-klasik-sucuk-225-g-p-30123642",
+    "source_name": "CarrefourSA etiket bilgisi · Asya Market barkod eşleştirmesi",
+    "barcode_source_url": "https://www.asyasanalmarket.com/pinar-225-gr-sucuk--klasik--fermente--18988",
+    "field_sources": {
+      "code": [
+        "https://www.asyasanalmarket.com/pinar-225-gr-sucuk--klasik--fermente--18988"
+      ],
+      "name": [
+        "https://www.carrefoursa.com/pinar-klasik-sucuk-225-g-p-30123642",
+        "https://www.asyasanalmarket.com/pinar-225-gr-sucuk--klasik--fermente--18988"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/pinar-klasik-sucuk-225-g-p-30123642"
+      ]
+    },
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "catalog_batch": "processed-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "submitted_code": "8690526032415",
+    "submitted_row": 2,
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "image_url": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=99/35880/uploads/urunresimleri/buyuk/et-tavuk-ve-balik--4e81-.jpg",
+    "image_source_url": "https://www.asyasanalmarket.com/pinar-225-gr-sucuk--klasik--fermente--18988",
+    "image_match_method": "name",
+    "image_matched_code": "8690527021149",
+    "image_attribution": "www.asyasanalmarket.com",
+    "image_checked_at": "2026-10-13T13:06:53.160458+00:00",
+    "image_evidence": "catalogue_product_page",
+    "status": "unverified",
+    "verified_at": null
+  }
+]

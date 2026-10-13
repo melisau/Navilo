@@ -1,0 +1,245 @@
+[
+  {
+    "code": "8697403891537",
+    "name": "Danet Dana Dilimli Isıl İşlem Görmüş Sucuk 250 g",
+    "category": "food",
+    "ingredients": "Dana eti, dana yağı, baharat karışımı, tuz, sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+    "source_type": "manufacturer",
+    "source_url": "https://online.danet.com.tr/isil-islem-gormus-dana-sucuk",
+    "barcode_source_url": "https://online.danet.com.tr/isil-islem-gormus-dana-sucuk",
+    "source_name": "Üretici etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "verified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/isil-islem-gormus-dana-sucuk"
+      ],
+      "name": [
+        "https://online.danet.com.tr/isil-islem-gormus-dana-sucuk"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/isil-islem-gormus-dana-sucuk"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "image_url": "https://onlinedanet.tsoftstatic.com/isil-islem-gormus-dana-sucuk-diger-danet-46-49-O.jpg",
+    "image_source_url": "https://online.danet.com.tr/isil-islem-gormus-dana-sucuk",
+    "image_evidence": "catalogue_product_page",
+    "image_match_method": "barcode",
+    "image_matched_code": "8697403891537",
+    "image_checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "image_attribution": "online.danet.com.tr"
+  },
+  {
+    "code": "8697403890462",
+    "name": "Danet Dana Kokteyl Sosis 250 g",
+    "category": "food",
+    "ingredients": "Dana eti, dana yağı, patates nişastası, su, tuz, baharat karışımı, soya proteini, süt proteini, kıvam arttırıcı (guar gam), aroma vericiler, sarımsak, koruyucu (sodyum laktat, sodyum nitrit), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), tütsü aroma vericisi.",
+    "source_type": "manufacturer",
+    "source_url": "https://online.danet.com.tr/kokteyl-sosis-250gr",
+    "barcode_source_url": "https://online.danet.com.tr/kokteyl-sosis-250gr",
+    "source_name": "Üretici etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "verified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/kokteyl-sosis-250gr"
+      ],
+      "name": [
+        "https://online.danet.com.tr/kokteyl-sosis-250gr"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/kokteyl-sosis-250gr"
+      ]
+    },
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "image_url": "https://onlinedanet.tsoftstatic.com/kokteyl-sosis-250gr-sosis-danet-249-43-O.jpg",
+    "image_source_url": "https://online.danet.com.tr/kokteyl-sosis-250gr",
+    "image_evidence": "catalogue_product_page",
+    "image_match_method": "barcode",
+    "image_matched_code": "8697403890462",
+    "image_checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "image_attribution": "online.danet.com.tr"
+  },
+  {
+    "code": "8697403890400",
+    "name": "Danet Dana Uzun Sosis 250 g",
+    "category": "food",
+    "ingredients": "Dana eti, dana yağı, patates nişastası, su, tuz, baharat karışımı, soya proteini, süt proteini, kıvam arttırıcı (guar gam), aroma vericiler, sarımsak, koruyucu (sodyum laktat, sodyum nitrit), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), tütsü aroma vericisi.",
+    "source_type": "manufacturer",
+    "source_url": "https://online.danet.com.tr/uzun-sosis-250gr",
+    "barcode_source_url": "https://online.danet.com.tr/uzun-sosis-250gr",
+    "source_name": "Üretici etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "verified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/uzun-sosis-250gr"
+      ],
+      "name": [
+        "https://online.danet.com.tr/uzun-sosis-250gr"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/uzun-sosis-250gr"
+      ]
+    },
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Güncel üretici sayfası başlık ve gramaj bölümünde 250 g veriyor. Tam içerik bu ürünün kendi sayfasından doğrulandı; diğer sosisin metnine atıfla kaydedilmedi.",
+    "image_url": "https://onlinedanet.tsoftstatic.com/uzun-sosis-250gr-sosis-danet-97-42-O.jpg",
+    "image_source_url": "https://online.danet.com.tr/uzun-sosis-250gr",
+    "image_evidence": "catalogue_product_page",
+    "image_match_method": "barcode",
+    "image_matched_code": "8697403890400",
+    "image_checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "image_attribution": "online.danet.com.tr"
+  },
+  {
+    "code": "8697403891841",
+    "name": "Danet Dana Macar Salam Dilimli 50 g",
+    "category": "food",
+    "ingredients": "Dana eti, dana yağı, su, ayçiçek yağı, baharat karışımı, patates nişastası, tuz, soya proteini, süt proteini, kıvam arttırıcı (karragenan), sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit), tütsü aroma vericisi.",
+    "source_type": "manufacturer",
+    "source_url": "https://online.danet.com.tr/tadimlik-dilimli-macar-salam-50g",
+    "barcode_source_url": "https://online.danet.com.tr/tadimlik-dilimli-macar-salam-50g",
+    "source_name": "Üretici etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "verified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/tadimlik-dilimli-macar-salam-50g"
+      ],
+      "name": [
+        "https://online.danet.com.tr/tadimlik-dilimli-macar-salam-50g"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/tadimlik-dilimli-macar-salam-50g"
+      ]
+    },
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "image_url": "https://onlinedanet.tsoftstatic.com/tadimlik-dilimli-macar-salam-50g-dilimli-pratik-paket-danet-259-44-O.jpg",
+    "image_source_url": "https://online.danet.com.tr/tadimlik-dilimli-macar-salam-50g",
+    "image_evidence": "catalogue_product_page",
+    "image_match_method": "barcode",
+    "image_matched_code": "8697403891841",
+    "image_checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "image_attribution": "online.danet.com.tr"
+  },
+  {
+    "code": "8693407001057",
+    "name": "Polonez Dana Kangal Isıl İşlem Görmüş Sucuk 200 g",
+    "category": "food",
+    "ingredients": "Dana eti ve yağı, tuz, baharat karışımı, sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu madde (sodyum nitrit).",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/polonez-isil-islem-gormus-kangal-sucuk-2x200-g-p-d8d06e",
+    "barcode_source_url": "https://polonez.com.tr/urun-detay/perakende-urunler/sucuk/dana-kangal-isil-islem-gormus-sucuk-200-gr",
+    "source_name": "Perakendeci etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "verified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://polonez.com.tr/urun-detay/perakende-urunler/sucuk/dana-kangal-isil-islem-gormus-sucuk-200-gr"
+      ],
+      "name": [
+        "https://www.migros.com.tr/polonez-isil-islem-gormus-kangal-sucuk-2x200-g-p-d8d06e",
+        "https://polonez.com.tr/urun-detay/perakende-urunler/sucuk/dana-kangal-isil-islem-gormus-sucuk-200-gr"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/polonez-isil-islem-gormus-kangal-sucuk-2x200-g-p-d8d06e",
+        "https://www.migros.com.tr/polonez-fermente-kangal-sucuk-200-g-p-d8ad79"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Üretici 200 g barkodu; Migros 2×200 g tam etiket içeriği, aynı bileşenleri veren 200 g sayfasıyla karşılaştırıldı. Çoklu paketin barkodu kullanılmadı."
+  },
+  {
+    "code": "8690451706426",
+    "name": "Banvit Piliç Kokteyl Sosis 1000 g",
+    "category": "food",
+    "ingredients": "Piliç eti ve yağı, mekanik ayrılmış piliç eti, su, nişasta, bitkisel lif (selüloz), baharat karışımı, tuz, soya proteini, dekstroz, koruyucu (sodyum laktat, sodyum asetat, sodyum nitrit), stabilizör (sodyum polifosfat), antioksidan (sodyum eritorbat), kıvam arttırıcı (karragenan, ksantan gam, konjak gam), maya özü, tütsü aroma vericisi, baharat ekstrakları, renklendirici (paprika, hibiskus, siyah havuç ve pancar kökü özütü)",
+    "source_type": "manufacturer",
+    "source_url": "https://www.banvit.com/urunlerimiz/banvit-pilic-kokteyl-sosis-1000-g",
+    "barcode_source_url": "https://www.eonbir.com.tr/banvit-kokteyl-sosis-1000-gr-6962",
+    "source_name": "Üretici etiket bilgisi · kaynak eşleştirmesi",
+    "verified_at": "2026-10-13T13:46:01.536735+00:00",
+    "checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "status": "verified",
+    "catalog_batch": "source-verified-meat-20261013",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.eonbir.com.tr/banvit-kokteyl-sosis-1000-gr-6962"
+      ],
+      "name": [
+        "https://www.banvit.com/urunlerimiz/banvit-pilic-kokteyl-sosis-1000-g",
+        "https://www.eonbir.com.tr/banvit-kokteyl-sosis-1000-gr-6962"
+      ],
+      "ingredients": [
+        "https://www.banvit.com/urunlerimiz/banvit-pilic-kokteyl-sosis-1000-g"
+      ]
+    },
+    "allergens": [
+      "soybeans"
+    ],
+    "traces": [
+      "gluten",
+      "celery",
+      "milk",
+      "eggs"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "allergen_note": "Soya proteini içerir. Eser miktarda gluten, kereviz, süt, yumurta içerebilir.",
+    "image_url": "https://static.ticimax.cloud/cdn-cgi/image/width=-,quality=99/14610/uploads/urunresimleri/buyuk/salam-sosisbanvit70642banvit-kokteyl-s-9081-c.png",
+    "image_source_url": "https://www.eonbir.com.tr/banvit-kokteyl-sosis-1000-gr-6962",
+    "image_evidence": "catalogue_product_page",
+    "image_match_method": "barcode",
+    "image_matched_code": "8690451706426",
+    "image_checked_at": "2026-10-13T13:46:01.536735+00:00",
+    "image_attribution": "www.eonbir.com.tr"
+  }
+]

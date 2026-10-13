@@ -27,6 +27,9 @@
     "catalog_batch": "food-sources-round5-discovery-20261013",
     "checked_at": "2026-10-13T00:00:00+03:00",
     "ingredient_evidence": "full_label_transcription",
-    "evidence_status": "retailer_label_and_manufacturer_catalog"
+    "evidence_status": "retailer_label_and_manufacturer_catalog",
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-13T00:00:00+03:00"
   }
 ]

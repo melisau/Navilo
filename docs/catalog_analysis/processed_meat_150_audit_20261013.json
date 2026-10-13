@@ -5,7 +5,7 @@
     "invalid_gtin_rows": 116,
     "checksum_pass_rows_not_identity_verified": 34,
     "rows_missing_submitted_label_evidence": 150,
-    "rows_missing_quantity": 11,
+    "rows_missing_quantity_fodmap_only": 11,
     "generic_additive_rows": 15,
     "duplicate_groups": [
       [
@@ -13,7 +13,7 @@
         126
       ]
     ],
-    "previously_recovered_and_added": [
+    "recovered_then_withdrawn": [
       2
     ],
     "previously_existing_product": [
@@ -41,7 +41,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Önceki işlemde düzeltildi: aynı 225 g ürün 8690527021149 barkodu ve perakendeci etiket metniyle eklendi"
+        "Önceki işlemde 8690527021149 ile düzeltilmişti; kullanıcının sonraki talebiyle geri çekildi, karantinada"
       ]
     },
     {
@@ -75,7 +75,7 @@
       "findings": [
         "GTIN kontrolü geçiyor; barkod–ürün–gramaj eşleşmesi bu gönderimle doğrulanmış değil",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -120,20 +120,28 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
       "no": 10,
       "code": "8690632001145",
       "name": "Polonez Geleneksel Dana Fermente Sucuk",
-      "ingredients": "Dana eti, dana yağı, tuz, sarımsak, kimyon, kırmızı biber, karabiber, deksitroz, antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "ingredients": "Dana eti, dana yağı, tuz, sarımsak, kimyon, kırmızı biber, karabiber, dekstroz, antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "ingredients_original": "Dana eti, dana yağı, tuz, sarımsak, kimyon, kırmızı biber, karabiber, deksitroz, antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "text_corrections": [
+        {
+          "from": "deksitroz",
+          "to": "dekstroz",
+          "basis": "user_requested_transcription_fix"
+        }
+      ],
       "gtin_checksum_pass": false,
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş",
-        "Metin hatası: “deksitroz”; etiket kaynağıyla teyit edilmeden otomatik düzeltme yapılmamalı"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir",
+        "Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz"
       ]
     },
     {
@@ -145,7 +153,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -179,7 +187,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -425,7 +433,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -460,7 +468,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -472,7 +480,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -552,7 +560,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -564,7 +572,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -836,7 +844,7 @@
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Ürün adında net miktar/gramaj belirtilmemiş"
+        "Gramaj belirtilmemiş: genel içerik değerlendirmesine engel değil; FODMAP için gram/porsiyon kanıtı gerekir"
       ]
     },
     {
@@ -909,12 +917,20 @@
       "no": 79,
       "name": "Coşkun Klasik Dana Parmak Sucuk (220g)",
       "code": "8690765001159",
-      "ingredients": "Dana eti, dana yağı, sarımsak, tuz, kimyon, karabiber, yenibahar, kırmızı toz biber, deksitroz, askorbik asit, sodyum nitrit.",
+      "ingredients": "Dana eti, dana yağı, sarımsak, tuz, kimyon, karabiber, yenibahar, kırmızı toz biber, dekstroz, askorbik asit, sodyum nitrit.",
+      "ingredients_original": "Dana eti, dana yağı, sarımsak, tuz, kimyon, karabiber, yenibahar, kırmızı toz biber, deksitroz, askorbik asit, sodyum nitrit.",
+      "text_corrections": [
+        {
+          "from": "deksitroz",
+          "to": "dekstroz",
+          "basis": "user_requested_transcription_fix"
+        }
+      ],
       "gtin_checksum_pass": false,
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Metin hatası: “deksitroz”; etiket kaynağıyla teyit edilmeden otomatik düzeltme yapılmamalı"
+        "Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz"
       ]
     },
     {
@@ -1111,12 +1127,20 @@
       "no": 97,
       "name": "Pınar Aç Bitir Dana Sosis (140g)",
       "code": "8690526011502",
-      "ingredients": "Dana eti, dana yağı, su, mısır nişastası, tuz, baharat özleri, süt proteni, kıvam arttırıcı (ksantan gam), sodyum nitrit.",
+      "ingredients": "Dana eti, dana yağı, su, mısır nişastası, tuz, baharat özleri, süt proteini, kıvam arttırıcı (ksantan gam), sodyum nitrit.",
+      "ingredients_original": "Dana eti, dana yağı, su, mısır nişastası, tuz, baharat özleri, süt proteni, kıvam arttırıcı (ksantan gam), sodyum nitrit.",
+      "text_corrections": [
+        {
+          "from": "süt proteni",
+          "to": "süt proteini",
+          "basis": "user_requested_transcription_fix"
+        }
+      ],
       "gtin_checksum_pass": false,
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
-        "Metin hatası: “süt proteni”; beklenen ifade “süt proteini”, kaynak teyidi gerekli"
+        "Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz"
       ]
     },
     {
@@ -1315,13 +1339,21 @@
       "no": 115,
       "name": "Pınar İllaki Gurme Dana Sosis (300g)",
       "code": "8690526011557",
-      "ingredients": "Dana eti, dana yağı, su, patates lifi, kaya tuzu, kalın çekim karabiber, kişniş, hindistan cevizi cevizi (muskat), sodyum laktat, sodyum nitrit. [Nişasta ve glukoz içermez].",
+      "ingredients": "Dana eti, dana yağı, su, patates lifi, kaya tuzu, kalın çekim karabiber, kişniş, muskat, sodyum laktat, sodyum nitrit. [Nişasta ve glukoz içermez].",
+      "ingredients_original": "Dana eti, dana yağı, su, patates lifi, kaya tuzu, kalın çekim karabiber, kişniş, hindistan cevizi cevizi (muskat), sodyum laktat, sodyum nitrit. [Nişasta ve glukoz içermez].",
+      "text_corrections": [
+        {
+          "from": "hindistan cevizi cevizi (muskat)",
+          "to": "muskat",
+          "basis": "user_requested_transcription_fix"
+        }
+      ],
       "gtin_checksum_pass": false,
       "findings": [
         "Barkodun GTIN kontrol basamağı hatalı",
         "Gönderimde içerik kaynağı/etiket fotoğrafı ve kaynak tarihi yok",
         "İçindekiler alanına proses/ambalaj açıklaması veya ayrıca doğrulanması gereken iddia karışmış",
-        "“hindistan cevizi cevizi (muskat)” ifadesi tekrar ve bileşen adı belirsizliği içeriyor"
+        "Kullanıcının isteğiyle yazım düzeltildi; özgün metin saklandı; kaynak doğrulaması yapılmış sayılmaz"
       ]
     },
     {

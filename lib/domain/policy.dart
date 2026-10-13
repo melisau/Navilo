@@ -27,13 +27,21 @@ bool containsIngredient(String text, String alias) {
 class IngredientRule {
   final String id, name, category, englishName;
   final List<String> aliases;
+  // Optional metadata: older in-memory rules can lack these after hot reload.
+  final String? summaryTr, summaryEn, sourceUrl;
   IngredientRule(Map<String, dynamic> json)
       : id = json['id'] as String,
         name = json['name'] as String,
         englishName = (json['name_en'] ?? json['name']) as String,
         category = json['category'] as String,
+        summaryTr = _optionalText(json['summary_tr']),
+        summaryEn = _optionalText(json['summary_en']),
+        sourceUrl = _optionalText(json['source_url']),
         aliases = List<String>.from(json['aliases'] as List);
 }
+
+String? _optionalText(Object? value) =>
+    value is String && value.trim().isNotEmpty ? value.trim() : null;
 
 class Policy {
   final String version;
