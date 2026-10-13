@@ -2,11 +2,11 @@
 
 İki agent analiz ve onarım sonuçlarını doğrudan paylaşarak çalıştı. Analiz aracı yalnızca bu çalışma sırasında yenilendi; zamanlanmış otomasyon oluşturulmadı.
 
-- Güncel katalog: 150 gıda, 341 kozmetik.
-- Bu turda eklenen: 58 gıda (önceki onarımda 8; genişleme batchinde 50); başlangıçtaki 92 kayıt korundu.
+- Güncel katalog: 186 gıda, 354 kozmetik.
+- Önceki doğrulamadan bu yana 36 gıda ve 13 kozmetik eklendi; önceki çalışma ile başlangıçtaki 92 gıda kaydı korunarak 186'ya ulaşıldı.
 - `flutter analyze`: sorun yok.
-- `flutter test`: bütünleşik doğrulamada 59 test geçti; bu turdaki yeni 50 ürün için özel çevrimdışı tam içerik/barkod testi de geçti.
-- `flutter analyze`: genişleme testi eklendikten sonra yeniden çalıştırıldı; gereksiz null assertion temizlendi.
+- `flutter test`: tüm suite yeniden çalıştırıldı; 61 test geçti. Golden Rose testleri de dahil.
+- `flutter analyze`: temiz.
 - `python -m unittest tool.test_catalog_validation -v`: 7 test geçti.
 - `tool/build_android.ps1`: debug APK üretildi.
 - APK içindeki katalog dosyaları çalışma alanındaki kataloglarla byte düzeyinde karşılaştırıldı. Sonuç ve APK SHA-256 değeri `validation.json` içinde.

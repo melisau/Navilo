@@ -1,0 +1,269 @@
+{
+  "batch": "sources-round4-food-20261013",
+  "summary": {
+    "submitted_cases": 25,
+    "reviewed_records_ready": 11,
+    "food_records_ready": 11,
+    "cosmetic_records_ready": 0,
+    "pending_cases": 14,
+    "catalog_written": true
+  },
+  "results": [
+    {
+      "submitted_code": "8690623011129",
+      "verified_code": "8690579018937",
+      "status": "added",
+      "name": "Filiz Fiyonk Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-fiyonk-makarna-500-g-p-4cc1d2"
+      ]
+    },
+    {
+      "submitted_code": "8690623011136",
+      "verified_code": "8690579140485",
+      "status": "added",
+      "name": "Filiz Kalem Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://www.trendyol.com/filiz/kalem-makarna-500-gr-p-32404421",
+        "https://www.migros.com.tr/hemen/filiz-kalem-makarna-500-g-p-4cc1d8"
+      ]
+    },
+    {
+      "submitted_code": "8690623011143",
+      "verified_code": "8690579003339",
+      "status": "added",
+      "name": "Filiz Spagetti (Çubuk) Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/hemen/filiz-spagetti-cubuk-makarna-500-g-p-4cc1d4"
+      ]
+    },
+    {
+      "submitted_code": "8690623011150",
+      "verified_code": "8690579054935",
+      "status": "added",
+      "name": "Filiz İnce Uzun Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-ince-uzun-makarna-500-g-p-4cc1d3"
+      ]
+    },
+    {
+      "submitted_code": "8690623011167",
+      "verified_code": "8690579048934",
+      "status": "added",
+      "name": "Filiz Boncuk Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/hemen/filiz-boncuk-makarna-500-g-p-4cc1cf"
+      ]
+    },
+    {
+      "submitted_code": "8690623011174",
+      "verified_code": "8690579993128",
+      "status": "added",
+      "name": "Filiz Kelebek Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-kelebek-makarna-500-gr-p-4cc1dc"
+      ]
+    },
+    {
+      "submitted_code": "8690623011181",
+      "verified_code": "8690579084338",
+      "status": "pending_full_ingredients",
+      "name": "Filiz Midye Kesme Makarna (500g)",
+      "reason": "Filiz Midye Makarna 500 g ve GTIN 8690579084338 için bir toptancı kaydı bulundu; ancak aynı GTIN’e bağlı tam içerik etiketi teyit edilemedi.",
+      "source_urls": [
+        "https://foodyimex.com/product.aspx?id=7157"
+      ]
+    },
+    {
+      "submitted_code": "8690623011198",
+      "verified_code": "8690579063937",
+      "status": "added",
+      "name": "Filiz Yüksük Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-yuksuk-makarna-500-g-p-4cc1d7"
+      ]
+    },
+    {
+      "submitted_code": "8690623011204",
+      "verified_code": "8690579024938",
+      "status": "added",
+      "name": "Filiz Arpa Şehriye 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/hemen/filiz-arpa-sehriye-500-g-p-4cc1d5"
+      ]
+    },
+    {
+      "submitted_code": "8690623011211",
+      "verified_code": "8690579027939",
+      "status": "added",
+      "name": "Filiz Tel Şehriye 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-tel-sehriye-500-g-p-4cc1d6"
+      ]
+    },
+    {
+      "submitted_code": "8690623011259",
+      "verified_code": "8690623011259",
+      "status": "pending_package_size_and_gtin_conflict",
+      "name": "Filiz Yumurtalı Uzun Erişte (500g)",
+      "reason": "Üretici kaynakları Filiz Yumurtalı Erişte’yi 350 g olarak listeliyor; gönderilen 500 g varyantı ve barkod eşleşmesi bulunamadı.",
+      "source_urls": [
+        "https://filizmakarna.com.tr/yumurtali-eriste/",
+        "https://toptan.migros.com.tr/filiz-eriste-500-g-p-05030367"
+      ]
+    },
+    {
+      "submitted_code": "8690623011303",
+      "verified_code": "8690623011303",
+      "status": "pending_package_size_gtin_tieout",
+      "name": "Filiz Tam Buğday Burgu (500g)",
+      "reason": "Benzer ürün ailesi kaynaklarda farklı gramajda (350 g) listeleniyor; gönderilen 500 g barkodun bu ürün varyantına ait olduğu doğrulanamadı.",
+      "source_urls": [
+        "https://filizmakarna.com.tr/tam-bugday-makarna/",
+        "https://filizmakarna.com.tr/tam-bugday-burgu-taze-fasulyeli-yaz-makarnasi/"
+      ]
+    },
+    {
+      "submitted_code": "8690623011310",
+      "verified_code": "8690623011310",
+      "status": "pending_package_size_gtin_tieout",
+      "name": "Filiz Tam Buğday Spagetti (500g)",
+      "reason": "Benzer ürün ailesi kaynaklarda farklı gramajda (350 g) listeleniyor; gönderilen 500 g barkodun bu ürün varyantına ait olduğu doğrulanamadı.",
+      "source_urls": [
+        "https://filizmakarna.com.tr/tam-bugday-makarna/",
+        "https://marketkarsilastir.com/fiyat/8690579772358-filiz-tam-bugday-makarna-spagetti-350-g"
+      ]
+    },
+    {
+      "submitted_code": "8690623011327",
+      "verified_code": "8690623011327",
+      "status": "pending_package_size_gtin_tieout",
+      "name": "Filiz Tam Buğday Kalem (Penne) (500g)",
+      "reason": "Benzer ürün ailesi kaynaklarda farklı gramajda (350 g) listeleniyor; gönderilen 500 g barkodun bu ürün varyantına ait olduğu doğrulanamadı.",
+      "source_urls": [
+        "https://filizmakarna.com.tr/tam-bugday-makarna/",
+        "https://filizmakarna.com.tr/tam-bugday-burgu-taze-fasulyeli-yaz-makarnasi/"
+      ]
+    },
+    {
+      "submitted_code": "8690623011402",
+      "verified_code": "8690623011402",
+      "status": "pending_package_size_gtin_tieout",
+      "name": "Filiz Sebzeli Burgu Çeşitleri (500g)",
+      "reason": "Benzer ürün ailesi kaynaklarda farklı gramajda (350 g) listeleniyor; gönderilen 500 g barkodun bu ürün varyantına ait olduğu doğrulanamadı.",
+      "source_urls": [
+        "https://filizmakarna.com.tr/tam-bugday-makarna/",
+        "https://filizmakarna.com.tr/tam-bugday-burgu-taze-fasulyeli-yaz-makarnasi/"
+      ]
+    },
+    {
+      "submitted_code": "8690623011457",
+      "verified_code": "8690623011457",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Filiz Vitaminli Çubuk Spagetti (500g)",
+      "reason": "Filiz üretici kataloğunda “Vitaminli Çubuk Spagetti” adıyla güncel varyant doğrulanamadı; barkod/product tieout yok.",
+      "source_urls": []
+    },
+    {
+      "submitted_code": "8690623011501",
+      "verified_code": "8690579057936",
+      "status": "added",
+      "name": "Filiz Kuskus Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://toptanexpress.com/urun/filiz-kuskus-makarna-500-g",
+        "https://toptan.migros.com.tr/filiz-kuskus-makarna-500-g-p-05030350"
+      ]
+    },
+    {
+      "submitted_code": "8690623011556",
+      "verified_code": "8690579140010",
+      "status": "added",
+      "name": "Filiz Fırın Makarna 500 g",
+      "reason": "Ürün adı/gramajı, gerçek GTIN ve aynı varyantın tam etiketi kaynaklarla doğrulandı; katalogda doğru GTIN ile eklendi.",
+      "source_urls": [
+        "https://www.trendyol.com/filiz/firin-makarna-500-gr-p-32432967",
+        "https://www.migros.com.tr/filiz-firin-makarna-500-g-p-4cc1d1"
+      ]
+    },
+    {
+      "submitted_code": "8690623011600",
+      "verified_code": "8690623011600",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Filiz Dalgalı Lazanya Yaprağı (500g)",
+      "reason": "Filiz için “Dalgalı Lazanya Yaprağı 500 g” adına/GTIN’ine güvenilir ürün kaydı bulunamadı; benzer adla “Fırın Makarna” olması aynı ürün olduğunu kanıtlamıyor.",
+      "source_urls": []
+    },
+    {
+      "submitted_code": "8690120042459",
+      "verified_code": "8690120042459",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Torku Miniki Sütlü Çikolata (22g)",
+      "reason": "Torku resmi sayfası Miniki ürününü tekli 9 g ve kutu 72 g olarak listeliyor; submitted 22 g GTIN’iyle ürün/gramaj bağı ve etiketi bulunamadı.",
+      "source_urls": [
+        "https://torku.com.tr/ar/miniki-cikolatalar-sutlu-krema-dolgulu",
+        "https://www.migros.com.tr/torku-miniki-sutlu-cikolata-72-g-p-6b5aa0"
+      ]
+    },
+    {
+      "submitted_code": "8690120155012",
+      "verified_code": "8690120155012",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Torku Pratiko Patates Cipsi Sade (120g)",
+      "reason": "Torku Pratiko “sade patates cipsi 120 g” için exact GTIN ve tam etiket kaydı bulunamadı; Torku’nun Pratiko arama sonuçları farklı dondurulmuş ürün grubuna yöneliyor.",
+      "source_urls": [
+        "https://torku.com.tr/Upload/Contents/1167380_Torku-Pratiko-Brosur.pdf",
+        "https://torku.com.tr/urunler/torku-dondurulmus-urunler"
+      ]
+    },
+    {
+      "submitted_code": "8695077122292",
+      "verified_code": "8695077122292",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "%100 Fıstık Ezmesi (Şekersiz)",
+      "reason": "Gönderilen Harras GTIN’i için tam exact-code aramasında ürün/etiket kaynağı bulunamadı; geçerli checksum kimliği doğrulamıyor.",
+      "source_urls": []
+    },
+    {
+      "submitted_code": "8695077122308",
+      "verified_code": "8695077122308",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Şekersiz Çikolatalı Fındık Ezmesi",
+      "reason": "Gönderilen Harras GTIN’i için tam exact-code aramasında ürün/etiket kaynağı bulunamadı; geçerli checksum kimliği doğrulamıyor.",
+      "source_urls": []
+    },
+    {
+      "submitted_code": "8695077134011",
+      "verified_code": "8695077134011",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Sütlü Çikolata Dilimleri (200g)",
+      "reason": "Gönderilen Harras GTIN’i için tam exact-code aramasında ürün/etiket kaynağı bulunamadı; geçerli checksum kimliği doğrulamıyor.",
+      "source_urls": []
+    },
+    {
+      "submitted_code": "8695077134028",
+      "verified_code": "8695077134028",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Antep Fıstıklı Sütlü Çikolata (80g)",
+      "reason": "Gönderilen Harras GTIN’i için tam exact-code aramasında ürün/etiket kaynağı bulunamadı; geçerli checksum kimliği doğrulamıyor.",
+      "source_urls": []
+    }
+  ]
+}

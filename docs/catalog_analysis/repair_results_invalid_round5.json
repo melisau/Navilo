@@ -1,0 +1,187 @@
+{
+  "scope": "25 next unused invalid-barcode breakfast-sauce submissions, exact product/weight identity prioritized",
+  "round": "invalid-round5",
+  "counts": {
+    "pending_identity_mismatch": 7,
+    "pending": 16,
+    "pending_ingredients": 2
+  },
+  "candidate_records": 0,
+  "results": [
+    {
+      "submitted_code": "8690563004017",
+      "submitted_name": "Tukaş Kahvaltılık Sos Acılı 300g",
+      "status": "pending_identity_mismatch",
+      "verified_code": "8690508004246",
+      "note": "Tukaş resmi katalog + Migros etiketi, aynı 300 g genel Kahvaltılık Sos ürününü ve acı biber ekstratı içeren içeriği veriyor; ancak ayrı “Acılı” varyantını bu GTIN ile açıkça bağlamıyor. submitted code geçersiz."
+    },
+    {
+      "submitted_code": "8690563004024",
+      "submitted_name": "Tukaş Kahvaltılık Sos Tatlı 300g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tukaş resmi ürün kataloğunda bağımsız tatlı varyantı bulunamadı; yayımlanmış genel 300 g ürünün içeriğinde acı biber ekstratı var, bu nedenle Tatlı adıyla eşleştirilemez."
+    },
+    {
+      "submitted_code": "8690563004154",
+      "submitted_name": "Tukaş Cevizli Acuka 290g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tukaş cevizli acuka adı/290 g/GTIN ve tam etiket içeriğini birlikte doğrulayan üretici veya güvenilir perakendeci kaydı bulunamadı."
+    },
+    {
+      "submitted_code": "8690563004222",
+      "submitted_name": "Tukaş Lütenitsa Balkan Sosu",
+      "status": "pending_identity_mismatch",
+      "verified_code": "",
+      "note": "300 g Lütenitsa ve etiketi başka markanın (Penguen; 8691422701402) resmi kaynağında doğrulanıyor; Tukaş adına doğrulanmış GTIN yok."
+    },
+    {
+      "submitted_code": "8690764001907",
+      "submitted_name": "Burcu Acılı Kahvaltılık Sos 310g",
+      "status": "pending_identity_mismatch",
+      "verified_code": "8691573082801",
+      "note": "Burcu resmi kaynağı acılı kahvaltılık sosu 320 g ve GTIN 8691573082801 olarak veriyor; gönderideki 310 g ile uyuşmuyor ve tam içerik listesi resmi sayfada yok."
+    },
+    {
+      "submitted_code": "8690764001914",
+      "submitted_name": "Burcu Tatlı Kahvaltılık Sos 310g",
+      "status": "pending_identity_mismatch",
+      "verified_code": "8691573022128",
+      "note": "Burcu katalog/ürün kaynaklarında Tatlı Ajvar 310 g (GTIN 8691573022128) mevcut; ancak bu “Tatlı Kahvaltılık Sos” ile ürün kimliği aynı kabul edilemez ve tam içerik kanıtı yok."
+    },
+    {
+      "submitted_code": "8690764003208",
+      "submitted_name": "Burcu Cevizli Acuka Ezmesi 300g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Burcu Cevizli Acuka 300 g adına tam etiket ve gerçek GTIN eşleşmesi bulunamadı."
+    },
+    {
+      "submitted_code": "8690764004502",
+      "submitted_name": "Burcu Balkan Sosu Lütenitsa 300g",
+      "status": "pending_identity_mismatch",
+      "verified_code": "869157398239",
+      "note": "Burcu katalogda Lütenitsa 200 g (EAN metni 869157398239, 13 haneli geçerli GTIN değil) gösteriliyor; gönderide 300 g yazıyor. Penguen 300 g, başka marka ve başka GTIN."
+    },
+    {
+      "submitted_code": "8690563004505",
+      "submitted_name": "Tukaş Geleneksel Çemen 250g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tukaş 250 g Geleneksel Çemen için ürün kimliği, gerçek GTIN ve tam içerik kaynağı bulunamadı."
+    },
+    {
+      "submitted_code": "8690764001129",
+      "submitted_name": "Burcu Sarımsaksız Çemen 250g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Burcu Sarımsaksız Çemen 250 g için üretici ürün kaydı veya gerçek GTIN+tam etiket çifti bulunamadı."
+    },
+    {
+      "submitted_code": "8690520210802",
+      "submitted_name": "Tamek Kurutulmuş Domatesli Ezme",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tamek Kurutulmuş Domatesli Ezme adı/GTIN ve tam etiket eşleşmesi bulunamadı; Tamek üretici ürün listesinde bu varyant doğrulanmıyor."
+    },
+    {
+      "submitted_code": "8690553401123",
+      "submitted_name": "Tat Sarımsaklı Acı Biber Ezmesi",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tat markasında Sarımsaklı Acı Biber Ezmesi adıyla eşleşen ürün barkodu ve tam etiket doğrulanmadı; benzer ürün/salçalar aynı ürün sayılamaz."
+    },
+    {
+      "submitted_code": "8690764005127",
+      "submitted_name": "Burcu Fındıklı Acılı Kahvaltı Sosu",
+      "status": "pending_identity_mismatch",
+      "verified_code": "8691573082801",
+      "note": "Burcu acılı kahvaltılık sosun doğrulanmış sürümü 320 g (8691573082801); fındıklı varyant iddiası ve gönderideki yanlış barkod/gramaj eşleşmesi doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690563005200",
+      "submitted_name": "Tukaş Kekikli Domatesli Kahvaltı Sosu",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tukaş Kekikli Domatesli Kahvaltı Sosu adı ve GTIN üretici kataloğunda/perakende etiketinde doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690520211007",
+      "submitted_name": "Tamek Antep Usulü Muhammara",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tamek Antep Usulü Muhammara adı ve barkodlu tam etiket kaydı bulunamadı; benzer kahvaltılık sos içeriklerini aktarmak güvenilir değil."
+    },
+    {
+      "submitted_code": "8690553424504",
+      "submitted_name": "Tat Nar Ekşili Acuka Ezmesi",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tat Nar Ekşili Acuka Ezmesi adına ürün barkodu ve tam içerik kaynağı bulunamadı."
+    },
+    {
+      "submitted_code": "8690764006124",
+      "submitted_name": "Burcu Ege Otlu Kahvaltılık Ezme",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Burcu Ege Otlu Kahvaltılık Ezme için üretici ürünü/gerçek GTIN/tam etiket eşleşmesi bulunamadı."
+    },
+    {
+      "submitted_code": "8690563006108",
+      "submitted_name": "Tukaş Köz Biberli Kahvaltılık Sos",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tukaş Köz Biberli Kahvaltılık Sos ayrı ürün adı ve barkoduyla doğrulanamadı; genel Kahvaltılık Sos barkodunu varyant yerine kullanmak mümkün değil."
+    },
+    {
+      "submitted_code": "8690520211205",
+      "submitted_name": "Tamek Yoğurt Çeşnili Köz Biber Sosu",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tamek Yoğurt Çeşnili Köz Biber Sosu adı/GTIN/tam etiket eşleşmesi bulunamadı."
+    },
+    {
+      "submitted_code": "8690553425006",
+      "submitted_name": "Tat Domates Rendeli Kahvaltı Çeşnisi",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tat Domates Rendeli Kahvaltı Çeşnisi için ürün ve barkod kaydı doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690764007152",
+      "submitted_name": "Burcu Antep Ezme (Kahvaltılık)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Burcu Antep Ezme (Kahvaltılık) adıyla doğrulanmış barkod ve tam etiket bulunamadı."
+    },
+    {
+      "submitted_code": "8690563007150",
+      "submitted_name": "Tukaş Şekersiz Kahvaltılık Sos (Diyet)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Tukaş Şekersiz Kahvaltılık Sos (Diyet) adı/GTIN doğrulanmadı; Tukaş resmi ürün kataloğunda bu ayrı varyant yok."
+    },
+    {
+      "submitted_code": "8697405230328",
+      "submitted_name": "Sosero Gurme Acuka Ezmesi 290g",
+      "status": "pending_ingredients",
+      "verified_code": "8680395186828",
+      "note": "Sosero resmi ürün sayfası Kahvaltılık Acuka için 8680395186828 barkodunu ve 290 g net miktarı doğruluyor. Ancak incelemedeki kaynaklar tam etiket içeriğinde uyuşmuyor (resmi tanıtım metni ile perakendeci Q&A); tam formül etiketi güvenle doğrulanana dek içe aktarılamaz."
+    },
+    {
+      "submitted_code": "8697405230458",
+      "submitted_name": "Sosero Yeşil Zeytinli Kahvaltı Sosu",
+      "status": "pending_ingredients",
+      "verified_code": "8691573081798",
+      "note": "Burcu üretici kataloğunda 200 g Kahvaltılık Sos with Green Olives, GTIN 8691573081798; gönderideki Sosero marka iddiası farklı ve bu ürün için içerik etiketi bulunamadı."
+    },
+    {
+      "submitted_code": "8697405230557",
+      "submitted_name": "Sosero Kurutulmuş Domates Ezmesi",
+      "status": "pending_identity_mismatch",
+      "verified_code": "8680395186842",
+      "note": "Sosero katalogda Domates Kurusu (kurutulmuş domates) var; 290 g/GTIN 8680395186842 perakendeci kaydı mevcut, ancak gönderideki “ezme” adı aynı ürün değil ve tam ürün etiketi içeriği kanıtlanmadı."
+    }
+  ]
+}

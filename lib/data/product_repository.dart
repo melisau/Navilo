@@ -10,6 +10,10 @@ class ProductRecord {
   final String mayContain;
   final String? imageUrl;
   final String? imageSourceUrl;
+  String get imageCredit => imageUrl != null &&
+          Uri.tryParse(imageUrl!)?.host == 'images.openfoodfacts.org'
+      ? 'Open Food Facts contributors · CC BY-SA 3.0'
+      : 'Görsel kaynağı: ${Uri.tryParse(imageSourceUrl ?? '')?.host ?? ''}';
   final bool nameMatched;
   final String? nameLookupSource;
   final DateTime? modified;
@@ -28,6 +32,25 @@ class ProductRecord {
             uri.scheme == 'https' &&
             uri.host == 'images.openfoodfacts.org'
         ? uri.toString()
+        : null;
+  }
+
+  static String? curatedImage(Map<String, dynamic> row) {
+    if (row['image_license'] == 'CC-BY-SA-3.0') {
+      return licensedImage(row['image_url']);
+    }
+    final image =
+        Uri.tryParse(row['image_url'] is String ? row['image_url'] : '');
+    final source = Uri.tryParse(
+        row['image_source_url'] is String ? row['image_source_url'] : '');
+    return row['image_evidence'] == 'catalogue_product_page' &&
+            row['image_matched_code'] == row['code'] &&
+            ['barcode', 'name'].contains(row['image_match_method']) &&
+            image?.scheme == 'https' &&
+            image!.host.isNotEmpty &&
+            source?.scheme == 'https' &&
+            source!.host.isNotEmpty
+        ? image.toString()
         : null;
   }
 
@@ -364,12 +387,10 @@ class ProductRepository {
           (item['labels'] as List? ?? []).whereType<String>().toList(),
           sourceName: item['source_name'] as String? ?? 'Navilo curated label',
           mayContain: item['may_contain'] as String? ?? '',
-          imageUrl: item['image_license'] == 'CC-BY-SA-3.0'
-              ? ProductRecord.licensedImage(item['image_url'])
-              : null,
+          imageUrl: ProductRecord.curatedImage(item),
           imageSourceUrl: item['image_license'] == 'CC-BY-SA-3.0'
               ? 'https://world.openfoodfacts.org/product/$code'
-              : null,
+              : item['image_source_url'] as String?,
         );
       }
     }

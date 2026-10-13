@@ -1,0 +1,241 @@
+[
+  {
+    "submitted_code": "8809639173541",
+    "verified_code": "8809566991560",
+    "category": "cosmetic",
+    "name": "Benton Skin Fit Mineral Sun Cream SPF 50+",
+    "status": "pending_submitted_code_conflicts_corrected_gtin",
+    "reason": "Gönderilen GTIN için Benton Skin Fit Mineral Sun Cream 50 ml eşleşmesi doğrulanamadı. Aynı ürün ve tam INCI başka GTIN 8809566991560 ile kaynaklı; submitted kod bu varyanta bağlanamadı.",
+    "required_evidence": "8809639173541’in aynı Benton ürünü ve 50 ml varyantına ait olduğunu gösteren üretici/ambalaj kanıtı; alias oluşturmak için yeterli değildir.",
+    "source_urls": [
+      "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
+      "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"
+    ]
+  },
+  {
+    "submitted_code": "8809641712219",
+    "verified_code": "8809416470191",
+    "category": "cosmetic",
+    "name": "COSRX Aloe Soothing Sun Cream SPF 50+",
+    "status": "pending_barcode_variant_tieout",
+    "reason": "Gönderilen GTIN üretici sayfasıyla eşleşmiyor. COSRX resmi sayfası tam INCI’yi 8809416470191 barkoduyla veriyor; bu mevcut katalog kodu, submitted kod ile varyant bağı kanıtlanmadı.",
+    "required_evidence": "8809641712219’in aynı ürün/varyanta ait olduğunu gösteren üretici veya paket GTIN kaydı.",
+    "source_urls": [
+      "https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa?variant=37420796739740",
+      "https://cosrxskincare.eu/en/producto/solar-aloe-soothing-sun-cream-spf50-pa/"
+    ]
+  },
+  {
+    "submitted_code": "3607345390932",
+    "verified_code": "3607345390932",
+    "category": "cosmetic",
+    "name": "Rimmel Lash Accelerator Mascara - 001 Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3607345390949",
+    "verified_code": "3607345390949",
+    "category": "cosmetic",
+    "name": "Rimmel Lash Accelerator Mascara - 002 Extreme Blk",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3607345390956",
+    "verified_code": "3607345390956",
+    "category": "cosmetic",
+    "name": "Rimmel Lash Accelerator Serum - Clear",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3607349666071",
+    "verified_code": "3607349666071",
+    "category": "cosmetic",
+    "name": "Rimmel 100% Waterproof Mascara - Brown",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614228965200",
+    "verified_code": "3614228965200",
+    "category": "cosmetic",
+    "name": "Rimmel Lash Accelerator Endless - Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614228965217",
+    "verified_code": "3614228965217",
+    "category": "cosmetic",
+    "name": "Rimmel Lash Accelerator Endless - Extreme Blk",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3616303047108",
+    "verified_code": "3616303047108",
+    "category": "cosmetic",
+    "name": "Rimmel Super Curler 24H Mascara - 001 Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3616303047115",
+    "verified_code": "3616303047115",
+    "category": "cosmetic",
+    "name": "Rimmel Super Curler 24H - 003 Extreme Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3616303992804",
+    "verified_code": "3616303992804",
+    "category": "cosmetic",
+    "name": "Rimmel Super Curler Waterproof - Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3607349631628",
+    "verified_code": "3607349631628",
+    "category": "cosmetic",
+    "name": "Scandaleyes Reloaded Mascara - 003 Extreme Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3607346243930",
+    "verified_code": "3607346243930",
+    "category": "cosmetic",
+    "name": "Scandaleyes Flex Lycra Mascara - Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Scandaleyes Flex ürün kimliği ve tam INCI ayrı kaynaklarda bulunuyor; ancak gönderilen GTIN’in bu ürüne ait olduğunu yalnız UPC veritabanı gösteriyor, bağımsız ürün/etiket kaynağıyla teyit edilemedi.",
+    "required_evidence": "Üretici/retailer ambalajında 3607346243930 ile Scandaleyes Flex 001 Black bağını gösteren kaynak; ardından aynı varyanta bağlı INCI.",
+    "source_urls": [
+      "https://www.rimmellondon.com/en-gb/eyes/mascara/scandaleyes-flex-mascara",
+      "https://www.watsons.com.tr/rimmel-scandaleyes-flex-maskara/p/BP_"
+    ]
+  },
+  {
+    "submitted_code": "3607349666026",
+    "verified_code": "3607349666026",
+    "category": "cosmetic",
+    "name": "Scandaleyes Volume on Demand - 002 Black Brown",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3607349666033",
+    "verified_code": "3607349666033",
+    "category": "cosmetic",
+    "name": "Scandaleyes Volume on Demand - 003 Extreme Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614228965033",
+    "verified_code": "3614228965033",
+    "category": "cosmetic",
+    "name": "Scandaleyes Wow Wings Mascara - 001 Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614228965040",
+    "verified_code": "3614228965040",
+    "category": "cosmetic",
+    "name": "Scandaleyes Wow Wings Mascara - 003 Extreme Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614228965071",
+    "verified_code": "3614228965071",
+    "category": "cosmetic",
+    "name": "Scandaleyes Wow Wings Waterproof - 001 Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614229447460",
+    "verified_code": "3614229447460",
+    "category": "cosmetic",
+    "name": "Scandaleyes Xx-treme Volume Mascara - Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614229447477",
+    "verified_code": "3614229447477",
+    "category": "cosmetic",
+    "name": "Scandaleyes Xx-treme Volume - Extreme Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3614226915221",
+    "verified_code": "3614226915221",
+    "category": "cosmetic",
+    "name": "Scandaleyes Lycra Flex Waterproof - Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3616301246190",
+    "verified_code": "3616301246190",
+    "category": "cosmetic",
+    "name": "Scandaleyes Curve Alert Mascara - 001 Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  },
+  {
+    "submitted_code": "3616301246206",
+    "verified_code": "3616301246206",
+    "category": "cosmetic",
+    "name": "Scandaleyes Curve Alert - 003 Extreme Black",
+    "status": "pending_exact_gtin_and_full_inci",
+    "reason": "Araştırılan kaynaklarda gönderilen GTIN ile ürün adı/varyantı ve tam INCI listesini birlikte doğrulayan yeterli kaynak bulunamadı. Barkod checksum geçerliliği ürün eşleşmesini kanıtlamaz.",
+    "required_evidence": "Aynı GTIN’i açıkça gösteren üretici veya güvenilir perakendeci ürün/ambalaj kaydı ve o ürüne ait eksiksiz INCI etiketi.",
+    "source_urls": []
+  }
+]

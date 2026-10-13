@@ -1,0 +1,299 @@
+[
+  {
+    "code": "8690526083728",
+    "name": "Eti Popkek Muzlu Kek 60 g",
+    "ingredients": "Kek %70 [Buğday Unu (Gluten içerir), Şeker, Yumurta, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), İnvert Şeker Şurubu, Nem Verici (Gliserol), Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatörler (Yağ Asitlerinin Mono ve Digliseritleri, Yağ Asitlerinin Poligliserol Esterleri), Tuz, Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat), Koruyucu (Sorbik Asit), Aroma Vericiler, Asitliği Düzenleyici (Sitrik Asit), Kıvam Arttırıcı (Ksantan Gam)], Muz Sosu %16 [Şeker, İnvert Şeker Şurubu, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Peynir Altı Suyu Tozu (Süt Ürünü), Nem Vericiler (Sorbitol, Gliserol), Modifiye Nişasta, Tuz, Emülgatörler (Yağ Asitlerinin Mono ve Digliseritlerinin Laktik Asit Esteri), Muz Tozu %0,3, Asitlik Düzenleyici (Sitrik Asit), Renklendirici (Beta Karoten), Aroma Verici, Koruyucu (Sorbik Asit)], Kakaolu Kaplama %14 [Şeker, Tam Hidrojenize Bitkisel Yağ (Palm), Peynir Altı Suyu Tozu (Süt Ürünü), Tam Yağlı Süt Tozu, Yağı Azaltılmış Kakao Tozu %5,4, Emülgatör (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici].",
+    "source_name": "Macrocenter tam etiket; Afta Market aynı 60g ürünün EAN kaydı",
+    "source_url": "https://www.macrocenter.com.tr/eti-popkek-muzlu-60-g-p-4dc3e6",
+    "barcode_source_url": "https://www.aftamarket.com.tr/eti-kek-popkek-muzlu-60gr",
+    "field_sources": {
+      "code": [
+        "https://www.aftamarket.com.tr/eti-kek-popkek-muzlu-60gr"
+      ],
+      "name": [
+        "https://www.macrocenter.com.tr/eti-popkek-muzlu-60-g-p-4dc3e6",
+        "https://www.aftamarket.com.tr/eti-kek-popkek-muzlu-60gr"
+      ],
+      "ingredients": [
+        "https://www.macrocenter.com.tr/eti-popkek-muzlu-60-g-p-4dc3e6"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "milk"
+    ],
+    "traces": [
+      "hazelnut",
+      "soy",
+      "sesame"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526001183",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690533024035",
+    "name": "Eti Balık Kraker 40 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), İnvert Şeker Şurubu, Tuz, Un İşlem Maddesi (Sodyum Metabisülfit).",
+    "source_name": "Macrocenter tam içerik etiketi; ETİ ürün kodu 2540300 ile Allturko/retailer GTIN eşleşmesi",
+    "source_url": "https://www.macrocenter.com.tr/eti-balik-kraker-40-g-p-6af929",
+    "barcode_source_url": "https://www.allturko.com.tr/urun/12584/c/eti-eti-balik-kraker-40-gr-2540300-8690533024035/",
+    "field_sources": {
+      "code": [
+        "https://www.allturko.com.tr/urun/12584/c/eti-eti-balik-kraker-40-gr-2540300-8690533024035/"
+      ],
+      "name": [
+        "https://www.macrocenter.com.tr/eti-balik-kraker-40-g-p-6af929",
+        "https://www.allturko.com.tr/urun/12584/c/eti-eti-balik-kraker-40-gr-2540300-8690533024035/"
+      ],
+      "ingredients": [
+        "https://www.macrocenter.com.tr/eti-balik-kraker-40-g-p-6af929"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "sulphites"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526003224",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526056135",
+    "name": "Eti Topkek Fındıklı Kakaolu Kek 35 g",
+    "ingredients": "Yumurta, Şeker, Buğday Unu (Gluten içerir), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Fındık %5,7, İnvert Şeker Şurubu, Nem Vericiler (Gliserol, Sorbitol), Yağı Azaltılmış Kakao Tozu %2,7, Yağsız Süt Tozu, Emülgatörler (Yağ Asitlerinin Mono ve Digliseridleri, Yağ Asitlerinin Poligliserol Esterleri), Tuz, Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat), Koruyucu (Potasyum Sorbat), Aroma Verici, Asitlik Düzenleyici (Sitrik Asit), Kıvam Arttırıcı (Ksantan Gam).",
+    "source_name": "Arpaket tam içerik etiketi; Aykılıç Gross exact Topkek 35g EAN kaydı",
+    "source_url": "https://www.arpaket.com/urun/eti-topkek-kakaolu-35-g-24-lu",
+    "barcode_source_url": "https://www.aykilicgross.com/urun/eti-topkek-findikli-kakaolu-kucuk-kek-35-gr.html",
+    "field_sources": {
+      "code": [
+        "https://www.aykilicgross.com/urun/eti-topkek-findikli-kakaolu-kucuk-kek-35-gr.html"
+      ],
+      "name": [
+        "https://www.arpaket.com/urun/eti-topkek-kakaolu-35-g-24-lu",
+        "https://www.aykilicgross.com/urun/eti-topkek-findikli-kakaolu-kucuk-kek-35-gr.html"
+      ],
+      "ingredients": [
+        "https://www.arpaket.com/urun/eti-topkek-kakaolu-35-g-24-lu"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "hazelnut",
+      "milk"
+    ],
+    "traces": [
+      "sesame",
+      "peanut"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526014114",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526076379",
+    "name": "Eti Browni Intense Çikolatalı Kek 50 g",
+    "ingredients": "Kek %52 [Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Buğday Unu (Gluten içerir), Yumurta, Nem Vericiler (Gliserol, Sorbitol), Bitter Çikolata %5 [Şeker, Kakao Kitlesi, Kakao Yağı, Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin), Kakao Kuru Maddesi en az %52], İnvert Şeker Şurubu, Yağı Azaltılmış Kakao Tozu, Tuz, Modifiye Patates Nişastası, Emülgatörler (Yağ Asitlerinin Mono ve Digliseridleri, Yağ Asitlerinin Poligliserol Esterleri), Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat), Koruyucu (Sorbik Asit), Aroma Verici, Kıvam Arttırıcı (Ksantan Gam), Asitlik Düzenleyici (Sitrik Asit)], Sütlü Çikolata %29 [Şeker, Kakao Kitlesi, Kakao Yağı, Peynir Altı Suyu Tozu (Süt Ürünü), Tam Yağlı Süt Tozu, Bitkisel Yağ (Palm, Shea), Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin)], Çikolatalı Krema %17 [Bitter Çikolata %18,5, Sütlü Çikolata %18,5, İnvert Şeker Şurubu, Şeker, Nem Vericiler (Sorbitol, Gliserol), Yağsız Süt Tozu, Peynir Altı Suyu Tozu (Süt Ürünü), Kıvam Arttırıcı (Pektin), Emülgatör (Yağ Asitlerinin Mono ve Digliseridleri), Tuz, Stabilizörler (Trikalsiyum Sitrat, Trisodyum Sitrat), Koruyucu (Sorbik Asit)], Bitter Çikolata %2 [Şeker, Kakao Kitlesi, Kakao Yağı, Laktoz Monohidrat (Süt Ürünü), Tereyağ (Süt Ürünü), Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin)].",
+    "source_name": "Migros tam içerik etiketi; ETİ retailer listing confirms single 50g GTIN",
+    "source_url": "https://www.migros.com.tr/eti-brownie-intense-50-g-p-4dcae1",
+    "barcode_source_url": "https://www.trendyol.com/eti/browni-intense-50-gr-p-40458400",
+    "field_sources": {
+      "code": [
+        "https://www.trendyol.com/eti/browni-intense-50-gr-p-40458400"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-brownie-intense-50-g-p-4dcae1",
+        "https://www.trendyol.com/eti/browni-intense-50-gr-p-40458400"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-brownie-intense-50-g-p-4dcae1"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "milk"
+    ],
+    "traces": [
+      "pistachio",
+      "almond",
+      "hazelnut",
+      "soy",
+      "peanut"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526091427",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526093734",
+    "name": "Eti Browni Gold Çikolata Soslu Çikolatalı Kek 45 g",
+    "ingredients": "Kek %83,5 [Bitkisel Yağ (Palm), Şeker, Buğday Unu (Gluten içerir), Yumurta, İnvert Şeker Şurubu, Nem Vericiler (Gliserol, Sorbitol), Bitter Çikolata %4,5 [Şeker, Kakao Kitlesi, Kakao Yağı, Yağı Azaltılmış Kakao Tozu, Emülgatörler (Ayçiçek Lesitini, Poligliserol Polirisinolat), Aroma Verici (Vanilin), Kakao Kuru Maddesi En Az %52], Yağı Azaltılmış Kakao Tozu, Tuz, Emülgatörler (Yağ Asitlerinin Mono ve Digliseridleri, Yağ Asitlerinin Poligliserol Esterleri), Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat), Koruyucu (Potasyum Sorbat), Aroma Verici, Asitlik Düzenleyici (Sitrik Asit)], Çikolata Sosu %16,5 [Şeker, İnvert Şeker Şurubu, Yağsız Süt Tozu, Nem Vericiler (Gliserol, Sorbitol), Yağı Azaltılmış Kakao Tozu, Bitter Çikolata %6,2, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola, Tam Hidrojenize Palm), Modifiye Patates Nişastası, Koruyucu (Potasyum Sorbat), Tuz, Asitlik Düzenleyici (Sitrik Asit)].",
+    "source_name": "Sarıyer Market exact GTIN + full 45g label; Hepsiburada full component transcription",
+    "source_url": "https://www.hepsiburada.com/eti-browni-gold-cikolata-soslu-cikolatali-kek-45-g-x-24-adet-pm-HB00000GLOGC",
+    "barcode_source_url": "https://www.sariyermarket.com/eti-browni-gold-45gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eti-browni-gold-45gr"
+      ],
+      "name": [
+        "https://www.hepsiburada.com/eti-browni-gold-cikolata-soslu-cikolatali-kek-45-g-x-24-adet-pm-HB00000GLOGC",
+        "https://www.sariyermarket.com/eti-browni-gold-45gr"
+      ],
+      "ingredients": [
+        "https://www.hepsiburada.com/eti-browni-gold-cikolata-soslu-cikolatali-kek-45-g-x-24-adet-pm-HB00000GLOGC"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "egg",
+      "milk"
+    ],
+    "traces": [
+      "hazelnut",
+      "soy"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526091458",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690533771021",
+    "name": "Eti Finger Bisküvi 900 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Glukoz-Fruktoz Şurubu, Peynir Altı Suyu Tozu (Süt Ürünü), Tuz, Kabartıcılar (Sodyum Asit Pirofosfat, Sodyum Hidrojen Karbonat, Amonyum Hidrojen Karbonat), Aroma Verici.",
+    "source_name": "Migros tam içerik etiketi; Eti 900g SKU’nun perakende GTIN kaydı",
+    "source_url": "https://www.migros.com.tr/eti-finger-biskuvi-900-g-p-6af6ea/eti-b-206",
+    "barcode_source_url": "https://www.elatukku.fi/teolliset-elintarvikkeet/eti-finger-biskuvi-keksi-900g/p/11099/",
+    "field_sources": {
+      "code": [
+        "https://www.elatukku.fi/teolliset-elintarvikkeet/eti-finger-biskuvi-keksi-900g/p/11099/"
+      ],
+      "name": [
+        "https://www.migros.com.tr/eti-finger-biskuvi-900-g-p-6af6ea/eti-b-206",
+        "https://www.elatukku.fi/teolliset-elintarvikkeet/eti-finger-biskuvi-keksi-900g/p/11099/"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/eti-finger-biskuvi-900-g-p-6af6ea/eti-b-206"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "sesame",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526011113",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690504011408",
+    "name": "Ülker Pötibör Sade Bisküvi 450 g",
+    "ingredients": "Buğday unu, şeker, bitkisel yağ (palm), invert şeker şurubu, tam yağlı pastörize süt %2,5, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), peynir altı suyu tozu (süt), tuz, aroma verici, un işlem maddesi (sodyum metabisülfit).",
+    "source_name": "Hepsiburada tam içerik etiketi; Aykılıç Gross / Ülker katalog exact 450g GTIN",
+    "source_url": "https://www.hepsiburada.com/ulker-petibor-biskuvi-450-gr-pm-HBC00004HS3RW",
+    "barcode_source_url": "https://www.aykilicgross.com/marka/ulker",
+    "field_sources": {
+      "code": [
+        "https://www.aykilicgross.com/marka/ulker"
+      ],
+      "name": [
+        "https://www.hepsiburada.com/ulker-petibor-biskuvi-450-gr-pm-HBC00004HS3RW",
+        "https://www.aykilicgross.com/marka/ulker"
+      ],
+      "ingredients": [
+        "https://www.hepsiburada.com/ulker-petibor-biskuvi-450-gr-pm-HBC00004HS3RW"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "sulphites"
+    ],
+    "traces": [
+      "egg",
+      "hazelnut",
+      "soy"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690504011111",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690504011507",
+    "name": "Ülker Pötibör Kakaolu Bisküvi 450 g",
+    "ingredients": "Buğday unu, şeker, bitkisel yağ (palm), invert şeker şurubu, yağı azaltılmış kakao tozu (%4), kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), üzüm pekmezi, peyniraltı suyu tozu (süt), tuz, tam yağlı süttozu (%0,15), aroma vericiler (süt), yumurta, fındık, emülgatör (soya lesitini), un işlem maddesi (sodyum metabisülfit).",
+    "source_name": "Fiyat Arşivi full label; Aykılıç Gross exact 450g GTIN",
+    "source_url": "https://www.fiyatarsivi.com/biskuvi/ulker-potibor-biskuvi-kakaolu-450-g-48d0f928-1b33-45c0-bfd3-5bfa63518f2f",
+    "barcode_source_url": "https://www.aykilicgross.com/marka/ulker",
+    "field_sources": {
+      "code": [
+        "https://www.aykilicgross.com/marka/ulker"
+      ],
+      "name": [
+        "https://www.fiyatarsivi.com/biskuvi/ulker-potibor-biskuvi-kakaolu-450-g-48d0f928-1b33-45c0-bfd3-5bfa63518f2f",
+        "https://www.aykilicgross.com/marka/ulker"
+      ],
+      "ingredients": [
+        "https://www.fiyatarsivi.com/biskuvi/ulker-potibor-biskuvi-kakaolu-450-g-48d0f928-1b33-45c0-bfd3-5bfa63518f2f"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "egg",
+      "hazelnut",
+      "soy",
+      "sulphites"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690504011159",
+    "submission_status": "verified_not_imported"
+  }
+]

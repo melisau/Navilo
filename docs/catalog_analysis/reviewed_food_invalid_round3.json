@@ -1,0 +1,189 @@
+[
+  {
+    "code": "8690526041353",
+    "name": "Eti Cici Bebe Bisküvi 172 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Nişasta, Yağsız Pastörize Süt %2,8, Pastörize Yumurta %0,5, Kabartıcı (Amonyum Hidrojen Karbonat), Tuz, Mineraller (Kalsiyum, Magnezyum, Demir, Çinko, Bakır, Mangan, İyot), Vitamin Karışımı (A, E, C, D3, B1, B2, B6, B12, Niasin, Pantotenik Asit, Folik Asit, Biotin), Aroma Vericiler (Vanilin, Vanilya Ekstraktı).",
+    "source_name": "CarrefourSA tam içerik etiketi; ürün kataloğu GTIN kaydı",
+    "source_url": "https://www.carrefoursa.com/eti-cici-bebe-biskuvi-172-g-p-30027799",
+    "barcode_source_url": "https://cdnc.heyzine.com/files/uploaded/v2/0718886c8a89df0b24d0ac139ae6687685c9fecf.pdf",
+    "field_sources": {
+      "code": [
+        "https://cdnc.heyzine.com/files/uploaded/v2/0718886c8a89df0b24d0ac139ae6687685c9fecf.pdf"
+      ],
+      "name": [
+        "https://www.carrefoursa.com/eti-cici-bebe-biskuvi-172-g-p-30027799",
+        "https://cdnc.heyzine.com/files/uploaded/v2/0718886c8a89df0b24d0ac139ae6687685c9fecf.pdf"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/eti-cici-bebe-biskuvi-172-g-p-30027799"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "egg"
+    ],
+    "traces": [
+      "sesame",
+      "sulphites"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round3-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526004115",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526057019",
+    "name": "Eti Etimek Klasik Kızarmış Ekmek 143 g",
+    "ingredients": "Buğday Unu (Gluten içerir), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, Yaş Maya, Tuz, Malt Ekstrakt (Arpa Ürünü), Emülgatör (Ayçiçek Lesitini).",
+    "source_name": "CarrefourSA tam içerik etiketi; ETİ ürün kataloğu 143g GTIN kaydı",
+    "source_url": "https://www.carrefoursa.com/etimek-klasik-143-g-p-30276084",
+    "barcode_source_url": "https://ekatalog.tr/uploads/catalogs/2025/10/08/mert-883.pdf",
+    "field_sources": {
+      "code": [
+        "https://ekatalog.tr/uploads/catalogs/2025/10/08/mert-883.pdf"
+      ],
+      "name": [
+        "https://www.carrefoursa.com/etimek-klasik-143-g-p-30276084",
+        "https://ekatalog.tr/uploads/catalogs/2025/10/08/mert-883.pdf"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/etimek-klasik-143-g-p-30276084"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "barley"
+    ],
+    "traces": [
+      "sulphites",
+      "milk",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round3-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526031128",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526095226",
+    "name": "Eti Hoşbeş Fındıklı Gofret 142 g",
+    "ingredients": "Fındıklı Krema %73,1 [Şeker, Hindistan Cevizi Yağı, Glukoz Şurubu, Süt Tozu, Fındık Yağı, Fındık %8,7, Kakao, Peynir Altı Suyu Tozu (Süt Ürünü), Emülgatör (Ayçiçek Lesitini), Aroma Verici, Tuz], Gofret Yaprağı %26,9 [Buğday Unu (Gluten içerir), Nişasta, Tuz, Hindistan Cevizi Yağı, Emülgatör (Ayçiçek Lesitini), Kakao, Kabartıcılar (Sodyum Hidrojen Karbonat, Sodyum Asit Pirofosfat, Amonyum Hidrojen Karbonat), Maya Ekstraktı].",
+    "source_name": "Migros Toptan tam içerik etiketi; ETİ 2025 katalog GTIN kaydı",
+    "source_url": "https://www.toptan.migros.com.tr/eti-hosbes-findikli-gofret-142-g-p-07160087",
+    "barcode_source_url": "https://ekatalog.tr/uploads/catalogs/2025/10/08/mert-883.pdf",
+    "field_sources": {
+      "code": [
+        "https://ekatalog.tr/uploads/catalogs/2025/10/08/mert-883.pdf"
+      ],
+      "name": [
+        "https://www.toptan.migros.com.tr/eti-hosbes-findikli-gofret-142-g-p-07160087",
+        "https://ekatalog.tr/uploads/catalogs/2025/10/08/mert-883.pdf"
+      ],
+      "ingredients": [
+        "https://www.toptan.migros.com.tr/eti-hosbes-findikli-gofret-142-g-p-07160087"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk",
+      "hazelnut"
+    ],
+    "traces": [
+      "soy",
+      "egg",
+      "almond",
+      "sesame"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round3-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526021129",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526777054",
+    "name": "Eti Cin Portakallı Bisküvi 25 g",
+    "ingredients": "Bisküvi %60 [Buğday Unu (Gluten içerir), Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Şeker, İnvert Şeker Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tuz, Aroma Verici], Portakallı Sos %30 [Glukoz Şurubu, İnvert Şeker Şurubu, Şeker, Portakal Pulpu %2,6, Kıvam Artırıcı (Pektin), Asitlik Düzenleyici (Sitrik Asit), Doğal Portakal Aroma Vericisi, Stabilizör (Trisodyum Sitrat), Tuz, Renklendiriciler (Beta Karoten, Antosiyanin)], Granül %10 [Şeker, Bitkisel Yağ (Palm, Ayçiçek, Pamuk, Kanola), Glukoz Şurubu, Yağı Azaltılmış Kakao Tozu %3, Yenilebilir Sığır Jelatini, Asitlik Düzenleyici (Sodyum Asit Pirofosfat), Topaklanmayı Önleyici (Talk), Parlatıcı (Gam Arabik)].",
+    "source_name": "Özdilekteyim tam içerik; ETİ ürün kataloğu 25g GTIN",
+    "source_url": "https://www.ozdilekteyim.com/market/eti-cin-portakalli-25-g",
+    "barcode_source_url": "https://cdnc.heyzine.com/files/uploaded/v2/0718886c8a89df0b24d0ac139ae6687685c9fecf.pdf",
+    "field_sources": {
+      "code": [
+        "https://cdnc.heyzine.com/files/uploaded/v2/0718886c8a89df0b24d0ac139ae6687685c9fecf.pdf"
+      ],
+      "name": [
+        "https://www.ozdilekteyim.com/market/eti-cin-portakalli-25-g",
+        "https://cdnc.heyzine.com/files/uploaded/v2/0718886c8a89df0b24d0ac139ae6687685c9fecf.pdf"
+      ],
+      "ingredients": [
+        "https://www.ozdilekteyim.com/market/eti-cin-portakalli-25-g"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "hazelnut",
+      "milk",
+      "egg",
+      "soy"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round3-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526084117",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526296326",
+    "name": "Eti Cin Çilekli Bisküvi 25 g",
+    "ingredients": "Bisküvi %60 [Buğday Unu (Gluten), Bitkisel Yağlar (Palm, Ayçiçek, Pamuk, Kanola), Şeker, İnvert Şeker Şurubu, Kabartıcılar (Amonyum Hidrojen Karbonat, Sodyum Hidrojen Karbonat), Tuz, Aroma Verici], Çilek Jölesi %30 [Glukoz Şurubu, İnvert Şeker Şurubu, Şeker, Çilek Pulpu %2,6, Kıvam Arttırıcı (Pektin), Asitlik Düzenleyici (Sitrik Asit), Stabilizör (Trisodyum Sitrat), Aroma Verici, Renklendirici (Antosiyanin), Tuz], Granül %10 [Şeker, Bitkisel Yağlar (Palm, Ayçiçek, Pamuk, Kanola), Glukoz Şurubu, Nişasta, Renklendirici (Pancar Kökü Kırmızısı), Yenilebilir Sığır Jelatini, Aroma Verici, Asitlik Düzenleyici (Askorbik Asit), Topaklanmayı Önleyici (Silikon Dioksit), Parlatıcı (Gam Arabik)].",
+    "source_name": "Bizim Toptan tam içerik; EAN retailer kaydı ve ETİ katalog",
+    "source_url": "https://www.bizimtoptan.com.tr/eti-cin-tekli-cilekli-25-g",
+    "barcode_source_url": "https://www.elatukku.fi/teolliset-elintarvikkeet/eti-cin-strawberry-biscuit-mansikkakeksi-25g/p/17323/",
+    "field_sources": {
+      "code": [
+        "https://www.elatukku.fi/teolliset-elintarvikkeet/eti-cin-strawberry-biscuit-mansikkakeksi-25g/p/17323/"
+      ],
+      "name": [
+        "https://www.bizimtoptan.com.tr/eti-cin-tekli-cilekli-25-g",
+        "https://www.elatukku.fi/teolliset-elintarvikkeet/eti-cin-strawberry-biscuit-mansikkakeksi-25g/p/17323/"
+      ],
+      "ingredients": [
+        "https://www.bizimtoptan.com.tr/eti-cin-tekli-cilekli-25-g"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "milk",
+      "egg",
+      "hazelnut"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round3-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526084155",
+    "submission_status": "verified_not_imported"
+  }
+]

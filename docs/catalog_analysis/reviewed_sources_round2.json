@@ -1,0 +1,116 @@
+[
+  {
+    "code": "8690565029114",
+    "category": "food",
+    "name": "Pınar Laktozsuz Tam Yağlı Taze Peynir (Labne) 180 g",
+    "ingredients": "Pastörize inek sütü, laktik asit bakteri kültürü, tuz, laktaz enzimi.",
+    "source_name": "Sarıyer Market ürün etiketi; Laktozsuz Türkiye GTIN ve etiket teyidi",
+    "source_url": "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
+    "barcode_source_url": "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/",
+    "field_sources": {
+      "code": ["https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr", "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"],
+      "name": ["https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr", "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"],
+      "ingredients": ["https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr", "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"]
+    },
+    "allergens": ["milk"], "traces": [], "labels": [],
+    "catalog_batch": "food-sources-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_cross_checked"
+  },
+  {
+    "code": "8690527130827",
+    "category": "food",
+    "name": "Pınar Çıtır Balık 400 g",
+    "ingredients": "Mezgit fileto, kaplama malzemesi %30 [buğday unu, buğday nişastası, tuz, palm yağı, renklendirici (paprika), kabartıcılar (sodyum bikarbonat, sodyum polifosfat), maya].",
+    "source_name": "Pınar resmi ürün kataloğu GTIN; Sarıyer Market tam içerik etiketi",
+    "source_url": "https://www.sariyermarket.com/pinar-citir-balik-400-gr",
+    "barcode_source_url": "https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf",
+    "field_sources": {
+      "code": ["https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf", "https://www.sariyermarket.com/pinar-citir-balik-400-gr"],
+      "name": ["https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf", "https://www.sariyermarket.com/pinar-citir-balik-400-gr"],
+      "ingredients": ["https://www.sariyermarket.com/pinar-citir-balik-400-gr"]
+    },
+    "allergens": ["fish", "gluten"], "traces": [], "labels": [],
+    "catalog_batch": "food-sources-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_label_and_manufacturer_gtin"
+  },
+  {
+    "code": "8690767670060",
+    "category": "food",
+    "name": "Sütaş Krema %30 Süt Yağlı 200 g",
+    "ingredients": "İnek sütü kreması, modifiye nişasta, emülgatörler (yağ asitlerinin mono ve digliseritleri), kıvam arttırıcılar (selüloz, ksantan gam, sodyum aljinat, karragenan).",
+    "source_name": "Sarıyer Market ürün etiketi",
+    "source_url": "https://www.sariyermarket.com/sutas-krema-200-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/sutas-krema-200-gr",
+    "field_sources": {
+      "code": ["https://www.sariyermarket.com/sutas-krema-200-gr"],
+      "name": ["https://www.sariyermarket.com/sutas-krema-200-gr"],
+      "ingredients": ["https://www.sariyermarket.com/sutas-krema-200-gr"]
+    },
+    "allergens": ["milk"], "traces": [], "labels": [],
+    "catalog_batch": "food-sources-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8692971433561",
+    "category": "food",
+    "name": "İçim Süzme Peynir 500 g",
+    "ingredients": "Pastörize inek sütü, tuz, peynir mayası, peynir kültürü.",
+    "source_name": "Sarıyer Market tam içerik etiketi; Peynirci Baba GTIN teyidi",
+    "source_url": "https://www.sariyermarket.com/icim-suzme-peynir-500-gr",
+    "barcode_source_url": "https://www.peynircibaba.com/icim-suzme-peynir-500-gr",
+    "field_sources": {
+      "code": ["https://www.sariyermarket.com/icim-suzme-peynir-500-gr", "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"],
+      "name": ["https://www.sariyermarket.com/icim-suzme-peynir-500-gr", "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"],
+      "ingredients": ["https://www.sariyermarket.com/icim-suzme-peynir-500-gr"]
+    },
+    "allergens": ["milk"], "traces": [], "labels": [],
+    "catalog_batch": "food-sources-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "3607349631611",
+    "category": "cosmetic",
+    "name": "Rimmel London Scandaleyes Retro Glam Mascara 001 Black 12 ml",
+    "ingredients": "Aqua/Water/Eau, Paraffin, Glyceryl Stearate, Copernicia Cerifera Cera/Copernicia Cerifera (Carnauba) Wax/Cire De Carnauba, PVP, Cera Alba/Beeswax/Cire D'Abeille, Propylene Glycol, Tribehenin, Polysorbate 20, Stearic Acid, Ammonium Acrylates Copolymer, Panthenol, Caprylyl Glycol, Hydroxyethylcellulose, Tocopheryl Acetate, Sodium Hydroxide, Talc, Acrylates/Carbamate Copolymer, Ascorbyl Glucoside, Gossypium Herbaceum (Cotton) Powder, Serica Powder/Silk Powder/Poudre De Soie, Retinyl Palmitate, Hydrogenated Vegetable Oil, Glycerin, Collagen, Hydrogenated Olive Oil, Olea Europaea (Olive) Fruit Oil, Hydrolyzed Keratin, Prunus Armeniaca (Apricot) Kernel Oil, Sodium Sulfate, Ceramide 2, Olea Europaea (Olive) Oil Unsaponifiables, Potassium Sorbate, Phenoxyethanol, Bambusa Arundinacea Leaf Extract, Sodium Benzoate, Tocopherol. May contain: Carmine (CI 75470), Chromium Hydroxide Green (CI 77289), Chromium Oxide Greens (CI 77288), Ferric Ferrocyanide (CI 77510), Iron Oxides (CI 77491, CI 77492, CI 77499), Mica, Titanium Dioxide (CI 77891), Ultramarines (CI 77007).",
+    "source_name": "bol.com barcode and complete ingredient listing",
+    "source_url": "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/",
+    "barcode_source_url": "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/",
+    "field_sources": {
+      "code": ["https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"],
+      "name": ["https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"],
+      "ingredients": ["https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"]
+    },
+    "allergens": [], "traces": [], "labels": [],
+    "catalog_batch": "cosmetic-sources-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8809566991560",
+    "category": "cosmetic",
+    "name": "Benton Skin Fit Mineral Sun Cream SPF50+ PA++++ 50 ml",
+    "ingredients": "Aqua (Water), Zinc Oxide, Cyclohexasiloxane, Butyloctyl Salicylate, Propanediol, Propylheptyl Caprylate, Isododecane, Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Dicaprylyl Carbonate, Caprylyl Methicone, Niacinamide, Disteardimonium Hectorite, Hamamelis Virginiana (Witch Hazel) Extract, Magnesium Sulfate, Methyl Methacrylate Crosspolymer, Vinyl Dimethicone/Methicone Silsesquioxane Crosspolymer, Triethoxycaprylylsilane, 1,2-Hexanediol, Polyglyceryl-2 Dipolyhydroxystearate, Lauryl Polyglyceryl-3 Polydimethylsiloxyethyl Dimethicone, Glyceryl Caprylate, Calamine, Dipotassium Glycyrrhizate, Madecassoside, Inositol, Panthenol, Madecassic Acid, Asiaticoside, Asiatic Acid, Caprylyl Glycol, Ethylhexylglycerin, Adenosine, Rosmarinus Officinalis (Rosemary) Leaf Oil, Tocopherol, Butylene Glycol.",
+    "source_name": "E.Leclerc barcode and complete ingredient listing; Benton distributor product identity cross-check",
+    "source_url": "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
+    "barcode_source_url": "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/",
+    "field_sources": {
+      "code": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560", "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"],
+      "name": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560", "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"],
+      "ingredients": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560"]
+    },
+    "allergens": [], "traces": [], "labels": [],
+    "catalog_batch": "cosmetic-sources-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_cross_checked"
+  }
+]

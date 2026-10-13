@@ -1,0 +1,465 @@
+{
+  "submitted": 50,
+  "invalid_submitted_gtins": 40,
+  "added": 1,
+  "already_present": 1,
+  "pending": 48,
+  "results": [
+    {
+      "no": 1,
+      "code": "8690526006768",
+      "name": "Pınar İllaki Dana Fermente Sucuk (220g)",
+      "ingredients": "Dana eti, dana yağı, sarımsak, tuz, baharat karışımı (kimyon, kırmızı biber, karabiber), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 2,
+      "code": "8690526032415",
+      "name": "Pınar Klasik Dana Kangal Sucuk (225g)",
+      "ingredients": "Dana eti, dana yağı, tuz, baharat karışımı (kimyon, tatlı toz biber, acı biber, karabiber), sarımsak, antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "added_with_verified_correction",
+      "verified_code": "8690527021149",
+      "reason": "Aynı 225 g ürünün barkodu ve içerik metni bağımsız kaynaklardan doğrulandı; gönderilen metin yerine kaynak etiket bilgisi kullanıldı.",
+      "sources": [
+        "https://www.asyasanalmarket.com/pinar-225-gr-sucuk--klasik--fermente--18988",
+        "https://www.carrefoursa.com/pinar-klasik-sucuk-225-g-p-30123642"
+      ]
+    },
+    {
+      "no": 3,
+      "code": "8690623223010",
+      "name": "Namet Klasik Dana Fermente Sucuk (225g)",
+      "ingredients": "Dana eti, dana yağı, tuz, sarımsak, baharat karışımı (kimyon, kırmızı toz biber), stabilizatör (sodyum polifosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 4,
+      "code": "8690623120159",
+      "name": "Namet Isıl İşlem Görmüş Dana Sucuk (240g)",
+      "ingredients": "Dana eti, dana yağı, su, tuz, sarımsak, baharat karışımı, stabilizatör (sodyum difosfat), antioksidan (sodyum askorbat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 5,
+      "code": "8691536001016",
+      "name": "Şahin Kayseri Geleneksel Fermente Sucuk",
+      "ingredients": "Dana eti, dana yağı, sarımsak, yemeklik tuz, baharat karışımı (özel Kayseri sucuk baharatı, kimyon, kırmızı biber), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 6,
+      "code": "8691536001153",
+      "name": "Şahin Altın Seri Dana Fermente Sucuk (200g)",
+      "ingredients": "Dana eti, dana yağı, sarımsak, tuz, kimyon, tatlı toz kırmızı biber, karabiber, yenibahar, antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 7,
+      "code": "8690743001027",
+      "name": "Cumhuriyet Afyon Geleneksel Sucuk (225g)",
+      "ingredients": "Dana eti, dana yağı, sarımsak, tuz, baharat karışımı (Afyon yöresel sucuk baharatları, kimyon, acı/tatlı kırmızı biber), sodyum askorbat, sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 8,
+      "code": "8690123021128",
+      "name": "Torku Doğal Dana Fermente Sucuk (225g)",
+      "ingredients": "Dana eti, dana yağı, sofra tuzu, sarımsak, baharat karışımı (kimyon, karabiber, kırmızı toz biber), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 9,
+      "code": "8690123004114",
+      "name": "Torku Pratiko Isıl İşlem Görmüş Sucuk",
+      "ingredients": "Dana eti, dana yağı, su, tuz, sarımsak, baharat karışımı, stabilizatör (sodyum polifosfat), antioksidan (sodyum askorbat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 10,
+      "code": "8690632001145",
+      "name": "Polonez Geleneksel Dana Fermente Sucuk",
+      "ingredients": "Dana eti, dana yağı, tuz, sarımsak, kimyon, kırmızı biber, karabiber, deksitroz, antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 11,
+      "code": "8690765001111",
+      "name": "Coşkun Geleneksel Dana Fermente Sucuk",
+      "ingredients": "Dana eti, dana yağı, sarımsak, yemeklik kaya tuzu, baharat karışımı (kimyon, karabiber, yenibahar, kırmızı toz biber), askorbik asit, sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 12,
+      "code": "8690841001124",
+      "name": "Aytaç Klasik Dana Fermente Sucuk (220g)",
+      "ingredients": "Dana eti, dana yağı, tuz, sarımsak, baharat karışımı, emülgatör (sodyum difosfat), antioksidan (sodyum askorbat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 13,
+      "code": "8690504141115",
+      "name": "Maret Pratik Isıl İşlem Görmüş Sucuk (200g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, sarımsak, baharat karışımı, stabilizatör (polifosfatlar), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 14,
+      "code": "8693214002153",
+      "name": "Danet Afyon Geleneksel Fermente Sucuk",
+      "ingredients": "Dana eti, dana yağı, sarımsak, tuz, baharat karışımı (kimyon, kırmızı biber, karabiber, yenibahar), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 15,
+      "code": "8690754211125",
+      "name": "Erpiliç Piliç Isıl İşlem Görmüş Sucuk (200g)",
+      "ingredients": "Piliç eti, piliç yağı, su, nişasta, tuz, sarımsak, baharat karışımı, stabilizatör (sodyum polifosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 16,
+      "code": "8690526011434",
+      "name": "Pınar Uzun Dana Sosis (430g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, süt protein, koruyucu (sodyum laktat), stabilizatör (sodyum fosfat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 17,
+      "code": "8690526011403",
+      "name": "Pınar Kokteyl Dana Sosis (200g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, patates lifi, tuz, baharat ekstraktları, süt proteini, stabilizatör (sodyum polifosfat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 18,
+      "code": "8690623141017",
+      "name": "Namet Dana Kokteyl Sosis (300g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, bitkisel lif (patates), stabilizatör (sodyum difosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 19,
+      "code": "8690623141154",
+      "name": "Namet Pratik Dilimli Dana Sosis (200g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, sofra tuzu, baharat karışımı, stabilizatör (sodyum tripolifosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 20,
+      "code": "8690632001855",
+      "name": "Polonez %100 Dana Kasap Sosis (300g)",
+      "ingredients": "Dana eti, dana yağı, su, tuz, baharat karışımı (karabiber, zencefil, kişniş), dekstroz, bitkisel lif, stabilizatör (polifosfatlar), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 21,
+      "code": "8690123014113",
+      "name": "Torku Doğal Dana Uzun Sosis (300g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, stabilizatör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 22,
+      "code": "8690504141153",
+      "name": "Maret Büfe Tipi Dana Uzun Sosis (400g)",
+      "ingredients": "Dana eti, dana yağı, su, mısır nişastası, tuz, baharat karışımı, kıvam arttırıcı (ksantan gam), stabilizatör (fosfatlar), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 23,
+      "code": "8693240003308",
+      "name": "Banvit Piliç Kokteyl Sosis (400g)",
+      "ingredients": "Piliç eti, piliç derisi, su, nişasta, soya proteini, tuz, baharat karışımı, stabilizatör (sodyum polifosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 24,
+      "code": "8693240003353",
+      "name": "Banvit Piliç Uzun Sosis (380g)",
+      "ingredients": "Piliç eti, su, piliç derisi, patates nişastası, soya proteini, tuz, karabiber, kırmızı biber ekstraktı, emülgatör (polifosfat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 25,
+      "code": "8690754111227",
+      "name": "Erpiliç Piliç Kokteyl Sosis (400g)",
+      "ingredients": "Piliç eti, su, nişasta, soya proteini, tuz, baharat karışımı, sarımsak, stabilizatör (sodyum polifosfat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 26,
+      "code": "8690754111357",
+      "name": "Erpiliç Piliç Uzun Sosis (380g)",
+      "ingredients": "Piliç eti, su, nişasta, soya lifi, tuz, tatlı toz biber, kişniş, karabiber, asitlik düzenleyici (sodyum laktat), emülgatör, sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 27,
+      "code": "8690841002152",
+      "name": "Aytaç Klasik Dana Uzun Sosis (300g)",
+      "ingredients": "Dana eti, dana yağı, su, patates nişastası, tuz, baharat karışımı, emülgatör (sodyum polifosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 28,
+      "code": "8690765002156",
+      "name": "Coşkun Geleneksel Dana Sosis (250g)",
+      "ingredients": "Dana eti, dana yağı, su, tuz, baharat karışımı (karabiber, yenibahar, hardal tohumu ekstraktı), stabilizatör (polifosfatlar), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 29,
+      "code": "8693214003112",
+      "name": "Danet Dana Uzun Sosis (300g)",
+      "ingredients": "Dana eti, dana yağı, su, mısır nişastası, tuz, baharat karışımı, stabilizatör (sodyum polifosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 30,
+      "code": "8690504141207",
+      "name": "Maret Büfe Tipi Piliç Sosis (430g)",
+      "ingredients": "Piliç eti, su, nişasta, bitkisel yağ, tuz, baharat çeşnisi, emülgatör (sodyum fosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 31,
+      "code": "8690526012110",
+      "name": "Pınar Aç Bitir Dana Macar Salam (60g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, süt protein, stabilizatör (sodyum difosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "already_in_catalog_with_different_code",
+      "verified_code": "8690527010938",
+      "reason": "Pınar Aç Bitir Macar Salam 60 g katalogda zaten var. Gönderilen barkod geçersiz; içerik metni mevcut kaynakla uyuşmuyor. Mevcut kayıt korundu."
+    },
+    {
+      "no": 32,
+      "code": "8690526012158",
+      "name": "Pınar Aç Bitir Dana Fıstıklı Salam (50g)",
+      "ingredients": "Dana eti, dana yağı, su, Antep fıstığı (%4), nişasta, tuz, baharat karışımı, süt protein, emülgatör (polifosfat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 33,
+      "code": "8690526012301",
+      "name": "Pınar Klasik Dilimli Dana Salam (150g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, süt proteini, stabilizatör (sodyum polifosfat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 34,
+      "code": "8690623151011",
+      "name": "Namet Gurme Dana Macar Salam (150g)",
+      "ingredients": "Dana eti, dana yağı, su, tuz, baharat karışımı (karabiber, beyaz biber, kişniş), nişasta, stabilizatör (polifosfat), sodyum askorbat, sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 35,
+      "code": "8690623151158",
+      "name": "Namet Pratik Dana Macar Salam (60g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat ekstraktları, bitkisel lif, emülgatör (sodyum difosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 36,
+      "code": "8690632002111",
+      "name": "Polonez Dilimli Hindi Füme Göğüs Eti",
+      "ingredients": "Hindi göğüs eti, su, tuz, glukoz şurubu, stabilizatör (sodyum tripolifosfat), antioksidan (sodyum askorbat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 37,
+      "code": "8690632002159",
+      "name": "Polonez Dana Füme Et (100g)",
+      "ingredients": "Dana eti (kontrfile/antrikot), su, yemeklik tuz, dekstroz, tütsü aroması, stabilizatör (polifosfatlar), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 38,
+      "code": "8690632002227",
+      "name": "Polonez Fit Yağsız Hindi Füme (60g)",
+      "ingredients": "Hindi göğüs eti (%95), su, tuz, bitkisel lif, doğal aroma verici, antioksidan (askorbik asit), koruyucu (sodyum nitrit). [Yağ oranı %1'in altındadır].",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 39,
+      "code": "8690123015127",
+      "name": "Torku Pratiko Dilimli Dana Macar Salam",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, bitkisel lif, stabilizatör (sodyum polifosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 40,
+      "code": "8690504141306",
+      "name": "Maret Pratik Dilim Dana Macar Salam",
+      "ingredients": "Dana eti, dana yağı, su, mısır nişastası, tuz, baharat ekstraktları, stabilizatör (sodyum difosfat), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 41,
+      "code": "8693240003407",
+      "name": "Banvit Piliç Dilimli Macar Salam (60g)",
+      "ingredients": "Piliç eti, su, piliç derisi, nişasta, soya proteini, tuz, karabiber, sarımsak, emülgatör (polifosfat), antioksidan, sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 42,
+      "code": "8693240003452",
+      "name": "Banvit Piliç Büfe Salam (750g)",
+      "ingredients": "Piliç eti, su, piliç derisi, patates nişastası, soya proteini, tuz, baharat karışımı, duman aroması, emülgatör, koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 43,
+      "code": "8690754311122",
+      "name": "Erpiliç Piliç Dilimli Macar Salam (60g)",
+      "ingredients": "Piliç eti, su, nişasta, soya lifi, tuz, baharat karışımı, asitlik düzenleyici (sodyum laktat), stabilizatör (sodyum polifosfat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 44,
+      "code": "8690754311252",
+      "name": "Erpiliç Piliç Büfe Salam (800g)",
+      "ingredients": "Piliç eti, su, nişasta, soya proteini, tuz, kırmızı toz biber, karabiber, emülgatör (polifosfat), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 45,
+      "code": "8693214004119",
+      "name": "Danet Blok Dana Macar Salam (200g)",
+      "ingredients": "Dana eti, dana yağı, su, tuz, nişasta, baharat karışımı, stabilizatör (sodyum polifosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 46,
+      "code": "8691536002112",
+      "name": "Şahin Dana Blok Macar Salam (250g)",
+      "ingredients": "Dana eti, dana yağı, su, tuz, karabiber, beyaz biber, kişniş, zencefil, stabilizatör (polifosfatlar), antioksidan (askorbik asit), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 47,
+      "code": "8690743002154",
+      "name": "Cumhuriyet Blok Dana Macar Salam",
+      "ingredients": "Dana eti, dana yağı, su, tuz, baharat karışımı, mısır nişastası, stabilizatör (sodyum fosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 48,
+      "code": "8690765003115",
+      "name": "Coşkun Geleneksel Dana Macar Salam",
+      "ingredients": "Dana eti, dana yağı, su, tuz, baharat özleri, stabilizatör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    },
+    {
+      "no": 49,
+      "code": "8690841003159",
+      "name": "Aytaç Dilimli Dana Macar Salam (75g)",
+      "ingredients": "Dana eti, dana yağı, su, nişasta, tuz, baharat karışımı, emülgatör (sodyum difosfat), antioksidan (sodyum askorbat), sodyum nitrit.",
+      "submitted_gtin_valid": true,
+      "status": "pending_verification",
+      "reason": "Kontrol basamağı geçerli, ancak bu barkodla ürün adı/gramaj/içerik eşleşmesi doğrulanamadı. Eklenmedi."
+    },
+    {
+      "no": 50,
+      "code": "8690623151400",
+      "name": "Namet Gurme Dana Füme Kaburga (100g)",
+      "ingredients": "Dana kaburga eti, su, yemeklik tuz, glukoz şurubu, doğal meşe tütsüsü aroması, sodyum polifosfat, sodyum askorbat, sodyum nitrit.",
+      "submitted_gtin_valid": false,
+      "status": "pending_verification",
+      "reason": "Gönderilen barkod GTIN kontrol basamağını geçmiyor. Doğrulanmış aynı ürün/gramaj barkodu ve tam etiket kaynağı olmadan eklenmedi."
+    }
+  ]
+}

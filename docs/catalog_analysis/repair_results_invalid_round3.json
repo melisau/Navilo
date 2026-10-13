@@ -1,0 +1,190 @@
+{
+  "scope": "second set of 25 invalid-barcode food submissions",
+  "round": "invalid-round3",
+  "counts": {
+    "pending": 12,
+    "existing_verified": 5,
+    "verified_not_imported": 0,
+    "pending_identity_mismatch": 1,
+    "pending_ingredients": 2,
+    "added": 5
+  },
+  "candidate_records": 5,
+  "results": [
+    {
+      "submitted_code": "8690772001103",
+      "submitted_name": "Tadım Kavrulmuş Badem İçi (150g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8693021011504",
+      "submitted_name": "Peyman Dorleo Kavrulmuş Kaju (130g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8693356002017",
+      "submitted_name": "Namet Dana Sucuk Klasik (250g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690574514555",
+      "submitted_name": "Pınar Uzun Sosis (225g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8691724035036",
+      "submitted_name": "Banvit Piliç Kokteyl Sosis (500g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690752101014",
+      "submitted_name": "Koska Sade Tahin Helvası (400g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690574601118",
+      "submitted_name": "Pınar Çikolatalı Sos (200g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690526012424",
+      "submitted_name": "Eti Burçak Bisküvi (131g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690526012455",
+      "submitted_name": "Eti Burçak Yulaflı (131g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690526074217",
+      "submitted_name": "Eti Burçak Sultani (123g)",
+      "status": "existing_verified",
+      "verified_code": "8690526071152",
+      "note": "Katalogda aynı ürün ve gramaj geçerli GTIN ile zaten mevcut: Eti Burçak Sultani Üzümlü Kepekli 123 g (8690526071152); yeni kayıt gerekmiyor."
+    },
+    {
+      "submitted_code": "8690526074255",
+      "submitted_name": "Eti Burçak Sütlü Çikolatalı (114g)",
+      "status": "existing_verified",
+      "verified_code": "8690526063508",
+      "note": "Katalogda aynı ürün ve gramaj geçerli GTIN ile zaten mevcut: Eti Burçak Sütlü Çikolatalı 114 g (8690526063508); yeni kayıt gerekmiyor."
+    },
+    {
+      "submitted_code": "8690526074309",
+      "submitted_name": "Eti Burçak Kakao Kremalı (100g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690526004115",
+      "submitted_name": "Eti Cici Bebe Bisküvisi (172g)",
+      "status": "added",
+      "verified_code": "8690526041353",
+      "note": "Aynı ürün/varyant ve gramaj GTIN ile tam kaynaklı içerik doğrulandı ve kataloğa eklendi."
+    },
+    {
+      "submitted_code": "8690526084117",
+      "submitted_name": "Eti Cin Portakallı (25g)",
+      "status": "added",
+      "verified_code": "8690526777054",
+      "note": "Aynı ürün/varyant ve gramaj GTIN ile tam kaynaklı içerik doğrulandı ve kataloğa eklendi."
+    },
+    {
+      "submitted_code": "8690526084155",
+      "submitted_name": "Eti Cin Çilekli (25g)",
+      "status": "added",
+      "verified_code": "8690526296326",
+      "note": "Aynı ürün/varyant ve gramaj GTIN ile tam kaynaklı içerik doğrulandı ve kataloğa eklendi."
+    },
+    {
+      "submitted_code": "8690526042117",
+      "submitted_name": "Eti Crax Patlayan Lezzet (50g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690526051416",
+      "submitted_name": "Eti Tutku Kakaolu (100g)",
+      "status": "existing_verified",
+      "verified_code": "8690526083254",
+      "note": "Katalogda aynı ürün ve gramaj geçerli GTIN ile zaten mevcut: Eti Tutku Kakao Kremalı 100 g (8690526083254); yeni kayıt gerekmiyor."
+    },
+    {
+      "submitted_code": "8690526051454",
+      "submitted_name": "Eti Tutku Torba Boy (210g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Kaynaklı gerçek GTIN ve aynı varyant/gramajın tam içerik etiketi henüz doğrulanmadı."
+    },
+    {
+      "submitted_code": "8690526061125",
+      "submitted_name": "Eti Negro Kakaolu Bisküvi (110g)",
+      "status": "existing_verified",
+      "verified_code": "8690526793184",
+      "note": "Katalogda aynı ürün ve gramaj geçerli GTIN ile zaten mevcut: Eti Nero Kakaolu Kremalı 110 g (8690526793184); yeni kayıt gerekmiyor."
+    },
+    {
+      "submitted_code": "8690526061156",
+      "submitted_name": "Eti Nero Büyük Boy (110g)",
+      "status": "existing_verified",
+      "verified_code": "8690526793184",
+      "note": "Katalogda aynı ürün ve gramaj geçerli GTIN ile zaten mevcut: Eti Nero Kakaolu Kremalı 110 g (8690526793184); yeni kayıt gerekmiyor."
+    },
+    {
+      "submitted_code": "8690526031128",
+      "submitted_name": "Eti Etimek Klasik (143g)",
+      "status": "added",
+      "verified_code": "8690526057019",
+      "note": "Aynı ürün/varyant ve gramaj GTIN ile tam kaynaklı içerik doğrulandı ve kataloğa eklendi."
+    },
+    {
+      "submitted_code": "8690526031159",
+      "submitted_name": "Eti Etimek Tuzsuz (143g)",
+      "status": "pending_identity_mismatch",
+      "verified_code": "8690526097077",
+      "note": "Bulunan Tuzsuz Etimek SKU’su 148 g; başvurudaki 143 g ile aynı ürün/gramaj eşleşmesi kanıtlanmadı."
+    },
+    {
+      "submitted_code": "8690526021129",
+      "submitted_name": "Eti Hoşbeş Gofret Fındıklı (142g)",
+      "status": "added",
+      "verified_code": "8690526095226",
+      "note": "Aynı ürün/varyant ve gramaj GTIN ile tam kaynaklı içerik doğrulandı ve kataloğa eklendi."
+    },
+    {
+      "submitted_code": "8690526021150",
+      "submitted_name": "Eti Hoşbeş Kakaolu Kremalı (142g)",
+      "status": "pending_ingredients",
+      "verified_code": "8690526095264",
+      "note": "142 g Çilekli Hoşbeş GTIN bulundu, ancak aynı varyant barkoduyla bağlı eksiksiz içerik etiketi doğrulanamadı."
+    },
+    {
+      "submitted_code": "8690526021204",
+      "submitted_name": "Eti Hoşbeş Çilek Kremalı (142g)",
+      "status": "pending_ingredients",
+      "verified_code": "8690526095264",
+      "note": "142 g Çilekli Hoşbeş GTIN bulundu, ancak aynı varyant barkoduyla bağlı eksiksiz içerik etiketi doğrulanamadı."
+    }
+  ]
+}

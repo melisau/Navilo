@@ -1,0 +1,62 @@
+[
+  {
+    "submitted_code": "8690565019108",
+    "verified_code": "8690565019108",
+    "category": "food",
+    "name": "Pınar Geleneksel Tuzsuz Tereyağı 200 g",
+    "status": "pending_conflicting_label_fields",
+    "reason": "Sayfadaki içerik pastörize inek sütü kreması ve tereyağ kültürü; alerjen alanı ise buğday unu/nişastası diyor. Muhtemel sayfa alanı karışıklığı içerik kaydını güvensiz kılıyor.",
+    "required_evidence": "Ambalajın güncel tam içerik ve alerjen etiketi veya başka bir güvenilir perakendeciden aynı GTIN'e bağlı tam etiket.",
+    "source_urls": ["https://www.sariyermarket.com/pinar-geleneksel-tuzsuz-tereyag-200-gr"]
+  },
+  {
+    "submitted_code": "8690575894214",
+    "verified_code": "8690575894214",
+    "category": "food",
+    "name": "Tamek Kayısı Nektarı Kahverengi Şişe 200 ml",
+    "status": "pending_incomplete_ingredients",
+    "reason": "Tek kaynak ürün/GTIN/gramajı eşliyor fakat içeriği yalnız 'kayısı özü, şeker' diye özetliyor.",
+    "required_evidence": "Aynı GTIN'e bağlı güncel tam ambalaj içeriği; nektarın oranı ve diğer bileşenler dahil.",
+    "source_urls": ["https://www.sariyermarket.com/tamek-kayisi-nektari-kahverengi-sise-200-ml"]
+  },
+  {
+    "submitted_code": "8690575894313",
+    "verified_code": "8690575894313",
+    "category": "food",
+    "name": "Tamek Şeftali Nektarı Kahverengi Şişe 200 ml",
+    "status": "pending_incomplete_ingredients",
+    "reason": "Tek kaynak ürün/GTIN/gramajı eşliyor fakat içeriği yalnız 'şeftali özü, şeker' diye özetliyor.",
+    "required_evidence": "Aynı GTIN'e bağlı güncel tam ambalaj içeriği; nektarın oranı ve diğer bileşenler dahil.",
+    "source_urls": ["https://www.sariyermarket.com/tamek-seftali-nektari-kahverengi-sise-200-ml"]
+  },
+  {
+    "submitted_code": "8809639173541",
+    "verified_code": "8809566991560",
+    "category": "cosmetic",
+    "name": "Benton Skin Fit Mineral Sun Cream SPF50+ PA++++ 50 ml",
+    "status": "pending_submitted_code_conflicts_corrected_gtin",
+    "reason": "Tam içerik ve aynı ürün/gramaj doğru GTIN 8809566991560 için kaynaklı; gönderilen 8809639173541 barkodunun bu varyanta ait olduğunu gösteren kaynak bulunamadı.",
+    "required_evidence": "8809639173541'in Benton Skin Fit Mineral Sun Cream 50ml varyantına ait olduğunu gösteren üretici veya ambalaj barkodu kaynağı. Bu bulunamazsa yanlış kod için alias açılmamalı.",
+    "source_urls": ["https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560", "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"]
+  },
+  {
+    "submitted_code": "8809641712219",
+    "verified_code": "8809416470191",
+    "category": "cosmetic",
+    "name": "COSRX Aloe Soothing Sun Cream SPF 50+",
+    "status": "pending_barcode_variant_tieout",
+    "reason": "COSRX resmi ürün sayfası tam içerik ve 8809416470191 kodunu verir; bu kod mevcut katalogda var. Gönderilen 8809641712219 kodunun aynı ürün veya ayrı varyant olduğuna dair eşleşme yok.",
+    "required_evidence": "Üretici/perakendeci ambalaj kaynağıyla 8809641712219'in ürün varyantı, ülke ambalajı veya güncel GTIN bağının doğrulanması.",
+    "source_urls": ["https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa?variant=37420796739740", "https://cosrxskincare.eu/en/producto/solar-aloe-soothing-sun-cream-spf50-pa/"]
+  },
+  {
+    "submitted_code": "8690623011112",
+    "verified_code": "8690579081931",
+    "category": "food",
+    "name": "Filiz Burgu Makarna 500 g",
+    "status": "pending_submitted_code_conflicts_existing_gtin",
+    "reason": "Ürün aynı marka/ad/gramajla doğru GTIN 8690579081931 altında zaten katalogda var; başka, checksum-geçerli barkodun bu ürüne ait olduğu doğrulanmadı.",
+    "required_evidence": "8690623011112'yi Filiz'in belirli ürün/gramajına bağlayan üretici kataloğu veya aynı barkodun net göründüğü ambalaj/retailer kaydı. Kod doğrulanana kadar alias açma.",
+    "source_urls": []
+  }
+]

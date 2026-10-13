@@ -1917,10 +1917,10 @@ class _HomePageState extends State<HomePage> {
                       if (productRecord != null) ...[
                         Text(productRecord!.sourceName),
                         if (productRecord!.imageUrl != null) ...[
-                          const Text(
-                              'Open Food Facts contributors · CC BY-SA 3.0'),
-                          const SelectableText(
-                              'https://creativecommons.org/licenses/by-sa/3.0/'),
+                          Text(productRecord!.imageCredit),
+                          if (productRecord!.imageCredit.contains('CC BY-SA'))
+                            const SelectableText(
+                                'https://creativecommons.org/licenses/by-sa/3.0/'),
                           SelectableText(productRecord!.imageSourceUrl ?? ''),
                         ],
                         if (productRecord!.nameMatched)
@@ -2023,7 +2023,7 @@ class _HomePageState extends State<HomePage> {
 
   Widget resultProductVisual() {
     final photo = photoPath;
-    final imageUrl = ProductRecord.licensedImage(productRecord?.imageUrl);
+    final imageUrl = productRecord?.imageUrl;
     final fallback = Container(
         color: const Color(0xFFE8E1D2),
         alignment: Alignment.center,
@@ -2254,8 +2254,8 @@ class _HomePageState extends State<HomePage> {
                 builder: (context, snapshot) {
                   final file = snapshot.data?.imageFor(product);
                   return file == null
-                      ? (ProductRecord.licensedImage(product.remoteImageUrl) ==
-                              null
+                      ? (Uri.tryParse(product.remoteImageUrl ?? '')?.scheme !=
+                              'https'
                           ? fallback
                           : Image.network(product.remoteImageUrl!,
                               fit: BoxFit.contain,
@@ -2321,7 +2321,7 @@ class _HomePageState extends State<HomePage> {
                 : product.name.characters.first.toUpperCase(),
             style:
                 TextStyle(fontSize: size * .32, color: NaviloColors.forest)));
-    final image = ProductRecord.licensedImage(product.imageUrl);
+    final image = product.imageUrl;
     return ClipRRect(
         borderRadius: BorderRadius.circular(12),
         child: SizedBox(
@@ -2359,10 +2359,11 @@ class _HomePageState extends State<HomePage> {
                       Center(child: catalogueThumbnail(product, size: 180)),
                       if (product.imageUrl != null) ...[
                         const SizedBox(height: 8),
-                        Text('Open Food Facts contributors · CC BY-SA 3.0',
+                        Text(product.imageCredit,
                             style: Theme.of(context).textTheme.bodySmall),
-                        SelectableText(
-                            'https://creativecommons.org/licenses/by-sa/3.0/'),
+                        if (product.imageCredit.contains('CC BY-SA'))
+                          const SelectableText(
+                              'https://creativecommons.org/licenses/by-sa/3.0/'),
                         SelectableText(product.imageSourceUrl ?? ''),
                       ],
                       const SizedBox(height: 8),
@@ -2876,7 +2877,7 @@ class _HomePageState extends State<HomePage> {
                           product.remoteImageUrl != null) ...[
                         const SizedBox(height: 12),
                         SelectableText(
-                            'Open Food Facts contributors · CC BY-SA 3.0\nhttps://creativecommons.org/licenses/by-sa/3.0/\n${product.imageSourceUrl ?? ""}'),
+                            '${Uri.tryParse(product.remoteImageUrl ?? "")?.host == "images.openfoodfacts.org" ? "Open Food Facts contributors · CC BY-SA 3.0\nhttps://creativecommons.org/licenses/by-sa/3.0/" : "Görsel kaynağı"}\n${product.imageSourceUrl ?? ""}'),
                       ],
                       const SizedBox(height: 12),
                       Wrap(spacing: 12, runSpacing: 8, children: [

@@ -1,0 +1,365 @@
+[
+  {
+    "code": "8690579018937",
+    "name": "Filiz Fiyonk Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/filiz-fiyonk-makarna-500-g-p-4cc1d2",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-fiyonk-makarna-500-g-p-4cc1d2"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/filiz-fiyonk-makarna-500-g-p-4cc1d2"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579140485",
+    "name": "Filiz Kalem Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/hemen/filiz-kalem-makarna-500-g-p-4cc1d8",
+    "barcode_source_url": "https://www.trendyol.com/filiz/kalem-makarna-500-gr-p-32404421",
+    "field_sources": {
+      "code": [
+        "https://www.trendyol.com/filiz/kalem-makarna-500-gr-p-32404421"
+      ],
+      "name": [
+        "https://www.trendyol.com/filiz/kalem-makarna-500-gr-p-32404421",
+        "https://www.migros.com.tr/hemen/filiz-kalem-makarna-500-g-p-4cc1d8"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/filiz-kalem-makarna-500-g-p-4cc1d8"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579003339",
+    "name": "Filiz Spagetti (Çubuk) Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/hemen/filiz-spagetti-cubuk-makarna-500-g-p-4cc1d4",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/hemen/filiz-spagetti-cubuk-makarna-500-g-p-4cc1d4"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/filiz-spagetti-cubuk-makarna-500-g-p-4cc1d4"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579054935",
+    "name": "Filiz İnce Uzun Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/filiz-ince-uzun-makarna-500-g-p-4cc1d3",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-ince-uzun-makarna-500-g-p-4cc1d3"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/filiz-ince-uzun-makarna-500-g-p-4cc1d3"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579048934",
+    "name": "Filiz Boncuk Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/hemen/filiz-boncuk-makarna-500-g-p-4cc1cf",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/hemen/filiz-boncuk-makarna-500-g-p-4cc1cf"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/filiz-boncuk-makarna-500-g-p-4cc1cf"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579993128",
+    "name": "Filiz Kelebek Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/filiz-kelebek-makarna-500-gr-p-4cc1dc",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-kelebek-makarna-500-gr-p-4cc1dc"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/filiz-kelebek-makarna-500-gr-p-4cc1dc"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579063937",
+    "name": "Filiz Yüksük Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/filiz-yuksuk-makarna-500-g-p-4cc1d7",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-yuksuk-makarna-500-g-p-4cc1d7"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/filiz-yuksuk-makarna-500-g-p-4cc1d7"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579024938",
+    "name": "Filiz Arpa Şehriye 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/hemen/filiz-arpa-sehriye-500-g-p-4cc1d5",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/hemen/filiz-arpa-sehriye-500-g-p-4cc1d5"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/filiz-arpa-sehriye-500-g-p-4cc1d5"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579027939",
+    "name": "Filiz Tel Şehriye 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/filiz-tel-sehriye-500-g-p-4cc1d6",
+    "barcode_source_url": "https://ebeymar.com/markalar/filiz",
+    "field_sources": {
+      "code": [
+        "https://ebeymar.com/markalar/filiz"
+      ],
+      "name": [
+        "https://ebeymar.com/markalar/filiz",
+        "https://www.migros.com.tr/filiz-tel-sehriye-500-g-p-4cc1d6"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/filiz-tel-sehriye-500-g-p-4cc1d6"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579057936",
+    "name": "Filiz Kuskus Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://toptan.migros.com.tr/filiz-kuskus-makarna-500-g-p-05030350",
+    "barcode_source_url": "https://toptanexpress.com/urun/filiz-kuskus-makarna-500-g",
+    "field_sources": {
+      "code": [
+        "https://toptanexpress.com/urun/filiz-kuskus-makarna-500-g"
+      ],
+      "name": [
+        "https://toptanexpress.com/urun/filiz-kuskus-makarna-500-g",
+        "https://toptan.migros.com.tr/filiz-kuskus-makarna-500-g-p-05030350"
+      ],
+      "ingredients": [
+        "https://toptan.migros.com.tr/filiz-kuskus-makarna-500-g-p-05030350"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  },
+  {
+    "code": "8690579140010",
+    "name": "Filiz Fırın Makarna 500 g",
+    "ingredients": "Durum buğdayı irmiği, su",
+    "source_name": "Migros tam etiket bilgisi; perakendeci ürün listesinde doğrulanmış GTIN",
+    "source_url": "https://www.migros.com.tr/filiz-firin-makarna-500-g-p-4cc1d1",
+    "barcode_source_url": "https://www.trendyol.com/filiz/firin-makarna-500-gr-p-32432967",
+    "field_sources": {
+      "code": [
+        "https://www.trendyol.com/filiz/firin-makarna-500-gr-p-32432967"
+      ],
+      "name": [
+        "https://www.trendyol.com/filiz/firin-makarna-500-gr-p-32432967",
+        "https://www.migros.com.tr/filiz-firin-makarna-500-g-p-4cc1d1"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/filiz-firin-makarna-500-g-p-4cc1d1"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soy",
+      "egg"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round4-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check"
+  }
+]

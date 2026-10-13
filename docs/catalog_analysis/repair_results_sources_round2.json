@@ -1,0 +1,136 @@
+{
+  "batch": "sources-round2-20261013",
+  "summary": {
+    "reviewed_records_ready": 6,
+    "food_records_ready": 4,
+    "cosmetic_records_ready": 2,
+    "pending_cases": 6,
+    "catalog_written": true
+  },
+  "results": [
+    {
+      "submitted_code": "",
+      "verified_code": "8690565029114",
+      "status": "added",
+      "name": "Pınar Laktozsuz Tam Yağlı Taze Peynir (Labne) 180 g",
+      "reason": "Sarıyer Market GTIN ve tam içerik; Laktozsuz Türkiye bağımsız GTIN ve etiket teyidi.",
+      "source_urls": [
+        "https://www.sariyermarket.com/pinar-labne-laktozsuz-180-gr",
+        "https://www.laktozsuz.org/pinar-labne-laktozsuz-180-g/"
+      ]
+    },
+    {
+      "submitted_code": "",
+      "verified_code": "8690527130827",
+      "status": "added",
+      "name": "Pınar Çıtır Balık 400 g",
+      "reason": "Pınar resmi katalog GTIN/ürün adı; Sarıyer Market tam içerik ve alerjen etiketi.",
+      "source_urls": [
+        "https://www.pinar.com.tr/images/pdf/PERAKENDE31.10.2018.pdf",
+        "https://www.sariyermarket.com/pinar-citir-balik-400-gr"
+      ]
+    },
+    {
+      "submitted_code": "",
+      "verified_code": "8690767670060",
+      "status": "added",
+      "name": "Sütaş Krema %30 Süt Yağlı 200 g",
+      "reason": "GTIN, net miktar ve tam bileşen listesi eşleşiyor; önceki pending kaydı otomatik içerik çıkarımındaki alerjen alanı taşması nedeniyle oluşmuştu. Kaynakta alerjen metni bozuk olsa da bileşen listesi tamamdır.",
+      "source_urls": [
+        "https://www.sariyermarket.com/sutas-krema-200-gr"
+      ]
+    },
+    {
+      "submitted_code": "",
+      "verified_code": "8692971433561",
+      "status": "added",
+      "name": "İçim Süzme Peynir 500 g",
+      "reason": "Sarıyer Market GTIN, gramaj ve tam içerik; Peynirci Baba ikinci ürün/GTIN eşleştirme teyidi.",
+      "source_urls": [
+        "https://www.sariyermarket.com/icim-suzme-peynir-500-gr",
+        "https://www.peynircibaba.com/icim-suzme-peynir-500-gr"
+      ]
+    },
+    {
+      "submitted_code": "3607349631611",
+      "verified_code": "3607349631611",
+      "status": "added",
+      "name": "Rimmel London Scandaleyes Retro Glam Mascara 001 Black 12 ml",
+      "reason": "Gönderilen isim Reloaded idi; aynı GTIN perakendeci ürün sayfası, tam INCI ve 12 ml ile Retro Glam 001 Black olarak listelenmiş. Barkod doğrulandı, ürün adı düzeltilerek aday kayda alındı.",
+      "source_urls": [
+        "https://www.bol.com/nl/nl/p/rimmel-london-scandel-eyes-retroglam-mascara-001-black/9200000017138432/"
+      ]
+    },
+    {
+      "submitted_code": "",
+      "verified_code": "8809566991560",
+      "status": "corrected_gtin_reviewed_ready",
+      "name": "Benton Skin Fit Mineral Sun Cream SPF50+ PA++++ 50 ml",
+      "reason": "Perakendeci barcode+tam INCI ve Benton dağıtıcı ürün kimliği aynı ürün ve 50ml için eşleşiyor; ürün doğru GTIN ile aday kayda hazır.",
+      "source_urls": [
+        "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
+        "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"
+      ]
+    },
+    {
+      "submitted_code": "8809639173541",
+      "verified_code": "8809566991560",
+      "status": "pending_submitted_code_conflicts_corrected_gtin",
+      "name": "Benton Skin Fit Mineral Sun Cream SPF50+ PA++++ 50 ml",
+      "reason": "Gönderilen barcode için exact product tieout bulunmadı; aynı varyant/gramaj için perakendeci barkod+INCI kaynakları ve Benton dağıtıcı ürün kimliği 8809566991560 kodunu gösteriyor. Doğru kodla ayrı reviewed aday hazırlandı, yanlış gönderilen kod için alias üretilmedi.",
+      "source_urls": [
+        "https://www.e.leclerc/fp/benton-creme-solaire-minerale-skin-fit-8809566991560",
+        "https://bentoncosmetic.com.ua/benton-mineral-sun-cream/"
+      ]
+    },
+    {
+      "submitted_code": "8690565019108",
+      "verified_code": "8690565019108",
+      "status": "pending_conflicting_label_fields",
+      "name": "Pınar Geleneksel Tuzsuz Tereyağı 200 g",
+      "reason": "GTIN/ürün/gramaj/içerik bulundu fakat içerik süt kreması ve tereyağ kültürü iken sayfadaki alerjen satırı buğday unu/nişastası diyor; çapraz ürün alanı olasılığı için ikinci etiket kaynağı gerekli.",
+      "source_urls": [
+        "https://www.sariyermarket.com/pinar-geleneksel-tuzsuz-tereyag-200-gr"
+      ]
+    },
+    {
+      "submitted_code": "8690575894214",
+      "verified_code": "8690575894214",
+      "status": "pending_incomplete_ingredients",
+      "name": "Tamek Kayısı Nektarı Kahverengi Şişe 200 ml",
+      "reason": "Kaynakta yalnız 'kayısı özü, şeker' özeti var; tam bileşen/etiket olduğu doğrulanamadı.",
+      "source_urls": [
+        "https://www.sariyermarket.com/tamek-kayisi-nektari-kahverengi-sise-200-ml"
+      ]
+    },
+    {
+      "submitted_code": "8690575894313",
+      "verified_code": "8690575894313",
+      "status": "pending_incomplete_ingredients",
+      "name": "Tamek Şeftali Nektarı Kahverengi Şişe 200 ml",
+      "reason": "Kaynakta yalnız 'şeftali özü, şeker' özeti var; tam bileşen/etiket olduğu doğrulanamadı.",
+      "source_urls": [
+        "https://www.sariyermarket.com/tamek-seftali-nektari-kahverengi-sise-200-ml"
+      ]
+    },
+    {
+      "submitted_code": "8809641712219",
+      "verified_code": "8809416470191",
+      "status": "pending_barcode_variant_tieout",
+      "name": "COSRX Aloe Soothing Sun Cream SPF 50+",
+      "reason": "Gönderilen barkod ve üretici resmi ürün sayfasındaki barkod farklı. Resmi sayfa 8809416470191 için içerik sağlıyor ve bu barkod mevcut katalogda var; pending numaranın ürün varyantıyla bağı kurulmadığından eşdeğer kod sayılmadı.",
+      "source_urls": [
+        "https://www.cosrx.com/products/aloe-soothing-sun-cream-spf50-pa?variant=37420796739740",
+        "https://cosrxskincare.eu/en/producto/solar-aloe-soothing-sun-cream-spf50-pa/"
+      ]
+    },
+    {
+      "submitted_code": "8690623011112",
+      "verified_code": "8690579081931",
+      "status": "pending_submitted_code_conflicts_existing_gtin",
+      "name": "Filiz Burgu Makarna 500 g",
+      "reason": "Doğrulanmış ürün aynı ad/gramajla mevcut katalogda 8690579081931 altında bulunuyor. Gönderilen farklı fakat checksum-valid barkodun Filiz üretici/retailer kaynağında doğrulaması bulunamadı; alias oluşturulmadı.",
+      "source_urls": []
+    }
+  ]
+}

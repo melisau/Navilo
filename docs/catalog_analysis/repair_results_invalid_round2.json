@@ -1,0 +1,309 @@
+{
+  "batch": "food-invalid-gtin-review-round2-20261013",
+  "checked_at": "2026-10-13T00:00:00+03:00",
+  "scope": "docs/catalog_analysis/priority_invalid_gtins.json (food, 25 high-priority invalid submitted GTINs)",
+  "counts": {
+    "reviewed_candidates": 25,
+    "verified_not_imported": 0,
+    "pending": 19,
+    "added": 6
+  },
+  "results": [
+    {
+      "submitted_code": "8690504313333",
+      "verified_code": "8690766149949",
+      "name": "Ülker Caramio Karamelli Sütlü Çikolata 32 g",
+      "status": "added",
+      "reason": "Aynı ürün/varyant ve gramaj için ayrı kaynaklardan GTIN eşleşmesi ve tam içerik bulundu; ana kataloğa eklendi; barkodlu ürün ve tam içerik kaynakları korunuyor.",
+      "source_urls": {
+        "code": [
+          "https://www.aftamarket.com.tr/ulker-caramio-32-gr",
+          "https://www.iyas.com.tr/ulker-caramio-karamelli-cikolata-32-gr-77782-p-122542",
+          "https://www.elitteam.com.tr/userfiles/files/a.pdf"
+        ],
+        "name": [
+          "https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g",
+          "https://www.aftamarket.com.tr/ulker-caramio-32-gr"
+        ],
+        "ingredients": [
+          "https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g"
+        ]
+      }
+    },
+    {
+      "submitted_code": "8690526041115",
+      "verified_code": "",
+      "name": "Eti Wanted Karamel Nugat (45g)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: barcode/product/ingredients need source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690504443337",
+      "verified_code": "8690504108849",
+      "name": "Ülker Krispi Peynirli Çubuk Kraker 43 g",
+      "status": "added",
+      "reason": "Aynı ürün/varyant ve gramaj için ayrı kaynaklardan GTIN eşleşmesi ve tam içerik bulundu; ana kataloğa eklendi; barkodlu ürün ve tam içerik kaynakları korunuyor.",
+      "source_urls": {
+        "code": [
+          "https://marketkarsilastir.com/fiyat/8690504108849-ulker-krispi-peynirli-cubuk-kraker-43-g"
+        ],
+        "name": [
+          "https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878",
+          "https://www.carrefoursa.com/ulker-krispi-peynirli-cubuk-kraker-43-g-p-30019794"
+        ],
+        "ingredients": [
+          "https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878",
+          "https://www.macrocenter.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6b1d08"
+        ]
+      }
+    },
+    {
+      "submitted_code": "8690526055556",
+      "verified_code": "8690526053394",
+      "name": "Eti Kombo Hindistan Cevizi ve Çikolata Kaplamalı Bisküvi 56 g",
+      "status": "added",
+      "reason": "Aynı ürün/varyant ve gramaj için ayrı kaynaklardan GTIN eşleşmesi ve tam içerik bulundu; ana kataloğa eklendi; barkodlu ürün ve tam içerik kaynakları korunuyor.",
+      "source_urls": {
+        "code": [
+          "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644",
+          "https://www.aykilicgross.com/urun/eti-kombo-hindistan-cevizi-ve-cikolata-kaplamali-biskuvi-56-gr.html"
+        ],
+        "name": [
+          "https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/",
+          "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644"
+        ],
+        "ingredients": [
+          "https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/",
+          "https://www.bizimtoptan.com.tr/eti-kombo-cikolata-56-g-18li"
+        ]
+      }
+    },
+    {
+      "submitted_code": "8690504018245",
+      "verified_code": "",
+      "name": "Ülker Probis (28g)",
+      "status": "pending",
+      "reason": "28g tekli barkod Asya Market ile bulundu. Aynı tekli gramajın güncel tam formülü yok; 2017 içerik kaydıyla güncel 75g/10lu formüller farklı olduğundan kopyalanmadı. Güncel 28g ambalaj etiketi gerekli.",
+      "source_url": "https://www.asyasanalmarket.com/ulker-probis-28-gr-proteinli-biskuvi-124-34392",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690526015567",
+      "verified_code": "",
+      "name": "Eti Popkek Çikolatalı (45g)",
+      "status": "pending",
+      "reason": "Gönderilen GTIN geçersiz. Perakendede 60g Popkek ve 45g Browni ayrı kimlikte bulundu; 45g çikolatalı Popkek için güvenilir barkod + etiket eşleşmesi yok.",
+      "source_url": "https://www.aykilicgross.com/pismis-urunler/page14",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690504014117",
+      "verified_code": "",
+      "name": "Ülker Saklıköy Yulaflı (87g)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: barcode/product/ingredients need source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690504162443",
+      "verified_code": "8690504064428",
+      "name": "Ülker Dankek Rulo Pasta Çilekli 235 g",
+      "status": "added",
+      "reason": "Aynı ürün/varyant ve gramaj için ayrı kaynaklardan GTIN eşleşmesi ve tam içerik bulundu; ana kataloğa eklendi; barkodlu ürün ve tam içerik kaynakları korunuyor.",
+      "source_urls": {
+        "code": [
+          "https://www.elitteam.com.tr/userfiles/files/a.pdf"
+        ],
+        "name": [
+          "https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g",
+          "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431",
+          "https://www.elitteam.com.tr/userfiles/files/a.pdf"
+        ],
+        "ingredients": [
+          "https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g",
+          "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431"
+        ]
+      }
+    },
+    {
+      "submitted_code": "8690574001802",
+      "verified_code": "",
+      "name": "Pınar Kido Kakaolu Süt (180ml)",
+      "status": "pending",
+      "reason": "Doğru barkod IYAŞ ve Gürmar ile bulundu; Şok/Carrefour/Özdilek tam formülü benzer. A101 aynı gramajda kakao içermeyen başka bileşenler listeliyor; parti/barkod bazında üretici etiketiyle çelişki kapanmadan aktarılmadı. OFF türevi başka kaynakta besin tablosu yanlışlıkla içerik alanında.",
+      "source_url": "https://www.carrefoursa.com/pinar-kido-kakaolu-sut-180-ml-p-30097429",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690519401551",
+      "verified_code": "",
+      "name": "Sek Süzme Yoğurt (500g)",
+      "status": "pending",
+      "reason": "Gönderilen GTIN geçersiz; aynı 500g varyant için güvenilir GTIN + detaylı içerik eşleşmesi bulunamadı. 450g/750g ürünler yerine geçirilmedi.",
+      "source_url": "https://www.sek.com.tr/",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690764005706",
+      "verified_code": "",
+      "name": "Bahçıvan Süzme Peynir (500g)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8691901002225",
+      "verified_code": "",
+      "name": "Ekici Tel Peyniri (250g)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8697422953253",
+      "verified_code": "",
+      "name": "Muratbey Burgu Peynir (200g)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690918005312",
+      "verified_code": "",
+      "name": "Sütaş Süzme Peynir (1kg)",
+      "status": "pending",
+      "reason": "Gönderilen GTIN geçersiz. Barkod adayının kaynağı eski blog; CarrefourSA 1kg sayfasında ürün bilgileri hazırlanıyor. 500g/900g formülü aktarılmadı; güncel 1kg etiket ve barkod teyidi gerekli.",
+      "source_url": "https://www.carrefoursa.com/sutas-suzme-peynir-1-kg-p-30110766",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690624202357",
+      "verified_code": "",
+      "name": "Barilla Penne Rigate / Kalem (500g) (Türkiye dolumlu)",
+      "status": "pending",
+      "reason": "Türkiye dolumu iddiası ve GTIN teyit edilmedi; Avrupa varyantının numarası otomatik yerine geçirilmedi.",
+      "source_url": "https://produkter.matinfo.no/Barilla-Norge-AS/Penne-rigate-500g/08076802085738",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690747514331",
+      "verified_code": "",
+      "name": "Dardanel Mısır Konservesi (3x150g)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690547343007",
+      "verified_code": "8690635060269",
+      "name": "Tat Bezelye Konservesi 830 g",
+      "status": "added",
+      "reason": "Aynı ürün/varyant ve gramaj için ayrı kaynaklardan GTIN eşleşmesi ve tam içerik bulundu; ana kataloğa eklendi; barkodlu ürün ve tam içerik kaynakları korunuyor.",
+      "source_urls": {
+        "code": [
+          "https://partner.chipper.com.tr/urun/13112/c/tat-bezelye-830-g_8690635060269/",
+          "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"
+        ],
+        "name": [
+          "https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f",
+          "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"
+        ],
+        "ingredients": [
+          "https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f",
+          "https://tatb2b2c.blob.core.windows.net/tat-prod/Katalog-V1-dusuk.pdf"
+        ]
+      }
+    },
+    {
+      "submitted_code": "8690637922204",
+      "verified_code": "8690637812316",
+      "name": "Knorr Şehriyeli Tavuk Çorbası 51 g",
+      "status": "added",
+      "reason": "Aynı ürün/varyant ve gramaj için ayrı kaynaklardan GTIN eşleşmesi ve tam içerik bulundu; ana kataloğa eklendi; barkodlu ürün ve tam içerik kaynakları korunuyor.",
+      "source_urls": {
+        "code": [
+          "https://s101.com/tr/products/8690637812316",
+          "https://www.armay.net/wp-content/uploads/2020/01/FOOD-UNILEVER-22012020.pdf"
+        ],
+        "name": [
+          "https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g",
+          "https://s101.com/tr/products/8690637812316"
+        ],
+        "ingredients": [
+          "https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g",
+          "https://gidadedektifi.com/urun-incelemeleri/hazir-yemek-ve-toz-karisimlar/knorr-sehriyeli-tavuk-corbasi-toz-karisimi-422"
+        ]
+      }
+    },
+    {
+      "submitted_code": "8690595112013",
+      "verified_code": "",
+      "name": "Yudum Mısırözü Yağı (1L)",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli; önceki denetim: Pending: product identity and complete ingredients require source verification",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690553406326",
+      "verified_code": "",
+      "name": "Tat Acılı Kahvaltılık Sos 300g",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690553406333",
+      "verified_code": "",
+      "name": "Tat Tatlı Kahvaltılık Sos 300g",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690553424108",
+      "verified_code": "",
+      "name": "Tat Cevizli Baharatlı Acuka 290g",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690520210253",
+      "verified_code": "",
+      "name": "Tamek Acılı Kahvaltılık Sos 300g",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690520210260",
+      "verified_code": "",
+      "name": "Tamek Tatlı Kahvaltılık Sos 300g",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    },
+    {
+      "submitted_code": "8690553406500",
+      "verified_code": "",
+      "name": "Tat Ajvar Tatlı Kahvaltı Ezmesi",
+      "status": "pending",
+      "reason": "Gönderilen barkod kontrol basamağı geçersiz; doğru ürün barkodu ve tam etiket gerekli",
+      "source_url": "",
+      "next_action": "Aynı ürün ve gramajın gerçek GTIN kaydını ve eksiksiz etiketini bul; barkodu hesaplayarak değiştirme"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
 
 `assets/curated_products.json` is shipped in the app and checked before external
 Open Facts requests. It is independent of user contributions and available
-offline. It contains 150 food records. Earlier dated additions include Eti, Activia, Pınar
+offline. It contains 186 food records. Earlier dated additions include Eti, Activia, Pınar
 Protein, İçim Fit, Sütaş, Altınkılıç and Yörsan. See the
 [expansion evidence table](TURKEY_CATALOG_EXPANSION_20261013.md) for every GTIN,
 ingredient source and separately recorded barcode source.
@@ -39,6 +39,15 @@ reviewed source records are in
 [`docs/catalog_analysis/reviewed_food_expansion_retailer.json`](catalog_analysis/reviewed_food_expansion_retailer.json)
 and related reviewed files. Nine further Eti candidates remain pending package
 confirmation and are not in the catalogue.
+
+## Further reviewed records
+
+The follow-up submitted-list reviews added 36 further foods: Pınar, Tat and
+Knorr items, additional Eti and Ülker snacks, and eleven Filiz pasta varieties.
+They also matched existing valid GTINs to submitted product names without
+creating duplicate records. Per-record evidence and unresolved barcode reasons
+are in the [catalogue analysis report](catalog_analysis/REPORT.md) and its
+`reviewed_food_*` and `repair_results_*` files.
 
 Fellas' 2026 manufacturer PDF was also examined. Its extracted text did not
 provide GTIN mappings, so no barcode was inferred from that catalogue and its

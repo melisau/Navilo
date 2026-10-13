@@ -1,0 +1,141 @@
+[
+  {
+    "code": "8690766149949",
+    "name": "Ülker Caramio Karamelli Sütlü Çikolata 32 g",
+    "ingredients": "Şeker, glikoz şurubu, tam yağlı süt tozu, kakao kitlesi, kakao yağı, bitkisel yağ (palm), invert şeker şurubu, nem tutucu (sorbitol), peynir altı suyu tozu (süt ürünü), emülgatörler (ayçiçek lesitini, poligliserol polirisinoleat), tuz, aroma vericiler (vanilin, karamel).",
+    "source_name": "Ülker Caramio 32 g perakende etiketi; Afta ve İYAŞ barkod eşlemesi; Ülker kataloğu ürün eşlemesi",
+    "source_url": "https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g",
+    "barcode_source_url": "https://www.aftamarket.com.tr/ulker-caramio-32-gr",
+    "field_sources": {
+      "code": ["https://www.aftamarket.com.tr/ulker-caramio-32-gr", "https://www.iyas.com.tr/ulker-caramio-karamelli-cikolata-32-gr-77782-p-122542", "https://www.elitteam.com.tr/userfiles/files/a.pdf"],
+      "name": ["https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g", "https://www.aftamarket.com.tr/ulker-caramio-32-gr"],
+      "ingredients": ["https://www.tkkoop.com.tr/urun/ulker-caramio-karamelli-batcik32-g"]
+    },
+    "allergens": ["milk"],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690504313333",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690526053394",
+    "name": "Eti Kombo Hindistan Cevizi ve Çikolata Kaplamalı Bisküvi 56 g",
+    "ingredients": "Buğday unu (gluten içerir), bitkisel yağ (palm, ayçiçek, pamuk, kanola), şeker, peynir altı suyu tozu (süt ürünü), pastörize yumurta, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, sodyum asit pirofosfat), invert şeker şurubu, melas şurubu, aroma vericiler, tuz, emülgatör (mono ve digliseritlerin diasetil tartarik asit esterleri), sütlü çikolata (%20,5) [şeker, kakao yağı, tam yağlı süt tozu, peynir altı suyu tozu (süt ürünü), kakao kitlesi, emülgatörler (ayçiçek lesitini, poligliserol polirisinolat), aroma verici (vanilin)], kavrulmuş hindistan cevizi (%8,9).",
+    "source_name": "Eti Kombo 56 g tam içerik etiketi; Asya Sanal Market ve Aykılıç Gross barkod/gramaj eşleşmesi",
+    "source_url": "https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/",
+    "barcode_source_url": "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644",
+    "field_sources": {
+      "code": ["https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644", "https://www.aykilicgross.com/urun/eti-kombo-hindistan-cevizi-ve-cikolata-kaplamali-biskuvi-56-gr.html"],
+      "name": ["https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/", "https://www.asyasanalmarket.com/eti-kombo-cikolata-kapli-56gr-kl-118-19644"],
+      "ingredients": ["https://www.allturko.com.tr/urun/8458/c/eti-eti-kombo-56-gr-atl-0145-8690526053394/", "https://www.bizimtoptan.com.tr/eti-kombo-cikolata-56-g-18li"]
+    },
+    "allergens": ["gluten", "milk", "egg"],
+    "traces": ["hazelnut", "soy", "peanut"],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690526055556",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690504108849",
+    "name": "Ülker Krispi Peynirli Çubuk Kraker 43 g",
+    "ingredients": "Buğday unu, bitkisel yağ (palm), peynir altı suyu tozu (süt), invert şeker şurubu, şeker, peynir tozu (%2,6), tuz, kabartıcılar (sodyum hidrojen karbonat, disodyum difosfat), aroma vericiler (süt), emülgatör (soya lesitini).",
+    "source_name": "Ülker Krispi Peynirli 43 g perakende etiketi; barkod ve gramaj ürün eşleme kaynağı",
+    "source_url": "https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690504108849-ulker-krispi-peynirli-cubuk-kraker-43-g",
+    "field_sources": {
+      "code": ["https://marketkarsilastir.com/fiyat/8690504108849-ulker-krispi-peynirli-cubuk-kraker-43-g"],
+      "name": ["https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878", "https://www.carrefoursa.com/ulker-krispi-peynirli-cubuk-kraker-43-g-p-30019794"],
+      "ingredients": ["https://www.sokmarket.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6878", "https://www.macrocenter.com.tr/ulker-krispi-peynirli-cubuk-kraker-43-g-p-6b1d08"]
+    },
+    "allergens": ["gluten", "milk", "soy"],
+    "traces": ["egg", "sesame", "tree_nuts"],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690504443337",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690504064428",
+    "name": "Ülker Dankek Rulo Pasta Çilekli 235 g",
+    "ingredients": "Şeker, buğday unu, su, glukoz şurubu, nem vericiler (gliserol, sorbitol), bitkisel yağlar (palm, pamuk, kanola, ayçiçek, palm çekirdeği), yumurta, invert şeker şurubu, dekstroz, peynir altı suyu tozu (süt), nişasta, emülgatörler (bitkisel yağ asitlerinin poligliserol esterleri, bitkisel yağ asitlerinin mono ve digliseritleri, soya lesitini, poligliserol polirisinoleat), modifiye nişasta, kabartıcılar (disodyum difosfat, sodyum hidrojen karbonat), tuz, koruyucular (potasyum sorbat, sodyum propiyonat, sorbik asit), kıvam arttırıcılar (pektin, guar gam, sodyum aljinat), asitlik düzenleyiciler (sitrik asit, trisodyum sitrat, trikalsiyum sitrat, disodyum monohidrojen fosfat), yağı azaltılmış kakao tozu (%0,1), çilek tozu (%0,1), kara havuç konsantresi, aroma vericiler, yağsız süttozu, renklendirici (beta karoten), stabilizör (kalsiyum klorür).",
+    "source_name": "Ülker Dankek Rulo Pasta Çilekli 235 g tam etiket kaydı; Ülker ürün kataloğunda aynı varyantın adet barkodu",
+    "source_url": "https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g",
+    "barcode_source_url": "https://www.elitteam.com.tr/userfiles/files/a.pdf",
+    "field_sources": {
+      "code": ["https://www.elitteam.com.tr/userfiles/files/a.pdf"],
+      "name": ["https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g", "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431", "https://www.elitteam.com.tr/userfiles/files/a.pdf"],
+      "ingredients": ["https://www.ozdilekteyim.com/market/market/ulker-dankek-rulo-kek-cilekli-235-g", "https://www.sokmarket.com.tr/ulker-dankek-rulo-pasta-cilekli-235-g-p-6431"]
+    },
+    "allergens": ["gluten", "egg", "soy", "milk"],
+    "traces": ["tree_nuts"],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690504162443",
+    "submission_status": "verified_not_imported",
+    "review_note": "Exact 235 g flavor and product GTIN match the Ülker catalog; recipe transcription follows the current retailer label. Retailer formulations show minor list differences, so package recheck is recommended when available."
+  },
+  {
+    "code": "8690635060269",
+    "name": "Tat Bezelye Konservesi 830 g",
+    "ingredients": "Bezelye (%60), su, tuz, asitlik düzenleyici (sitrik asit).",
+    "source_name": "Tat 830 g bezelye tam içerik etiketi; Chipper ve Güleç Kapında barkod/ambalaj eşleşmesi",
+    "source_url": "https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f",
+    "barcode_source_url": "https://partner.chipper.com.tr/urun/13112/c/tat-bezelye-830-g_8690635060269/",
+    "field_sources": {
+      "code": ["https://partner.chipper.com.tr/urun/13112/c/tat-bezelye-830-g_8690635060269/", "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"],
+      "name": ["https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f", "https://www.guleckapinda.com/urun/tat-bezelye-konservesi-830-g"],
+      "ingredients": ["https://www.migros.com.tr/hemen/tat-bezelye-830-g-p-89c97f", "https://tatb2b2c.blob.core.windows.net/tat-prod/Katalog-V1-dusuk.pdf"]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690547343007",
+    "submission_status": "verified_not_imported"
+  },
+  {
+    "code": "8690637812316",
+    "name": "Knorr Şehriyeli Tavuk Çorbası 51 g",
+    "ingredients": "Şehriye (%59) (durum buğdayı, su), iyotlu tuz, patates nişastası, aroma vericiler, maya özütü, yağ (tavuk), maltodekstrin, kurutulmuş öğütülmüş tavuk göğüs eti (%2,5), limon suyu tozu, şeker, sebze suyu konsantreleri (kereviz, havuç, pırasa, soğan), maydanoz, kurutulmuş öğütülmüş soğan, zerdeçal, karabiber özütü, sarımsak, zencefil, hintcevizi.",
+    "source_name": "Knorr Şehriyeli Tavuk 51 g tam içerik etiketi; S101 exact-variant GTIN record",
+    "source_url": "https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g",
+    "barcode_source_url": "https://s101.com/tr/products/8690637812316",
+    "field_sources": {
+      "code": ["https://s101.com/tr/products/8690637812316", "https://www.armay.net/wp-content/uploads/2020/01/FOOD-UNILEVER-22012020.pdf"],
+      "name": ["https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g", "https://s101.com/tr/products/8690637812316"],
+      "ingredients": ["https://www.ozdilekteyim.com/market/knorr-corba-sehriyeli-tavuk-51-g", "https://gidadedektifi.com/urun-incelemeleri/hazir-yemek-ve-toz-karisimlar/knorr-sehriyeli-tavuk-corbasi-toz-karisimi-422"]
+    },
+    "allergens": ["gluten", "celery"],
+    "traces": ["egg", "milk", "mustard", "soy", "hazelnut", "pistachio", "almond", "sesame"],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-invalid-gtin-review-round2-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported",
+    "submitted_code": "8690637922204",
+    "submission_status": "verified_not_imported"
+  }
+]

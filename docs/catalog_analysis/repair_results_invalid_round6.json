@@ -1,0 +1,236 @@
+{
+  "scope": "25 next distinct unused invalid-barcode food submissions after all prior result rows/priority candidate files",
+  "round": "invalid-round6",
+  "counts": {
+    "pending": 14,
+    "pending_identity_mismatch": 5,
+    "pending_ingredients": 6
+  },
+  "candidate_records": 0,
+  "results": [
+    {
+      "submitted_code": "8697405230601",
+      "submitted_name": "Sosero Cevizli Geleneksel Çemen",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Sosero Cevizli Geleneksel Çemen GTIN and complete package ingredient label found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8697405230724",
+      "submitted_name": "Sosero Balkan Sosu Ajvar (Acılı)",
+      "status": "pending_identity_mismatch",
+      "verified_code": "",
+      "note": "Sosero product listings/catalogue do not identify a Balkan Ajvar hot product. Similar Ajvar listings from other brands cannot establish this identity.",
+      "evidence_urls": [
+        "https://sosero.com/urunler"
+      ]
+    },
+    {
+      "submitted_code": "8680075581102",
+      "submitted_name": "Bol Bol Acılı Kahvaltılık Sos 300g",
+      "status": "pending_ingredients",
+      "verified_code": "",
+      "note": "BİM catalogues confirm Bol Bol 300 g breakfast-sauce variants exist, but no source ties this submitted barcode to the hot variant and a complete label was not found.",
+      "evidence_urls": [
+        "https://www.akakce.com/brosurler/bim-kahvaltilik-sos.html"
+      ]
+    },
+    {
+      "submitted_code": "8680075581126",
+      "submitted_name": "Bol Bol Cevizli Acuka Ezmesi",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Bol Bol walnut acuka product source with a valid GTIN and full ingredient label found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8697424103108",
+      "submitted_name": "Berrak Kahvaltılık Acılı Ezme 300g",
+      "status": "pending_ingredients",
+      "verified_code": "",
+      "note": "Berrak confirms its Dobipa hot breakfast spread 300 ml exists, but the manufacturer page gives neither an actual GTIN nor the full package ingredient list; the submitted code is invalid.",
+      "evidence_urls": [
+        "https://berraktursulari.com.tr/urun/dobipa-acili-kahvaltilik-ezme/"
+      ]
+    },
+    {
+      "submitted_code": "8697424103122",
+      "submitted_name": "Berrak Kahvaltılık Tatlı Ezme 300g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Berrak sweet breakfast ezme product page or GTIN+full-label evidence found. Manufacturer product pages surfaced hot Dobipa and Lutenitsa instead.",
+      "evidence_urls": [
+        "https://berraktursulari.com.tr/en/urun-kategori/sauces-garnishes/"
+      ]
+    },
+    {
+      "submitted_code": "8681682001106",
+      "submitted_name": "Junior Meze Acuka Gurme 200g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Exact Junior Meze Acuka Gurme 200 g product, GTIN, and label could not be verified from a manufacturer or reliable retailer source.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8681682001229",
+      "submitted_name": "Junior Meze Lütenitsa Balkan Sosu",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Exact Junior Meze Lutenitsa product, GTIN, and full label could not be verified.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8681682001359",
+      "submitted_name": "Junior Meze Girit Ezmesi (Peynirli Sos)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Exact Junior Meze Girit Ezmesi product, GTIN, and full label could not be verified.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8697405231103",
+      "submitted_name": "Sosero Fıstıklı Muhammara (Gurme)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Sosero Fıstıklı Muhammara product barcode and complete ingredient label found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8682162005408",
+      "submitted_name": "Temmuz Organik Sertifikalı Sos",
+      "status": "pending_ingredients",
+      "verified_code": "",
+      "note": "Temmuz Organik lists a 300 ml organic breakfast sauce, but the submitted name is generic and no matching GTIN or complete product label was found.",
+      "evidence_urls": [
+        "https://www.trendyol.com/magaza/temmuz-organik-ciftlik-m-313402"
+      ]
+    },
+    {
+      "submitted_code": "8690656005207",
+      "submitted_name": "Penguen Cevizli Kahvaltı Ezmesi",
+      "status": "pending_ingredients",
+      "verified_code": "",
+      "note": "Penguen Kahvaltılık Cevizli Biber Ezmesi 200 g is documented by CarrefourSA, but no actual barcode or full ingredient label is available on that listing.",
+      "evidence_urls": [
+        "https://www.carrefoursa.com/penguen-cam-kavanoz-kahvaltilik-cevizli-biber-ezmesi-200-g-p-30003243"
+      ]
+    },
+    {
+      "submitted_code": "8680075581508",
+      "submitted_name": "Bol Bol Çemenli Kahvaltılık Sos",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Bol Bol Çemenli breakfast-sauce product, valid GTIN, and full label source found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8697424104204",
+      "submitted_name": "Berrak Köz Patlıcanlı Kahvaltı Sosu",
+      "status": "pending_identity_mismatch",
+      "verified_code": "",
+      "note": "Berrak offers Dobipa sauces and Lutenitsa; no separate Köz Patlıcanlı Kahvaltı Sosu with matching GTIN and full label was verified.",
+      "evidence_urls": [
+        "https://berraktursulari.com.tr/en/urun-kategori/sauces-garnishes/"
+      ]
+    },
+    {
+      "submitted_code": "8681682001403",
+      "submitted_name": "Junior Meze Kurutulmuş Domates Sosu",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Junior Meze dried-tomato sauce product page, valid GTIN, and full ingredient label found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8697405231257",
+      "submitted_name": "Sosero Jalapeno Biber Dolgulu Sos",
+      "status": "pending_ingredients",
+      "verified_code": "8680395187573",
+      "note": "Sosero manufacturer confirms Peynir Dolgulu Jalapeno Biber in 300 cc jar, net 290 g, GTIN 8680395187573. Product description lists pepper pickle with cream cheese and curd cheese but is not the full ingredient declaration, so it cannot be imported.",
+      "evidence_urls": [
+        "https://sosero.com/urunler/peynir-dolgulu-jalapeno-biber/300-cc-cam-kavanoz"
+      ]
+    },
+    {
+      "submitted_code": "8697405231301",
+      "submitted_name": "Sosero Kiraz Biber Dolgulu Peynirli Sos",
+      "status": "pending_ingredients",
+      "verified_code": "8680395188808",
+      "note": "Sosero catalogue confirms Peynir Dolgulu Kiraz Biber 300 cc jar, net 290 g, GTIN 8680395188808. Catalogue and manufacturer descriptions do not provide a full ingredient declaration, so it cannot be imported.",
+      "evidence_urls": [
+        "https://sosero.com/wp-content/uploads/sosero/sosero-english-turkish.pdf"
+      ]
+    },
+    {
+      "submitted_code": "8690553426003",
+      "submitted_name": "Tat Barbekü Kahvaltılık Sos 290g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Tat Barbekü Kahvaltılık Sos 290 g product identity, GTIN, and complete label found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8690563008201",
+      "submitted_name": "Tukaş Kahvaltılık Acılı Ezme (Cam)",
+      "status": "pending_identity_mismatch",
+      "verified_code": "",
+      "note": "Tukaş official catalog lists Ajvar Sos 350 g and Acı Biber Sosu 350 g, but no distinct Kahvaltılık Acılı Ezme product matching the submitted name/code.",
+      "evidence_urls": [
+        "https://www.tukas.com.tr/arama.php?arama=5"
+      ]
+    },
+    {
+      "submitted_code": "8690764008203",
+      "submitted_name": "Burcu Akdeniz Sosu (Fesleğenli)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Burcu Akdeniz Sosu (Fesleğenli) product page or matching GTIN/full label found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8690656006105",
+      "submitted_name": "Penguen Sarımsaksız Kahvaltılık Sos",
+      "status": "pending_identity_mismatch",
+      "verified_code": "",
+      "note": "Penguen official catalogue identifies Pincur roasted pepper spread and lists garlic among its ingredients; this does not validate a separate garlic-free breakfast sauce or its submitted code.",
+      "evidence_urls": [
+        "https://www.penguen.com.tr/PENGUEN-GIDA-KATALOG-2022.pdf"
+      ]
+    },
+    {
+      "submitted_code": "8697424105157",
+      "submitted_name": "Berrak Ajvar Sos Tatlı 350g",
+      "status": "pending_identity_mismatch",
+      "verified_code": "",
+      "note": "Berrak pages reviewed list Dobipa hot/walnut and Lutenitsa, but no sweet Ajvar 350 g product with this GTIN and a full label.",
+      "evidence_urls": [
+        "https://berraktursulari.com.tr/en/urun-kategori/sauces-garnishes/"
+      ]
+    },
+    {
+      "submitted_code": "8681682001557",
+      "submitted_name": "Junior Meze Humus Çeşnili Ezme",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Junior Meze hummus-flavoured spread product or barcode/label source found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8697405231455",
+      "submitted_name": "Sosero Köz Biberli Yoğurtlu Kahvaltı Sos",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Sosero yogurt-and-roasted-pepper breakfast sauce product page or exact GTIN/ingredient declaration found.",
+      "evidence_urls": []
+    },
+    {
+      "submitted_code": "8680075582208",
+      "submitted_name": "Bol Bol Fındıklı Acuka 290g",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No Bol Bol hazelnut acuka 290 g product source with an actual GTIN and full ingredients found.",
+      "evidence_urls": []
+    }
+  ]
+}

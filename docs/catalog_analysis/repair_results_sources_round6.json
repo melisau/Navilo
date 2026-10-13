@@ -1,0 +1,301 @@
+{
+  "batch": "sources-round6-golden-rose-20261013",
+  "summary": {
+    "submitted_cases": 25,
+    "reviewed_records_ready": 9,
+    "cosmetic_records_ready": 9,
+    "food_records_ready": 0,
+    "pending_cases": 16,
+    "catalog_written": false
+  },
+  "results": [
+    {
+      "submitted_code": "8691190703820",
+      "verified_code": "8691190703820",
+      "status": "ready_identity_verified",
+      "name": "Golden Rose Color Expert Nail Lacquer No: 82 (10.2 ml)",
+      "reason": "Ürün kodu 8691190703820 ve Color Expert No:82/10.2 ml varyantı perakendeci kaydıyla eşleşiyor; üreticinin seri sayfası shade 82’yi içeriyor ve bu serinin tam INCI + CI “may contain” beyanını yayımlıyor. Gönderilen “Soft Grey” renk tanımı birincil varyant kaynağında doğrulanmadığından ad shade numarasıyla normalize edildi.",
+      "source_urls": [
+        "https://www.drogeria-vmd.com/golden-rose-color-expert-lak-na-nehty-082/",
+        "https://www.goldenrosecosmetics.gr/nyxia/color-expert-nail-lacquer-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190703905",
+      "verified_code": "8691190703905",
+      "status": "ready_identity_verified",
+      "name": "Golden Rose Color Expert Nail Lacquer No: 90 (10.2 ml)",
+      "reason": "Aynı GTIN için ürün adı, 90 shade, 10.2 ml ve renk tonu bağımsız perakendeci kayıtlarında eşleşiyor; üretici seri INCI’si tam ve +/- pigmentleri kapsıyor.",
+      "source_urls": [
+        "https://www.kozmetikvar.com/urun/golden-rose-color-expert-oje-90-fume-gri",
+        "https://allegro.pl/produkt/golden-rose-color-expert-lakier-90-72e0ddac-879f-49a4-b9eb-b8da7bf5ac2e",
+        "https://www.goldenrosecosmetics.gr/nyxia/color-expert-nail-lacquer-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419011",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Extreme Gel Shine No: 01 Milky White",
+      "reason": "Extreme Gel Shine No:01 için aranan submitted GTIN eşleşmedi; üretici perakende shade/GTIN tablosu No:01 için 8691190419073 gösteriyor. Submitted barkod ile gerçek 01 arasında bağ bulunmadığından düzeltme yapılmadı; exact package GTIN gerekli.",
+      "source_urls": [
+        "https://www.beauty.store.bg/p283637/golden-rose-extreme-gel-shine-nail-color-lak-za-nokti-s-gel-efekt.html?fts=school",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190419042",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Extreme Gel Shine No: 04 Powder Pink",
+      "reason": "Submitted code için exact-code source bulunamadı; resmi shade/GTIN dizini No:04 için 8691190419103 gösteriyor. Bu nedenle submitted code ile shade arasında kanıtlı eşleşme yok; barkod fotoğrafı/GS1 tie-out gerekli.",
+      "source_urls": [
+        "https://www.beauty.store.bg/p283637/golden-rose-extreme-gel-shine-nail-color-lak-za-nokti-s-gel-efekt.html?fts=school",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190419066",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Extreme Gel Shine No: 06 Dusty Rose",
+      "reason": "Submitted code için exact-code source bulunamadı; resmi shade/GTIN dizini No:06 için 8691190419127 gösteriyor. Bu nedenle submitted code ile shade arasında kanıtlı eşleşme yok; barkod fotoğrafı/GS1 tie-out gerekli.",
+      "source_urls": [
+        "https://www.beauty.store.bg/p283637/golden-rose-extreme-gel-shine-nail-color-lak-za-nokti-s-gel-efekt.html?fts=school",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190419165",
+      "verified_code": "8691190419165",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 10 (10.2 ml)",
+      "reason": "Aynı GTIN, Extreme Gel Shine No:10 olarak perakendecide doğrulandı; üretici shade serisi ve tam seri INCI’si mevcut. Gönderilen No:16/Scarlett adı barkodla uyuşmadığından No:10 olarak düzeltilmeli.",
+      "source_urls": [
+        "https://brandscorners.ma/produit/vernis-a-ongles-extreme-gel-shine-nail-color-n-10/",
+        "https://www.goldenrose.com.tr/pdf/GR-eng-catalogue-2022-09.pdf",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419196",
+      "verified_code": "8691190419196",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 13 (10.2 ml)",
+      "reason": "Aynı GTIN, Extreme Gel Shine No:13 olarak üretici/perakendeci kanallarında doğrulandı; gönderilen No:19/Fuchsia adı barkodla uyuşmuyor. Üreticinin tam seri INCI ve pigment beyanı eklendi.",
+      "source_urls": [
+        "https://www.recete.com/golden-rose-extreme-gel-shine-nail-color-102ml-no-13",
+        "https://allegro.pl/oferta/golden-rose-lakier-gel-shine-13-17458893412",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419264",
+      "verified_code": "8691190419264",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 20 (10.2 ml)",
+      "reason": "Aynı GTIN ve No:20 varyantı birden fazla perakende kaydında eşleşiyor; gönderilen No:26 adı GTIN kaydıyla uyuşmuyor. Tam seri INCI doğrulanmıştır.",
+      "source_urls": [
+        "https://www.noon.com/uae-en/gr-extreme-gel-shine-nail-color-no-20/N34159778A/p/",
+        "https://veronicanailproducts.nl/nail-art/golden-rose-extreme-gel-shine-nail-color-nude-roze-nagellak-20",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419271",
+      "verified_code": "8691190419271",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 21 (10.2 ml)",
+      "reason": "Aynı GTIN için Trendyol ve dm No:21/10.2 ml varyantını veriyor; gönderilen No:27/Mauve adı yanlış. dm exact product listing full INCI veriyor, üretici seri sayfası da destekliyor.",
+      "source_urls": [
+        "https://www.trendyol.com/golden-rose/extreme-gel-shine-nail-color-no-21-p-49642815",
+        "https://www.dm-drogeriemarkt.bg/p/d/3027909/golden-rose-lak-za-nokti-extreme-gel-shine-21",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419455",
+      "verified_code": "8691190419455",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 39 (10.2 ml)",
+      "reason": "Aynı GTIN perakendeci ürün kaydında No:39/10.2 ml ve tam etiket bileşenleriyle doğrulandı; gönderilen No:45 adı GTIN ile çelişiyor.",
+      "source_urls": [
+        "https://www.ozone.bg/product/golden-rose-lak-za-nokti-extreme-gel-shine-n39-10-2-ml/",
+        "https://www.goldenrose.com.tr/pdf/GR-eng-catalogue-2022-09.pdf",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419509",
+      "verified_code": "8691190419509",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 44 (10.2 ml)",
+      "reason": "Tam barkod kaydı No:44’e eşliyor; üretici shade listesinde 44 yer alıyor ve seri INCI/pigment beyanını yayımlıyor. Gönderilen No:50/Metallic Silver adı yanlış.",
+      "source_urls": [
+        "https://barcode.bg/barcode/BG/Информация-за-баркод.htm?barcode=EXTREME",
+        "https://www.ladymakeup.pl/sklep/Golden-Rose-Extreme-Gel-Shine-Nail-Color-Zelowy-lakier-do-paznokci.html",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190419608",
+      "verified_code": "8691190419608",
+      "status": "ready_identity_corrected",
+      "name": "Golden Rose Extreme Gel Shine Nail Color No: 54 (10.2 ml)",
+      "reason": "Aynı GTIN #54 olarak perakendeci ve shade/GTIN tablosunda eşleşiyor; gönderilen #60/Carbon Black adı GTIN kaydıyla uyuşmuyor.",
+      "source_urls": [
+        "https://www.noon.com/uae-en/extreme-gel-shine-nail-color-no-54/N34159779A/p/",
+        "https://www.beauty.store.bg/p283637/golden-rose-extreme-gel-shine-nail-color-lak-za-nokti-s-gel-efekt.html?fts=school",
+        "https://www.goldenrosecosmetics.gr/nyxia/extreme-gel-shine-nail-color-gr"
+      ]
+    },
+    {
+      "submitted_code": "8691190504014",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 101 White",
+      "reason": "Gönderilen Ice Color No:101 barkodu için ürün kaydı bulunamadı. Golden Rose Türkiye resmi shop aynı mini ürünü 8691190643010 ile listeliyor; bir diğer ülke satıcısı 8691190645014 veriyor. Gönderilen GTIN iki kaynağın hiçbirinde değil ve düzeltilmiş GTIN’ler çeliştiğinden beklemede; doğru ülke/ambalaj GTIN’i ve barkod fotoğrafı gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504014",
+        "https://shop.goldenrose.com.tr/golden-rose-ice-color-nail-lacquer-101-mini-oje",
+        "https://brigplus.ru/catalog/katalog_po_vidam/dekorativnaya_kosmetika/lak_dlya_nogtey/gr_lak_dn_ice_color_101_belyy_perlamutr_12"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504052",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 105 Nude Pink",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504052"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504069",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 106 Rose Beige",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504069"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504120",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 112 Baby Pink",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504120"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504182",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 118 Hot Pink",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504182"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504243",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 124 Classic Red",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504243"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504281",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 128 Dark Red",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504281"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504328",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 132 Damson",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504328"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504397",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 139 Royal Blue",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504397"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504441",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 144 Pastel Teal",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504441"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504502",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 150 Olive Green",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504502"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504625",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 162 Charcoal",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504625"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    },
+    {
+      "submitted_code": "8691190504687",
+      "verified_code": "",
+      "status": "pending_identity_or_gtin_tieout",
+      "name": "Ice Color Nail Lacquer No: 168 Midnight Black",
+      "reason": "Tam submitted GTIN exact-code web aramasında ve OFF kod kaydında aynı Golden Rose ürün varyantını doğrulayan kaynak bulunamadı; barkod checksum bakımından geçerli olsa da kimliği kanıtlamıyor. Barkod veya shade/gramaj eşleşmesini, ayrıca tam INCI’yi gösteren üretici/perakendeci etiketi gerekli.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/product/8691190504687"
+      ],
+      "required_evidence": "Exact submitted GTIN-to-shade tie-out and full, shade-appropriate INCI label; for a correction, independent evidence of the correct GTIN."
+    }
+  ]
+}

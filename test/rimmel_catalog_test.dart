@@ -23,7 +23,10 @@ void main() {
     expect(product.mayContain, contains('CI 77499'));
     expect(product.sourceUrl, startsWith('https://www.rimmellondon.com/'));
     expect(networkCalls, 0);
-    await expectLater(repo.find('3607349631611', category: 'cosmetic'),
-        throwsA(isA<ProductLookupException>()));
+    final correctedIdentity =
+        await repo.find('3607349631611', category: 'cosmetic');
+    expect(correctedIdentity.name,
+        'Rimmel London Scandaleyes Retro Glam Mascara 001 Black 12 ml');
+    expect(correctedIdentity.ingredients, contains('Aqua/Water/Eau'));
   });
 }

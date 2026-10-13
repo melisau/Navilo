@@ -1,0 +1,32 @@
+[
+  {
+    "code": "8690158121010",
+    "name": "Teksüt Tam Yağlı Süzme Beyaz Peynir 250 g",
+    "ingredients": "Pastörize inek sütü, tuz, peynir kültürü, peynir mayası. Kuru maddede en az %45 süt yağı içerir. Laktoz içerir.",
+    "source_name": "Teksüt üretici kataloğu (GTIN/gramaj/ürün adı) ve Aksa Gıda tam ürün etiketi",
+    "source_url": "https://aksagida.com.tr/magaza/index.php?product_id=206&route=product%2Fproduct",
+    "barcode_source_url": "https://teksut.com.tr/wp-content/uploads/2025/03/2025-Yurti%C3%A7i-Katalog.pdf",
+    "field_sources": {
+      "code": [
+        "https://teksut.com.tr/wp-content/uploads/2025/03/2025-Yurti%C3%A7i-Katalog.pdf"
+      ],
+      "name": [
+        "https://teksut.com.tr/wp-content/uploads/2025/03/2025-Yurti%C3%A7i-Katalog.pdf",
+        "https://aksagida.com.tr/magaza/index.php?product_id=206&route=product%2Fproduct"
+      ],
+      "ingredients": [
+        "https://aksagida.com.tr/magaza/index.php?product_id=206&route=product%2Fproduct"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "food-sources-round5-discovery-20261013",
+    "checked_at": "2026-10-13T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_label_and_manufacturer_catalog"
+  }
+]

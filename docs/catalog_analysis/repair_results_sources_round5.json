@@ -1,0 +1,317 @@
+{
+  "batch": "sources-round5-20261013",
+  "summary": {
+    "submitted_cases": 25,
+    "reviewed_records_ready": 0,
+    "food_records_ready": 0,
+    "cosmetic_records_ready": 0,
+    "pending_cases": 25,
+    "standalone_discovery_records_ready": 0,
+    "catalog_written": true
+  },
+  "results": [
+    {
+      "submitted_code": "0748927028669",
+      "verified_code": "",
+      "status": "pending_conflicting_full_formulas",
+      "name": "ON Gold Standard chocolate 2270 g",
+      "reason": "Exact GTIN and 5 lb Double Rich Chocolate identity were found, but the full formulas conflict: one exact-code label transcribes Aminogen and Lactase while another says Salt and Sucralose. Since regional/pack-version tie-out is missing, leave pending; need current label photo or manufacturer confirmation for this exact GTIN.",
+      "source_urls": [
+        "https://go-upc.com/search?q=0748927028669",
+        "https://world.openfoodfacts.org/product/0748927028669"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134035",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Beyaz Çikolatalı Bisküvili Tablet",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134035.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134042",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Bitter Kuvertür Çikolata (200g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134042.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134059",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Sütlü Kuvertür Çikolata (200g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134059.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134066",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Beyaz Kuvertür Çikolata (200g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134066.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134073",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "%80 Yoğun Bitter Çikolata (80g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134073.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134080",
+      "verified_code": "",
+      "status": "identity_conflict",
+      "name": "Portakallı Bitter Çikolata (80g)",
+      "reason": "Exact-code search returned a low-confidence barcode-directory page describing “parfum” without a verifiable manufacturer/label; this conflicts with the submitted Harras chocolate identity. Need GS1/manufacturer or package-photo evidence before mapping.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134080.json",
+        "https://www.barkodoku.com/8695077134080"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134097",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Sütlü Damla Çikolata (150g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134097.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134103",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Bitter Damla Çikolata (150g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134103.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134110",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Bademli Sütlü Çikolata (80g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134110.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134127",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Çilekli Beyaz Çikolata (80g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134127.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134134",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Karamelli Sütlü Çikolata (80g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134134.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077134141",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Sürülebilir Sütlü Kakao Kreması",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077134141.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112590",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Organik Pastörize İnek Sütü",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112590.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112606",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Sürülebilir Lor Peyniri (400g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112606.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112613",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Organik Labne Peyniri (200g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112613.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112620",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Kelle Loru (500g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112620.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112637",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Hellim Peyniri (250g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112637.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112644",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Bergama Tulum Peyniri",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112644.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112651",
+      "verified_code": "",
+      "status": "identity_conflict",
+      "name": "Laktozsuz Tam Yağlı Ayran",
+      "reason": "Exact-code search returned a Bulgarian barcode listing for Scarlet night sanitary pads, conflicting with the submitted Harras ayran identity. This secondary listing is not sufficient to correct the GTIN; need primary GS1/manufacturer/package evidence.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112651.json",
+        "https://barcode.bg/barcode/BG/Информация-за-баркод.htm?barcode=Скарлет"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112668",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Laktozsuz Sade Kefir (1 L)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112668.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112675",
+      "verified_code": "",
+      "status": "identity_conflict",
+      "name": "Süzme Yoğurt (900g)",
+      "reason": "Exact-code search returned a Bulgarian barcode listing for Scarlet sanitary pads, conflicting with the submitted Harras strained-yogurt identity. The secondary listing does not establish a verified replacement; need manufacturer/GS1/package evidence.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112675.json",
+        "https://barcode.bg/barcode/BG/Информация-за-баркод.htm?barcode=Скарлет"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112682",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Yarım Yağlı UHT Süt (1 L)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112682.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112699",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Yağsız (Skimmed) UHT Süt",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112699.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "8695077112705",
+      "verified_code": "",
+      "status": "pending_exact_gtin_and_full_ingredients",
+      "name": "Kaymaklı Tava Yoğurdu (1250g)",
+      "reason": "Exact submitted GTIN was checked against its Open Food Facts record and an exact-code web search. No authoritative source tied this GTIN to the submitted product and a complete current ingredient label; checksum validity alone is insufficient. Need manufacturer or major retailer evidence showing the exact GTIN, matching variant/pack size, and full ingredient list.",
+      "source_urls": [
+        "https://world.openfoodfacts.org/api/v0/product/8695077112705.json"
+      ],
+      "required_evidence": "Exact GTIN-to-product identity plus complete ingredient panel for the same package/variant; if correcting, a primary/GS1 source for the replacement GTIN."
+    },
+    {
+      "submitted_code": "",
+      "verified_code": "8690158121010",
+      "status": "added",
+      "name": "Teksüt Tam Yağlı Süzme Beyaz Peynir 250 g",
+      "reason": "Üretici 2025 kataloğu ve perakendeci etiketi eşleşerek gerçek GTIN, 250 g gramaj ve tam içerik verdi; gönderilen 8692383005226 ile aynı GTIN değil ve aralarında güvenilir bağ kanıtı bulunmadığından gönderilen satır kapanmış sayılmaz. Kaydedilen yanlış barkodla eşleştirilmedi; bağımsız keşif olarak eklendi.",
+      "source_urls": [
+        "https://teksut.com.tr/wp-content/uploads/2025/03/2025-Yurti%C3%A7i-Katalog.pdf",
+        "https://aksagida.com.tr/magaza/index.php?product_id=206&route=product%2Fproduct"
+      ]
+    }
+  ],
+  "standalone_discoveries": [
+    {
+      "submitted_code": "",
+      "verified_code": "8690158121010",
+      "status": "added",
+      "name": "Teksüt Tam Yağlı Süzme Beyaz Peynir 250 g",
+      "reason": "Üretici 2025 kataloğu ve perakendeci etiketi eşleşerek gerçek GTIN, 250 g gramaj ve tam içerik verdi; gönderilen 8692383005226 ile aynı GTIN değil ve aralarında güvenilir bağ kanıtı bulunmadığından gönderilen satır kapanmış sayılmaz. Kaydedilen yanlış barkodla eşleştirilmedi; bağımsız keşif olarak eklendi.",
+      "source_urls": [
+        "https://teksut.com.tr/wp-content/uploads/2025/03/2025-Yurti%C3%A7i-Katalog.pdf",
+        "https://aksagida.com.tr/magaza/index.php?product_id=206&route=product%2Fproduct"
+      ]
+    }
+  ]
+}

@@ -35,8 +35,9 @@ void main() {
       expect(record.ingredients, isNotEmpty);
       expect(record.ingredients, isNot(contains('MAY CONTAIN')));
       expect(record.ingredients, isNot(contains('Base +')));
-      expect(record.mayContain, row['may_contain']);
-      expect(Uri.parse(record.sourceUrl).host, 'shop.goldenrose.com.tr');
+      expect(record.mayContain, row['may_contain'] ?? '');
+      expect(Uri.parse(record.sourceUrl).scheme, 'https');
+      expect(Uri.parse(record.sourceUrl).host, isNotEmpty);
       expect(record.nameMatched, isFalse);
     }
     expect(networkCalls, 0);

@@ -94,6 +94,9 @@ void main() {
     expect(product.ingredients, isNotEmpty);
     expect(product.ingredients.toLowerCase(), contains('süt'));
     final cosmetics = await repo.listCurated(category: 'cosmetic');
-    expect(cosmetics.where((p) => p.imageUrl != null), isEmpty);
+    final withImages = cosmetics.where((p) => p.imageUrl != null).toList();
+    expect(withImages, isNotEmpty);
+    expect(withImages.every((p) => p.imageSourceUrl?.startsWith('https://') == true),
+        isTrue);
   });
 }

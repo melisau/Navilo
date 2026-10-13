@@ -1,0 +1,188 @@
+{
+  "scope": "25 next high-priority invalid-barcode food submissions (excluding first50)",
+  "round": "invalid-round4",
+  "counts": {
+    "existing_verified": 5,
+    "verified_not_imported": 0,
+    "pending": 12,
+    "added": 8
+  },
+  "candidate_records": 8,
+  "results": [
+    {
+      "submitted_code": "8690526001145",
+      "submitted_name": "Eti Popkek Çikolatalı (60g)",
+      "status": "existing_verified",
+      "verified_code": "8690526093710",
+      "note": "Already in the main catalogue with a valid GTIN: Eti Popkek Çikolatalı Kek 60 g (8690526093710); no duplicate record needed."
+    },
+    {
+      "submitted_code": "8690526001183",
+      "submitted_name": "Eti Popkek Muzlu (60g)",
+      "status": "added",
+      "verified_code": "8690526083728",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690526111424",
+      "submitted_name": "Eti Paykek Kakaolu Baton (220g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Searched 220g name, but sources currently show Paykek 200g/other assortment sizes; exact 220g product and full label not tied to a GTIN."
+    },
+    {
+      "submitted_code": "8690526111455",
+      "submitted_name": "Eti Paykek Mozaik Baton (220g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Searched 220g name, but sources currently show Paykek 200g/other assortment sizes; exact 220g product and full label not tied to a GTIN."
+    },
+    {
+      "submitted_code": "8690526091427",
+      "submitted_name": "Eti Browni Intense Çikolatalı (50g)",
+      "status": "added",
+      "verified_code": "8690526076379",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690526091458",
+      "submitted_name": "Eti Browni Gold Çikolata Soslu (45g)",
+      "status": "added",
+      "verified_code": "8690526093734",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690526002128",
+      "submitted_name": "Eti Kombo Kurabiye (56g)",
+      "status": "existing_verified",
+      "verified_code": "8690526053394",
+      "note": "Already in the main catalogue with a valid GTIN: Eti Kombo Hindistan Cevizi ve Çikolata Kaplamalı Bisküvi 56 g (8690526053394); no duplicate record needed."
+    },
+    {
+      "submitted_code": "8690526002159",
+      "submitted_name": "Eti Prono Glutensiz Bisküvi (85g)",
+      "status": "existing_verified",
+      "verified_code": "8690526278780",
+      "note": "Already in the main catalogue with a valid GTIN: Eti Pronot Glutensiz Kakaolu Kurabiye 85 g (8690526278780); no duplicate record needed."
+    },
+    {
+      "submitted_code": "8690526003224",
+      "submitted_name": "Eti Balık Kraker (40g)",
+      "status": "added",
+      "verified_code": "8690533024035",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690526003255",
+      "submitted_name": "Eti Pizza Kraker (40g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Pizza Kraker results found for 35g or other sizes; exact 40g submitted size not verified."
+    },
+    {
+      "submitted_code": "8690526011113",
+      "submitted_name": "Eti Finger Bisküvi (900g)",
+      "status": "added",
+      "verified_code": "8690533771021",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690526011151",
+      "submitted_name": "Eti Marie Bisküvi (175g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Exact Eti Marie 175g GTIN and complete label could not be confirmed from a reliable source."
+    },
+    {
+      "submitted_code": "8690526011205",
+      "submitted_name": "Eti Petibör Klasik (450g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Eti 450g Pötibör SKU with source-confirmed GTIN and full label found in this pass."
+    },
+    {
+      "submitted_code": "8690526011250",
+      "submitted_name": "Eti Kakaolu Petibör (450g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Eti 450g Pötibör SKU with source-confirmed GTIN and full label found in this pass."
+    },
+    {
+      "submitted_code": "8690526014114",
+      "submitted_name": "Eti Topkek Kakaolu (35g)",
+      "status": "added",
+      "verified_code": "8690526056135",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690526014152",
+      "submitted_name": "Eti Topkek Meyveli (35g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Exact matching barcode plus complete same-variant ingredient label not yet established."
+    },
+    {
+      "submitted_code": "8690526041226",
+      "submitted_name": "Eti Gofret Çikolatalı (34g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Eti Çikolatalı Gofret exact submitted 34g variant not established; search results surfaced other wafer sizes."
+    },
+    {
+      "submitted_code": "8690526051126",
+      "submitted_name": "Eti Puff Kakaolu Granüllü (18g)",
+      "status": "existing_verified",
+      "verified_code": "86920124",
+      "note": "Already in the main catalogue with a valid GTIN: Eti Puf Kakaolu Bisküvi 18 g (86920124); no duplicate record needed."
+    },
+    {
+      "submitted_code": "8690526051157",
+      "submitted_name": "Eti Puff Renkli Granüllü (18g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Eti Puf Renkli 18g product appears in current retail pages, but a source-confirmed single-pack GTIN and full ingredient label were not established."
+    },
+    {
+      "submitted_code": "8690526061224",
+      "submitted_name": "Eti Bidolu Fındıklı Gofret (81g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "Current catalog has Bidolu Kakao Kremalı Yer Fıstığı Parçacıklı 81g; submitted “Fındıklı” wording may mean hazelnut and is not safe to equate to peanut filling without variant proof."
+    },
+    {
+      "submitted_code": "8690504011111",
+      "submitted_name": "Ülker Pötibör Klasik (450g)",
+      "status": "added",
+      "verified_code": "8690504011408",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690504011159",
+      "submitted_name": "Ülker Kakaolu Pötibör (450g)",
+      "status": "added",
+      "verified_code": "8690504011507",
+      "note": "Exact product variant and package size, real GTIN and complete label ingredients verified; added to the catalogue."
+    },
+    {
+      "submitted_code": "8690504012118",
+      "submitted_name": "Ülker Finger Bisküvi (450g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Ülker Finger 450g GTIN and full ingredient label pair found; Eti Finger 900g is a distinct product."
+    },
+    {
+      "submitted_code": "8690504021110",
+      "submitted_name": "Ülker Halley Sandviç Bisküvi (30g)",
+      "status": "existing_verified",
+      "verified_code": "8690504034032",
+      "note": "Already in the main catalogue with a valid GTIN: Ülker Halley Süper Çikolata Kaplı Bisküvi 30 g (8690504034032); no duplicate record needed."
+    },
+    {
+      "submitted_code": "8690504021158",
+      "submitted_name": "Ülker Halley Karadutlu (30g)",
+      "status": "pending",
+      "verified_code": "",
+      "note": "No exact Karadutlu Halley 30g GTIN+full ingredient label found; standard chocolate Halley is a different variant."
+    }
+  ]
+}
