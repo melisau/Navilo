@@ -1,6 +1,6 @@
-# Flormar kozmetik kataloğu — 13 Ekim 2026
+# Flormar kozmetik kataloğu — 14 Ekim 2026
 
-78 Nail Enamel varyantı resmi Flormar ürün sayfalarından toplandı. Barkod araması `cosmetic` kategorisinde paketlenmiş `assets/curated_cosmetics.json` dosyasını kullanır; internet gerektirmez. Mevcut gıda kataloğu korunmuştur.
+79 Nail Enamel varyantı resmi Flormar ürün sayfalarından toplandı. Barkod araması `cosmetic` kategorisinde paketlenmiş `assets/curated_cosmetics.json` dosyasını kullanır; internet gerektirmez. Mevcut gıda kataloğu korunmuştur. Buna Latte Yüksek Pigmentli & Parlak Bitişli Kahve Tonlu Oje (`8682536104678`) de dahildir.
 
 Kullanıcının verdiği 319 White Dance, 428, 305 Beige Latte, 227 Milk Foam, 321 Red Flag, 452 Marine Lover ve 077 Light Pink barkodları dahildir. 428'in güncel resmi renk adı HOT CHOCOLATE olarak kaydedildi.
 

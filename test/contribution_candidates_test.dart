@@ -1,0 +1,27 @@
+import 'dart:convert';
+
+import 'package:flutter/services.dart';
+import 'package:flutter_test/flutter_test.dart';
+
+void main() {
+  TestWidgetsFlutterBinding.ensureInitialized();
+
+  test('incomplete product research is available for user contribution', () async {
+    final rows = jsonDecode(
+            await rootBundle.loadString('assets/contribution_candidates.json'))
+        as List;
+    final ids = rows.map((row) => row['id']).toSet();
+    expect(ids.length, rows.length);
+    for (final name in [
+      'Harras Frambuazlı Cheesecake (650 g)',
+      'Harras San Sebastian Cheesecake (500 g)',
+      'Sinangil Glutensiz Karabuğdaylı Baton Ekmek (350 g)',
+      'Lorenz Chipsletten Paprika Aromalı Patates Cipsi (100 g)',
+      'Dimes Şeftali Nektarı (1 L)',
+      'Dimes Vişne Nektarı (200 ml)',
+      'Cappy Şeftali Nektarı Karton Kutu (200 ml)',
+    ]) {
+      expect(rows.any((row) => row['name'] == name), isTrue);
+    }
+  });
+}

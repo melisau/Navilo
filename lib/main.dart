@@ -113,7 +113,7 @@ class HomePage extends StatefulWidget {
   State<HomePage> createState() => _HomePageState();
 }
 
-class _HomePageState extends State<HomePage> {
+class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   final label = TextEditingController();
   late final Future<Policy> policy = widget.initialPolicy == null
       ? rootBundle.loadString('assets/policy.json').then(Policy.decode)
@@ -198,8 +198,16 @@ class _HomePageState extends State<HomePage> {
   @override
   void initState() {
     super.initState();
+    WidgetsBinding.instance.addObserver(this);
     loadSettings();
     loadSkinProfile();
+  }
+
+  @override
+  void didChangeAppLifecycleState(AppLifecycleState state) {
+    if (state == AppLifecycleState.resumed) {
+      syncPendingSubmissions();
+    }
   }
 
   Future<void> loadSkinProfile() async {
@@ -238,6 +246,7 @@ class _HomePageState extends State<HomePage> {
         libraryProducts = recent;
         recentProducts = recent.take(5).toList();
       });
+      await syncPendingSubmissions();
     } catch (_) {
       if (mounted) {
         setState(() => storageError = copy(
@@ -288,6 +297,35 @@ class _HomePageState extends State<HomePage> {
         setState(() => storageError = copy(
             'Kaydedilen ürünler listesi yenilenemedi.',
             'Saved products could not be refreshed.'));
+      }
+    }
+  }
+
+  Future<void> syncPendingSubmissions() async {
+    if (!ProductRepository.catalogConfigured) return;
+    try {
+      final store = await localStore;
+      final pending = await store.pendingSubmissions();
+      var failed = 0;
+      for (final item in pending) {
+        try {
+          await CommunitySubmission.submit(item.product,
+              language: item.language);
+          await store.removePendingSubmission(item);
+        } catch (_) {
+          failed++;
+        }
+      }
+      if (failed > 0 && mounted) {
+        setState(() => storageError = copy(
+            '$failed ürün internet bağlantısı bekliyor; bağlantı gelince tekrar eşitlenecek.',
+            '$failed product contribution(s) are waiting for internet and will retry automatically.'));
+      }
+    } on FormatException {
+      if (mounted) {
+        setState(() => storageError = copy(
+            'Bekleyen ortak kaynak kayıtları okunamadı.',
+            'Pending shared-source records could not be read.'));
       }
     }
   }
@@ -479,6 +517,7 @@ class _HomePageState extends State<HomePage> {
 
   @override
   void dispose() {
+    WidgetsBinding.instance.removeObserver(this);
     label.dispose();
     super.dispose();
   }
@@ -501,7 +540,6 @@ class _HomePageState extends State<HomePage> {
 
   Future<void> saveReviewedProduct() async {
     var code = activeBarcode;
-    var share = false;
     var barcodeError = false;
     final text = label.text.trim();
     final savedCategory = category;
@@ -568,21 +606,10 @@ class _HomePageState extends State<HomePage> {
                                     : null),
                             onChanged: (value) => code =
                                 value.trim().isEmpty ? null : value.trim()),
-                        if (ProductRepository.catalogConfigured)
-                          CheckboxListTile(
-                              contentPadding: EdgeInsets.zero,
-                              value: share,
-                              onChanged: (value) =>
-                                  update(() => share = value ?? false),
-                              title: Text(copy('Ortak kataloğa gönder',
-                                  'Submit to shared catalogue')),
-                              subtitle: Text(copy(
-                                  'Barkod, ürün adı ve içerik metninin paylaşılmasına izin veriyorum. Onaydan sonra herkes bulabilir. Fotoğraf paylaşılmaz.',
-                                  'I consent to sharing the barcode, name and ingredient text. Available to everyone after approval. Photos are not shared.'))),
                         const SizedBox(height: 12),
                         Text(copy(
-                            'Aynı kaydı yeniden kaydedersen adı ve içeriği güncellenir. Herkese açık paylaşılmaz.',
-                            'Saving the same record updates its name and ingredients. It is not shared publicly.')),
+                            'Barkodlu ve kontrol edilmiş kayıtlar ortak kaynağa gönderilir. İnternet yoksa bekletilir ve bağlantı gelince otomatik eşitlenir. Fotoğraf paylaşılmaz; kayıtlar inceleme sonrası herkes için kullanılabilir.',
+                            'Reviewed barcode records are submitted to the shared source. If offline, they wait and sync automatically when online. Photos are not shared; records become available to everyone after review.')),
                       ])),
                   actions: [
                     TextButton(
@@ -591,8 +618,7 @@ class _HomePageState extends State<HomePage> {
                     FilledButton(
                         onPressed: () {
                           if ((code != null &&
-                                  !RegExp(r'^\d{8,14}$').hasMatch(code!)) ||
-                              (share && code == null)) {
+                              !RegExp(r'^\d{8,14}$').hasMatch(code!))) {
                             update(() => barcodeError = true);
                             return;
                           }
@@ -641,16 +667,19 @@ class _HomePageState extends State<HomePage> {
       await refreshRecent();
       if (!mounted) return;
       var message = copy('Bu telefona kaydedildi.', 'Saved on this device.');
-      if (share) {
+      if (code != null && ProductRepository.catalogConfigured) {
         try {
+          await store.queueSubmission(saved, language: english ? 'en' : 'tr');
           await CommunitySubmission.submit(saved,
               language: english ? 'en' : 'tr');
-          message = copy('Kaydedildi. Ortak katalog için onay bekliyor.',
-              'Saved. Awaiting shared catalogue approval.');
+          await store.removePendingSubmission(PendingSubmission(
+              product: saved, language: english ? 'en' : 'tr'));
+          message = copy('Kaydedildi ve ortak kaynak incelemesine gönderildi.',
+              'Saved and submitted for shared-source review.');
         } catch (_) {
           message = copy(
-              'Telefona kaydedildi; ortak kataloğa gönderilemedi. Supabase anonim giriş ayarını ve bağlantıyı kontrol et.',
-              'Saved locally; submission failed. Check Supabase anonymous sign-in and connection.');
+              'Telefona kaydedildi; internet gelince ortak kaynağa otomatik gönderilecek.',
+              'Saved locally; it will be submitted to the shared source automatically when internet is available.');
         }
       }
       if (!mounted) return;
@@ -707,6 +736,7 @@ class _HomePageState extends State<HomePage> {
         if (!mounted) return;
         setState(() {
           category = saved!.category;
+          activeLocalProduct = saved;
           productName = saved.name.isEmpty ? null : saved.name;
           label.text = saved.ingredients;
           localReviewDate = saved.reviewedAt;
@@ -741,6 +771,8 @@ class _HomePageState extends State<HomePage> {
         setState(() {
           scanError =
               '${english ? "Barcode" : "Barkod"}: $barcode\n${error.attempts.join("\n")}\n${english ? "Take or upload an ingredient label photo." : "İçindekiler fotoğrafı çek veya ekle."}';
+          editingReview = true;
+          stage = ScanStage.review;
           searchingNameMatches = true;
         });
       }
@@ -761,18 +793,30 @@ class _HomePageState extends State<HomePage> {
       }
     } on FormatException {
       if (mounted) {
-        setState(() => scanError = english
-            ? 'Product or ingredients unavailable. Take a label photo below.'
-            : 'Ürün veya içerik bilgisi bulunamadı. Aşağıdan etiket fotoğrafı çek veya ekle.');
+        setState(() {
+          scanError = english
+              ? 'Product or ingredients unavailable. Take a label photo below.'
+              : 'Ürün veya içerik bilgisi bulunamadı. Aşağıdan etiket fotoğrafı çek veya ekle.';
+          editingReview = true;
+          stage = ScanStage.review;
+        });
       }
     } on SocketException {
       if (mounted) {
-        setState(() => scanError =
-            'Ürün verisine erişilemedi. İnternet bağlantısını kontrol et.');
+        setState(() {
+          scanError =
+              'Ürün verisine erişilemedi. İnternet bağlantısını kontrol et.';
+          editingReview = true;
+          stage = ScanStage.review;
+        });
       }
     } catch (_) {
       if (mounted) {
-        setState(() => scanError = 'Barkod ürünü getirilemedi. Tekrar dene.');
+        setState(() {
+          scanError = 'Barkod ürünü getirilemedi. Tekrar dene.';
+          editingReview = true;
+          stage = ScanStage.review;
+        });
       }
     } finally {
       if (mounted) {
@@ -1470,7 +1514,8 @@ class _HomePageState extends State<HomePage> {
                       scanBarcode();
                     }),
         actionCard(
-            title: copy('Etiket fotoğrafı çek', 'Take a label photo'),
+            title:
+                copy('İçindekiler fotoğrafı çek', 'Take an ingredients photo'),
             description: copy('İçindekilerin tamamını fotoğraflandır.',
                 'Capture the entire ingredient list.'),
             icon: Icons.camera_alt_outlined,
@@ -1590,11 +1635,11 @@ class _HomePageState extends State<HomePage> {
           onTap: reading
               ? null
               : () {
-                  if (scanError == null) setState(resetProduct);
-                  scanPhoto(ImageSource.camera);
+                  setState(resetProduct);
+                  scanBarcode();
                 },
           child: ConstrainedBox(
-            constraints: const BoxConstraints(minHeight: 174),
+            constraints: const BoxConstraints(minHeight: 202),
             child: SizedBox(
               width: double.infinity,
               child: Stack(children: [
@@ -1609,13 +1654,13 @@ class _HomePageState extends State<HomePage> {
                       mainAxisSize: MainAxisSize.min,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
-                        const Icon(Icons.document_scanner_outlined,
+                        const Icon(Icons.qr_code_scanner,
                             color: Color(0xFFE9C576), size: 29),
                         const SizedBox(height: 12),
                         Column(
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Text(copy('Etiketini tara', 'Scan the label'),
+                              Text(copy('Barkod okut', 'Scan barcode'),
                                   style: const TextStyle(
                                       color: Colors.white,
                                       fontFamily: 'serif',
@@ -1623,8 +1668,8 @@ class _HomePageState extends State<HomePage> {
                                       fontWeight: FontWeight.w600)),
                               const SizedBox(height: 3),
                               Text(
-                                  copy('İçindekiler listesini kamerayla oku',
-                                      'Read the ingredient list with your camera'),
+                                  copy('Ürünü hızlıca bul ve içeriğini incele',
+                                      'Find the product quickly and review its ingredients'),
                                   style: const TextStyle(
                                       color: Color(0xFFD2DAD3), fontSize: 13)),
                             ]),
@@ -1649,8 +1694,8 @@ class _HomePageState extends State<HomePage> {
             overflow: TextOverflow.ellipsis,
             style: Theme.of(context).textTheme.headlineMedium),
         const SizedBox(height: 5),
-        Text(copy('Barkodu okut ya da etiketi tara.',
-            'Scan a barcode or read its label.')),
+        Text(copy('Önce barkodu okut; gerekirse içindekiler fotoğrafı ekle.',
+            'Scan the barcode first; add an ingredients photo if needed.')),
         const SizedBox(height: 18),
         if (scanError != null) scanFailure(),
         scanHero(),
@@ -1661,11 +1706,12 @@ class _HomePageState extends State<HomePage> {
                   onPressed: reading
                       ? null
                       : () {
-                          setState(resetProduct);
-                          scanBarcode();
+                          if (scanError == null) setState(resetProduct);
+                          scanPhoto(ImageSource.camera);
                         },
-                  icon: const Icon(Icons.qr_code_2_rounded),
-                  label: Text(copy('Barkod okut', 'Scan barcode')))),
+                  icon: const Icon(Icons.camera_alt_outlined),
+                  label: Text(copy('İçindekiler fotoğrafı çek',
+                      'Take an ingredients photo')))),
           const SizedBox(width: 10),
           Expanded(
               child: OutlinedButton.icon(
@@ -2193,7 +2239,8 @@ class _HomePageState extends State<HomePage> {
           Text(copy('Neden dikkat edilmeli?', 'Why pay attention?'),
               style: Theme.of(context).textTheme.titleMedium),
           for (final rule in matches!)
-            IngredientExplanation(rule: rule, english: english),
+            IngredientExplanation(
+                rule: rule, english: english, ingredientText: label.text),
         ],
         if (category == 'food') dietaryPanel(),
         if (category == 'cosmetic') skinFitCard(label.text, reviewed: complete),

@@ -21,14 +21,19 @@ The read client is implemented. Sign-in, contributions and photo sharing are not
 Verify anon read access only exposes approved catalogue rows; a user cannot read another user's submissions, change status or overwrite catalogue rows. Add sign-in, abuse controls and a review workflow. A human-reviewed ingredient list is not a laboratory result or proof of gluten-free/low-FODMAP status. Do not automatically upload private library records.
 
 
-## Optional library contributions
+## Library contributions
 
-The save dialog supports explicit consent to submit the barcode, product name and
-reviewed ingredient text to `navilo_submissions`. Personal photos and preferences
-are not uploaded. Enable **Authentication → Sign In / Providers → Anonymous
-Sign-ins** in the Supabase dashboard. Sessions are currently memory-only; this
-prototype does not implement persistent contributor accounts or contribution
-management. Configure abuse protection before a public rollout.
+When a user saves a reviewed product with a barcode, the app queues the barcode,
+product name and ingredient text for `navilo_submissions` automatically. Personal
+photos and preferences are not uploaded. If the device is offline, the queue is
+kept in the local product store and retried when the app starts or resumes after
+the connection returns. Enable **Authentication → Sign In / Providers →
+Anonymous Sign-ins** in the Supabase dashboard. Sessions are currently
+memory-only; this prototype does not implement persistent contributor accounts or
+contribution management. Configure abuse protection before a public rollout.
+The `202610140001_submission_upsert.sql` migration makes a later save of the same
+barcode replace that contributor's pending version instead of creating a stale
+duplicate.
 
 Submissions remain pending until a trusted reviewer approves them with
 `navilo_approve_submission`. Only approved records are returned to other users.

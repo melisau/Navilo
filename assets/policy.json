@@ -141,9 +141,9 @@
         "e252"
       ],
       "name_en": "Nitrites and nitrates",
-      "summary_tr": "Nitritler bazı koşullarda kanserojen nitrozaminlerin oluşumuna katkıda bulunabilir. Risk miktara ve toplam maruziyete bağlıdır.",
-      "summary_en": "Nitrites can contribute to carcinogenic nitrosamine formation under some conditions. Risk depends on amount and overall exposure.",
-      "source_url": "https://www.efsa.europa.eu/en/press/news/170615",
+      "summary_tr": "Nitrit ve nitratlar kürlenmiş etlerde renk ve koruma için kullanılabilir. Pişirme sırasında veya sindirim koşullarında bazı nitrozaminlerin oluşumuna katkıda bulunabilir; bu bileşikler DNA hasarı ve kanser riskiyle ilişkilendirilmiştir. İşlenmiş et tüketimi kolorektal kanser riskiyle ilişkilendirildiği için miktar ve sıklık önemlidir. Bu madde eşleşmesi tek başına ürünün ne kadar risk taşıdığını göstermez; etiketin tamamı, porsiyon ve pişirme şekli birlikte değerlendirilmelidir.",
+      "summary_en": "Nitrites and nitrates may be used for preservation and colour in cured meats. During cooking or digestion, they can contribute to the formation of some nitrosamines; these compounds are associated with DNA damage and cancer risk. Processed-meat intake is associated with colorectal-cancer risk, so amount and frequency matter. This ingredient match alone does not quantify the product's risk; the full label, portion and cooking method should be considered together.",
+      "source_url": "https://www.iarc.who.int/news-events/iarc-monographs-volume-114-evaluation-of-the-carcinogenicity-of-the-consumption-of-red-meat-and-processed-meat/",
       "summary_reviewed_on": "2026-10-13"
     },
     {
@@ -282,8 +282,8 @@
         "sodium propylparaben"
       ],
       "name_en": "Parabens",
-      "summary_tr": "Hormon benzeri etkileri araştırılır; paraben türü ve miktarı önemlidir. Kozmetikteki tüm parabenlerin insanlarda zarar verdiği gösterilmiş değildir.",
-      "summary_en": "Potential hormone-like effects are studied; type and concentration matter. Harm from all cosmetic parabens has not been established in humans.",
+      "summary_tr": "Parabenler ürünü korumak için kullanılır. Bazı parabenlerin hormon sistemiyle olası ilişkileri araştırılmıştır; ancak tür, konsantrasyon ve toplam maruziyet önemlidir. Etikette bir paraben bulunması tek başına ürünün zararlı olduğunu göstermez; hassasiyet veya kişisel kaçınma tercihi varsa ürün türü ve içerik miktarı ayrıca değerlendirilmelidir.",
+      "summary_en": "Parabens are used to preserve a product. Possible hormone-related effects of some parabens have been studied, but the type, concentration and total exposure matter. A paraben on the label alone does not establish that the product is unsafe; product type and exposure should be considered for personal sensitivity or avoidance preferences.",
       "source_url": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/cosmetics-safety-qa-parabens",
       "summary_reviewed_on": "2026-10-13"
     },
@@ -346,8 +346,8 @@
         "homosalate"
       ],
       "name_en": "Selected UV filters",
-      "summary_tr": "Bu filtrelerin değerlendirmesi maddeye ve konsantrasyona göre değişir. Etiket eşleşmesi güneş koruyucunun zararlı olduğunu göstermez.",
-      "summary_en": "Assessments differ by filter and concentration. A label match does not establish that a sunscreen is harmful.",
+      "summary_tr": "Bu gruptaki filtreler güneşten gelen UV ışınlarını emmek veya dağıtmak için kullanılır; her filtrenin kullanım sınırı ve değerlendirmesi farklıdır. Örneğin benzophenone-3 (oxybenzone) için cilt hassasiyeti ve toplam maruziyet, diğer filtrelerde ise ürün türü ve kullanım şekli önem taşıyabilir. Etiket eşleşmesi güneş koruyucunun zararlı olduğunu kanıtlamaz; madde adı, konsantrasyon ve güncel mevzuat birlikte değerlendirilmelidir.",
+      "summary_en": "These filters absorb or scatter UV light, and each filter has different limits and safety assessments. For example, benzophenone-3 (oxybenzone) may warrant attention to skin sensitivity and total exposure; for other filters, product type and use pattern also matter. A label match does not prove that a sunscreen is harmful; ingredient identity, concentration and current regulations should be considered together.",
       "source_url": "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-products-specific-topics_en",
       "summary_reviewed_on": "2026-10-13"
     },
@@ -500,8 +500,8 @@
         "cetyl dimethicone"
       ],
       "name_en": "Selected silicones",
-      "summary_tr": "Farklı silikonların özellikleri aynı değildir. Dimethicone ile döngüsel silikonlar topluca aynı zararla değerlendirilemez.",
-      "summary_en": "Silicones have different properties. Dimethicone and cyclic silicones cannot be assigned the same harm claim.",
+      "summary_tr": "Silikonlar ürünün yayılmasını, dokusunu ve ciltte bıraktığı hissi değiştirebilir. Dimethicone gibi silikonlarla cyclomethicone gibi döngüsel silikonların özellikleri ve kullanım değerlendirmeleri aynı değildir; bu grubu tek başına “zararlı” kabul etmek doğru olmaz. Kişisel hassasiyet, göz çevresi kullanımı ve ürünün durulanıp durulanmaması ayrıca önem taşıyabilir.",
+      "summary_en": "Silicones can affect spreadability, texture and skin feel. Dimethicone and cyclic silicones such as cyclomethicone do not have identical properties or assessments, so the whole group should not be labelled harmful. Personal sensitivity, eye-area use and whether the product is rinsed off can also matter.",
       "source_url": "https://www.fda.gov/cosmetics/cosmetic-products-ingredients",
       "summary_reviewed_on": "2026-10-13"
     },
@@ -514,8 +514,8 @@
         "talk"
       ],
       "name_en": "Talc",
-      "summary_tr": "Talkta asbest bulaşı ihtimali ürün testiyle değerlendirilir. Etikette “talc” yazması asbest bulunduğunu kanıtlamaz.",
-      "summary_en": "Potential asbestos contamination requires product testing. “Talc” on a label does not prove asbestos is present.",
+      "summary_tr": "Talk için üç ayrı maruziyet konusu önemlidir: Asbestle kirlenmiş talkın solunması kanser riski taşır; bu nedenle ham maddenin asbest içerip içermediği ürün testiyle doğrulanmalıdır. Talk içeren tozların solunması akciğerleri tahriş edebilir ve özellikle bebeklerde ciddi solunum sorunlarına yol açabilir. Genital/perineal bölgede uzun süreli pudra kullanımıyla yumurtalık kanseri arasındaki ilişki araştırılmıştır; kanıtın gücü ve ürünün asbest içerip içermemesi ayrıca değerlendirilmelidir. Etikette “talc” yazması tek başına asbest bulunduğunu veya kanser gelişeceğini kanıtlamaz; tozu solumamak ve güncel test/ürün bilgilerini kontrol etmek önemlidir.",
+      "summary_en": "Three exposure questions matter for talc: inhaling asbestos-contaminated talc can carry cancer risk, so testing is needed to establish whether the raw material contains asbestos. Inhaling talc powder can irritate the lungs and may cause serious breathing problems, especially in infants. The possible association between long-term genital/perineal powder use and ovarian cancer has been studied; evidence strength and whether the product is asbestos-free must be considered separately. “Talc” on a label alone does not prove asbestos contamination or that cancer will occur; avoid inhaling the powder and check current product testing information.",
       "source_url": "https://www.fda.gov/cosmetics/cosmetic-ingredients/talc",
       "summary_reviewed_on": "2026-10-13"
     },

@@ -553,5 +553,253 @@
     "id": "local-8690504162443",
     "name": "Ülker Dankek Rulo Pasta Çilekli (235g)",
     "category": "food"
+  },
+  {
+    "id": "candidate-harras-frambuaz-cheesecake",
+    "name": "Harras Frambuazlı Cheesecake (650 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-limon-cheesecake",
+    "name": "Harras Limonlu Cheesecake (650 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-san-sebastian",
+    "name": "Harras San Sebastian Cheesecake (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-tiramisu",
+    "name": "Harras Tiramisu Pasta (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-apple-crumble",
+    "name": "Harras Elmalı Crumble Kek (450 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-tahin-souffle",
+    "name": "Harras Tahinli Akışkan Sufle (2 x 100 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-chocolate-souffle",
+    "name": "Harras Çikolatalı Sufle (2 x 100 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-caramel-trilece",
+    "name": "Harras Karamel Soslu Trileçe (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-raspberry-trilece",
+    "name": "Harras Frambuaz Soslu Trileçe (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-carrot-cinnamon-cake",
+    "name": "Harras Havuçlu Tarçınlı Baton Kek (400 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-mosaic-cake",
+    "name": "Harras Mozaik Pasta Baton (450 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-brownie",
+    "name": "Harras Çikolatalı Brownie (400 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-profiterole-cake",
+    "name": "Harras Profiterollü Yaş Pasta (600 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-coconut-mole-cake",
+    "name": "Harras Hindistan Cevizli Köstebek Pasta (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-cherry-tart",
+    "name": "Harras Vişneli Tart (450 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-mixed-fruit-tart",
+    "name": "Harras Karışık Meyveli Kek / Tart (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-belgian-chocolate-cake",
+    "name": "Harras Belçika Çikolatalı Pasta (550 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-macarons",
+    "name": "Harras Fransız Usulü Makaron Serisi (12'li Paket)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-biscuit-waffle",
+    "name": "Harras Bisküvi Dolgulu Waffle (2 x 90 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-strawberry-cake",
+    "name": "Harras Çilekli Pasta (600 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-banana-mole-cake",
+    "name": "Harras Muzlu Köstebek Pasta (500 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-cherry-chocolate-cake",
+    "name": "Harras Vişneli Çikolatalı Pasta (600 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-harras-cafe-latte-cake",
+    "name": "Harras Çikolatalı Tost Cafe Latte Pasta (550 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-sinangil-buckwheat-loaf",
+    "name": "Sinangil Glutensiz Karabuğdaylı Baton Ekmek (350 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-lorenz-sea-salt",
+    "name": "Lorenz Chipsletten Sea Salt Patates Cipsi (100 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-lorenz-paprika",
+    "name": "Lorenz Chipsletten Paprika Aromalı Patates Cipsi (100 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-lorenz-sour-cream",
+    "name": "Lorenz Chipsletten Ekşi Krema Aromalı Patates Cipsi (100 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-lorenz-hot-spicy",
+    "name": "Lorenz Chipsletten Acı Baharat Aromalı Patates Cipsi (100 g)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-dimes-peach-1l",
+    "name": "Dimes Şeftali Nektarı (1 L)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-dimes-cherry-200ml",
+    "name": "Dimes Vişne Nektarı (200 ml)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-dimes-peach-200ml",
+    "name": "Dimes Şeftali Nektarı (200 ml)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-cappy-peach-200ml",
+    "name": "Cappy Şeftali Nektarı Karton Kutu (200 ml)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-cappy-cherry-1l",
+    "name": "Cappy Vişneli İçecek Karton Kutu (1 L)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-dimes-pineapple-1l",
+    "name": "Dimes Ananaslı İçecek (1 L)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-dimes-mixed-1l",
+    "name": "Dimes Karışık Meyve Nektarı (1 L)",
+    "category": "food"
+  },
+  {
+    "id": "candidate-maybelline-the-nudes",
+    "name": "Maybelline New York The Nudes Far Paleti No: 01",
+    "category": "cosmetic",
+    "candidate_barcode": "3600531199081",
+    "known_ingredients": "TALC, TRIISOSTEARIN, HYDROGENATED POLYDECENE, MAGNESIUM STEARATE, SYNTHETIC WAX, CALCIUM SODIUM BOROSILICATE, HDI/TRIMETHYLOL HEXYLLACTONE CROSSPOLYMER, SYNTHETIC FLUORPHLOGOPITE, CAPRYLYL GLYCOL, SILICA, CALCIUM ALUMINUM BOROSILICATE, PERLITE, TIN OXIDE, ALUMINA, MAGNESIUM SILICATE. MAY CONTAIN: MICA, CI 77891, CI 77491, CI 77492, CI 77499, CI 77400, CI 77742, CI 77000, CI 77007, CI 77163, CI 75470, CI 77510, CI 19140.",
+    "missing_fields": ["independent_barcode_confirmation", "package_photo"]
+  },
+  {
+    "id": "candidate-maybelline-nudes-of-new-york",
+    "name": "Maybelline New York Nudes of New York 16'lı Far Paleti",
+    "category": "cosmetic",
+    "candidate_barcode": "3600531592974",
+    "known_ingredients": "TALC, CAPRYLIC/CAPRIC TRIGLYCERIDE, ZINC STEARATE, ETHYLENE/ACRYLIC ACID COPOLYMER, BORON NITRIDE, SODIUM DEHYDROACETATE, PHENOXYETHANOL, ALUMINA, POLYETHYLENE TEREPHTHALATE, SORBIC ACID, SYNTHETIC FLUORPHLOGOPITE, SILICA, POLYURETHANE-33, TIN OXIDE. MAY CONTAIN: MICA, CI 77491, CI 77492, CI 77499, CI 77891, CI 77742, CI 75470, CI 77007, CI 77400, CI 19140, CI 77163, CI 77510, CI 77000.",
+    "missing_fields": ["independent_barcode_confirmation", "package_photo"]
+  },
+  {
+    "id": "candidate-loreal-le-shadow-stick-105",
+    "name": "L'Oréal Paris Le Shadow Stick 105 Mesmerizing Gold",
+    "category": "cosmetic",
+    "candidate_barcode": "3600524144609",
+    "known_ingredients": "AQUA, BUTYLENE GLYCOL, SYNTHETIC FLUORPHLOGOPITE, SODIUM STEARATE, SORBITAN ISOSTEARATE, GLYCERIN, DIMETHICONE, CALCIUM SODIUM BOROSILICATE, SORBITAN STEARATE, SILICA SILYLATE [NANO], PHENOXYETHANOL, SILICA, CALCIUM ALUMINUM BOROSILICATE, HYDROXYETHYLCELLULOSE, SODIUM HYDROXIDE, CITRIC ACID, TIN OXIDE, SODIUM PHOSPHATE, DISODIUM PHOSPHATE, POLYSORBATE 60. MAY CONTAIN: MICA, CI 77491, CI 77492, CI 77499, CI 77891, CI 77163.",
+    "missing_fields": ["barcode_variant_confirmation", "package_photo"]
+  },
+  {
+    "id": "candidate-loreal-le-shadow-stick-120",
+    "name": "L'Oréal Paris Le Shadow Stick 120 Magnetic Mauve",
+    "category": "cosmetic",
+    "missing_fields": ["barcode", "shade_specific_ingredients", "package_photo"]
+  },
+  {
+    "id": "candidate-loreal-le-shadow-stick-230",
+    "name": "L'Oréal Paris Le Shadow Stick 230 Magnetic Bronze",
+    "category": "cosmetic",
+    "missing_fields": ["barcode", "shade_specific_ingredients", "package_photo"]
+  },
+  {
+    "id": "candidate-wet-n-wild-lights-off",
+    "name": "wet n wild Color Icon 10'lu Palet Lights Off",
+    "category": "cosmetic",
+    "candidate_barcode": "077802140760",
+    "known_ingredients": "SYNTHETIC FLUORPHLOGOPITE, MAGNESIUM MYRISTATE, TALC, CALCIUM ALUMINUM BOROSILICATE, DIMETHICONE, CAPRYLIC/CAPRIC TRIGLYCERIDE, BORON NITRIDE, JOJOBA SEED OIL, TRIMETHYLSILOXYSILICATE, SILICA, PHENOXYETHANOL, MICROCRYSTALLINE CELLULOSE, TRIETHOXYCAPRYLYLSILANE, CAPRYLYL GLYCOL, ETHYLHEXYLGLYCERIN, HEXYLENE GLYCOL, ETHYLENE/PROPYLENE/STYRENE COPOLYMER, BUTYLENE/ETHYLENE/STYRENE COPOLYMER, O-CYMEN-5-OL, TIN OXIDE, WATER, ALUMINUM HYDROXIDE. MAY CONTAIN: CI 77266, CI 42090, CI 77289, IRON OXIDES, CI 77742, MICA, CI 16035, CI 77891, CI 77007.",
+    "missing_fields": ["Turkey_variant_confirmation", "package_photo"]
+  },
+  {
+    "id": "candidate-wet-n-wild-heart-and-sol",
+    "name": "wet n wild Color Icon 10'lu Palet Heart & Sol",
+    "category": "cosmetic",
+    "candidate_barcode": "077802140746",
+    "known_ingredients": "SYNTHETIC FLUORPHLOGOPITE, TALC, MAGNESIUM MYRISTATE, DIMETHICONE, CAPRYLIC/CAPRIC TRIGLYCERIDE, SILICA, BORON NITRIDE, JOJOBA SEED OIL, TRIMETHYLSILOXYSILICATE, TRIETHOXYCAPRYLYLSILANE, CALCIUM ALUMINUM BOROSILICATE, PHENOXYETHANOL, MICROCRYSTALLINE CELLULOSE, CAPRYLYL GLYCOL, ETHYLHEXYLGLYCERIN, HEXYLENE GLYCOL, O-CYMEN-5-OL, ETHYLENE/PROPYLENE/STYRENE COPOLYMER, BUTYLENE/ETHYLENE/STYRENE COPOLYMER, WATER, TIN OXIDE, ALUMINUM HYDROXIDE.",
+    "missing_fields": ["Turkey_variant_confirmation", "full_colorant_list", "package_photo"]
+  },
+  {
+    "id": "candidate-lykd-eyeshadow-base-999",
+    "name": "LYKD Far Bazı 999 Transparan",
+    "category": "cosmetic",
+    "candidate_barcode": "2050000155567",
+    "missing_fields": ["ingredient_list", "package_photo"]
+  },
+  {
+    "id": "candidate-beaulis-eyeshadow-159",
+    "name": "Beaulis 159 Walnut",
+    "category": "cosmetic",
+    "candidate_barcode": "2050002828896",
+    "missing_fields": ["ingredient_list", "package_photo"]
+  },
+  {
+    "id": "candidate-beaulis-eyeshadow-155",
+    "name": "Beaulis 155 Moon Storm",
+    "category": "cosmetic",
+    "candidate_barcode": "2050002828940",
+    "missing_fields": ["ingredient_list", "package_photo"]
   }
 ]

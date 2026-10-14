@@ -1,5 +1,210 @@
 [
   {
+    "code": "8697702984183",
+    "name": "Sinangil Gluten Yok Glutensiz Dilimli Tost Ekmeği 280 g",
+    "ingredients": "Su, glutensiz buğday nişastası, patates nişastası, tapiyoka nişastası, karabuğday unu, bitkisel lif (karnıyarık otu), şeker, tuz, maya, kıvam arttırıcılar (hidroksipropil metil selüloz, karboksimetil selüloz), kabartma tozu, koruyucular (potasyum sorbat, sodyum sorbat, sorbik asit), emülgatör (yağ asitlerinin mono- ve digliseritleri), asitlik düzenleyici (sitrik asit), ayçiçek yağı, yumurta.",
+    "source_name": "Sinangil ürün etiketi (kullanıcı tarafından paylaşıldı)",
+    "source_url": "https://sinangil.com.tr/",
+    "allergens": [
+      "eggs"
+    ],
+    "traces": [],
+    "labels": [
+      "tr:gluten-free"
+    ],
+    "category": "food",
+    "catalog_batch": "sinangil-gluten-free-bread-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "user_provided_label",
+    "source_type": "label_photo",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "user_provided_label_transcription"
+  },
+  {
+    "code": "8008698024140",
+    "name": "Schar Pan Multigrano Glutensiz Dilimli Tahıllı Ekmek 250 g",
+    "ingredients": "Su, mısır nişastası, pirinç unu, bitkisel lif (karnıyarık otu, turunç), keten tohumu (%2,5), kıvam arttırıcı (hidroksipropil metil selüloz), soya proteini, ayçiçek yağı, ayçekirdeği (%1,5), darı tohumu (%1,1), maya, tuz, şeker, sitrik asit.",
+    "source_name": "Schar üretici sayfası ve Migros ürün etiketi",
+    "source_url": "https://shop.schaer.com/tr/tr/u/katalog/schar/ekmek/dilimli_ekmek/pan-multigrano-ekmek-10547",
+    "barcode_source_url": "https://toptan.migros.com.tr/schar-pan-multigrano-glutensiz-ekmek-250g-p-09112147",
+    "allergens": [
+      "soybeans"
+    ],
+    "traces": [
+      "sesame",
+      "mustard",
+      "eggs"
+    ],
+    "labels": [
+      "tr:gluten-free"
+    ],
+    "category": "food",
+    "catalog_batch": "schar-gluten-free-bread-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "manufacturer_and_retailer_label",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "manufacturer_product_page_and_retailer_label"
+  },
+  {
+    "code": "8008698024157",
+    "name": "Schar Pan Rustico Glutensiz Ekşi Mayalı Çok Tahıllı Ekmek 250 g",
+    "ingredients": "Su, mısır nişastası, pirinç ekşi hamuru (%12) (su, pirinç unu), pirinç unu, bitkisel lif (karnıyarık otu, turunç), soya fasulyesi gevreği (%2,5), keten tohumu (%1,7), kıvam arttırıcı (hidroksipropil metil selüloz), soya proteini, ayçiçek yağı, maya, karamelize şeker, sorgum unu (%0,8), tuz, şeker, sitrik asit.",
+    "source_name": "Schar üretici ürün sayfası",
+    "source_url": "https://shop.schaer.com/tr/tr/u/katalog/schar/ekmek/dilimli_ekmek/pan-rustico-ekmek-10548",
+    "allergens": [
+      "soybeans"
+    ],
+    "traces": [
+      "sesame",
+      "mustard",
+      "eggs"
+    ],
+    "labels": [
+      "tr:gluten-free"
+    ],
+    "category": "food",
+    "catalog_batch": "schar-gluten-free-bread-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "manufacturer_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "manufacturer_product_page"
+  },
+  {
+    "code": "8008698024119",
+    "name": "Schar Maestro Classic Glutensiz Dilimli Ekmek 300 g",
+    "ingredients": "Mısır nişastası, su, ekşi maya (%16) (pirinç unu, su), pirinç nişastası, bitkisel lif (karnıyarık otu), pirinç şurubu, ayçiçek yağı, soya proteini, darı unu (%1,9), kıvam arttırıcı (hidroksipropil metil selüloz), kinoa unu (%1,3), maya (%1), bal, iyotlu tuz (tuz, potasyum iyodür).",
+    "source_name": "Schar üretici ürün sayfası",
+    "source_url": "https://www.schaer.com/en-int/p/maestro-classic",
+    "allergens": [
+      "soybeans"
+    ],
+    "traces": [
+      "lupin",
+      "mustard"
+    ],
+    "labels": [
+      "tr:gluten-free"
+    ],
+    "category": "food",
+    "catalog_batch": "schar-gluten-free-bread-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "manufacturer_product_page",
+    "source_type": "manufacturer",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "manufacturer_product_page"
+  },
+  {
+    "code": "8681630410203",
+    "name": "Noutos Ekşi Krema ve Soğan Çeşnili Nohut Cipsi 55 g",
+    "ingredients": "Nohut unu (%60), pirinç unu, pirinç irmiği, ayçiçek yağı, zeytinyağı, ekşi krema ve soğan çeşni (%6) (baharat ve baharat ekstraktları (soğan, sarımsak), maya ekstraktı, peynir altı suyu tozu (süt ürünü (laktoz içerir)), doğal aroma vericiler (soğan, ekşi krema, peynir), limon tozu, sirke tozu, tuz).",
+    "source_name": "Noutos ürün etiketi (kullanıcı tarafından paylaşıldı)",
+    "source_url": "https://www.noutos.com.tr/",
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "noutos-chickpea-chips-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "user_provided_label",
+    "source_type": "label_photo",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "user_provided_label_transcription"
+  },
+  {
+    "code": "8681630315010",
+    "name": "Noutos Chili Baharatlı Nohut Cipsi 55 g",
+    "ingredients": "Nohut unu (%59), ayçiçek yağı, zeytinyağı, chili çeşni (%6) (domates, acı kırmızı toz biber, soğan, sarımsak, tatlı kırmızı toz biber), pirinç unu, pirinç irmiği, tuz.",
+    "source_name": "Noutos ürün etiketi (kullanıcı tarafından paylaşıldı)",
+    "source_url": "https://www.noutos.com.tr/",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "noutos-chickpea-chips-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "user_provided_label",
+    "source_type": "label_photo",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "user_provided_label_transcription"
+  },
+  {
+    "code": "8681630314013",
+    "name": "Noutos Kajun Baharatlı Nohut Cipsi 55 g",
+    "ingredients": "Nohut unu (%58), ayçiçek yağı, zeytinyağı, kajun çeşni (%8) (acı kırmızı toz biber, tatlı kırmızı toz biber, köri, yenibahar, zerdeçal, sarımsak, karabiber, hardal), pirinç irmiği, pirinç unu, tuz.",
+    "source_name": "Noutos ürün etiketi (kullanıcı tarafından paylaşıldı)",
+    "source_url": "https://www.noutos.com.tr/",
+    "allergens": [
+      "mustard"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "noutos-chickpea-chips-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "user_provided_label",
+    "source_type": "label_photo",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "user_provided_label_transcription"
+  },
+  {
+    "code": "8681630313016",
+    "name": "Noutos Ege Baharatlı Nohut Cipsi 55 g",
+    "ingredients": "Nohut unu (%59), ayçiçek yağı, zeytinyağı, Ege baharatlı çeşni (%7) (kekik, domates, zeytin, sarımsak, maydanoz, maya ekstraktı), pirinç unu, pirinç irmiği, tuz.",
+    "source_name": "Noutos ürün etiketi (kullanıcı tarafından paylaşıldı)",
+    "source_url": "https://www.noutos.com.tr/",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "noutos-chickpea-chips-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "user_provided_label",
+    "source_type": "label_photo",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "user_provided_label_transcription"
+  },
+  {
+    "code": "8681630410258",
+    "name": "Noutos %100 Yer Fıstığı Ezmeli Nohut Cipsi 55 g",
+    "ingredients": "Nohut unu (%37), pirinç unu, pirinç irmiği, yer fıstığı (%31), bitkisel yağlar (shea, yer fıstığı, Hindistan cevizi), tuz, süzme çiçek balı.",
+    "source_name": "Noutos ürün etiketi (kullanıcı tarafından paylaşıldı)",
+    "source_url": "https://www.noutos.com.tr/",
+    "allergens": [
+      "peanuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "noutos-chickpea-chips-20261014",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "user_provided_label",
+    "source_type": "label_photo",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "user_provided_label_transcription"
+  },
+  {
     "code": "8690577001764",
     "name": "Söke Glutensiz Ekmek Unu 250 g",
     "ingredients": "Mısır nişastası, pirinç unu, patates nişastası, dekstroz, tuz, bitkisel lif (narenciye lifi), kıvam arttırıcılar (keçiboynuzu gamı, guar gam), kabartıcılar (sodyum pirofosfat, sodyum bikarbonat), aroma vericiler.",
@@ -497,6 +702,73 @@
     "verified_at": "2026-10-13T00:00:00Z",
     "status": "verified",
     "verification_basis": "existing_catalogue_source_review"
+  },
+  {
+    "code": "8682368978010",
+    "name": "Saf Nutrition Vegan Peynir Aromalı Protein Cips 50 g",
+    "ingredients": "Mısır irmiği, pirinç irmiği, bezelye proteini (%15,5), ayçiçek yağı, vegan peynir çeşnisi (%6,5) (mısır nişastası, pirinç unu, tuz, maya ekstraktı, hidrolize bitkisel protein, pudra şekeri, vegan peynir aroma vericisi, tatlı kırmızı biber tozu, domates tozu, trikalsiyum fosfat, soğan tozu, kırmızı biber oleoresini, sarımsak tozu, laktik asit, sitrik asit, malik asit, sodyum diasetat, soğan yağı, biberiye ekstraktı, sarımsak yağı), şeker, tuz.",
+    "source_name": "Vegan Bakkal ürün etiketi ve barkod kaydı",
+    "source_url": "https://www.veganbakkal.com.tr/vegan-peynir-aromali-protein-cips-50gr-2572",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "saf-nutrition-protein-chips-20261014",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_product_page",
+    "source_type": "retailer",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "existing_catalogue_source_review"
+  },
+  {
+    "code": "8682368978669",
+    "name": "Saf Nutrition Mevsim Yeşillikli Protein Cips 50 g",
+    "ingredients": "Mısır irmiği, pirinç irmiği, bezelye proteini (%15,5), ayçiçek yağı, mevsim yeşillikli çeşnisi (%6,5) (tuz, maya ekstraktı, pudra şekeri, mısır nişastası, pirinç unu, soğan tozu, kekik, trikalsiyum fosfat, sarımsak tozu, fesleğen, sodyum diasetat, laktik asit, maydanoz tozu, reyhan tozu, malik asit, acı kırmızı biber tozu, nane tozu, yenibahar, karabiber).",
+    "source_name": "Macrocenter ürün etiketi ve barkod bilgisi",
+    "source_url": "https://www.macrocenter.com.tr/saf-mevsim-yesillikli-protein-cips-50-g-p-4d83de",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "allergens": [],
+    "traces": [
+      "gluten",
+      "peanuts",
+      "walnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "saf-nutrition-protein-chips-20261014",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_product_page",
+    "source_type": "retailer",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "retailer_label_transcription"
+  },
+  {
+    "code": "8682368978645",
+    "name": "Saf Nutrition Acılı Protein Cips 50 g",
+    "ingredients": "Mısır irmiği, pirinç irmiği, bezelye proteini (%15,5), ayçiçek yağı, acı baharat çeşnisi (%6,5) (tuz, pirinç unu, mısır nişastası, pudra şekeri, maya ekstraktı, soğan tozu, hidrolize bitkisel protein, acı kırmızı biber tozu, tatlı kırmızı biber tozu, trikalsiyum fosfat, domates tozu, yenibahar, maydanoz tozu, ketçap aroma vericisi, karabiber, malik asit, sarımsak, kırmızı biber oleoresin, sitrik asit, sodyum diasetat, kimyon oleoresin, biberiye ekstraktı), şeker, tuz.",
+    "source_name": "Macrocenter ürün etiketi ve ambalaj barkodu",
+    "source_url": "https://www.macrocenter.com.tr/saf-acili-protein-cips-50-g-p-4d83df",
+    "checked_at": "2026-10-14T00:00:00+03:00",
+    "allergens": [],
+    "traces": [
+      "gluten",
+      "peanuts",
+      "walnuts",
+      "soybeans"
+    ],
+    "labels": [],
+    "category": "food",
+    "catalog_batch": "saf-nutrition-protein-chips-20261014",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_product_page_and_package_barcode",
+    "source_type": "retailer",
+    "verified_at": "2026-10-14T00:00:00+03:00",
+    "status": "verified",
+    "verification_basis": "retailer_label_transcription_and_package_barcode"
   },
   {
     "code": "8684000453503",

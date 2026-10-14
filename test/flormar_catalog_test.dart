@@ -37,6 +37,11 @@ void main() {
       expect(result.nameMatched, isFalse);
     }
     expect(calls, 0);
+    final latte = await repo.find('8682536104678', category: 'cosmetic');
+    expect(latte.name, contains('Latte'));
+    expect(latte.ingredients, contains('LITHOTHAMNION CALCAREUM EXTRACT'));
+    expect(latte.ingredients, isNot(contains('MAY CONTAIN')));
+    expect(latte.mayContain, contains('CI 77266'));
     final white = await repo.find('8682536035880', category: 'cosmetic');
     expect(white.name, contains('319'));
     final brown = await repo.find('8682536036115', category: 'cosmetic');

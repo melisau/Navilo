@@ -7,7 +7,7 @@ import '../domain/catalogue_exclusions.dart';
 
 /// Explicit text-only contributions; never publishes personal photos or profiles.
 class CommunitySubmission {
-  static String? _token, _userId;
+  static String? _token;
   static Future<void> submit(LocalProduct product,
       {required String language}) async {
     final base = Uri.parse(ProductRepository.catalogUrl);
@@ -31,7 +31,6 @@ class CommunitySubmission {
       if (response.statusCode < 200 || response.statusCode >= 300) {
         if (response.statusCode == 401) {
           _token = null;
-          _userId = null;
         }
         throw HttpException('Catalogue submission HTTP ${response.statusCode}');
       }
@@ -44,25 +43,21 @@ class CommunitySubmission {
           // Enable Anonymous Sign-ins in the Supabase Auth dashboard.
           final session = await post('/auth/v1/signup', <String, dynamic>{});
           final token = session['access_token'];
-          final userId = session['user']?['id'];
-          if (token is! String || userId is! String) {
+          if (token is! String) {
             throw const FormatException('No session');
           }
           _token = token;
-          _userId = userId;
         }
         await post(
-            '/rest/v1/navilo_submissions',
+            '/rest/v1/rpc/navilo_submit_submission',
             {
-              'contributor_id': _userId,
-              'barcode': product.barcode,
-              'category': product.category,
-              'product_name': product.name,
-              'ingredients': product.ingredients,
-              'language': language,
-              'source_note':
+              'p_barcode': product.barcode,
+              'p_category': product.category,
+              'p_product_name': product.name,
+              'p_ingredients': product.ingredients,
+              'p_language': language,
+              'p_source_note':
                   'User-reviewed package ingredient text. No image submitted.',
-              'sharing_consent': true,
             },
             token: _token);
       })()

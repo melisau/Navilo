@@ -40,10 +40,29 @@ class LocalProduct {
       reviewedAt: DateTime.parse(json['reviewedAt'] as String));
 }
 
+class PendingSubmission {
+  final LocalProduct product;
+  final String language;
+
+  PendingSubmission({required this.product, required this.language});
+
+  Map<String, dynamic> toJson() => {
+        'product': product.toJson(),
+        'language': language,
+      };
+
+  factory PendingSubmission.fromJson(Map<String, dynamic> json) =>
+      PendingSubmission(
+        product: LocalProduct.fromJson(json['product'] as Map<String, dynamic>),
+        language: json['language'] as String? ?? 'tr',
+      );
+}
+
 // One file per barcode/category avoids rewriting unrelated products.
 class LocalProductStore {
   final Directory directory;
   LocalProductStore(this.directory);
+  File get _pendingFile => File('${directory.path}/pending-submissions.json');
   File _file(String barcode, String category) {
     if (!RegExp(r'^(?:\d{8,14}|local-\d{10,20})$').hasMatch(barcode) ||
         !['food', 'cosmetic'].contains(category)) {
@@ -121,6 +140,59 @@ class LocalProductStore {
     final temp = File('${file.path}.tmp');
     await temp.writeAsString(jsonEncode(product.toJson()), flush: true);
     await temp.rename(file.path);
+  }
+
+  Future<List<PendingSubmission>> pendingSubmissions() async {
+    if (!await _pendingFile.exists()) return [];
+    try {
+      final value = jsonDecode(await _pendingFile.readAsString());
+      if (value is! List)
+        throw const FormatException('Invalid submission queue');
+      return value
+          .whereType<Map>()
+          .map((item) =>
+              PendingSubmission.fromJson(Map<String, dynamic>.from(item)))
+          .toList();
+    } on FormatException {
+      rethrow;
+    } on TypeError {
+      throw const FormatException('Invalid submission queue');
+    }
+  }
+
+  Future<void> queueSubmission(LocalProduct product,
+      {required String language}) async {
+    if (!RegExp(r'^\d{8,14}$').hasMatch(product.barcode)) {
+      throw ArgumentError('A barcode is required for shared submission');
+    }
+    final queue = await pendingSubmissions();
+    final index = queue.indexWhere((item) =>
+        item.product.barcode == product.barcode &&
+        item.product.category == product.category);
+    final item = PendingSubmission(product: product, language: language);
+    if (index == -1) {
+      queue.add(item);
+    } else {
+      queue[index] = item;
+    }
+    await _writePending(queue);
+  }
+
+  Future<void> removePendingSubmission(PendingSubmission item) async {
+    final queue = await pendingSubmissions();
+    queue.removeWhere((queued) =>
+        queued.product.barcode == item.product.barcode &&
+        queued.product.category == item.product.category);
+    await _writePending(queue);
+  }
+
+  Future<void> _writePending(List<PendingSubmission> queue) async {
+    await directory.create(recursive: true);
+    final temp = File('${_pendingFile.path}.tmp');
+    await temp.writeAsString(
+        jsonEncode(queue.map((item) => item.toJson()).toList()),
+        flush: true);
+    await temp.rename(_pendingFile.path);
   }
 
   File? imageFor(LocalProduct product) {
