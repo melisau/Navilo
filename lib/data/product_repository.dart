@@ -254,6 +254,7 @@ class ProductRepository {
     String? barcode,
     String? productName,
     bool english = false,
+    String category = 'food',
   }) async {
     if (barcode != null &&
         (!isValidGtin(barcode) || excludedCatalogueCodes.contains(barcode))) {
@@ -286,12 +287,16 @@ class ProductRepository {
     }
     if (query.isEmpty) return const [];
 
-    const sources = [
-      ('world.openfoodfacts.org', 'Open Food Facts'),
-      ('world.openbeautyfacts.org', 'Open Beauty Facts'),
-      ('world.openproductsfacts.org', 'Open Products Facts'),
-      ('world.openpetfoodfacts.org', 'Open Pet Food Facts'),
-    ];
+    final sources = category == 'cosmetic'
+        ? const [
+            ('world.openbeautyfacts.org', 'Open Beauty Facts'),
+            ('world.openproductsfacts.org', 'Open Products Facts'),
+          ]
+        : const [
+            ('world.openfoodfacts.org', 'Open Food Facts'),
+            ('world.openproductsfacts.org', 'Open Products Facts'),
+            ('world.openpetfoodfacts.org', 'Open Pet Food Facts'),
+          ];
     final candidates = <ProductRecord>[];
     final seenCodes = <String>{};
     // Prefer Turkish catalogue entries first; when sparse, search globally too.
@@ -479,12 +484,16 @@ class ProductRepository {
     // Product type can be misclassified in any community database, so check
     // every sibling dataset. ProductRecord.parse only accepts status == 1 and
     // a non-empty ingredient list. Keep the matched dataset as attribution.
-    const sources = [
-      ('world.openfoodfacts.org', 'Open Food Facts'),
-      ('world.openbeautyfacts.org', 'Open Beauty Facts'),
-      ('world.openproductsfacts.org', 'Open Products Facts'),
-      ('world.openpetfoodfacts.org', 'Open Pet Food Facts'),
-    ];
+    final sources = category == 'cosmetic'
+        ? const [
+            ('world.openbeautyfacts.org', 'Open Beauty Facts'),
+            ('world.openproductsfacts.org', 'Open Products Facts'),
+          ]
+        : const [
+            ('world.openfoodfacts.org', 'Open Food Facts'),
+            ('world.openproductsfacts.org', 'Open Products Facts'),
+            ('world.openpetfoodfacts.org', 'Open Pet Food Facts'),
+          ];
     for (final (host, source) in sources) {
       try {
         final json = await load(Uri.https(host, '/api/v2/product/$code.json', {

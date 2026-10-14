@@ -19,6 +19,7 @@ import 'package:google_mlkit_text_recognition/google_mlkit_text_recognition.dart
 import 'package:mobile_scanner/mobile_scanner.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:url_launcher/url_launcher.dart';
 
 import 'domain/policy.dart';
 import 'data/community_submission.dart';
@@ -455,8 +456,8 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
           'No product record matched the barcode.');
     });
     try {
-      final candidates = await ProductRepository()
-          .findNameCandidates(productName: confirmedQuery, english: english);
+      final candidates = await ProductRepository().findNameCandidates(
+          productName: confirmedQuery, english: english, category: category);
       if (!mounted) return;
       if (candidates.isEmpty) {
         setState(() => scanError = copy(
@@ -480,6 +481,122 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
         });
       }
     }
+  }
+
+  Future<void> webResearch() async {
+    final identity = [
+      if (productName?.trim().isNotEmpty == true) productName!.trim(),
+      if (activeBarcode?.trim().isNotEmpty == true) activeBarcode!.trim(),
+    ].join(' ');
+    if (identity.isEmpty) {
+      if (mounted) {
+        setState(() => scanError = copy(
+            'Web araması için ürün adı veya barkod gerekli.',
+            'A product name or barcode is required for web search.'));
+      }
+      return;
+    }
+    final query = '$identity ingredients içindekiler';
+    final opened = await launchUrl(
+        Uri.https('www.google.com', '/search', {'q': query}),
+        mode: LaunchMode.externalApplication);
+    if (!opened || !mounted) {
+      if (mounted) {
+        setState(() => scanError = copy(
+            'Web araştırması açılamadı. Bağlantıyı kontrol et veya etiketi fotoğrafla ekle.',
+            'Could not open web research. Check your connection or add a label photo.'));
+      }
+      return;
+    }
+    var sourceUrl = '';
+    var copiedText = '';
+    final imported = await showDialog<bool>(
+        context: context,
+        builder: (dialogContext) => AlertDialog(
+              title: Text(copy('Web’den bulunan içeriği aktar',
+                  'Import information found on the web')),
+              content: SizedBox(
+                  width: 520,
+                  child: SingleChildScrollView(
+                      child: Column(
+                          mainAxisSize: MainAxisSize.min,
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                        Text(copy(
+                            'Güvenilir sayfadaki ürün adı ve içindekiler listesini topluca kopyalayıp aşağıya yapıştır. Kaydetmeden önce tamamını okuyup onaylayabileceksin.',
+                            'Copy the product name and full ingredient list from a reliable page and paste it below. You can read and approve everything before saving.')),
+                        const SizedBox(height: 12),
+                        TextField(
+                            onChanged: (value) => sourceUrl = value.trim(),
+                            keyboardType: TextInputType.url,
+                            decoration: InputDecoration(
+                                labelText: copy(
+                                    'Kaynak sayfa adresi (isteğe bağlı)',
+                                    'Source page URL (optional)'))),
+                        const SizedBox(height: 8),
+                        TextField(
+                            minLines: 8,
+                            maxLines: 16,
+                            onChanged: (value) => copiedText = value.trim(),
+                            decoration: InputDecoration(
+                                alignLabelWithHint: true,
+                                labelText: copy('Ürün adı ve içindekiler metni',
+                                    'Product name and ingredient text'),
+                                hintText: copy('Metni buraya yapıştır',
+                                    'Paste the text here'))),
+                      ]))),
+              actions: [
+                TextButton(
+                    onPressed: () => Navigator.pop(dialogContext, false),
+                    child: Text(copy('Vazgeç', 'Cancel'))),
+                FilledButton(
+                    onPressed: () => Navigator.pop(
+                        dialogContext, copiedText.trim().isNotEmpty),
+                    child: Text(copy('Önizle', 'Preview')))
+              ],
+            ));
+    if (imported != true || !mounted || copiedText.trim().isEmpty) return;
+    final approved = await showDialog<bool>(
+        context: context,
+        builder: (dialogContext) => AlertDialog(
+              title: Text(copy('İçeriği onayla', 'Approve information')),
+              content: SizedBox(
+                  width: 520,
+                  child: SingleChildScrollView(
+                      child: SelectableText(copiedText.trim()))),
+              actions: [
+                TextButton(
+                    onPressed: () => Navigator.pop(dialogContext, false),
+                    child: Text(copy('Düzenle', 'Edit'))),
+                FilledButton(
+                    onPressed: () => Navigator.pop(dialogContext, true),
+                    child: Text(copy('Onayla ve kullan', 'Approve and use')))
+              ],
+            ));
+    if (approved != true || !mounted) return;
+    final lines = copiedText
+        .split(RegExp(r'\r?\n'))
+        .map((line) => line.trim())
+        .where((line) => line.isNotEmpty)
+        .toList();
+    final importedName = lines.isNotEmpty ? lines.first : '';
+    final importedIngredients =
+        lines.length > 1 ? lines.skip(1).join(' ') : copiedText.trim();
+    setState(() {
+      if (importedName.isNotEmpty && importedIngredients != copiedText.trim()) {
+        productName = importedName;
+      }
+      label.text = importedIngredients;
+      ingredientSectionDetected = true;
+      editingReview = true;
+      complete = IngredientText.reviewIssues(importedIngredients).isEmpty;
+      scanError = sourceUrl.isEmpty
+          ? copy('Web içeriği aktarıldı. Kaydetmeden önce kontrol et.',
+              'Web information imported. Review it before saving.')
+          : copy('Web içeriği aktarıldı: $sourceUrl',
+              'Web information imported: $sourceUrl');
+      stage = ScanStage.review;
+    });
   }
 
   void openSaved(LocalProduct product) {
@@ -780,7 +897,8 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
         final candidates = await ProductRepository().findNameCandidates(
             barcode: barcode,
             productName: error.resolvedName,
-            english: english);
+            english: english,
+            category: category);
         if (!mounted) return;
         if (candidates.isNotEmpty) {
           final selected = await chooseNameMatch(candidates);
@@ -1553,6 +1671,10 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
             onPressed: reading ? null : searchByProductName,
             icon: const Icon(Icons.search),
             label: Text(copy('Ürün adıyla ara', 'Search by product name'))),
+        OutlinedButton.icon(
+            onPressed: reading ? null : webResearch,
+            icon: const Icon(Icons.public),
+            label: Text(copy('Web’de araştır', 'Research on the web'))),
         if (activeBarcode != null)
           Text('${copy('Bağlı barkod', 'Linked barcode')}: $activeBarcode'),
         ExpansionTile(

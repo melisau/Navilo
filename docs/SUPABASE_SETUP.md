@@ -12,6 +12,13 @@ The additive SQL migration creates a public, read-only reviewed catalogue and a 
 2. Review and run `supabase/migrations/202610120001_navilo_catalog.sql` once in SQL Editor. Confirm the tables and RLS policies exist.
 3. In Settings / API Keys, copy the **publishable** key into `SUPABASE_PUBLISHABLE_KEY` in `config/supabase.local.json`. This file is Git-ignored. Never put a secret/service-role key or database password in Flutter or chat.
 4. Start Flutter with `C:\flutter\bin\flutter.bat run --dart-define-from-file=config/supabase.local.json`. A full stop and relaunch is required after changing these compile-time settings; hot reload does not load them.
+
+## Web research
+
+Web research opens the device browser with only the product name and barcode.
+No Bing account, search API key, or server-side search function is required.
+The user reads the result, copies the complete ingredient list, and reviews it
+in Navilo before saving. Browser results are not automatically verified.
 5. Barcode lookup checks the personal library, then the reviewed Supabase catalogue, then Open Food Facts / Open Beauty Facts. A missing record or catalogue outage falls back to the existing provider. Only an exact barcode/category record with ingredients is accepted.
 
 The read client is implemented. Sign-in, contributions and photo sharing are not enabled yet. Personal saves never upload automatically. A new catalogue is empty until reviewed products are added.

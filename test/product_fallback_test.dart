@@ -16,7 +16,7 @@ void main() {
     expect(p.ingredients, 'Milk, sugar');
     expect(p.sourceName, 'Open Food Facts');
   });
-  test('Missing products are checked in all four databases', () async {
+  test('Missing food products use only food-compatible databases', () async {
     final hosts = <String>[];
     final repo = ProductRepository(loader: (uri) async {
       hosts.add(uri.host);
@@ -27,26 +27,26 @@ void main() {
     await expectLater(
         repo.find('12345670'),
         throwsA(isA<ProductLookupException>()
-            .having((e) => e.attempts.length, 'attempt count', 5)));
+            .having((e) => e.attempts.length, 'attempt count', 4)));
     expect(hosts, [
       'world.openfoodfacts.org',
-      'world.openbeautyfacts.org',
       'world.openproductsfacts.org',
       'world.openpetfoodfacts.org'
     ]);
   });
 
-  test('A barcode lookup checks OFF first regardless of selected category',
-      () async {
+  test('A cosmetic barcode lookup does not query food databases', () async {
+    final hosts = <String>[];
     final repo = ProductRepository(loader: (uri) async {
-      expect(uri.host, 'world.openfoodfacts.org');
+      hosts.add(uri.host);
       return {
         'status': 1,
         'product': {'ingredients_text': 'Aqua, Parfum'}
       };
     });
     expect((await repo.find('12345670', category: 'cosmetic')).sourceName,
-        'Open Food Facts');
+        'Open Beauty Facts');
+    expect(hosts, ['world.openbeautyfacts.org']);
   });
 
   test('Accepts a later source only when status and ingredients are present',
@@ -71,7 +71,6 @@ void main() {
     final product = await repo.find('12345670');
     expect(hosts, [
       'world.openfoodfacts.org',
-      'world.openbeautyfacts.org',
       'world.openproductsfacts.org',
       'world.openpetfoodfacts.org'
     ]);
@@ -121,17 +120,17 @@ void main() {
     expect(candidates.single.nameMatched, isTrue);
     expect(candidates.single.nameLookupSource, 'UPCitemdb');
     expect(candidates.single.sourceName, 'Open Food Facts');
-    expect(calls.length, 9);
+    expect(calls.length, 7);
     final searches =
         calls.where((uri) => uri.path == '/cgi/search.pl').toList();
     expect(
-        searches.take(4).every(
+        searches.take(3).every(
             (uri) => uri.queryParameters['countries_tags_en'] == 'turkey'),
         isTrue);
     expect(
-        searches.skip(4).every(
+        searches.skip(3).every(
             (uri) => !uri.queryParameters.containsKey('countries_tags_en')),
         isTrue);
-    expect(searches.map((uri) => uri.host).toSet(), hasLength(4));
+    expect(searches.map((uri) => uri.host).toSet(), hasLength(3));
   });
 }
