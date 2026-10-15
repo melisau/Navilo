@@ -1,0 +1,15 @@
+{
+  "target": 200,
+  "prepared": 75,
+  "remaining": 125,
+  "pending_source_records": 290,
+  "conflicting_gtins": 1,
+  "source_counts": {
+    "Gratis": 61,
+    "Watsons": 1,
+    "Eve": 6,
+    "Rossmann": 7
+  },
+  "storage": "bundled_cosmetic_catalogue",
+  "supabase_uploaded": false
+}

@@ -157,6 +157,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   bool barcodeSearching = false;
   int lookupStep = 0;
   String? photoPath;
+  final List<String> photoPaths = [];
   String? scanError;
   bool searchingNameMatches = false;
   bool ingredientSectionDetected = false;
@@ -348,6 +349,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
     productName = null;
     productRecord = null;
     photoPath = null;
+    photoPaths.clear();
     rawOcrText = '';
     scanError = null;
     matches = null;
@@ -946,10 +948,11 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
     }
   }
 
-  Future<void> scanPhoto(ImageSource source) async {
+  Future<void> scanPhoto(ImageSource source, {bool append = false}) async {
     if (reading) {
       return;
     }
+
     setState(() {
       reading = true;
       scanError = null;
@@ -986,6 +989,8 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
       if (!mounted || cropped == null) return;
       setState(() {
         photoPath = cropped.path;
+        if (!append) photoPaths.clear();
+        photoPaths.add(cropped.path);
         localReviewDate = null;
         rawOcrText = '';
         if (!contributing) productName = null;
@@ -1003,20 +1008,31 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
         return;
       }
 
+      final hadHeading = ingredientSectionDetected;
+      final previousRawOcr = rawOcrText;
       final text = _extractIngredientText(result.text);
-      final correctedText = text;
+      if (append) {
+        ingredientSectionDetected = hadHeading || ingredientSectionDetected;
+        rawOcrText = '${previousRawOcr.trim()}\n${result.text.trim()}'.trim();
+      }
+      final combinedText = append && label.text.trim().isNotEmpty
+          ? '${label.text.trim()}\n$text'.trim()
+          : text;
+      final correctedText = append
+          ? IngredientText.cleanOcr(combinedText)
+          : IngredientText.cleanOcr(text);
       final loadedPolicy = await policy;
       if (!mounted) return;
 
       setState(() {
         stage = ScanStage.review;
         label.text = correctedText;
-        matches = correctedText.isEmpty
+        matches = correctedText.trim().isEmpty
             ? null
             : loadedPolicy.evaluate(correctedText, category);
         complete =
             false; // A heading does not prove that the entire list is visible.
-        scanError = correctedText.isEmpty
+        scanError = label.text.trim().isEmpty
             ? 'Yazı okunamadı. İçindekiler bölümünü yakından ve net çek.'
             : null;
       });
@@ -1034,6 +1050,10 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
       await recognizer?.close();
       if (mounted) setState(() => reading = false);
     }
+  }
+
+  Future<void> scanAdditionalPhoto(ImageSource source) async {
+    await scanPhoto(source, append: true);
   }
 
   String rawOcrText = '';
@@ -1927,10 +1947,11 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
         Text(productName!, style: Theme.of(context).textTheme.titleLarge),
       if (activeBarcode != null)
         Text('${copy('Barkod', 'Barcode')}: $activeBarcode'),
-      if (contributing) ...[
-        Text(copy(
-            'Ambalajdan barkodu okut, tam içeriği ekle ve kontrol ederek kaydet.',
-            'Scan the package barcode, add the full ingredients and review before saving.')),
+      if (contributing || !reviewReadOnly) ...[
+        if (contributing)
+          Text(copy(
+              'Ambalajdan barkodu okut, tam içeriği ekle ve kontrol ederek kaydet.',
+              'Scan the package barcode, add the full ingredients and review before saving.')),
         Wrap(spacing: 8, runSpacing: 8, children: [
           OutlinedButton.icon(
               onPressed: linkBarcode,
@@ -1945,6 +1966,14 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
               onPressed: () => scanPhoto(ImageSource.gallery),
               icon: const Icon(Icons.photo_library_outlined),
               label: Text(copy('Galeriden ekle', 'Add from gallery'))),
+          OutlinedButton.icon(
+              onPressed: () => scanAdditionalPhoto(ImageSource.camera),
+              icon: const Icon(Icons.add_a_photo_outlined),
+              label: Text(copy('Devamını çek', 'Capture next part'))),
+          OutlinedButton.icon(
+              onPressed: () => scanAdditionalPhoto(ImageSource.gallery),
+              icon: const Icon(Icons.library_add_outlined),
+              label: Text(copy('Devamını ekle', 'Add next part'))),
         ]),
       ],
       if (productRecord?.nameMatched == true)
@@ -1958,17 +1987,24 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
             'Bu kayıt ${dateLabel(localReviewDate!)} tarihinde kaydedildi. Güncel ambalajı tekrar kontrol et.',
             'Saved on ${dateLabel(localReviewDate!)}. Check the current package again.')),
       if (scanError != null) scanFailure(),
-      if (photoPath != null)
+      if (photoPaths.isNotEmpty)
         Padding(
             padding: const EdgeInsets.symmetric(vertical: 18),
-            child: ClipRRect(
-                borderRadius: BorderRadius.circular(20),
-                child: Image.file(File(photoPath!),
-                    height: 220,
-                    fit: BoxFit.contain,
-                    semanticLabel: copy('Kontrol edilecek etiket fotoğrafı',
-                        'Label photo to review')))),
-      if (photoPath != null && !ingredientSectionDetected)
+            child: SizedBox(
+                height: 220,
+                child: ListView.separated(
+                    scrollDirection: Axis.horizontal,
+                    itemCount: photoPaths.length,
+                    separatorBuilder: (_, __) => const SizedBox(width: 10),
+                    itemBuilder: (_, index) => ClipRRect(
+                        borderRadius: BorderRadius.circular(20),
+                        child: Image.file(File(photoPaths[index]),
+                            width: 280,
+                            fit: BoxFit.contain,
+                            semanticLabel: copy(
+                                'Kontrol edilecek etiket fotoğrafı',
+                                'Label photo to review')))))),
+      if (photoPaths.isNotEmpty && !ingredientSectionDetected)
         notice(
             copy(
                 'Başlık tanınmadı; bu, içeriklerin okunamadığı anlamına gelmez. Aşağıdaki metni etiketle karşılaştır.',
@@ -1983,13 +2019,17 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
                     : copy(
                         'Metin okunamadı. Daha net bir etiket fotoğrafı ekle.',
                         'No text was read. Add a clearer label photo.'))
-                : issues.contains('parentheses')
+                : issues.contains('too_short')
                     ? copy(
-                        'Okunan metinde açılan ve kapanan parantezler eşleşmiyor. OCR bir işareti atlamış olabilir. Etiketle karşılaştırıp eksik işareti düzelt.',
-                        'A bracket is missing or out of order. Check for a cut-off list; retake the photo if needed.')
-                    : copy(
-                        'Okunamayan bir karakter var. Fotoğrafla karşılaştırıp düzelt veya yeniden çek.',
-                        'An unreadable character was found. Correct it against the photo or retake it.'),
+                        'İçerik listesi çok kısa görünüyor. Etiketin devamını ekleyin veya metni ambalajla karşılaştırın.',
+                        'The ingredient list looks too short. Add the next part or compare it with the package.')
+                    : issues.contains('parentheses')
+                        ? copy(
+                            'Okunan metinde açılan ve kapanan parantezler eşleşmiyor. OCR bir işareti atlamış olabilir. Etiketle karşılaştırıp eksik işareti düzelt.',
+                            'A bracket is missing or out of order. Check for a cut-off list; retake the photo if needed.')
+                        : copy(
+                            'Okunamayan bir karakter var. Fotoğrafla karşılaştırıp düzelt veya yeniden çek.',
+                            'An unreadable character was found. Correct it against the photo or retake it.'),
             warning: true),
       const SizedBox(height: 12),
       TextField(

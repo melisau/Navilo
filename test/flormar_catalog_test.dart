@@ -32,8 +32,11 @@ void main() {
       expect(result.name, row['name']);
       expect(result.ingredients, row['ingredients']);
       expect(result.ingredients, isNot(contains('MAY CONTAIN')));
-      expect(result.mayContain, contains('MAY CONTAIN'));
-      expect(result.sourceUrl, contains(code));
+      // Some sources put the heading outside the separately stored pigment list.
+      // Preserve the source text without requiring a heading or a GTIN in its URL.
+      expect(result.mayContain, row['may_contain'] ?? '');
+      expect(result.sourceUrl, row['source_url']);
+      expect(Uri.parse(result.sourceUrl).scheme, 'https');
       expect(result.nameMatched, isFalse);
     }
     expect(calls, 0);

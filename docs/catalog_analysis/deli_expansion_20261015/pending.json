@@ -1,0 +1,43 @@
+[
+  {
+    "code": "8697471721019",
+    "name": "Namet 7/24 Dana Macar Salam 60 g",
+    "reason": "CarrefourSA E301, Migros E316 bildiriyor. Güncel etiket görülmeden formül seçilmedi.",
+    "sources": [
+      "https://www.carrefoursa.com/namet-7-24-dana-macar-salam-60-g-p-30079250",
+      "https://www.migros.com.tr/namet-724-dana-macar-salam-60-g-p-d749e4"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:23:24+00:00"
+  },
+  {
+    "code": "8697420920302",
+    "name": "Apikoğlu Kangal Sucuk 280 g",
+    "reason": "Sarıyer metni adsız ANTİOKSİDAN ifadesinde bitiyor.",
+    "sources": [
+      "https://www.sariyermarket.com/apikoglu-sucuk-kangal-280-gr"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:23:24+00:00"
+  },
+  {
+    "code": "8693407004522",
+    "name": "Polonez Tütsülenmiş Piliç Jumbo Sosis 320 g",
+    "reason": "İçerik metni açık parantezle bitiyor; tam etiket gerekli.",
+    "sources": [
+      "https://www.sariyermarket.com/polonez-tutsulenmis-pilic-jumbo-sosis-320-gr"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:23:24+00:00"
+  },
+  {
+    "code": "8692415400258",
+    "name": "Namet Dana Macar Salam 150 g",
+    "reason": "GTIN var fakat içerik alanı yok.",
+    "sources": [
+      "https://www.sariyermarket.com/namet-dana-macar-salam-150gr"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:23:24+00:00"
+  }
+]

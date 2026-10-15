@@ -1,0 +1,22 @@
+{
+  "added": 50,
+  "rejected": 0,
+  "cosmetics_total_at_check": 529,
+  "brands": {
+    "Nivea": 25,
+    "Rexona": 22,
+    "Dove": 3
+  },
+  "forms": {
+    "stick": 9,
+    "roll_on": 13,
+    "spray": 28
+  },
+  "retailer_evidence": {
+    "www.gratis.com": 23,
+    "www.migros.com.tr": 17,
+    "www.watsons.com.tr": 10
+  },
+  "all_gtins_valid": true,
+  "idempotent": true
+}

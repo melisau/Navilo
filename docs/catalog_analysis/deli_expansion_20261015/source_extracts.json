@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Beşler Gold Kangal Sucuk 300 Gr",
+    "code": "8681594301548",
+    "ingredients": "Dana eti, sığır yağı, baharat karışımı, tuz, sarımsak, stabilizör (E450, E452), antioksidan madde (E301), koruyucu madde (E250)",
+    "allergen_text": "Bulunmamaktadır.",
+    "url": "https://www.sariyermarket.com/besler-gold-kangal-sucuk-300-gr"
+  },
+  {
+    "url": "https://www.sariyermarket.com/apikoglu-parmak-sucuk-200-gr",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "Polonez Dana Kasap Sucuk 250 Gr",
+    "code": "8693407004157",
+    "ingredients": "DANA ETİ VE YAĞI TUZ BAHARAT KARIŞIMI SARIMSAKSTABİLİZÖR (ODYUM POLİFOSTFAT) ANTİOKSİDAN (ASKORBİK ASİT) KORUYUCU MADDE (SODYUM NİTRİT)",
+    "allergen_text": "",
+    "url": "https://www.sariyermarket.com/polonez-dana-kasap-sucuk-250-gr"
+  },
+  {
+    "name": "Polonez Dana Sucuk 240 Gr",
+    "code": "8693407002795",
+    "ingredients": "DANA ETİ VE YAĞI TUZ BAHARAT KARIŞIMI SARIMSAK STABİLİZÖR (SODYUM POLİFOSFAT)ANTİOKSİDAN (ASKORBİK ASİT) KORUYUCU MADDE (SODYUM NİTRİT)",
+    "allergen_text": "",
+    "url": "https://www.sariyermarket.com/polonez-dana-sucuk-240-gr"
+  },
+  {
+    "url": "https://www.sariyermarket.com/pinar-salam-ac-bitir-hindi-fistikli-salam-50-gr",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://www.sariyermarket.com/maret-pratik-dana-macar-salam-50-gr",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "url": "https://www.sariyermarket.com/namet-7-24-dana-macar-salam-60-gr",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "Namet Dana Macar Salam 150gr",
+    "code": "8692415400258",
+    "ingredients": null,
+    "allergen_text": null,
+    "url": "https://www.sariyermarket.com/namet-dana-macar-salam-150gr"
+  },
+  {
+    "name": "Polonez Hindi Kokteyl Sosis 220 Gr",
+    "code": "8693407004560",
+    "ingredients": "Hindi eti ve yağı,dana yağı,patates nişastası,tuz,baharat karışımı,bitkisel protein,ayçiçek yağı,likit tütsü aroması,stabilizör(sodyum polifosfat),antioksidan(askorbik asit),koruyucu(sodyum nitrit)",
+    "allergen_text": "",
+    "url": "https://www.sariyermarket.com/polonez-hindi-kokteyl-sosis-220-gr"
+  },
+  {
+    "name": "Pınar Hindi Uzun Sosis 430 Gr",
+    "code": "8690527030882",
+    "ingredients": "Hindi eti,ayçiçek yağı ,dana yağı,su,patates nişastası,soya proteini,süt proteini,tuz,salça,kıvam arttırıcı(guar gam),baharat karışımı ,sarımsak,koruyucu madde(sodyum laktat, sodyum nitrit),stabilazör (sodyum polifosfat),antioksidan(askorbik asit),aroma vericiler,fermente prinç,renklendirici(karamel-E 150d).Doğal tütsüleme yapılmıştır.",
+    "allergen_text": "soya proteini,süt proteini",
+    "url": "https://www.sariyermarket.com/pinar-hindi-uzun-sosis-430-gr"
+  }
+]

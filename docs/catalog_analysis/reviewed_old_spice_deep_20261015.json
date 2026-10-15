@@ -1,0 +1,64 @@
+[
+  {
+    "code": "8700216605809",
+    "name": "Old Spice Bearglove Erkek Sprey Vücut Deodorantı 150 ml",
+    "category": "cosmetic",
+    "subcategory": "deodorant",
+    "form": "spray",
+    "market": "TR",
+    "ingredients": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Limonene, Piroctone Olamine, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Coumarin, Geraniol, Citral, Amyl Cinnamal",
+    "may_contain": "",
+    "source_name": "Watsons Türkiye · barkod ve tam içerik",
+    "source_url": "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548",
+    "source_type": "retailer",
+    "status": "verified",
+    "checked_at": "2026-10-15T00:00:00+03:00",
+    "verified_at": "2026-10-15T00:00:00+03:00",
+    "catalog_batch": "old-spice-deep-review-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "verification_basis": "retailer_published_exact_gtin_size_and_full_inci",
+    "field_sources": {
+      "code": [
+        "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548"
+      ],
+      "name": [
+        "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548"
+      ],
+      "ingredients": [
+        "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548"
+      ]
+    },
+    "evidence_note": "Watsons aynı sayfada iki GTIN, 150 ml ve tam INCI yayımlıyor. Fiziksel ambalaj incelenmedi. 8700216169943 barkoduna eşdeğer kabul edilmez."
+  },
+  {
+    "code": "8001090595621",
+    "name": "Old Spice Bearglove Erkek Sprey Vücut Deodorantı 150 ml",
+    "category": "cosmetic",
+    "subcategory": "deodorant",
+    "form": "spray",
+    "market": "TR",
+    "ingredients": "Alcohol Denat., Butane, Isobutane, Propane, Parfum, Limonene, Piroctone Olamine, Hexyl Cinnamal, Linalool, Alpha-Isomethyl Ionone, Coumarin, Geraniol, Citral, Amyl Cinnamal",
+    "may_contain": "",
+    "source_name": "Watsons Türkiye · barkod ve tam içerik",
+    "source_url": "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548",
+    "source_type": "retailer",
+    "status": "verified",
+    "checked_at": "2026-10-15T00:00:00+03:00",
+    "verified_at": "2026-10-15T00:00:00+03:00",
+    "catalog_batch": "old-spice-deep-review-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "verification_basis": "retailer_published_exact_gtin_size_and_full_inci",
+    "field_sources": {
+      "code": [
+        "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548"
+      ],
+      "name": [
+        "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548"
+      ],
+      "ingredients": [
+        "https://www.watsons.com.tr/old-spice-bearglove-erkek-sprey-vucut-deodoranti-150-ml/p/BP_173548"
+      ]
+    },
+    "evidence_note": "Watsons aynı sayfada iki GTIN, 150 ml ve tam INCI yayımlıyor. Fiziksel ambalaj incelenmedi. 8700216169943 barkoduna eşdeğer kabul edilmez."
+  }
+]

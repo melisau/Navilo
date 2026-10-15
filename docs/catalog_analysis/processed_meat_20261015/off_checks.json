@@ -1,0 +1,52 @@
+[
+  {
+    "code": "8690527010938",
+    "url": "https://world.openfoodfacts.org/api/v2/product/8690527010938.json",
+    "status": 1,
+    "product_name": "AÇ BİTİR DANA MACAR SALAM",
+    "quantity": "50 g",
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8690527030578",
+    "url": "https://world.openfoodfacts.org/api/v2/product/8690527030578.json",
+    "status": 1,
+    "product_name": "aç bitir",
+    "quantity": "hindi kokteyl Sosis",
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8690527031094",
+    "url": "https://world.openfoodfacts.org/api/v2/product/8690527031094.json",
+    "status": 1,
+    "product_name": "Yoruk hindi sosis",
+    "quantity": "430",
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8697471721521",
+    "url": "https://world.openfoodfacts.org/api/v2/product/8697471721521.json",
+    "status": 1,
+    "product_name": null,
+    "quantity": "500 g",
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8690527020890",
+    "url": "https://world.openfoodfacts.org/api/v2/product/8690527020890.json",
+    "status": 1,
+    "product_name": null,
+    "quantity": "75 g",
+    "ingredients_text": null,
+    "ingredients_text_tr": null,
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  }
+]

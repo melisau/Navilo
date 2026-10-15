@@ -146,8 +146,9 @@ class LocalProductStore {
     if (!await _pendingFile.exists()) return [];
     try {
       final value = jsonDecode(await _pendingFile.readAsString());
-      if (value is! List)
+      if (value is! List) {
         throw const FormatException('Invalid submission queue');
+      }
       return value
           .whereType<Map>()
           .map((item) =>

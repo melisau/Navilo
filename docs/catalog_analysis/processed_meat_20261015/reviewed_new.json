@@ -1,0 +1,144 @@
+[
+  {
+    "code": "8697471724614",
+    "name": "Namet Dana Kokteyl Sosis 250 g",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, ayçiçek yağı, patates nişastası, tuz, su, kıvam arttırıcı (E407), doğal tütsü aroma vericisi, sarımsak, stabilizör (E450, E452), antioksidan (E316), koruyucu (E250), soya proteini, süt proteini, renklendirici (E120) ve ambalajlama gazı (azot, karbon dioksit).",
+    "category": "food",
+    "source_type": "retailer",
+    "source_url": "https://www.gidasepetim.com.tr/products/namet-sosis-dana-kokteyl-250-gr",
+    "barcode_source_url": "https://www.gurmar.com.tr/namet-kokteyl-dana-sosis-250-gr-14810-p",
+    "source_name": "Perakendeci ürün etiketi ve ayrı GTIN kaydı",
+    "status": "verified",
+    "verified_at": "2026-10-15T10:06:39+00:00",
+    "checked_at": "2026-10-15T10:06:39+00:00",
+    "catalog_batch": "processed-meat-source-review-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "verification_basis": "same_variant_weight_and_full_ingredient_source_review",
+    "field_sources": {
+      "code": [
+        "https://www.gurmar.com.tr/namet-kokteyl-dana-sosis-250-gr-14810-p"
+      ],
+      "name": [
+        "https://www.gidasepetim.com.tr/products/namet-sosis-dana-kokteyl-250-gr",
+        "https://www.gurmar.com.tr/namet-kokteyl-dana-sosis-250-gr-14810-p"
+      ],
+      "ingredients": [
+        "https://www.gidasepetim.com.tr/products/namet-sosis-dana-kokteyl-250-gr"
+      ]
+    },
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Namet 250 g kaydına ait Gıda Sepetim içerik metni aktarıldı; yalnızca boşluklar ve noktalama düzenlendi. Eski Namet Migros URL’si bugün Maret başlığı döndürdüğünden kaynak olarak kullanılmadı. Ambalajlama gazı kaynakta içerik metninin parçasıdır. Fiziksel ambalaj kontrolü yapılmadı."
+  },
+  {
+    "code": "8697471722818",
+    "name": "Namet Hindi Uzun Sosis 210 g",
+    "ingredients": "Hindi Eti,Dana Yağı, Baharat Karışımı, Patates Nişastası, Tuz, Su, Stabilizör (Sodyum Di, Tri Ve Polifosfat), Kıvam Arttırıcı (Karagenan), Soya Proteini, Antioksidan (Askorbik Asit, Sodyum Askorbat), Doğal Tütsü Aroma Vericisi, Koruyucu (Sodyum Nitrit), Süt Proteini.",
+    "category": "food",
+    "source_type": "retailer",
+    "source_url": "https://www.tkkoop.com.tr/urun/namet-hindi-uzun-sosis-5-li-210-g",
+    "barcode_source_url": "https://barisgrossonlinemagaza.com/zqnamet-hindi-uzun-sosis-210-gr-27715-p",
+    "source_name": "Perakendeci ürün etiketi ve ayrı GTIN kaydı",
+    "status": "verified",
+    "verified_at": "2026-10-15T10:06:39+00:00",
+    "checked_at": "2026-10-15T10:06:39+00:00",
+    "catalog_batch": "processed-meat-source-review-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "verification_basis": "same_variant_weight_and_full_ingredient_source_review",
+    "field_sources": {
+      "code": [
+        "https://barisgrossonlinemagaza.com/zqnamet-hindi-uzun-sosis-210-gr-27715-p"
+      ],
+      "name": [
+        "https://www.tkkoop.com.tr/urun/namet-hindi-uzun-sosis-5-li-210-g",
+        "https://barisgrossonlinemagaza.com/zqnamet-hindi-uzun-sosis-210-gr-27715-p"
+      ],
+      "ingredients": [
+        "https://www.tkkoop.com.tr/urun/namet-hindi-uzun-sosis-5-li-210-g"
+      ]
+    },
+    "allergens": [
+      "soybeans",
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "İçerik aynı ürün ve gramajın perakendeci kaydından aktarıldı. Güncel fiziksel ambalaj incelenmedi; boş iz alanı çapraz bulaşmanın yokluğu anlamına gelmez."
+  },
+  {
+    "code": "8697471720197",
+    "name": "Maret Afiyetle Isıl İşlem Görmüş Dana Sucuk 200 g",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, tuz, sarımsak, stabilizör (sodyum difosfat, sodyum polifosfat), antioksidan (sodyum askorbat) ve koruyucu (sodyum nitrit).",
+    "category": "food",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/maret-dana-isil-islem-gormus-afiyetle-sucuk-200-g-p-d8ad5d",
+    "barcode_source_url": "https://www.asyasanalmarket.com/maret-afiyetle-dana-sucuk-200-gr-112-35220",
+    "source_name": "Perakendeci ürün etiketi ve ayrı GTIN kaydı",
+    "status": "verified",
+    "verified_at": "2026-10-15T10:06:39+00:00",
+    "checked_at": "2026-10-15T10:06:39+00:00",
+    "catalog_batch": "processed-meat-source-review-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "verification_basis": "same_variant_weight_and_full_ingredient_source_review",
+    "field_sources": {
+      "code": [
+        "https://www.asyasanalmarket.com/maret-afiyetle-dana-sucuk-200-gr-112-35220"
+      ],
+      "name": [
+        "https://www.migros.com.tr/maret-dana-isil-islem-gormus-afiyetle-sucuk-200-g-p-d8ad5d",
+        "https://www.asyasanalmarket.com/maret-afiyetle-dana-sucuk-200-gr-112-35220"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/maret-dana-isil-islem-gormus-afiyetle-sucuk-200-g-p-d8ad5d"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "İçerik aynı ürün ve gramajın perakendeci kaydından aktarıldı. Güncel fiziksel ambalaj incelenmedi; boş iz alanı çapraz bulaşmanın yokluğu anlamına gelmez."
+  },
+  {
+    "code": "8690527020890",
+    "name": "Pınar Aç Bitir Dana Sucuk 75 g",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, sarımsak, tuz, tatlı kırmızıbiber, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu madde (sodyum nitrit).",
+    "category": "food",
+    "source_type": "retailer",
+    "source_url": "https://www.carrefoursa.com/pinar-dana-sucuk-ac-bitir-75-g-p-30475525",
+    "barcode_source_url": "https://www.memleketgurmesi.com.tr/p%C4%B1nar-a%C3%A7-bitir-dana-sucuk-75-gr-9539",
+    "source_name": "Perakendeci ürün etiketi ve ayrı GTIN kaydı",
+    "status": "verified",
+    "verified_at": "2026-10-15T10:06:39+00:00",
+    "checked_at": "2026-10-15T10:06:39+00:00",
+    "catalog_batch": "processed-meat-source-review-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "verification_basis": "same_variant_weight_and_full_ingredient_source_review",
+    "field_sources": {
+      "code": [
+        "https://www.memleketgurmesi.com.tr/p%C4%B1nar-a%C3%A7-bitir-dana-sucuk-75-gr-9539"
+      ],
+      "name": [
+        "https://www.carrefoursa.com/pinar-dana-sucuk-ac-bitir-75-g-p-30475525",
+        "https://www.memleketgurmesi.com.tr/p%C4%B1nar-a%C3%A7-bitir-dana-sucuk-75-gr-9539"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/pinar-dana-sucuk-ac-bitir-75-g-p-30475525"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "İçerik aynı ürün ve gramajın perakendeci kaydından aktarıldı. Güncel fiziksel ambalaj incelenmedi; boş iz alanı çapraz bulaşmanın yokluğu anlamına gelmez."
+  }
+]

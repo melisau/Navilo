@@ -49,15 +49,21 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Barkod okut / düzelt'), findsOneWidget);
     expect(find.textContaining('8682352821258'), findsNothing);
+    await tester.scrollUntilVisible(find.byType(TextField), 180,
+        scrollable: find.byType(Scrollable).first);
     expect(tester.widget<TextField>(find.byType(TextField)).controller!.text,
         isEmpty);
     await tester.enterText(
         find.byType(TextField), 'İçindekiler: pirinç, deniz tuzu.');
+    tester.testTextInput.hide();
+    await tester.pumpAndSettle();
     await tester.scrollUntilVisible(
         find.byKey(const ValueKey('confirm-list')), 250,
         scrollable: find.byType(Scrollable).first);
     await tester.tap(find.byKey(const ValueKey('confirm-list')));
     await tester.pumpAndSettle();
+    expect(tester.widget<CheckboxListTile>(
+        find.byKey(const ValueKey('confirm-list'))).value, isTrue);
     await tester.scrollUntilVisible(find.text('Katkıyı kaydet'), 180,
         scrollable: find.byType(Scrollable).first);
     await tester.tap(find.text('Katkıyı kaydet'));
@@ -79,6 +85,8 @@ void main() {
     expect(find.text('Bu cihazda kaydedildi · Düzenle'), findsOneWidget);
     await tester.tap(find.text(name));
     await tester.pumpAndSettle();
+    await tester.scrollUntilVisible(find.byType(TextField), 180,
+        scrollable: find.byType(Scrollable).first);
     expect(tester.widget<TextField>(find.byType(TextField)).controller!.text,
         contains('pirinç'));
     await tester.scrollUntilVisible(

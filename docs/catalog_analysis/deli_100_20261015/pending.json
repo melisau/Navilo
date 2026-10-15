@@ -1,0 +1,344 @@
+[
+  {
+    "record": {
+      "name": "Danet Piliç Dilimli Sucuk · Isıl İşlem Görmüş · 400 g",
+      "code": "86974038911285",
+      "ingredients": "Piliç eti, dana yağı, baharat karışımı, tuz, sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "source_url": "https://online.danet.com.tr/pilic-dilimli-sucuk-i-isil-islem-gormus-i-400-g-87",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "name": "Danet Piliç Sucuk · Isıl İşlem Görmüş · 200 g",
+      "code": "86974303890363",
+      "ingredients": "Piliç eti, dana yağı, baharat karışımı, tuz, sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "source_url": "https://online.danet.com.tr/pilic-sucuk-i-isil-islem-gormus-200-g",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "name": "Danet Dana Antrikot Pastırma I 250 g",
+      "code": "8697403890103",
+      "ingredients": "Dana eti, pastırma çemeni (buğday unu, kırmızıbiber, sarımsak), tuz, antioksidan (askorbik asit), koruyucu (sodyum nitrit)",
+      "source_url": "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g",
+      "source_type": "manufacturer"
+    },
+    "reason": "Manufacturer reuses barcode for conflicting meat species/product"
+  },
+  {
+    "record": {
+      "name": "Danet Piliç Dilimli Sucuk · Isıl İşlem Görmüş · 250 g",
+      "code": "86974038911186",
+      "ingredients": "Piliç eti, dana yağı, baharat karışımı, tuz, sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "source_url": "https://online.danet.com.tr/pilic-dilimli-sucuk-i-isil-islem-gormus-i-250-g",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "name": "Danet Piliç Jambon I Blok I 2000 g",
+      "code": "8697403890158",
+      "ingredients": "Piliç eti, patates nişastası, su, baharat karışımı, tuz, süt proteini, kıvam arttırıcı (karragenan), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit).",
+      "source_url": "https://online.danet.com.tr/pilic-jambon-2000gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Manufacturer reuses barcode for conflicting meat species/product"
+  },
+  {
+    "record": {
+      "name": "Danet Dana Örgülü İspanyol Salam · 3000 g",
+      "code": "8697403890587",
+      "ingredients": "Dana eti, kuzu yağı, dana yağı, su, patates nişastası, Antep fıstığı (%3), baharat karışımı, tuz, soya proteini, süt proteini, kıvam arttırıcı (karragenan), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit), tütsü aroma vericisi.",
+      "source_url": "https://online.danet.com.tr/dana-orgulu-ispanyol-salam-i-250g",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "name": "Danet Dana Kavurma · Kare Dilim · 250-270 G",
+      "code": "8697403890051",
+      "ingredients": "Dana eti, dana yağı, tuz",
+      "source_url": "https://online.danet.com.tr/dana-kavurma-i-kare-dilim-i-250-g",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "29740410",
+      "name": "Apikoğlu Dana Kangal Sucuk",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dana-kangal-sucuk-380-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816931004650",
+      "name": "Apikoğlu 100 Yıllık Formül Dana Klasik Sucuk",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Karabiber, Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/100-yillik-formul-klasik-dana-sucuk-450-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "8697420920586",
+      "name": "Apikoğlu Dana Parmak Sucuk 200 Gr.",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Karabiber, Pul Biber, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/dana-parmak-sucuk-200-gr",
+      "source_type": "manufacturer",
+      "raw_gtin": null
+    },
+    "reason": "Same barcode appears on parmak and dilimli sucuk pages"
+  },
+  {
+    "record": {
+      "code": "8697420920586",
+      "name": "Apikoğlu Dilimli Dana Tavalık Sucuk 200 Gr.",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Karabiber, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/dilimli-dana-tavalik-sucuk-200-gr",
+      "source_type": "manufacturer",
+      "raw_gtin": null
+    },
+    "reason": "Same barcode appears on parmak and dilimli sucuk pages"
+  },
+  {
+    "record": {
+      "code": "2831729",
+      "name": "Apikoğlu Doğal Füme Dana Frankfurter Sosis",
+      "ingredients": "Dana Eti, Dana Yağı, Su, Patates Nişastası, Tuz, Baharat Karışımı, Süt Proteini , Stabilizör (E452), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dogal-fume-dana-frankfurter-sosis-220-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2831730",
+      "name": "Apikoğlu Doğal Füme Dana Bratwurst Sosis",
+      "ingredients": "Dana Eti, Dana Yağı, Su, Patates Nişastası, Tuz, Baharat Karışımı, Süt Proteini , Stabilizör (E452), Sarımsak, Hardal Tozu , Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dogal-fume-dana-bratwurst-sosis-320-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2831746",
+      "name": "Apikoğlu Doğal Füme Kars Gravyerli Dana Sosis",
+      "ingredients": "Dana Eti, Dana Yağı, Su, %7 Gravyer Peyniri (Pastörize İnek Sütü , Tuz, Peynir Mayası), Patates Nişastası, Tuz, Baharat Karışımı, Stabilizör (E452), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dogal-fume-kars-gravyerli-dana-sosis-220-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816935",
+      "name": "Apikoğlu Blok Dana Kavurma",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz",
+      "source_url": "https://www.apikoglu.com.tr/blok-dana-kavurma-1500-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2833373",
+      "name": "Apikoğlu Kare Dilimli Dana Kavurma",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz",
+      "source_url": "https://www.apikoglu.com.tr/kalin-kare-dilimli-dana-teneke-kavurma-300-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Dana Parça Pastırma 80 Gr.",
+      "ingredients": "Dana Eti, Çemen (Buy Otu Tohumu Unu, Toz Kırmızı Biber, Sarımsak, Burçak Unu, Buğday Unu ), Tuz, Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/parca-pastirma-80-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816930",
+      "name": "Apikoğlu Dana Parmak Sucuk",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/dana-parmak-sucuk-kuvet",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Yüksek Proteinli Kurutulmuş Dana Füme Et 100 Gr.",
+      "ingredients": "Dana Eti, Tuz, Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/kurutulmus-dana-fume-et-100-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Yüksek Proteinli Kurutulmuş Dana Füme Et 70 Gr.",
+      "ingredients": "Dana Eti, Tuz, Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/kurutulmus-dana-fume-et-70-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Yüksek Proteinli Karabiberli Dana Kuru Et 70 Gr.",
+      "ingredients": "Dana Eti, Tuz, Karabiber (%3), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/karabiberli-kuru-et-70-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Yüksek Proteinli Kekikli Ve Kırmızıbiberli Dana Kuru Et 70 Gr.",
+      "ingredients": "Dana Eti, Tuz, Kekik (%1), Kırmızı Biber (%1), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/kekikli-kirmizi-biberli-dana-kuru-et-70-gr-220",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Blok Dana Macar Salam 1000 Gr.",
+      "ingredients": "Dana Eti, Dana Yağı, Su, Patates Nişastası, Tuz, Baharat Karışımı, Stabilizör (E452), Süt Proteini , Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/blok-dana-macar-salam-1000-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816931008400",
+      "name": "Apikoğlu Klasik Sever İkili Paket",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Karabiber, Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/100-yillik-formul-dana-klasik-sucuk",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "29740410",
+      "name": "Apikoğlu Dana Kangal Sucuk İkili Paket",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dana-kangal-sucuk-346",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816930",
+      "name": "Apikoğlu Dana Parmak Sucuk İkili Paket",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/dana-parmak-sucuk",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816931004650",
+      "name": "Apikoğlu 100 Yıllık Formül Dana Klasik Sucuk 4 Lü Paket",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Karabiber, Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/100-yillik-formul-dana-klasik-sucuk-381",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "29740410",
+      "name": "Apikoğlu Dana Kangal Sucuk 4 Lü Paket",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/dana-kangal-sucuk-383",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "2816930",
+      "name": "Apikoğlu Dana Parmak Sucuk 4 Lü Paket",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250)",
+      "source_url": "https://www.apikoglu.com.tr/dana-parmak-sucuk-384",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Cevizli Mini Dana Et √áubuklarńĪ 110 gr.",
+      "ingredients": "Dana Eti, Dana YańüńĪ, Ceviz (%15), Tuz, Bitkisel Lif, Baharat KarńĪŇüńĪmńĪ, Stabiliz√∂r (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/cevizli-mini-dana-et-cubuklari-110-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Dana Balkan Salamı (70 Gr.)",
+      "ingredients": "Dana Eti, Dana Yağı, Su, Patates Nişastası, Tuz, Baharat Karışımı, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dana-balkan-salami-70-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Dana Sucuk Çerezlik (İnce Dilim 70 Gr.)",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dana-sucuk-ince-dilim-70-gr",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Dana Balkan Salamı (70 Gr.)",
+      "ingredients": "Dana Eti, Dana Yağı, Su, Patates Nişastası, Tuz, Baharat Karışımı, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dana-balkan-salami-70-gr-k",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  },
+  {
+    "record": {
+      "code": "",
+      "name": "Apikoğlu Dana Sucuk Çerezlik (İnce Dilim 70 Gr.)",
+      "ingredients": "Dana Eti, Dana Yağı, Tuz, Toz Kırmızı Biber, Kimyon, Sarımsak, Stabilizör (E452), Antioksidan (E300), Koruyucu (E250).",
+      "source_url": "https://www.apikoglu.com.tr/dana-sucuk-cerezlik-ince-dilim-70-gr-k",
+      "source_type": "manufacturer"
+    },
+    "reason": "Invalid/missing GTIN or quarantined code"
+  }
+]

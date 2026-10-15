@@ -1,0 +1,65 @@
+[
+  {
+    "code": "5000174003413",
+    "name": "Old Spice Whitewater Stick Deodorant 50 ml",
+    "status": "unverified",
+    "reason": "Aynı GTIN için farklı tam INCI listeleri doğrulandı. Superdrug sürümünde Aminomethyl Propanol, Menthol ve BHT; OP Cosmetic sürümünde Tetrasodium EDTA ve Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate var. Tarih/parti/ambalaj ilişkisi belirlenemedi; tek formül seçilmedi.",
+    "source_urls": [
+      "https://www.watsons.com.tr/old-spice-stick-whitewater-50-ml/p/BP_1345281",
+      "https://drogerienatura.pl/produkt/old-spice-whitewater-dezodorant-w-sztyfcie-meski-50-ml-5000174003413"
+    ],
+    "last_reviewed_at": "2026-10-15T00:00:00+03:00",
+    "candidate_formulas": [
+      {
+        "source_url": "https://www.superdrug.com/toiletries/mens-deodorants/mens-deodorant-sticks/old-spice-deodorant-stick-whitewater-50ml/p/469850",
+        "distinguishing_ingredients": [
+          "Aminomethyl Propanol",
+          "Menthol",
+          "BHT"
+        ]
+      },
+      {
+        "source_url": "https://www.op-cosmetic.cz/old-spice-deostick-whitewater-50-ml/",
+        "distinguishing_ingredients": [
+          "Tetrasodium EDTA",
+          "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate"
+        ]
+      }
+    ]
+  },
+  {
+    "code": "8006540599686",
+    "name": "Old Spice Wolfthorn Stick Deodorant 50 ml",
+    "status": "unverified",
+    "reason": "Kontrol basamağı geçerli; ürün kimliği için kaynak eşleşmesi bulunamadı. Aynı çeşidin doğrulanan barkodu 8700216946377 ayrı kaydedildi; bu numara ona alias yapılmadı.",
+    "verified_same_variant_code": "8700216946377"
+  },
+  {
+    "code": "8006540599624",
+    "name": "Old Spice Bearglove Stick Deodorant 50 ml",
+    "status": "unverified",
+    "reason": "Kontrol basamağı geçerli; ürün kimliği için kaynak eşleşmesi bulunamadı. Aynı çeşidin doğrulanan barkodu 8700216986502 ayrı kaydedildi.",
+    "verified_same_variant_code": "8700216986502"
+  },
+  {
+    "code": "8700216314817",
+    "name": "Old Spice Rockstar Stick Deodorant 50 ml",
+    "status": "unverified",
+    "reason": "Kontrol basamağı geçerli; kaynak eşleşmesi bulunamadı. dm Romanya'da 50 ml Rockstar 8700216203883 ile doğrulandı ve ayrı kaydedildi; Türkiye barkodu olduğu varsayılmadı.",
+    "verified_same_variant_code": "8700216203883"
+  },
+  {
+    "code": "8006540599044",
+    "name": "Old Spice Captain Sprey Deodorant 150 ml",
+    "status": "unverified",
+    "reason": "Kontrol basamağı geçerli; kaynak eşleşmesi bulunamadı. Watsons'ta 150 ml Captain sprey 8006540786116 ile doğrulandı ve ayrı kaydedildi.",
+    "verified_same_variant_code": "8006540786116"
+  },
+  {
+    "code": "5410076943891",
+    "name": "Old Spice Whitewater Sprey Deodorant 150 ml",
+    "status": "unverified",
+    "reason": "EAN-13 kontrol basamağı hatalı. Son basamak otomatik değiştirilmedi. Watsons'ta aynı çeşidin 8700216605878 barkodu, 150 ml hacmi ve tam içeriği doğrulanarak ayrı kayıt açıldı.",
+    "verified_same_variant_code": "8700216605878"
+  }
+]

@@ -29,4 +29,13 @@ void main() {
     expect(p.headingFound, false);
     expect(p.ingredients, 'blurred text');
   });
+  test('Flags a suspiciously short OCR result for manual review', () {
+    expect(IngredientText.reviewIssues('sugar'), contains('too_short'));
+    expect(IngredientText.reviewIssues('sugar, cocoa'),
+        isNot(contains('too_short')));
+  });
+  test('Cleans OCR spacing without changing ingredient words', () {
+    expect(IngredientText.cleanOcr('sugar   ,  cocoa'), 'sugar , cocoa');
+    expect(IngredientText.cleanOcr('hydro-\ngenated oil'), 'hydrogenated oil');
+  });
 }

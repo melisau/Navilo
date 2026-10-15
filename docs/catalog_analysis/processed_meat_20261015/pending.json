@@ -1,0 +1,56 @@
+[
+  {
+    "code": "8697434840481",
+    "name": "Şahin Macar Salam 250 g",
+    "reason": "Asya Market GTIN ve gramajı doğruluyor; Şahin üretici 250 g sayfasında tam içindekiler listesi yok. 900 g formülü bu ürüne aktarılmadı.",
+    "sources": [
+      "https://www.asyasanalmarket.com/sahin-macar-salam-250-gr-18690",
+      "https://sahin724.com/salam/mini-macar-salam-250-g/40"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8697471722856",
+    "name": "Namet Dana Uzun Sosis 210 g",
+    "reason": "GTIN ve 210 g gramaj doğrulandı; tam içerik yalnızca kg veya 240 g varyantları için bulundu. Farklı gramaj formülü taşınmadı.",
+    "sources": [
+      "https://www.gurmar.com.tr/namet-dana-uzun-sosis-210-gr-40572-p",
+      "https://www.sariyermarket.com/namet-dana-sosis-5li-210gr"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8690527030578",
+    "name": "Pınar Aç Bitir Hindi Kokteyl Sosis 170 g",
+    "reason": "GTIN/170 g doğrulandı. A101 metni kıvam arttırıcı ve koruyucuyu adsız listeliyor; tam etiket olarak doğrulanamadı. 180 g ürün formülü aktarılmadı.",
+    "sources": [
+      "https://www.trendyol.com/pinar/ac-bitir-hindi-kokteyl-sosis-170-g-p-60538522",
+      "https://www.a101.com.tr/kapida/et-tavuk-sarkuteri/pinar-ac-bitir-hindi-kokteyl-sosis-170-g_p-11001239"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8690527031094",
+    "name": "Pınar Yörük Büfe Sosis 430 g",
+    "reason": "GTIN ve 430 g ürün bulundu; tam içerik listesi bulunamadı. Kaynaklarda hindi ve hindi/piliç adları bulunduğu için et türü yorumlanmadı.",
+    "sources": [
+      "https://www.allturko.com.tr/urun/11165/c/pinar-pinar-sosis-yoruk-bufe-430-gr-p-152903245-8690527031094/",
+      "https://world.openfoodfacts.org/api/v2/product/8690527031094.json"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  },
+  {
+    "code": "8697471721521",
+    "name": "Maret Dana Kangal Sucuk 500 g",
+    "reason": "OFF cevabı 500 g gösteriyor fakat product_name ve ingredients_text boş. Ürün adına göre formül üretilmedi.",
+    "sources": [
+      "https://world.openfoodfacts.org/api/v2/product/8697471721521.json"
+    ],
+    "status": "unverified",
+    "checked_at": "2026-10-15T10:06:39+00:00"
+  }
+]

@@ -2,7 +2,7 @@
 
 `assets/curated_products.json` is shipped in the app and checked before external
 Open Facts requests. It is independent of user contributions and available
-offline. It contains 186 food records. Earlier dated additions include Eti, Activia, Pınar
+offline. It contains 247 food records. Earlier dated additions include Eti, Activia, Pınar
 Protein, İçim Fit, Sütaş, Altınkılıç and Yörsan. See the
 [expansion evidence table](TURKEY_CATALOG_EXPANSION_20261013.md) for every GTIN,
 ingredient source and separately recorded barcode source.
@@ -90,3 +90,11 @@ Added ProteinOcean chocolate whey 400 g, GTIN 8682696010031, with the manufactur
 ## Later submitted food lists
 
 Eleven sourced records were added after auditing the biscuit, nuts/pasta, bread/dairy, and crisp submissions. Across the six supplied files, 719 product rows were parsed; 527 submitted barcode occurrences fail the GTIN-13 checksum. The remaining rows still require product identity evidence before import. See [the full audit and preserved source lists](SUBMITTED_FOOD_LISTS_AUDIT_20261013.md).
+
+## Salam, sausage and soujouk review — 2026-10-15
+
+Four exact-variant products were added: Namet beef cocktail sausage 250 g, Namet turkey long sausage 210 g, Maret Afiyetle beef soujouk 200 g, and Pınar Aç Bitir beef soujouk 75 g. One submitted product was already present; five remain pending complete same-package ingredient evidence. See [the review and evidence links](PROCESSED_MEAT_SOURCE_REVIEW_20261015.md).
+
+## Further deli products — 2026-10-15
+
+Ten new exact-variant foods were added: four soujouks, three salamis, and three sausages from Pınar, Maret, Polonez, Apikoğlu and Beşler. See [product-level evidence and deferred candidates](DELI_EXPANSION_20261015.md).

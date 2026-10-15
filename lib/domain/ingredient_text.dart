@@ -16,12 +16,21 @@ class IngredientText {
     if (balance != 0 || broken) issues.add('parentheses');
     if (text.contains('�')) issues.add('unreadable');
     if (text.trim().isEmpty) issues.add('empty');
+    final tokens = text
+        .split(RegExp(r'[,;\n]'))
+        .map((part) => part.trim())
+        .where((part) => part.isNotEmpty)
+        .length;
+    if (text.trim().isNotEmpty && tokens < 2) issues.add('too_short');
     return issues;
   }
 
   // Only typography is repaired automatically; ingredient names are never guessed.
-  static String cleanOcr(String text) =>
-      text.replaceAll('i\u0307', 'i').replaceAll('\u00ad', '').replaceAllMapped(
+  static String cleanOcr(String text) => text
+      .replaceAll('i\u0307', 'i')
+      .replaceAll('\u00ad', '')
+      .replaceAll(RegExp(r'[ \t]+'), ' ')
+      .replaceAllMapped(
           RegExp(r'([a-zA-ZçÇğĞıİöÖşŞüÜ])[-‐]\s*\n\s*([a-zA-ZçÇğĞıİöÖşŞüÜ])'),
           (m) => '${m[1]}${m[2]}');
 
@@ -37,7 +46,13 @@ class IngredientText {
         .replaceAll('ç', 'c')
         .replaceAll('Ç', 'c')
         .replaceAll('ş', 's')
-        .replaceAll('Ş', 's');
+        .replaceAll('Ş', 's')
+        .replaceAll('ö', 'o')
+        .replaceAll('Ö', 'o')
+        .replaceAll('ü', 'u')
+        .replaceAll('Ü', 'u')
+        .replaceAll('ğ', 'g')
+        .replaceAll('Ğ', 'g');
     final starts = heading.allMatches(searchText).toList();
     if (starts.isEmpty) return IngredientText(raw, cleanOcr(raw.trim()), false);
     final sections = <String>[];
