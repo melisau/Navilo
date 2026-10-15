@@ -1,0 +1,25 @@
+{
+  "requested_new": 100,
+  "reviewed_new": 100,
+  "before_food_count": 247,
+  "groups": {
+    "sucuk": 27,
+    "sosis": 8,
+    "salam": 24,
+    "pastırma": 12,
+    "füme / kuru et": 17,
+    "jambon": 6,
+    "kavurma": 6
+  },
+  "source_types": {
+    "manufacturer": 80,
+    "retailer": 20
+  },
+  "physical_package_verified": false,
+  "pdf_sha256": "bad7a18717bf0ce7ce01997735899d988fe4b1c31035819efbc71eae4032a912",
+  "added": 100,
+  "rejected": 0,
+  "after_food_count": 347,
+  "catalogue_test": "4 passed",
+  "idempotent_merge": true
+}

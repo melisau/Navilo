@@ -2,7 +2,7 @@
 
 `assets/curated_products.json` is shipped in the app and checked before external
 Open Facts requests. It is independent of user contributions and available
-offline. It contains 247 food records. Earlier dated additions include Eti, Activia, Pınar
+offline. It contains 347 food records. Earlier dated additions include Eti, Activia, Pınar
 Protein, İçim Fit, Sütaş, Altınkılıç and Yörsan. See the
 [expansion evidence table](TURKEY_CATALOG_EXPANSION_20261013.md) for every GTIN,
 ingredient source and separately recorded barcode source.
@@ -98,3 +98,7 @@ Four exact-variant products were added: Namet beef cocktail sausage 250 g, Namet
 ## Further deli products — 2026-10-15
 
 Ten new exact-variant foods were added: four soujouks, three salamis, and three sausages from Pınar, Maret, Polonez, Apikoğlu and Beşler. See [product-level evidence and deferred candidates](DELI_EXPANSION_20261015.md).
+
+## Deli expansion — 2026-10-15
+
+100 additional deli records were added: 27 sucuk, 24 salam, 8 sosis, 12 pastırma, 17 smoked/dried meats, 6 jambon and 6 kavurma. See the [100-record audit](DELI_100_20261015.md) for exact GTINs, source evidence and review limitations.

@@ -1,0 +1,30 @@
+[
+  {
+    "code": "8694918041068",
+    "name": "TADA Tavuk Sosis 400 g",
+    "ingredients": "Piliç eti, dana yağı, patates nişastası, soya proteini, tuz, baharat karışımı, stabilizatör(E452), antioksidan (E300), koruyucu (E250).",
+    "source_type": "manufacturer",
+    "source_url": "https://www.tada.com.tr/qr-urun-bilgileri/tavuk-sosis-400-gram",
+    "allergens": [
+      "soy"
+    ]
+  },
+  {
+    "code": "8690527030073",
+    "name": "Pınar Uzun Dana Sosis 225 g",
+    "ingredients": "Dana eti ve yağı, ayçiçek yağı, su, patates nişastası, soya proteini, süt proteini, tuz, baharat karışımı, sarımsak, kıvam arttırıcı (guar gam), koruyucu madde (sodyum laktat, sodyum nitrit), stabilazör (sodyum polifosfat), antioksidan (askorbik asit), aroma vericiler, renklendirici (karamel - E150d). Doğal tütsüleme yapılmıştır.",
+    "source_type": "retailer",
+    "source_url": "https://www.trendyol.com/pinar/uzun-dana-sosis-225-gr-p-42638687",
+    "allergens": [
+      "milk",
+      "soy"
+    ]
+  },
+  {
+    "code": "8680836108471",
+    "name": "Kuka Çiftliği Geleneksel Fermente Sucuk 195–215 g",
+    "ingredients": "Dana eti, manda eti ve kavram yağı, pul biber, kırmızı toz biber, kimyon, yenibahar, karabiber, sarımsak, yöresel laktik asit bakterileri, tuz.",
+    "source_type": "retailer",
+    "source_url": "https://www.trendyol.com/kuka-ciftligi/katkisiz-nitritsiz-geleneksel-fermente-sucuk-trakya-195-215-g-p-810880418"
+  }
+]

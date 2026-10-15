@@ -129,7 +129,7 @@ Barcode responses now preserve original ingredient text and expose source date, 
 - Exact barcode lookup checks the personal library, the configured approved Supabase catalogue, the bundled Turkish product catalogue, then Open Food Facts, Open Beauty Facts, Open Products Facts and Open Pet Food Facts.
 - USDA demo fallback has been removed; missing ingredients lead to the label photo flow.
 - Source names, links and missing-content/service diagnostics remain visible.
-- No paid providers or GS1 subscriptions are connected. Automatic manufacturer/licensed feeds are research candidates only. The bundled catalogue contains 247 individually sourced food records and works without online provider access; source links and check dates are retained. See [bundled catalogue](docs/TURKEY_BUNDLED_CATALOG.md) and the [submitted food lists audit](docs/SUBMITTED_FOOD_LISTS_AUDIT_20261013.md).
+- No paid providers or GS1 subscriptions are connected. Automatic manufacturer/licensed feeds are research candidates only. The bundled catalogue contains 347 individually sourced food records and works without online provider access; source links and check dates are retained. See [bundled catalogue](docs/TURKEY_BUNDLED_CATALOG.md) and the [submitted food lists audit](docs/SUBMITTED_FOOD_LISTS_AUDIT_20261013.md).
 - Open Food Facts data reuse must follow its ODbL attribution and applicable share-alike obligations: https://openfoodfacts.github.io/documentation/docs/Product-Opener/api/tutorials/license-be-on-the-legal-side/
 
 ### Turkey catalog acquisition
