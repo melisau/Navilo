@@ -1,0 +1,230 @@
+[
+  {
+    "name": "Optimum Gold Standard Plant Protein",
+    "requested_family": "Optimum Gold Standard Plant Protein",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": "5060469987125",
+      "source_urls": [
+        "https://www.ozelbeslenme.com/products/optimum-nutrition-gold-standard-100-bitkisel-protein-cikolata-aromali-684g-20-servis",
+        "https://www.decathlon.fr/p/mp/proteine-vegan-gold-standard-100percent-plant-double-chocolat-684g/3a5bfd53-b376-4dda-b768-74bd2d5e839a/g151"
+      ]
+    },
+    "reason": "Tam içerik kaynağı ile Türkiye satıcısının özetinde bileşen çelişkisi: satıcı bakla proteini/stevia bildiriyor; aynı EAN için Decathlon listesinde bunlar bulunmuyor. Güncel etiket teyidi gerekli.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Weider Premium Whey",
+    "requested_family": "Weider Premium Whey",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": "4044782340714",
+      "source_urls": [
+        "https://weider.com.tr/urunler/252-weider-premium-whey-2-3-kg-muzlu",
+        "https://www.trendyol.com/weider/premium-whey-protein-tozu-2300-gr-p-1118098251"
+      ]
+    },
+    "reason": "Üretici tam içerik veriyor; aday GTIN'in aynı aroma/formüle ait olduğu doğrulanamadı. Genel ürün sayfasındaki alerjen beyanı da hatalı görünüyor.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Weider CFM Whey Overload",
+    "requested_family": "Weider CFM Whey Overload",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://weider.com.tr/urunler/8-weider-cfm-whey-overload-908-g-cikolata-ve-kirazli",
+        "https://www.3ka.com.tr/weider-cfm-whey-protein-cikolata-908gr"
+      ]
+    },
+    "reason": "Üretici Çikolata & Kiraz 908 g Overload içeriği bulundu. Çikolata 908 g CFM Whey GTIN'i farklı çeşide ait; Overload'a atanmadı.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Weider Protein 80 Plus",
+    "requested_family": "Weider Protein 80 Plus",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://resources.sport-tiedje.com/pdf/weidernahrung/lmiv/Weider_Protein_80%2B_N%C3%A4hrwertangaben_Zutaten.pdf",
+        "https://gaz-nutrition.com/cjenik/"
+      ]
+    },
+    "reason": "2014 tarihli üretici etiket PDF'si ve yabancı barkod listeleri bulundu. Güncel Türkiye ambalaj/aroma/formül bağı teyit edilmedi.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Dymatize Super Mass Gainer",
+    "requested_family": "Dymatize Super Mass Gainer",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": "705016331222",
+      "source_urls": [
+        "https://www.3ka.com.tr/dymatize-super-mass-gainer-cikolata-5443gr"
+      ]
+    },
+    "reason": "Türkiye perakendeci barkodu ve içerik metni bulundu; besin tablosundaki kreatin/amino asit/Zytrix ile içerik metni uyuşmuyor. Güncel tam etiket gerekli.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Multipower 100% Pure Whey Protein",
+    "requested_family": "Multipower 100% Pure Whey Protein",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": "4006643696118",
+      "source_urls": [
+        "https://www.trendyol.com/multipower/100-pure-whey-protein-900-gr-cikolata-p-35454935"
+      ]
+    },
+    "reason": "Türkiye çikolata 900 g GTIN'i bulundu, aynı ürünle bağlı tam bileşen listesi doğrulanamadı. Whey Protein Shake ve Whey Isolate farklı serilerdir.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Multipower Formula 80 Evolution",
+    "requested_family": "Multipower Formula 80 Evolution",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://www.aloprotein.com/multipower-formula-80-evo-510-gram"
+      ]
+    },
+    "reason": "Tarihsel ikincil içerik ve 510 g aroma adayları var; doğrudan güncel tam etiket ve Türkiye GTIN eşleşmesi yok.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Olimp Pure Whey Isolate 95",
+    "requested_family": "Olimp Pure Whey Isolate 95",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": "5901330054747",
+      "source_urls": [
+        "https://www.trendyol.com/olimp/pure-whey-protein-isolate-1800-gr-cikolata-5901330054747-p-2463685",
+        "https://olimpsport.com.pl/produkty/pure-whey-isolate-95-1800-g/"
+      ]
+    },
+    "reason": "Çikolata 1800 g Türkiye aday GTIN'i bulundu; üreticinin aroma tablosundaki tam formülün bu ambalajla bağı teyit edilmedi.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Scitec 100% Whey Protein Professional",
+    "requested_family": "Scitec 100% Whey Protein Professional",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": "5999100005211",
+      "source_urls": [
+        "https://www.trendyol.com/scitec-nutrition/whey-professional-whey-protein-920-gr-cikolata-p-25568059",
+        "https://comenzi.bebetei.ro/suplimente-alimentare-si-produse-naturiste/suplimente-pentru-sportivi/pudra-proteica/100-whey-protein-professional-chocolate-920-g-scitec-nutrition-p398663"
+      ]
+    },
+    "reason": "Türkiye kaydı Çikolata 920 g; aynı GTIN yabancı sayfada Chocolate Hazelnut içeriği gösteriyor. Aroma/formül belirsizliği.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Scitec IsoGreat",
+    "requested_family": "Scitec IsoGreat",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://resources.t-fitness.com/pdf/scitec/LMVO/zeroisogreat/SCITEC_Zero_Sugar_Zero_Fat_Protein_Supplement_Facts_Ingredients.pdf"
+      ]
+    },
+    "reason": "2015 civarı tarihli Zero Sugar/Zero Fat IsoGreat etiket PDF'si var; güncel Türkiye ürün kimliği ve aynı ambalaj/formül doğrulanmadı.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Hardline Casein Matrix",
+    "requested_family": "Hardline Casein Matrix",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://www.aloprotein.com/hardline-nutrition-casein-matrix-1800-gr"
+      ]
+    },
+    "reason": "1800 g tarihsel satış sayfasında besin/amino asit tablosu var; tam içindekiler listesi ve ürün barkodu bulunamadı.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Supplementler.com Whey Protein",
+    "requested_family": "Supplementler.com Whey Protein",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://www.supplementler.com/urun/supplementlercom-whey-protein-2000-gr-8349"
+      ]
+    },
+    "reason": "Üretici/satıcı sayfasında aroma ve besin değerleri var; aynı aromaya bağlı tam içindekiler alanı ve GTIN doğrulanamadı.",
+    "catalog_batch": "protein-expansion-20261015"
+  },
+  {
+    "name": "Naturiga Organik Kenevir Proteini Tozu",
+    "requested_family": "Naturiga Organik Kenevir Proteini Tozu",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": null,
+    "source_url": null,
+    "repair_evidence": {
+      "candidate_code": null,
+      "source_urls": [
+        "https://www.naturiga.com/collections/bitkisel-proteinler",
+        "https://www.veganbakkal.com.tr/naturiga-organik-kenevir-tohumu-200gr-1190"
+      ]
+    },
+    "reason": "Kenevir tohumu ürünleri bulundu; bunlar protein tozu olarak yeniden adlandırılmadı. İstenen ürünün kimliği, barkodu ve etiketi doğrulanamadı.",
+    "catalog_batch": "protein-expansion-20261015"
+  }
+]

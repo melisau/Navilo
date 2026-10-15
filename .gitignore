@@ -15,3 +15,4 @@ ios/Pods/
 .env.*.local
 android/.kotlin/
 config/*.local.json
+supabase/.temp/

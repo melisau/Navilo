@@ -1,0 +1,30 @@
+[
+  {
+    "code": "8685080680070",
+    "name": "Topzcorn Karamel & Tereyağlı Glütensiz Popcorn 100 g",
+    "ingredients": "Mısır, karamel (%70) [şeker, glikoz şurubu, tereyağı (süt ürünü içerir), melas (şeker kamışı), deniz tuzu], bitkisel yağ (ayçiçek), emülgatör (ayçiçeği lesitini).",
+    "source_url": "https://www.migros.com.tr/topzcorn-karamel-tereyagli-glutensiz-popcorn-100-g-p-4d8481",
+    "barcode_source_url": "https://bamsmarket.com/atistirmalik/biskuvi-kurabiye/prd-topz-corn-karamel-ve-tereyagli-patlamis-misir-100g",
+    "conflicting_source_url": "https://www.carrefoursa.com/topzcorn-air-popcorn-coated-caramel-100-g-p-30502288",
+    "reason": "Migros %70 karamel; CarrefourSA Air Coated Caramel 100 g sayfası %20 bildiriyor. Aynı barkod/güncel ambalaj-formül ilişkisi teyit edilmeli.",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": "retailer",
+    "source_reviewed_at": "2026-10-15T10:04:07+00:00",
+    "catalog_batch": "topzcorn-20261015"
+  },
+  {
+    "code": null,
+    "name": "Topzcorn Popcorn Kakao Antep Fıstıklı 80 g",
+    "ingredients": "Mısır, karamel [şeker, glikoz şurubu, tereyağı (süt içerir)(%11)(pastörize inek sütü kreması, tereyağı kültürü, renklendirici: betakaroten), melas (şeker kamışı), deniz tuzu], sütlü ve kakaolu konfiseri kaplama (%32) [şeker, tam hidrojene bitkisel yağ (palm çekirdeği), peynir altı suyu tozu (süt içerir), yağsız süt tozu (süt içerir), yağı azaltılmış kakao tozu, stabilizör: sorbitan tristearat, emülgatör: lesitin ve poligliserol polirisinoleat, aroma verici (vanilin)], bitkisel yağ (ayçiçek), kavrulmuş Antep fıstığı (%12), emülgatör: ayçiçek lesitini.",
+    "source_url": "https://www.migros.com.tr/topzcorn-popcorn-kakao-antep-fistikli-80-g-p-4d8562",
+    "reason": "Tam içerik mevcut; ürün EAN barkodu kaynakla doğrulanamadı. Numara tahmin edilmedi.",
+    "category": "food",
+    "status": "unverified",
+    "verified_at": null,
+    "source_type": "retailer",
+    "source_reviewed_at": "2026-10-15T10:04:07+00:00",
+    "catalog_batch": "topzcorn-20261015"
+  }
+]

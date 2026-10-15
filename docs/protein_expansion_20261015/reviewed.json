@@ -1,0 +1,784 @@
+[
+  {
+    "code": "8684962140510",
+    "name": "Bigjoy Iso Pro Whey Isolate Çikolata 915g",
+    "category": "food",
+    "ingredients": "Peynir Altı Suyu Protein İzolatı (Süt ürünü), Kakao Tozu, Çikolata Aroma Vericisi, Kıvam Artırıcı (Guar Gam), Tatlandırıcılar (Sukraloz, Asesülfam K), Topaklanmayı Önleyici (Silikon Dioksit), DigeZyme® (Amilaz, Laktaz, Lipaz, Proteaz, Selülaz), Piridoksin Hidroklorür (Vitamin B6).",
+    "source_type": "manufacturer",
+    "source_url": "https://www.bigjoy.com.tr/isopro-whey-915g-cikolata",
+    "barcode_source_url": "https://www.bigjoy.com.tr/isopro-whey-915g-cikolata",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.bigjoy.com.tr/isopro-whey-915g-cikolata"
+      ],
+      "name": [
+        "https://www.bigjoy.com.tr/isopro-whey-915g-cikolata"
+      ],
+      "ingredients": [
+        "https://www.bigjoy.com.tr/isopro-whey-915g-cikolata"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "eggs",
+      "soybeans",
+      "celery",
+      "gluten",
+      "mustard"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "BigJoy Iso Pro",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8684962140343",
+    "name": "Bigjoy Iso Clear Whey Isolate Ice Tea Şeftali 480g",
+    "category": "food",
+    "ingredients": "Peynir Altı Suyu Protein Isolatı (Süt Ürünü ), Çay Aroma Vericisi, Şeftali Aroma Vericisi, Asitlik Düzenleyici (Sitrik Asit), Köpüklenmeyi Önleyici (Maltodekstrin, Kanola Yağı), Topaklanmayı Önleyici (Silikon Dioksit), Tatlandırıcılar (Sukraloz, Asesülfam-K), Piridoksin Hidroklorür (Vitamin B6).",
+    "source_type": "manufacturer",
+    "source_url": "https://www.bigjoy.com.tr/isoclear-whey-480g-icetea",
+    "barcode_source_url": "https://www.bigjoy.com.tr/isoclear-whey-480g-icetea",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.bigjoy.com.tr/isoclear-whey-480g-icetea"
+      ],
+      "name": [
+        "https://www.bigjoy.com.tr/isoclear-whey-480g-icetea"
+      ],
+      "ingredients": [
+        "https://www.bigjoy.com.tr/isoclear-whey-480g-icetea"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "eggs",
+      "soybeans",
+      "celery",
+      "gluten",
+      "mustard"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "BigJoy Iso Clear",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8684556640266",
+    "name": "Bigjoy BIGWHEY Whey Protein Classic Antep Fıstıklı Dondurma 990g 30 Servis",
+    "category": "food",
+    "ingredients": "Peynir Altı Suyu Protein Konsantresi (Süt Ürünü), Antep Fıstığı Aroma Vericisi, Topaklanmayı Önleyici (Silikon Dioksit), Tatlandırıcılar (Asesülfam K, Sukraloz), Renklendirici (Klorofilin), Enzim Karışımı (Proteaz, Papain).",
+    "source_type": "manufacturer",
+    "source_url": "https://www.bigjoy.com.tr/bigwhey-protein-klasik-fistikli-dondurma-990g",
+    "barcode_source_url": "https://www.bigjoy.com.tr/bigwhey-protein-klasik-fistikli-dondurma-990g",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.bigjoy.com.tr/bigwhey-protein-klasik-fistikli-dondurma-990g"
+      ],
+      "name": [
+        "https://www.bigjoy.com.tr/bigwhey-protein-klasik-fistikli-dondurma-990g"
+      ],
+      "ingredients": [
+        "https://www.bigjoy.com.tr/bigwhey-protein-klasik-fistikli-dondurma-990g"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "eggs",
+      "soybeans",
+      "celery",
+      "gluten",
+      "mustard"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "BigJoy Big Whey Classic",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8681571354673",
+    "name": "Bigjoy Beef & Whey Çikolata 1088g",
+    "category": "food",
+    "ingredients": "Peynir Altı Suyu Protein Karışımı ( Peynir Altı Suyu Protein Konsantresi /süt ürünü), Hidrolize Et Proteini (sığır), Kako Tozu, Çikolata Aroma Vericisi, Kıvam Arttırıcı ( Guar Gam), Tatlandırıcı (Sukraloz), Topaklanmayı önleyici ( Silikondioksit) .",
+    "source_type": "manufacturer",
+    "source_url": "https://www.bigjoy.com.tr/beef-whey-protein-1088g",
+    "barcode_source_url": "https://www.bigjoy.com.tr/beef-whey-protein-1088g",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.bigjoy.com.tr/beef-whey-protein-1088g"
+      ],
+      "name": [
+        "https://www.bigjoy.com.tr/beef-whey-protein-1088g"
+      ],
+      "ingredients": [
+        "https://www.bigjoy.com.tr/beef-whey-protein-1088g"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "eggs",
+      "soybeans",
+      "celery",
+      "gluten",
+      "mustard"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "BigJoy Beef & Whey",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8681571350705",
+    "name": "BigJoy BIGWHEYGO Çikolata 15 × 34 g",
+    "category": "food",
+    "ingredients": "Peynir altı suyu Protein Konsantresi ( Süt proteini ), Kakao tozu, Çikolata aroma vericisi, Tatlandırıcılar (Asesülfam-K, Sukraloz), Topaklanmayı önleyici ( Silikondioksit), Enzim karışımı ( Proteaz, Papain)",
+    "source_type": "manufacturer",
+    "source_url": "https://gsplus.bigjoy.com.tr/bigwhey-go-15-cikolata",
+    "barcode_source_url": "https://gsplus.bigjoy.com.tr/bigwhey-go-15-cikolata",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://gsplus.bigjoy.com.tr/bigwhey-go-15-cikolata"
+      ],
+      "name": [
+        "https://gsplus.bigjoy.com.tr/bigwhey-go-15-cikolata"
+      ],
+      "ingredients": [
+        "https://gsplus.bigjoy.com.tr/bigwhey-go-15-cikolata"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "eggs",
+      "celery",
+      "soybeans",
+      "gluten",
+      "mustard"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "BigJoy Big Whey GO",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Bu GTIN 15 saşelik kutuya aittir; tek saşeye veya 68 karışık aroma kutusuna atanmadı."
+  },
+  {
+    "code": "8682696551039",
+    "name": "ProteinOcean Whey Protein Çikolata 1600 g",
+    "category": "food",
+    "ingredients": "Whey Proteini Konsantresi (Süt), Aroma Verici, Yağı Azaltılmış Kakao, DigeZyme® (Multi-Enzim Karışımı)(Proteaz, Laktaz, Selülaz. Amilaz, Lipaz), Tatlandırıcı: Sukraloz, Emülgatör: Ayçiçek Lesitini, B6 Vitamini (Piridoksin Hidroklorür) .",
+    "source_type": "manufacturer",
+    "source_url": "https://proteinocean.com/whey-protein",
+    "barcode_source_url": "https://proteinocean.com/whey-protein",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://proteinocean.com/whey-protein"
+      ],
+      "name": [
+        "https://proteinocean.com/whey-protein"
+      ],
+      "ingredients": [
+        "https://proteinocean.com/whey-protein"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "ProteinOcean Whey Protein",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8682696881037",
+    "name": "ProteinOcean Whey Isolate Çikolata 1600 g",
+    "category": "food",
+    "ingredients": "Whey Protein İzolatı (Süt), Yağı Azaltılmaş Kakao, Aroma Verici, DigeZyme® (Multi-Enzim Karışımı), Tatlandırıcı: Sukraloz, Emülgatör: Ayçiçek Lesitini, B6 Vitamini (Piridoksin HCL).",
+    "source_type": "manufacturer",
+    "source_url": "https://proteinocean.com/whey-isolate",
+    "barcode_source_url": "https://proteinocean.com/whey-isolate",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://proteinocean.com/whey-isolate"
+      ],
+      "name": [
+        "https://proteinocean.com/whey-isolate"
+      ],
+      "ingredients": [
+        "https://proteinocean.com/whey-isolate"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "ProteinOcean Isolate Protein",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8682696240032",
+    "name": "ProteinOcean Pea Protein Çikolata 400 g",
+    "category": "food",
+    "ingredients": "Bezelye Proteini, Aroma Verici, Yağı Azaltılmış Kakao, Tatlandırıcı: Sukraloz E955, Topaklanmayı Önleyici: Silikon Dioksit E551",
+    "source_type": "manufacturer",
+    "source_url": "https://proteinocean.com/pea-protein",
+    "barcode_source_url": "https://proteinocean.com/pea-protein",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://proteinocean.com/pea-protein"
+      ],
+      "name": [
+        "https://proteinocean.com/pea-protein"
+      ],
+      "ingredients": [
+        "https://proteinocean.com/pea-protein"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "ProteinOcean Vegan Protein",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Üreticideki güncel ürün adı PEA PROTEIN ve protein kaynağı bezelyedir; talepteki pirinç karışımı teyit edilmedi."
+  },
+  {
+    "code": "8682368978119",
+    "name": "Saf Nutrition Bezelye Proteini Tozu 100 g",
+    "category": "food",
+    "ingredients": "Bezelye Proteini Tozu (%100).",
+    "source_type": "manufacturer",
+    "source_url": "https://safnutrition.co/products/bezelye-proteini-tozu-100-gr",
+    "barcode_source_url": "https://safnutrition.co/products/bezelye-proteini-tozu-100-gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://safnutrition.co/products/bezelye-proteini-tozu-100-gr"
+      ],
+      "name": [
+        "https://safnutrition.co/products/bezelye-proteini-tozu-100-gr"
+      ],
+      "ingredients": [
+        "https://safnutrition.co/products/bezelye-proteini-tozu-100-gr"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Saf Nutrition Bezelye Proteini",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Bezelye ürünü üretici tarafından organik olarak adlandırılmadığından adına Organik eklenmedi."
+  },
+  {
+    "code": "8682368978218",
+    "name": "Saf Nutrition Sports Protein Mix 360 g",
+    "category": "food",
+    "ingredients": "Bezelye Proteini, Kakao Tozu, Organik Hindistan Cevizi Sütü Tozu, Elma Kurusu Tozu, Stevya, Vanilya Aroması.",
+    "source_type": "manufacturer",
+    "source_url": "https://safnutrition.co/products/bitkisel-protein-superfood-sports-mix-360-gr",
+    "barcode_source_url": "https://safnutrition.co/products/bitkisel-protein-superfood-sports-mix-360-gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://safnutrition.co/products/bitkisel-protein-superfood-sports-mix-360-gr"
+      ],
+      "name": [
+        "https://safnutrition.co/products/bitkisel-protein-superfood-sports-mix-360-gr"
+      ],
+      "ingredients": [
+        "https://safnutrition.co/products/bitkisel-protein-superfood-sports-mix-360-gr"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Saf Nutrition Mix Vegan Protein",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8697448351638",
+    "name": "HARDLİNE Whey 3Matrix Çikolatalı 454g",
+    "category": "food",
+    "ingredients": "Whey 3Matrix Protein (Ultrafiltre edilmiș whey proteini konsantresi, izolatı ve hidrolizatı), Yağı azaltılmıș kakao tozu, Kreatin monohidrat (%6,7), Aroma verici: Çikolata, Tatlandırıcılar (Sukraloz, Asesulfam K), Vitamin B6 (Pridoksin HCl), Soya lesitini.",
+    "source_type": "retailer",
+    "source_url": "https://www.ozelbeslenme.com/products/hardline-whey-3-matrix-cikolatali-454g",
+    "barcode_source_url": "https://www.ozelbeslenme.com/products/hardline-whey-3-matrix-cikolatali-454g",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.ozelbeslenme.com/products/hardline-whey-3-matrix-cikolatali-454g"
+      ],
+      "name": [
+        "https://www.ozelbeslenme.com/products/hardline-whey-3-matrix-cikolatali-454g"
+      ],
+      "ingredients": [
+        "https://www.ozelbeslenme.com/products/hardline-whey-3-matrix-cikolatali-454g"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Hardline Whey 3Matrix",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8697448350648",
+    "name": "HARDLİNE Hipro IsoWhey Çikolata 908g",
+    "category": "food",
+    "ingredients": "Whey proteini izolatı, Yağı azaltılmıș kakao tozu, Aroma verici: Çikolata, Tatlandırıcılar (Sukraloz, Asesulfam K), Vitamin B6 (Pridoksin HCl), Soya lesitini.",
+    "source_type": "retailer",
+    "source_url": "https://www.ozelbeslenme.com/products/hardline-hipro-isowhey-cikolata-908g",
+    "barcode_source_url": "https://www.ozelbeslenme.com/products/hardline-hipro-isowhey-cikolata-908g",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.ozelbeslenme.com/products/hardline-hipro-isowhey-cikolata-908g"
+      ],
+      "name": [
+        "https://www.ozelbeslenme.com/products/hardline-hipro-isowhey-cikolata-908g"
+      ],
+      "ingredients": [
+        "https://www.ozelbeslenme.com/products/hardline-hipro-isowhey-cikolata-908g"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Hardline Hipro Iso Whey",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8697448351898",
+    "name": "HARDLİNE Vmax Bitkisel Protein 2000g",
+    "category": "food",
+    "ingredients": "Bezelye Proteini, Aroma verici: Çikolata, Yağı azaltılmıș kakao tozu, Tatlandırıcılar (Sukraloz, Asesulfam K), Vitamin B6 (Pridoksin HCl).",
+    "source_type": "retailer",
+    "source_url": "https://www.ozelbeslenme.com/products/hardline-vmax-bitkisel-protein-2000-g",
+    "barcode_source_url": "https://www.ozelbeslenme.com/products/hardline-vmax-bitkisel-protein-2000-g",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.ozelbeslenme.com/products/hardline-vmax-bitkisel-protein-2000-g"
+      ],
+      "name": [
+        "https://www.ozelbeslenme.com/products/hardline-vmax-bitkisel-protein-2000-g"
+      ],
+      "ingredients": [
+        "https://www.ozelbeslenme.com/products/hardline-vmax-bitkisel-protein-2000-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Hardline Vmax",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8697448351423",
+    "name": "Hardline Progainer Çikolata 3000 g",
+    "category": "food",
+    "ingredients": "Karbonhidratlar (Maltodekstrin, Dekstroz), Proteinler (Ultrafiltre edilmiş whey proteini, Bitkisel protein), Vitamin ve mineral karışımı (Kalsiyum, Fosfor, Vitamin C, Niasin, Çinko, Vitamin B6, Riboflavin, Tiamin, Folik asit, Vitamin B12), Yağı azaltılmış kakao tozu, Kreatin monohidrat (%1,25), Aroma verici: Çikolata, L-Glutamin, Taurin (%0,5).",
+    "source_type": "manufacturer",
+    "source_url": "https://www.hardlinenutrition.com/image/Hardline-Katalog.pdf",
+    "barcode_source_url": "https://www.ozelbeslenme.com/products/hardline-progainer-cikolata-3000g",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.ozelbeslenme.com/products/hardline-progainer-cikolata-3000g"
+      ],
+      "name": [
+        "https://www.hardlinenutrition.com/image/Hardline-Katalog.pdf",
+        "https://www.ozelbeslenme.com/products/hardline-progainer-cikolata-3000g"
+      ],
+      "ingredients": [
+        "https://www.hardlinenutrition.com/image/Hardline-Katalog.pdf"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans",
+      "gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Hardline Progainer",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Üretici kataloğu sayfa 52; çikolata formülü. Satıcıdaki genel özet içerik yerine üretici tam listesi kullanıldı."
+  },
+  {
+    "code": "4029679676602",
+    "name": "Dymatize Elite 100% Whey Rich Chocolate 2170 g",
+    "category": "food",
+    "ingredients": "Whey protein konsantresi ( süt ) (%90), yağı azaltılmış kakao tozu, emülgatör (ayçiçek lesitini), aroma verici, aroma artırıcı (potasyum klorür), tuz, hidrolize whey protein konsantresi ( süt ) (%0,5), whey protein izolatı ( süt ) (%0,5), kıvam artırıcılar (sodyum karboksimetil selüloz, ksantan gam, karragenan), tatlandırıcılar (asesülfam K, sukraloz, stevia'dan steviol glikozitleri), topaklanmayı önleyici (silikon dioksit).",
+    "source_type": "retailer",
+    "source_url": "https://www.eprotein.com.tr/dymatize-elite-100-whey-protein-2170-gr",
+    "barcode_source_url": "https://www.eprotein.com.tr/dymatize-elite-100-whey-protein-2170-gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.eprotein.com.tr/dymatize-elite-100-whey-protein-2170-gr"
+      ],
+      "name": [
+        "https://www.eprotein.com.tr/dymatize-elite-100-whey-protein-2170-gr"
+      ],
+      "ingredients": [
+        "https://www.eprotein.com.tr/dymatize-elite-100-whey-protein-2170-gr"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [
+      "eggs",
+      "soybeans"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Dymatize Elite 100% Whey",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "5901330084485",
+    "name": "Olimp Whey Protein Complex 100% Double Çikolata 700 g",
+    "category": "food",
+    "ingredients": "%89 protein karışımı (ultrafiltre edilmiş konsantre peynir altı suyu proteini WPC ( sütten ), izole peynir altı suyu proteini WPI-CFM® ( sütten )), %8 yağı azaltılmış kakao, <%3 aroma verici: çikolata, tuz, kıvam artırıcılar (ksantan gam, sodyum karboksi metil selüloz), tatlandırıcılar (asesülfam-K, sukraloz), emülgatör: soya lesitini.",
+    "source_type": "retailer",
+    "source_url": "https://www.eprotein.com.tr/olimp-whey-protein-complex-700-gr",
+    "barcode_source_url": "https://www.eprotein.com.tr/olimp-whey-protein-complex-700-gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.eprotein.com.tr/olimp-whey-protein-complex-700-gr"
+      ],
+      "name": [
+        "https://www.eprotein.com.tr/olimp-whey-protein-complex-700-gr"
+      ],
+      "ingredients": [
+        "https://www.eprotein.com.tr/olimp-whey-protein-complex-700-gr"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans"
+    ],
+    "traces": [
+      "eggs",
+      "nuts",
+      "peanuts",
+      "fish",
+      "crustaceans",
+      "gluten"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Olimp Whey Protein Complex 100%",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "8681851001105",
+    "name": "Naturiga Organik Pirinç Proteini Tozu 250 g",
+    "category": "food",
+    "ingredients": "Organik Pirinç Proteini Tozu (%100).",
+    "source_type": "retailer",
+    "source_url": "https://www.veganbakkal.com.tr/naturiga-organik-pirinc-proteini-tozu-250gr-2252",
+    "barcode_source_url": "https://www.veganbakkal.com.tr/naturiga-organik-pirinc-proteini-tozu-250gr-2252",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.veganbakkal.com.tr/naturiga-organik-pirinc-proteini-tozu-250gr-2252"
+      ],
+      "name": [
+        "https://www.veganbakkal.com.tr/naturiga-organik-pirinc-proteini-tozu-250gr-2252"
+      ],
+      "ingredients": [
+        "https://www.veganbakkal.com.tr/naturiga-organik-pirinc-proteini-tozu-250gr-2252"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Naturiga Organik Pirinç Proteini",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. "
+  },
+  {
+    "code": "748927028669",
+    "name": "Optimum Nutrition Gold Standard 100% Whey Double Rich Chocolate 2,29 kg",
+    "category": "food",
+    "ingredients": "Protein karışımı (whey protein izolatı, whey protein konsantresi, hidrolize whey proteini), kakao tozu (alkali ile işlenmiş), ayçiçek ve/veya soya lesitini, doğal ve yapay aroma verici, asesülfam potasyum.",
+    "source_type": "retailer",
+    "source_url": "https://www.vitacost.com/products/optimum-nutrition-gold-standard-100-whey-protein-double-rich-chocolate-5-05-lb-2-29-kg-27509",
+    "barcode_source_url": "https://www.trendyol.com/en/optimum-nutrition/optimum-gold-standard-whey-protein-powder-2273-gr-chocolate-flavored-p-25567009",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.trendyol.com/en/optimum-nutrition/optimum-gold-standard-whey-protein-powder-2273-gr-chocolate-flavored-p-25567009"
+      ],
+      "name": [
+        "https://www.vitacost.com/products/optimum-nutrition-gold-standard-100-whey-protein-double-rich-chocolate-5-05-lb-2-29-kg-27509",
+        "https://www.trendyol.com/en/optimum-nutrition/optimum-gold-standard-whey-protein-powder-2273-gr-chocolate-flavored-p-25567009"
+      ],
+      "ingredients": [
+        "https://www.vitacost.com/products/optimum-nutrition-gold-standard-100-whey-protein-double-rich-chocolate-5-05-lb-2-29-kg-27509"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Optimum Gold Standard Whey",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Aynı UPC Türkiye listesinde 2273 g, içerik kaynağında 5.05 lb / 2.29 kg olarak geçiyor. Gramaj farkı korunur; tüm seriye genişletilmez. İngilizce tam içerik Türkçeye çevrildi."
+  },
+  {
+    "code": "5060245601481",
+    "name": "Optimum Nutrition Platinum Hydrowhey Çikolata 1600 g",
+    "category": "food",
+    "ingredients": "Hidrolize whey protein izolatı (süt) (%86) (emülgatör: soya lesitini), dallı zincirli amino asitler (%5) (L-lösin, L-izolösin, L-valin, emülgatör: ayçiçek lesitini), kıvam artırıcı (karragenan), aroma vericiler, yağı azaltılmış kakao tozu, tatlandırıcılar (sukraloz, asesülfam K), sodyum klorür, aroma artırıcı (potasyum klorür), ayçiçek yağı tozu (süt).",
+    "source_type": "retailer",
+    "source_url": "https://www.kaufland.fr/product/369332987/",
+    "barcode_source_url": "https://www.3ka.com.tr/optimum-platinum-hydrowhey-chocolate-1600gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.3ka.com.tr/optimum-platinum-hydrowhey-chocolate-1600gr"
+      ],
+      "name": [
+        "https://www.kaufland.fr/product/369332987/",
+        "https://www.3ka.com.tr/optimum-platinum-hydrowhey-chocolate-1600gr"
+      ],
+      "ingredients": [
+        "https://www.kaufland.fr/product/369332987/"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Optimum Platinum Hydrowhey",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Aynı EAN, aroma ve gramaj eşleştirildi. Fransızca çikolata tam listesi Türkçeye çevrildi; sayfadaki diğer aromalar aktarılmadı."
+  },
+  {
+    "code": "5060245600552",
+    "name": "Optimum Nutrition Serious Mass Muz 2727 g",
+    "category": "food",
+    "ingredients": "Maltodekstrin, whey protein konsantresi (süt), kalsiyum kazeinat (süt), aroma vericiler, kreatin monohidrat, süt mineral kompleksi, orta zincirli trigliseritler (süt), yumurta albümini, dipotasyum fosfat, sodyum klorür, renklendirici (kurkumin), vitamin ve mineral karışımı (sodyum L-askorbat, demir pirofosfat, D-alfa-tokoferil asetat, nikotinamid, çinko oksit, retinol asetat, kalsiyum D-pantotenat, sodyum florür, manganez sülfat, potasyum iyodür, siyanokobalamin, D-biyotin, krom (III) klorür, pteroilmonoglutamik asit, kolekalsiferol, sodyum selenit, bakır sitrat, piridoksin hidroklorür, tiamin hidroklorür, filokinon, riboflavin, sodyum molibdat), glutamin peptitleri (buğday gluteni), L-glutamin, magnezyum oksit, peynir altı suyu tozu (süt), inositol, L-askorbik asit, tatlandırıcı (sukraloz), antioksidan (tokoferolce zengin ekstrakt), kalsiyum D-pantotenat, pteroilmonoglutamik asit.",
+    "source_type": "retailer",
+    "source_url": "https://www.decathlon.fr/p/mp/hard-gainer-serious-mass-banane/cdfdf79b-bac0-4b0d-a4e0-b4ee5fd91543/g8",
+    "barcode_source_url": "https://www.3ka.com.tr/optimum-serious-mass-banana-2727gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.3ka.com.tr/optimum-serious-mass-banana-2727gr"
+      ],
+      "name": [
+        "https://www.decathlon.fr/p/mp/hard-gainer-serious-mass-banane/cdfdf79b-bac0-4b0d-a4e0-b4ee5fd91543/g8",
+        "https://www.3ka.com.tr/optimum-serious-mass-banana-2727gr"
+      ],
+      "ingredients": [
+        "https://www.decathlon.fr/p/mp/hard-gainer-serious-mass-banane/cdfdf79b-bac0-4b0d-a4e0-b4ee5fd91543/g8"
+      ]
+    },
+    "allergens": [
+      "milk",
+      "eggs",
+      "gluten"
+    ],
+    "traces": [
+      "soybeans",
+      "nuts",
+      "peanuts"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Optimum Serious Mass",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. Aynı EAN ve muz aroması; Fransızca tam etiket Türkçeye çevrildi. Yabancı satıcının son çapraz bulaşma cümlesi bozuk olduğundan içerik listesine karıştırılmadı."
+  },
+  {
+    "code": "4029679682511",
+    "name": "Dymatize ISO100 Hydrolyzed Clear Wild Berry Lollipop 512 g",
+    "category": "food",
+    "ingredients": "Hidrolize whey protein izolatı (süt) (%46), whey protein izolatı (süt) (%46), doğal aroma vericiler, asit (sitrik asit), renk verme amaçlı gıda (kırmızı pancar suyu tozu), renklendirici (antosiyaninler), kanola yağı, köpüklenmeyi önleyici (silikon dioksit), tatlandırıcılar (asesülfam K, sukraloz).",
+    "source_type": "retailer",
+    "source_url": "https://www.eprotein.com.tr/dymatize-iso100-hydrolyzed-clear-512-gr",
+    "barcode_source_url": "https://www.eprotein.com.tr/dymatize-iso100-hydrolyzed-clear-512-gr",
+    "source_name": "Üretici / perakendeci tam içerik ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:20:40.788772+00:00",
+    "checked_at": "2026-10-15T10:20:40.788772+00:00",
+    "status": "verified",
+    "catalog_batch": "protein-expansion-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.eprotein.com.tr/dymatize-iso100-hydrolyzed-clear-512-gr"
+      ],
+      "name": [
+        "https://www.eprotein.com.tr/dymatize-iso100-hydrolyzed-clear-512-gr"
+      ],
+      "ingredients": [
+        "https://www.eprotein.com.tr/dymatize-iso100-hydrolyzed-clear-512-gr"
+      ]
+    },
+    "allergens": [
+      "milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "fodmap_servings": [],
+    "requested_family": "Dymatize ISO-100 Hydrolyzed",
+    "evidence_note": "Aroma ve paket kimliği kaynakla eşleştirildi. Fiziksel ambalaj incelenmedi; tüketim/doz veya düşük laktoz iddiası üretilmedi. ISO100 serisinin Clear alt çeşididir; çikolatalı standart ISO100 formülü olarak kullanılmaz."
+  }
+]

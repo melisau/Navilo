@@ -9,7 +9,7 @@ import math
 def excluded_codes():
     folder = Path(__file__).resolve().parents[1] / 'data/quarantine'
     codes = {'8690527021149'}
-    for name in ['processed_meat_150.json', 'source_review_pending.json']:
+    for name in ['processed_meat_150.json', 'source_review_pending.json', 'vegeats_20261015.json', 'topzcorn_20261015.json']:
         path = folder / name
         if path.exists():
             codes.update(row['code'] for row in json.loads(path.read_text(encoding='utf-8')) if row.get('code'))

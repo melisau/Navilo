@@ -1,0 +1,150 @@
+[
+  {
+    "code": "8685080680049",
+    "name": "Topzcorn Deniz Tuzlu Glütensiz Full Popcorn 105 g",
+    "category": "food",
+    "ingredients": "Mısır, bitkisel yağ (ayçiçek) (%25), deniz tuzu (%1,2).",
+    "source_type": "retailer",
+    "source_url": "https://www.carrefoursa.com/topzcorn-deniz-tuzlu-popcorn-105-g-p-30502284",
+    "barcode_source_url": "https://erbamarket.com.tr/topzcorn-deniz-tuzlu-glutensiz-full-popcorn-105-g",
+    "source_name": "Perakendeci etiket bilgisi · barkod ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:04:07+00:00",
+    "checked_at": "2026-10-15T10:04:07+00:00",
+    "status": "verified",
+    "catalog_batch": "topzcorn-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://erbamarket.com.tr/topzcorn-deniz-tuzlu-glutensiz-full-popcorn-105-g"
+      ],
+      "name": [
+        "https://www.carrefoursa.com/topzcorn-deniz-tuzlu-popcorn-105-g-p-30502284",
+        "https://erbamarket.com.tr/topzcorn-deniz-tuzlu-glutensiz-full-popcorn-105-g"
+      ],
+      "ingredients": [
+        "https://www.carrefoursa.com/topzcorn-deniz-tuzlu-popcorn-105-g-p-30502284"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "peanuts",
+      "nuts"
+    ],
+    "allergen_note": "Eser miktarda yer fıstığı, Antep fıstığı, fındık ve badem içerebilir.",
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Çevrimiçi kaynak eşleştirmesi; fiziksel ambalaj incelenmedi. Ürün adındaki Glütensiz ifadesi kaynak başlığından korunmuştur; ayrıca uygunluk iddiası eklenmedi. İçerik sırası korunmuş, yalnızca açık noktalama/boşluk hataları düzeltilmiştir."
+  },
+  {
+    "code": "8685080680001",
+    "name": "Topzcorn Tatlı Tuzlu Glütensiz Kettle Popcorn 160 g",
+    "category": "food",
+    "ingredients": "Mısır, pancar şekeri (%25), bitkisel yağ (ayçiçek) (%25), deniz tuzu.",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/hemen/topzcorn-tatli-tuzlu-glutensiz-kettle-popcorn-160-g-p-4d8486",
+    "barcode_source_url": "https://erbamarket.com.tr/kategoriler/atistirmalik/cips",
+    "source_name": "Perakendeci etiket bilgisi · barkod ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:04:07+00:00",
+    "checked_at": "2026-10-15T10:04:07+00:00",
+    "status": "verified",
+    "catalog_batch": "topzcorn-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://erbamarket.com.tr/kategoriler/atistirmalik/cips"
+      ],
+      "name": [
+        "https://www.migros.com.tr/hemen/topzcorn-tatli-tuzlu-glutensiz-kettle-popcorn-160-g-p-4d8486",
+        "https://erbamarket.com.tr/kategoriler/atistirmalik/cips"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/topzcorn-tatli-tuzlu-glutensiz-kettle-popcorn-160-g-p-4d8486"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "peanuts",
+      "nuts"
+    ],
+    "allergen_note": "Eser miktarda yer fıstığı, Antep fıstığı, fındık ve badem içerebilir.",
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Çevrimiçi kaynak eşleştirmesi; fiziksel ambalaj incelenmedi. Ürün adındaki Glütensiz ifadesi kaynak başlığından korunmuştur; ayrıca uygunluk iddiası eklenmedi. İçerik sırası korunmuş, yalnızca açık noktalama/boşluk hataları düzeltilmiştir."
+  },
+  {
+    "code": "8685080680063",
+    "name": "Topzcorn Zeytinyağlı & Deniz Tuzlu Glütensiz Popcorn 110 g",
+    "category": "food",
+    "ingredients": "Mısır, bitkisel yağ (natürel sızma zeytinyağı) (%25), deniz tuzu (%1,2).",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/topzcorn-zeytinyagli-deniz-tuzlu-glutensiz-popcorn-110-g-p-4d8487",
+    "barcode_source_url": "https://erbamarket.com.tr/kategoriler/atistirmalik/cips",
+    "source_name": "Perakendeci etiket bilgisi · barkod ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:04:07+00:00",
+    "checked_at": "2026-10-15T10:04:07+00:00",
+    "status": "verified",
+    "catalog_batch": "topzcorn-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://erbamarket.com.tr/kategoriler/atistirmalik/cips"
+      ],
+      "name": [
+        "https://www.migros.com.tr/topzcorn-zeytinyagli-deniz-tuzlu-glutensiz-popcorn-110-g-p-4d8487",
+        "https://erbamarket.com.tr/kategoriler/atistirmalik/cips"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/topzcorn-zeytinyagli-deniz-tuzlu-glutensiz-popcorn-110-g-p-4d8487"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "peanuts",
+      "nuts"
+    ],
+    "allergen_note": "Eser miktarda yer fıstığı, Antep fıstığı, fındık ve badem içerebilir.",
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Çevrimiçi kaynak eşleştirmesi; fiziksel ambalaj incelenmedi. Ürün adındaki Glütensiz ifadesi kaynak başlığından korunmuştur; ayrıca uygunluk iddiası eklenmedi. İçerik sırası korunmuş, yalnızca açık noktalama/boşluk hataları düzeltilmiştir."
+  },
+  {
+    "code": "8685080680025",
+    "name": "Topzcorn Tatlı & Tarçınlı Glütensiz Kettle Popcorn 160 g",
+    "category": "food",
+    "ingredients": "Mısır, pancar şekeri (%25), bitkisel yağ (ayçiçek) (%25), tarçın (%1,2), deniz tuzu.",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/topzcorn-tatli-tarcinli-glutensiz-kettle-popcorn-160-g-p-4d84b6",
+    "barcode_source_url": "https://www.sepetmarket.com.tr/urun_detay.php?id=7048",
+    "source_name": "Perakendeci etiket bilgisi · barkod ve çeşit eşleştirmesi",
+    "verified_at": "2026-10-15T10:04:07+00:00",
+    "checked_at": "2026-10-15T10:04:07+00:00",
+    "status": "verified",
+    "catalog_batch": "topzcorn-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://www.sepetmarket.com.tr/urun_detay.php?id=7048"
+      ],
+      "name": [
+        "https://www.migros.com.tr/topzcorn-tatli-tarcinli-glutensiz-kettle-popcorn-160-g-p-4d84b6",
+        "https://www.sepetmarket.com.tr/urun_detay.php?id=7048"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/topzcorn-tatli-tarcinli-glutensiz-kettle-popcorn-160-g-p-4d84b6"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "peanuts",
+      "nuts"
+    ],
+    "allergen_note": "Eser miktarda yer fıstığı, Antep fıstığı, fındık ve badem içerebilir.",
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "Çevrimiçi kaynak eşleştirmesi; fiziksel ambalaj incelenmedi. Ürün adındaki Glütensiz ifadesi kaynak başlığından korunmuştur; ayrıca uygunluk iddiası eklenmedi. İçerik sırası korunmuş, yalnızca açık noktalama/boşluk hataları düzeltilmiştir."
+  }
+]

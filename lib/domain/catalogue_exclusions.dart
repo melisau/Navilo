@@ -154,4 +154,9 @@ const excludedCatalogueCodes = <String>{
   '8693240003483',
   '8693240003551',
   '8693240003605',
+  // Vegeat's: unresolved ingredient/formula conflicts, 15 October 2026.
+  '8681982003115',
+  '8681982003139',
+  // Topzcorn: unresolved caramel formula evidence, 15 October 2026.
+  '8685080680070',
 };

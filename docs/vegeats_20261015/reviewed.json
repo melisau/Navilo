@@ -1,0 +1,209 @@
+[
+  {
+    "code": "8681982003122",
+    "name": "Vegeat's Fırınlanmış Cheddar Peynir Çeşnili Nohut Cipsi 50 g",
+    "category": "food",
+    "ingredients": "NOHUT UNU (%40), MISIR UNU, BİTKİSEL YAĞ (AYÇİÇEK), CHEDDAR PEYNİR ÇEŞNİSİ (%9), BUĞDAY UNU (GLUTEN İÇERİR), TUZ, AROMA VERİCİLER (CHEDDAR PEYNİRİ(%1) (TEREYAĞI), ŞEKER, RENKLENDİRİCİ (E100) TOPAKLANMAYI ÖNLEYİCİ (E551) TUZ, KALSİYUM KARBONAT (E170)",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/vegeats-cheddar-peynir-cesnili-nohut-cipsi-50g-p-4da8cd",
+    "barcode_source_url": "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+    "source_name": "Migros / Tazemasa · Foodiva 2025 ürün EAN eşleştirmesi",
+    "verified_at": "2026-10-15T09:54:11+00:00",
+    "checked_at": "2026-10-15T09:54:11+00:00",
+    "status": "verified",
+    "catalog_batch": "vegeats-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf"
+      ],
+      "name": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+        "https://www.migros.com.tr/vegeats-cheddar-peynir-cesnili-nohut-cipsi-50g-p-4da8cd"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/vegeats-cheddar-peynir-cesnili-nohut-cipsi-50g-p-4da8cd"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "soybeans",
+      "eggs",
+      "sulphites",
+      "celery"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "50 g tek paket EAN: Foodiva 2025 kataloğu, sayfa 3. Türkçe içerik perakendeci sayfasından aynen korunmuştur; kaynakta kapanmayan parantezler yorumla tamamlanmadı. Güncel fiziksel ambalaj incelenmedi. Genel marka sayfasındaki glutensiz/vegan iddiası bu kayda aktarılmadı.",
+    "source_catalog_year": 2025
+  },
+  {
+    "code": "8681982003146",
+    "name": "Vegeat's Fırınlanmış Ekşi Krema ve Soğan Çeşnili Nohut Cipsi 50 g",
+    "category": "food",
+    "ingredients": "NOHUT UNU (%40) , MISIR UNU,BİTKİSEL YAĞ (AYÇİÇEK), EKŞİ KREMA ÇEŞNİSİ (%9), BUĞDAY UNU (GLUTEN İÇERİR), PEYNİR ALTI SUYU TOZU, TUZ,AROMA VERİCİLER (SOĞAN TOZU (%1,4),EKŞİ KREMA (%0,6), ŞEKER, TOPAKLANMAYI ÖNLEYİCİ (E551), TUZ, KALSİYUM KARBONAT (E170)",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/vegeats-eksi-krema-ve-sogan-cesnili-nohut-cipsi-50g-p-4da8cc",
+    "barcode_source_url": "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+    "source_name": "Migros / Tazemasa · Foodiva 2025 ürün EAN eşleştirmesi",
+    "verified_at": "2026-10-15T09:54:11+00:00",
+    "checked_at": "2026-10-15T09:54:11+00:00",
+    "status": "verified",
+    "catalog_batch": "vegeats-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf"
+      ],
+      "name": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+        "https://www.migros.com.tr/vegeats-eksi-krema-ve-sogan-cesnili-nohut-cipsi-50g-p-4da8cc"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/vegeats-eksi-krema-ve-sogan-cesnili-nohut-cipsi-50g-p-4da8cc"
+      ]
+    },
+    "allergens": [
+      "gluten",
+      "milk"
+    ],
+    "traces": [
+      "soybeans",
+      "eggs",
+      "sulphites",
+      "celery"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "50 g tek paket EAN: Foodiva 2025 kataloğu, sayfa 3. Türkçe içerik perakendeci sayfasından aynen korunmuştur; kaynakta kapanmayan parantezler yorumla tamamlanmadı. Güncel fiziksel ambalaj incelenmedi. Genel marka sayfasındaki glutensiz/vegan iddiası bu kayda aktarılmadı.",
+    "source_catalog_year": 2025
+  },
+  {
+    "code": "8681982003153",
+    "name": "Vegeat's Fırınlanmış Chili Biber ve Limonlu Mercimek Cipsi 50 g",
+    "category": "food",
+    "ingredients": "Mercimek unu (%37), mısır unu, bitkisel yağ (ayçiçek), chili biber ve limon aromalı çeşni (%9) [(buğday unu (glüten içerir), chili biber tozu (%2), tuz, aroma vericiler (limon (%0,6), domates), renklendiriciler (paprika ektraktı, E100), bitkisel yağ (palm), topaklanmayı önleyici (E551)], tuz, kalsiyum karbonat (E170).",
+    "source_type": "retailer",
+    "source_url": "https://www.tazemasa.com/firinlanmis-chili-biber-limonlu-mercimek-cipsi-50gr-vegeats-5985",
+    "barcode_source_url": "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+    "source_name": "Migros / Tazemasa · Foodiva 2025 ürün EAN eşleştirmesi",
+    "verified_at": "2026-10-15T09:54:11+00:00",
+    "checked_at": "2026-10-15T09:54:11+00:00",
+    "status": "verified",
+    "catalog_batch": "vegeats-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf"
+      ],
+      "name": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+        "https://www.tazemasa.com/firinlanmis-chili-biber-limonlu-mercimek-cipsi-50gr-vegeats-5985"
+      ],
+      "ingredients": [
+        "https://www.tazemasa.com/firinlanmis-chili-biber-limonlu-mercimek-cipsi-50gr-vegeats-5985"
+      ]
+    },
+    "allergens": [
+      "gluten"
+    ],
+    "traces": [
+      "soybeans",
+      "eggs",
+      "milk",
+      "sulphites",
+      "celery"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "50 g tek paket EAN: Foodiva 2025 kataloğu, sayfa 4. Türkçe içerik perakendeci sayfasından aynen korunmuştur; kaynakta kapanmayan parantezler yorumla tamamlanmadı. Güncel fiziksel ambalaj incelenmedi. Genel marka sayfasındaki glutensiz/vegan iddiası bu kayda aktarılmadı.",
+    "source_catalog_year": 2025
+  },
+  {
+    "code": "8681982003320",
+    "name": "Vegeat's Fırınlanmış Sebzeli Mercimek Cipsi 50 g",
+    "category": "food",
+    "ingredients": "Mercimek Unu (%37), Mısır Unu, Bitkisel Yağ (ayçiçek), Sebze Çeşnisi (%9) [(Maltodekstrin, şeker, tuz, sebze tozu (%1) (domates, kırmızı biber, pırasa, kereviz, defne tozu), sarımsak tozu, soğan tozu, bitkisel yağ (ayçiçek), topaklanmayı önleyici (E551)], Tuz",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/hemen/vegeats-firinlanmis-sebzeli-mercimek-cipsi-50-g-p-4d841b",
+    "barcode_source_url": "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+    "source_name": "Migros / Tazemasa · Foodiva 2025 ürün EAN eşleştirmesi",
+    "verified_at": "2026-10-15T09:54:11+00:00",
+    "checked_at": "2026-10-15T09:54:11+00:00",
+    "status": "verified",
+    "catalog_batch": "vegeats-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf"
+      ],
+      "name": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+        "https://www.migros.com.tr/hemen/vegeats-firinlanmis-sebzeli-mercimek-cipsi-50-g-p-4d841b"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/hemen/vegeats-firinlanmis-sebzeli-mercimek-cipsi-50-g-p-4d841b"
+      ]
+    },
+    "allergens": [
+      "celery"
+    ],
+    "traces": [
+      "soybeans",
+      "eggs",
+      "milk",
+      "sulphites"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "50 g tek paket EAN: Foodiva 2025 kataloğu, sayfa 4. Türkçe içerik perakendeci sayfasından aynen korunmuştur; kaynakta kapanmayan parantezler yorumla tamamlanmadı. Güncel fiziksel ambalaj incelenmedi. Genel marka sayfasındaki glutensiz/vegan iddiası bu kayda aktarılmadı.",
+    "source_catalog_year": 2025
+  },
+  {
+    "code": "8681982003344",
+    "name": "Vegeat's Fırınlanmış Deniz Tuzlu Nohut Cipsi 50 g",
+    "category": "food",
+    "ingredients": "Nohut Unu (%40), Mısır Unu, Bitkisel Yağ (ayçiçek), Deniz Tuzlu Çeşni (%9) [(Maltodekstrin, deniz tuzu (%1,8), ekşi krema aroması)], Tuz.",
+    "source_type": "retailer",
+    "source_url": "https://www.migros.com.tr/vegeats-firinlanmis-deniz-tuzlu-nohut-cipsi-50-g-p-4d84c2",
+    "barcode_source_url": "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+    "source_name": "Migros / Tazemasa · Foodiva 2025 ürün EAN eşleştirmesi",
+    "verified_at": "2026-10-15T09:54:11+00:00",
+    "checked_at": "2026-10-15T09:54:11+00:00",
+    "status": "verified",
+    "catalog_batch": "vegeats-20261015",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "field_sources": {
+      "code": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf"
+      ],
+      "name": [
+        "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+        "https://www.migros.com.tr/vegeats-firinlanmis-deniz-tuzlu-nohut-cipsi-50-g-p-4d84c2"
+      ],
+      "ingredients": [
+        "https://www.migros.com.tr/vegeats-firinlanmis-deniz-tuzlu-nohut-cipsi-50-g-p-4d84c2"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "soybeans",
+      "eggs",
+      "milk",
+      "sulphites",
+      "celery"
+    ],
+    "labels": [],
+    "fodmap_servings": [],
+    "evidence_note": "50 g tek paket EAN: Foodiva 2025 kataloğu, sayfa 4. Türkçe içerik perakendeci sayfasından aynen korunmuştur; kaynakta kapanmayan parantezler yorumla tamamlanmadı. Güncel fiziksel ambalaj incelenmedi. Genel marka sayfasındaki glutensiz/vegan iddiası bu kayda aktarılmadı.",
+    "source_catalog_year": 2025
+  }
+]

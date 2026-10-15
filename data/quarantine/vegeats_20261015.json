@@ -1,0 +1,27 @@
+[
+  {
+    "code": "8681982003115",
+    "name": "Vegeat's Fırınlanmış Barbekü Aromalı Nohut Cipsi 50 g",
+    "status": "unverified",
+    "reason": "Migros içerik alanı E170 içermiyor; Foodiva 2025 kataloğu ve CarrefourSA E170 bildiriyor. Aynı güncel ambalaj/formül bağı teyit edilmeli.",
+    "source_urls": [
+      "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+      "https://www.migros.com.tr/vegeats-firinlanmis-barbeku-aromali-nohut-cipsi-50-g-p-4da911",
+      "https://www.carrefoursa.com/vegat-s-barbekulu-nohut-cipsi-p-30298103"
+    ],
+    "category": "food",
+    "reviewed_at": "2026-10-15T09:54:11+00:00"
+  },
+  {
+    "code": "8681982003139",
+    "name": "Vegeat's Fırınlanmış Acı Paprika Aromalı Nohut Cipsi 50 g",
+    "status": "unverified",
+    "reason": "Foodiva 2025 ile Tazedükkan listesinde şeker ve baharat sırası/içeriği farklı; Tazedükkan ürün başlığı paprika iken açıklama barbekü diyor. Katalogdaki paprika ekstraktı/E100 parantezi belirsiz. Güncel etiket gerekli.",
+    "source_urls": [
+      "https://myfoodiva.com/wp-content/uploads/2025/09/Foodiva-Katalog-2025.pdf",
+      "https://www.tazedukkan.com.tr/vegeats-firinlanmis-barbeku-aromali-nohut-cipsi-50gr-urun965.html"
+    ],
+    "category": "food",
+    "reviewed_at": "2026-10-15T09:54:11+00:00"
+  }
+]
