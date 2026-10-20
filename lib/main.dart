@@ -22,6 +22,7 @@ import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'domain/policy.dart';
+import 'domain/preference_fit.dart';
 import 'data/community_submission.dart';
 import 'theme/navilo_theme.dart';
 

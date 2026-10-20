@@ -20,7 +20,7 @@ Development prototype. The main flow now separates product capture, ingredient-t
 - On-device Latin-script OCR with crop/rotate and manual correction of misread text.
 - Optional device-local product library with separate Food/Cosmetics sections, name/barcode search, full ingredient details and five recently saved products on home. Products can be named and saved without a barcode. Existing barcode records remain readable.
 - Optional text-only community contributions use Supabase: after OCR review, the user can explicitly consent to send the barcode, product name and reviewed ingredient text to a private moderation queue. Only approved records are returned to other users; personal photos and preferences are never included.
-- Persistent language, self-reported skin type and dietary preferences. Preferences do not yet filter results or generate recommendations.
+- Persistent language, self-reported skin type and dietary preferences. Food results include a "For your preferences" section (`lib/domain/preference_fit.dart`) that lists conflicts first (gluten, lactose, sugar, refined sugar, a partial vegan check), FODMAP cautions and preferences that cannot be judged from ingredients (ketogenic, low-fat). It never states that a product is suitable. Preferences do not yet filter the catalogue or generate recommendations.
 - A versioned avoidance dictionary with separate margarine, hydrogenated-oil and trans-fat records and explicit cosmetic ingredient lists.
 - Larger touch targets, scalable system text, scrollable layouts, text labels alongside colours and Turkish/English interface copy.
 

@@ -215,9 +215,33 @@ extension _DietaryPanel on _HomePageState {
               (lactoseClaim || lactoseFreeByEnzyme || riceLactose);
           final milkAllergens =
               lactose.where((e) => e.id != 'lactose').toList();
+          final verdicts = reference
+              ? const <PreferenceVerdict>[]
+              : evaluatePreferences(
+                  preferences,
+                  DietaryFacts(
+                    glutenSources: gluten.map((e) => e.name(english)).toList(),
+                    glutenClaim: glutenClaim,
+                    glutenFreeByIngredients: riceGluten,
+                    lactoseSources:
+                        lactose.map((e) => e.name(english)).toList(),
+                    lactoseFree: lactoseFree,
+                    lactoseFreeByIngredients:
+                        riceLactose && !lactoseClaim && !lactoseFreeByEnzyme,
+                    lactoseClaim: lactoseClaim,
+                    milkIngredients:
+                        lactose.map((e) => e.name(english)).toList(),
+                    fodmapSources: fodmap.map((e) => e.name(english)).toList(),
+                    simpleRice: simpleRice,
+                    sugarAdditions: sugarAdditions,
+                    sugarClaim: sugarClaim,
+                    complete: complete,
+                  ),
+                  label.text);
           return Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
+                if (!reference) preferenceSummary(verdicts),
                 if (!reference) ...[
                   resultRow(
                       'Gluten',
@@ -373,4 +397,65 @@ extension _DietaryPanel on _HomePageState {
               ]);
         },
       );
+
+  /// Saved food preferences checked against the reviewed text, conflicts
+  /// first. Never says "suitable": only conflicts, cautions or no findings.
+  Widget preferenceSummary(List<PreferenceVerdict> verdicts) {
+    final title = Text(copy('Tercihlerine göre', 'For your preferences'),
+        style: Theme.of(context).textTheme.titleMedium);
+    if (verdicts.isEmpty) {
+      return Padding(
+          padding: const EdgeInsets.only(top: 16, bottom: 8),
+          child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                title,
+                const SizedBox(height: 4),
+                Text(copy(
+                    'Gluten, laktoz, şeker veya vegan gibi tercihlerini seçersen bu ürün onlara göre de kontrol edilir.',
+                    'Choose preferences such as gluten, lactose, sugar or vegan to check this product against them.')),
+                TextButton.icon(
+                    onPressed: () => _update(() => page = 1),
+                    icon: const Icon(Icons.tune),
+                    label: Text(copy('Tercihlerimi seç', 'Choose preferences'))),
+              ]));
+    }
+    final conflicts =
+        verdicts.where((v) => v.status == PreferenceStatus.conflict).length;
+    return Padding(
+        padding: const EdgeInsets.only(top: 16, bottom: 8),
+        child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              title,
+              const SizedBox(height: 4),
+              Text(
+                  conflicts > 0
+                      ? copy('$conflicts tercihinle çelişen içerik var.',
+                          'Conflicts with $conflicts of your preferences.')
+                      : copy('Tercihlerinle çelişen içerik bulunmadı.',
+                          'No conflict found with your preferences.'),
+                  style: Theme.of(context).textTheme.bodyLarge?.copyWith(
+                      fontWeight: FontWeight.w600,
+                      color: conflicts > 0
+                          ? NaviloColors.warning
+                          : NaviloColors.ink)),
+              for (final v in verdicts)
+                resultRow(tr(v.preference), v.message(english), v.evidence,
+                    warning: v.status == PreferenceStatus.conflict,
+                    unknown: v.status == PreferenceStatus.caution ||
+                        v.status == PreferenceStatus.notAssessable,
+                    accent: v.status == PreferenceStatus.ingredientsFit ||
+                            v.status == PreferenceStatus.labelClaim
+                        ? const Color(0xFF297A54)
+                        : null),
+              const SizedBox(height: 4),
+              Text(
+                  copy(
+                      'Okunan metne dayanır; uygunluk garantisi veya sağlık tavsiyesi değildir.',
+                      'Based on the text read; not a suitability guarantee or medical advice.'),
+                  style: Theme.of(context).textTheme.bodySmall),
+              const Divider(height: 28),
+            ]));
+  }
 }

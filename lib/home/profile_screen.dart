@@ -221,8 +221,8 @@ extension _ProfileScreen on _HomePageState {
         const SizedBox(height: 20),
         Text(
             copy(
-                'Tercihler bu sürümde ürün sonuçlarını veya önerileri değiştirmez. Sağlık tavsiyesi değildir.',
-                'Preferences do not yet change product results or recommendations. This is not medical advice.'),
+                'Gıda sonuçlarında seçtiğin tercihlerle çelişen içerikler ayrıca gösterilir. Ketojenik ve az yağlı için besin değeri gerektiğinden değerlendirme yapılmaz. Sağlık tavsiyesi değildir.',
+                'Food results show ingredients that conflict with your preferences. Ketogenic and low-fat need nutrition values, so they are not assessed. This is not medical advice.'),
             style: Theme.of(context).textTheme.bodySmall),
         if (storageError != null) notice(storageError!, warning: true),
         const Divider(height: 32),
