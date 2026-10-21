@@ -146,7 +146,6 @@ extension _DietaryPanel on _HomePageState {
       FutureBuilder<Map<String, dynamic>>(
         future: dietary,
         builder: (context, snapshot) {
-          debugPrint('NAVILO-DEBUG dietary state=${snapshot.connectionState} data=${snapshot.hasData} error=${snapshot.error}');
           if (snapshot.hasError) {
             return Text(english
                 ? 'Reference data unavailable.'

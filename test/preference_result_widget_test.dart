@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:navilo/data/app_settings.dart';
 import 'package:navilo/data/local_product_store.dart';
@@ -44,6 +45,9 @@ void main() {
   late Directory directory;
   setUp(() async {
     directory = await Directory.systemTemp.createTemp('navilo_pref_ui_');
+    // Cached asset futures belong to the previous test's fake-async zone
+    // and would never complete in this one.
+    rootBundle.clear();
   });
   tearDown(() async {
     await directory.delete(recursive: true);
