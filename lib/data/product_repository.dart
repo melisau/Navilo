@@ -432,6 +432,7 @@ class ProductRepository {
           verifiedAt: DateTime.parse(field('verified_at')),
           verificationStatus: field('status'),
           mayContain: item['may_contain'] as String? ?? '',
+          nutrition: NutritionFacts.fromJson(item['nutrition']),
           imageUrl: ProductRecord.curatedImage(item),
           imageSourceUrl: item['image_license'] == 'CC-BY-SA-3.0'
               ? 'https://world.openfoodfacts.org/product/$code'

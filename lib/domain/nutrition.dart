@@ -8,7 +8,8 @@ class NutritionFacts {
   final String basis;
 
   /// `label` (OCR of the package, not yet confirmed), `reviewed` (checked
-  /// or entered by the user) or `database` (e.g. Open Food Facts).
+  /// or entered by the user), `catalogue` (transcribed from a package photo
+  /// for the Navilo catalogue) or `database` (e.g. Open Food Facts).
   final String source;
   final double? energyKcal,
       fat,
@@ -73,7 +74,7 @@ class NutritionFacts {
       basis: ['100g', '100ml', '100g_or_ml'].contains(basis)
           ? basis as String
           : '100g',
-      source: ['label', 'reviewed', 'database'].contains(source)
+      source: ['label', 'reviewed', 'catalogue', 'database'].contains(source)
           ? source as String
           : 'label',
       energyKcal: v('energyKcal'),
