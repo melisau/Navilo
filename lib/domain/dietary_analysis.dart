@@ -18,6 +18,9 @@ class DietaryAnalysis {
       complete;
   final List<String> sugarAdditions, fruitSweeteners, otherSweeteners;
 
+  /// Certification wording found on the pack, if any.
+  final String? fodmapCertification;
+
   const DietaryAnalysis._({
     required this.gluten,
     required this.lactose,
@@ -36,6 +39,7 @@ class DietaryAnalysis {
     required this.sugarAdditions,
     required this.fruitSweeteners,
     required this.otherSweeteners,
+    required this.fodmapCertification,
   });
 
   /// [matched] are the reference entries already matched against [text].
@@ -100,6 +104,7 @@ class DietaryAnalysis {
       sugarAdditions: listedSugarAdditions(text),
       fruitSweeteners: listedFruitSweeteners(text),
       otherSweeteners: listedNonSugarSweeteners(text),
+      fodmapCertification: lowFodmapCertification(normalized, labels: labels),
     );
   }
 }

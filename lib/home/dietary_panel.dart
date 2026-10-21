@@ -287,7 +287,11 @@ extension _DietaryPanel on _HomePageState {
                           showFodmapPortionDetails(simpleRice: simpleRice),
                       child: resultRow(
                           'FODMAP ⓘ',
-                          simpleRice && fodmap.isEmpty
+                          a.fodmapCertification != null
+                              ? copy(
+                                  'Düşük FODMAP sertifika ibaresi · ambalajdaki porsiyon için geçerli',
+                                  'Low-FODMAP certification mark · applies to the serving on the pack')
+                              : simpleRice && fodmap.isEmpty
                               ? copy(
                                   'Düşük FODMAP içerikler · porsiyon gerekli',
                                   'Low-FODMAP ingredients · serving needed')
@@ -298,9 +302,14 @@ extension _DietaryPanel on _HomePageState {
                                   : (english
                                       ? 'Product level unknown'
                                       : 'Ürün düzeyi belirlenemedi'),
-                          fodmap.map((e) => e.name(english)).toList(),
-                          unknown: true,
-                          accent: simpleRice && fodmap.isEmpty
+                          [
+                            if (a.fodmapCertification != null)
+                              a.fodmapCertification!,
+                            ...fodmap.map((e) => e.name(english)),
+                          ],
+                          unknown: a.fodmapCertification == null,
+                          accent: a.fodmapCertification != null ||
+                                  (simpleRice && fodmap.isEmpty)
                               ? const Color(0xFF297A54)
                               : null)),
                   TextButton.icon(

@@ -37,6 +37,26 @@ List<String> glutenFreeIngredients(String text, {bool english = false}) {
       .toList();
 }
 
+/// Low-FODMAP certification wording on the pack or a database label tag.
+/// Certified products are laboratory tested at the serving stated on the
+/// pack; Navilo does not verify the certificate itself.
+String? lowFodmapCertification(String text, {List<String> labels = const []}) {
+  final v = normalize(text);
+  if (v.contains('monash') && v.contains('fodmap')) {
+    return 'Monash University Low FODMAP Certified';
+  }
+  if (RegExp(r'fodmap\s*friendly').hasMatch(v)) return 'FODMAP Friendly';
+  if (RegExp(r'certified\s+low[- ]?fodmap|low[- ]?fodmap\s+certified|'
+          r'düşük\s+fodmap\s+sertifikal|fodmap\s+sertifikal')
+      .hasMatch(v)) {
+    return 'Low FODMAP certified';
+  }
+  if (labels.any((tag) => tag.toLowerCase().contains('fodmap'))) {
+    return 'Low FODMAP (database label)';
+  }
+  return null;
+}
+
 bool hasGlutenFreeClaim(String text) => RegExp(
         r'(?<![a-zçğöşü])(?:glutensiz|gluten[- ]free|glutenfrei)(?![a-zçğöşü])')
     .hasMatch(normalize(text));

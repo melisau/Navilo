@@ -179,6 +179,15 @@ void main() {
         everyElement(PreferenceStatus.notAssessable));
   });
 
+  test('A certification mark turns the FODMAP caution into a label claim',
+      () {
+    final v = checkIngredientText({'Düşük FODMAP'}, reference, 'Pirinç, soğan',
+            evidence: 'Monash University Low FODMAP Certified')
+        .single;
+    expect(v.status, PreferenceStatus.labelClaim);
+    expect(v.evidence, ['Monash University Low FODMAP Certified']);
+  });
+
   test('FODMAP is always a caution', () {
     expect(only({'Düşük FODMAP'}, const DietaryFacts(fodmapSources: ['Soğan']))
         .status, PreferenceStatus.caution);

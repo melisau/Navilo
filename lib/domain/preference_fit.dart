@@ -48,6 +48,7 @@ class DietaryFacts {
   final List<String> fodmapSources;
   final bool simpleRice;
   final List<String> sugarAdditions, fruitSweeteners, otherSweeteners;
+  final String? fodmapCertification;
   final bool sugarClaim;
 
   /// The user confirmed the ingredient list is complete.
@@ -65,6 +66,7 @@ class DietaryFacts {
     this.sugarAdditions = const [],
     this.fruitSweeteners = const [],
     this.otherSweeteners = const [],
+    this.fodmapCertification,
     this.sugarClaim = false,
     this.complete = false,
   });
@@ -86,6 +88,7 @@ class DietaryFacts {
       sugarAdditions: a.sugarAdditions,
       fruitSweeteners: a.fruitSweeteners,
       otherSweeteners: a.otherSweeteners,
+      fodmapCertification: a.fodmapCertification,
       sugarClaim: a.sugarClaim,
       complete: a.complete,
     );
@@ -266,6 +269,14 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
           f.complete ? 'Listelenen laktoz kaynağı yok.' : unconfirmedTr,
           f.complete ? 'No listed lactose source.' : unconfirmedEn);
     case 'Düşük FODMAP':
+      if (f.fodmapCertification != null) {
+        return PreferenceVerdict(
+            p,
+            PreferenceStatus.labelClaim,
+            'Ambalajda düşük FODMAP sertifika ibaresi var; sertifika ambalajdaki porsiyon için geçerlidir. Bağımsız doğrulanmadı.',
+            'The pack shows a low-FODMAP certification mark; it applies to the serving stated on the pack. Not independently verified.',
+            [f.fodmapCertification!]);
+      }
       if (f.fodmapSources.isNotEmpty) {
         return PreferenceVerdict(p, PreferenceStatus.caution,
             'Olası FODMAP kaynağı var; düzeyi porsiyona bağlı.',

@@ -45,4 +45,38 @@ void main() {
       if (e.id == 'garlic') expect(e.kind, 'fodmap_potential');
     }
   });
+  List<String> ids(String text) =>
+      entries.where((e) => e.matches(text)).map((e) => e.id).toList();
+
+  test('Polyols are FODMAP sources, by name and E number', () {
+    expect(ids('Kakao, tatlandırıcı (maltitol), süt tozu'), contains('maltitol'));
+    expect(ids('Sweetener: sorbitol, xylitol'), containsAll(['sorbitol', 'xylitol']));
+    expect(ids('Tatlandırıcılar (E420, E953)'), containsAll(['sorbitol', 'isomalt']));
+  });
+
+  test('Fructose sources and legumes are flagged', () {
+    expect(ids('Yulaf, bal'), contains('honey_fructose'));
+    expect(ids('Su, glikoz-fruktoz şurubu'), contains('hfcs'));
+    expect(ids('Nohut unu, su, tuz'), contains('chickpea'));
+    expect(ids('Kırmızı mercimek, pirinç'), contains('legumes'));
+    expect(ids('Sebze tozu, tuz'), contains('vegetable_powder'));
+    expect(ids('Pirinç, tuz'), isEmpty);
+  });
+
+  test('Plain words are not mistaken for FODMAP sources', () {
+    expect(ids('Balık, tuz'), isNot(contains('honey_fructose')));
+    expect(ids('Mısır unu, su'), isEmpty);
+  });
+
+  test('Low-FODMAP certification wording is recognised, not inferred', () {
+    expect(lowFodmapCertification('Monash University Low FODMAP Certified™'),
+        'Monash University Low FODMAP Certified');
+    expect(lowFodmapCertification('FODMAP Friendly'), 'FODMAP Friendly');
+    expect(lowFodmapCertification('Düşük FODMAP sertifikalı'),
+        'Low FODMAP certified');
+    expect(lowFodmapCertification('Low FODMAP'), isNull);
+    expect(lowFodmapCertification('Pirinç, tuz'), isNull);
+    expect(lowFodmapCertification('', labels: ['en:fodmap-friendly']),
+        isNotNull);
+  });
 }
