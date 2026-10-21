@@ -251,8 +251,8 @@ extension _DietaryPanel on _HomePageState {
                   resultRow(
                       english ? 'Sugar' : 'Şeker',
                       sugarAdditions.isNotEmpty
-                          ? copy('Listelenen şeker ilavesi tespit edildi',
-                              'Listed sugar addition detected')
+                          ? copy('Şeker veya şeker şurubu listelenmiş',
+                              'Sugar or sugar syrup listed')
                           : sugarClaim
                               ? copy('Şekersiz · etiket beyanı',
                                   'Sugar-free · label claim')
@@ -269,6 +269,18 @@ extension _DietaryPanel on _HomePageState {
                       accent: sugarAdditions.isEmpty && (sugarClaim || complete)
                           ? const Color(0xFFB34572)
                           : null),
+                  if (a.fruitSweeteners.isNotEmpty ||
+                      a.otherSweeteners.isNotEmpty)
+                    resultRow(
+                        copy('Tatlandırıcı', 'Sweeteners'),
+                        a.fruitSweeteners.isNotEmpty
+                            ? copy(
+                                'Meyve kaynaklı tatlandırıcı listelenmiş · şeker ilavesi sayılmaz, doğal şeker içerir',
+                                'Fruit-based sweetener listed · not counted as added sugar; contains natural sugars')
+                            : copy(
+                                'Şeker dışı tatlandırıcı listelenmiş · şeker ilavesi sayılmaz',
+                                'Non-sugar sweetener listed · not counted as added sugar'),
+                        [...a.fruitSweeteners, ...a.otherSweeteners]),
                   InkWell(
                       borderRadius: BorderRadius.circular(16),
                       onTap: () =>

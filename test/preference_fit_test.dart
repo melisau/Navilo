@@ -138,6 +138,35 @@ void main() {
     expect(sugar.evidence, ['şeker']);
   });
 
+  test('Apple extract, dates and stevia are not added sugar', () {
+    for (final text in [
+      'Yulaf, elma özü, tarçın',
+      'Hurma, badem, kakao',
+      'Su, limon, stevia (steviol glikozitleri)',
+      'Pirinç, üzüm pekmezi',
+    ]) {
+      final vs = checkIngredientText(
+          {'İlave şekersiz', 'Şekersiz', 'Rafine şekersiz'}, reference, text,
+          complete: true);
+      expect(vs.where((v) => v.status == PreferenceStatus.conflict), isEmpty,
+          reason: text);
+      expect(vs.any((v) => v.evidence.isNotEmpty), isTrue, reason: text);
+    }
+  });
+
+  test('Glucose-fructose syrup and sugar are added sugar', () {
+    for (final text in [
+      'Su, glikoz-fruktoz şurubu, aroma',
+      'Un, şeker, elma özü',
+      'Water, glucose syrup',
+    ]) {
+      final v = checkIngredientText({'İlave şekersiz'}, reference, text,
+              complete: true)
+          .single;
+      expect(v.status, PreferenceStatus.conflict, reason: text);
+    }
+  });
+
   test('Sugar-free without additions still needs the nutrition table', () {
     final v = only({'Şekersiz'}, const DietaryFacts(complete: true));
     expect(v.status, PreferenceStatus.notAssessable);

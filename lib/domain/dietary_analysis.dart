@@ -16,7 +16,7 @@ class DietaryAnalysis {
       riceGluten,
       riceLactose,
       complete;
-  final List<String> sugarAdditions;
+  final List<String> sugarAdditions, fruitSweeteners, otherSweeteners;
 
   const DietaryAnalysis._({
     required this.gluten,
@@ -34,6 +34,8 @@ class DietaryAnalysis {
     required this.riceLactose,
     required this.complete,
     required this.sugarAdditions,
+    required this.fruitSweeteners,
+    required this.otherSweeteners,
   });
 
   /// [matched] are the reference entries already matched against [text].
@@ -96,6 +98,8 @@ class DietaryAnalysis {
       riceLactose: riceLactose,
       complete: complete,
       sugarAdditions: listedSugarAdditions(text),
+      fruitSweeteners: listedFruitSweeteners(text),
+      otherSweeteners: listedNonSugarSweeteners(text),
     );
   }
 }

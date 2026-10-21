@@ -34,6 +34,7 @@ See [Mobile UX flow](docs/MOBILE_UX_FLOW.md) for the screen structure and device
 4. Labels cannot rule out lead, cadmium, or arsenic contamination. No heavy-metal-free claim is generated without relevant verified laboratory evidence.
 5. FODMAP classifications require serving information and verified data with appropriate usage rights. Ingredient lists alone are insufficient.
 6. Gluten-free, vegan, lactose-free, sugar-free, no-added-sugar, and refined-sugar-free are distinct attributes. Missing evidence remains unknown.
+   Only sugars and sugar syrups (sugar, glucose, glucose-fructose syrup, honey, agave/maple syrup) are reported as added sugar. Fruit-based sweeteners (apple extract, dates, grape molasses, juice concentrates) and non-sugar sweeteners (stevia, polyols, intense sweeteners) are listed separately as sweeteners, never as added sugar.
 7. Health and cycle interests are optional. Navilo does not provide medical advice; its language and functionality must reflect this purpose.
 
 ## Getting started

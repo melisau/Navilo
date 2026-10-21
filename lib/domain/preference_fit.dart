@@ -47,7 +47,7 @@ class DietaryFacts {
   final bool lactoseFree, lactoseFreeByIngredients, lactoseClaim;
   final List<String> fodmapSources;
   final bool simpleRice;
-  final List<String> sugarAdditions;
+  final List<String> sugarAdditions, fruitSweeteners, otherSweeteners;
   final bool sugarClaim;
 
   /// The user confirmed the ingredient list is complete.
@@ -63,6 +63,8 @@ class DietaryFacts {
     this.fodmapSources = const [],
     this.simpleRice = false,
     this.sugarAdditions = const [],
+    this.fruitSweeteners = const [],
+    this.otherSweeteners = const [],
     this.sugarClaim = false,
     this.complete = false,
   });
@@ -82,6 +84,8 @@ class DietaryFacts {
       fodmapSources: names(a.fodmap),
       simpleRice: a.simpleRice,
       sugarAdditions: a.sugarAdditions,
+      fruitSweeteners: a.fruitSweeteners,
+      otherSweeteners: a.otherSweeteners,
       sugarClaim: a.sugarClaim,
       complete: a.complete,
     );
@@ -291,24 +295,42 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
     case 'İlave şekersiz':
       if (f.sugarAdditions.isNotEmpty) {
         return PreferenceVerdict(p, PreferenceStatus.conflict,
-            'Şeker ilavesi listelenmiş.', 'An added sugar is listed.',
-            f.sugarAdditions);
+            'Şeker veya şeker şurubu listelenmiş.',
+            'A sugar or sugar syrup is listed.', f.sugarAdditions);
       }
+      final sweeteners = [...f.fruitSweeteners, ...f.otherSweeteners];
       if (p == 'Şekersiz' && f.sugarClaim) {
         return PreferenceVerdict(p, PreferenceStatus.labelClaim,
             'Etikette şekersiz beyanı var; bağımsız doğrulanmadı.',
-            'The label claims sugar-free; not independently verified.');
+            'The label claims sugar-free; not independently verified.',
+            sweeteners);
       }
       if (p == 'Şekersiz') {
-        return PreferenceVerdict(p, PreferenceStatus.notAssessable,
-            'Şeker ilavesi bulunmadı; toplam şeker için besin değeri tablosu gerekir.',
-            'No added sugar found; total sugars need the nutrition table.');
+        return PreferenceVerdict(
+            p,
+            PreferenceStatus.notAssessable,
+            f.fruitSweeteners.isNotEmpty
+                ? 'Şeker ilavesi yok; meyve kaynaklı tatlandırıcı doğal şeker içerir. Toplam şeker için besin değeri tablosu gerekir.'
+                : 'Şeker ilavesi bulunmadı; toplam şeker için besin değeri tablosu gerekir.',
+            f.fruitSweeteners.isNotEmpty
+                ? 'No added sugar; fruit-based sweeteners contain natural sugars. Total sugars need the nutrition table.'
+                : 'No added sugar found; total sugars need the nutrition table.',
+            sweeteners);
+      }
+      if (!f.complete) {
+        return PreferenceVerdict(p, PreferenceStatus.noneFound,
+            unconfirmedTr, unconfirmedEn, sweeteners);
       }
       return PreferenceVerdict(
           p,
           PreferenceStatus.noneFound,
-          f.complete ? 'Listelenen şeker ilavesi yok.' : unconfirmedTr,
-          f.complete ? 'No listed added sugar.' : unconfirmedEn);
+          sweeteners.isEmpty
+              ? 'Listelenen şeker ilavesi yok.'
+              : 'Şeker ilavesi yok; tatlandırıcı olarak listelenenler ayrıca gösterildi.',
+          sweeteners.isEmpty
+              ? 'No listed added sugar.'
+              : 'No added sugar; the listed sweeteners are shown separately.',
+          sweeteners);
     case 'Rafine şekersiz':
       final refined =
           f.sugarAdditions.where(_refinedSugarAliases.contains).toList();
