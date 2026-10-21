@@ -141,6 +141,9 @@ extension _AppFlow on _HomePageState {
     photoPath = null;
     photoPaths.clear();
     rawOcrText = '';
+    reviewedNutrition = null;
+    nutritionDraft = {};
+    editingNutrition = false;
     scanError = null;
     matches = null;
     complete = false;

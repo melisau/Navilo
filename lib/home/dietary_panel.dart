@@ -408,8 +408,16 @@ extension _DietaryPanel on _HomePageState {
           });
 
   /// Label table first (what the user photographed), then the database.
-  NutritionFacts? get currentNutrition =>
-      parseNutritionTable(rawOcrText) ?? productRecord?.nutrition;
+  NutritionFacts? get currentNutrition {
+    if (reviewedNutrition != null && reviewedNutritionFor == nutritionKey) {
+      // An empty confirmed table means "do not use nutrition values".
+      return reviewedNutrition!.count == 0 ? null : reviewedNutrition;
+    }
+    return parseNutritionTable(rawOcrText) ?? productRecord?.nutrition;
+  }
+
+  /// What reviewed values belong to: the OCR text and the product record.
+  String get nutritionKey => '${productRecord?.code ?? ''}|$rawOcrText';
 
   Widget nutritionRow(NutritionFacts? n) => resultRow(
       n == null
@@ -418,13 +426,21 @@ extension _DietaryPanel on _HomePageState {
       n == null
           ? copy('Besin değeri tablosu okunamadı',
               'Nutrition table was not read')
-          : n.source == 'label'
-              ? copy('Etiketten okundu · değerleri ambalajla karşılaştır',
-                  'Read from the label · compare with the package')
-              : copy('Open Food Facts verisi · ambalajla karşılaştır',
-                  'Open Food Facts data · compare with the package'),
+          : n.energyInconsistent && !n.confirmed
+              ? copy(
+                  'Enerji diğer değerlerle tutmuyor · yanlış okuma olabilir, inceleme ekranında kontrol et',
+                  'Energy does not match the other values · possibly misread, check on the review screen')
+              : n.confirmed
+                  ? copy('Senin onayladığın değerler',
+                      'Values you confirmed')
+                  : n.source == 'label'
+                      ? copy('Etiketten okundu · henüz onaylanmadı',
+                          'Read from the label · not yet confirmed')
+                      : copy('Open Food Facts verisi · ambalajla karşılaştır',
+                          'Open Food Facts data · compare with the package'),
       n?.lines(english) ?? const [],
-      unknown: n == null);
+      warning: n != null && n.energyInconsistent && !n.confirmed,
+      unknown: n == null || (n.source == 'label' && !n.confirmed));
 
   /// The 14 regulated allergens: what the ingredients name and what only a
   /// "may contain" statement names.

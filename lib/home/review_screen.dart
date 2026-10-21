@@ -147,6 +147,7 @@ extension _ReviewScreen on _HomePageState {
                   padding: const EdgeInsets.all(16),
                   child: SelectableText(rawOcrText))
             ]),
+      if (category == 'food') nutritionReview(),
       if (!reviewReadOnly) ...[
         const SizedBox(height: 20),
         Container(

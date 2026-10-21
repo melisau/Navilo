@@ -92,10 +92,10 @@ Karbonhidrat 10 g
                 {pref}, DietaryFacts(complete: true, nutrition: n), '')
             .single;
     const solid = NutritionFacts(
-        basis: '100g', source: 'label', fat: 1.2, sugars: 0.3, carbohydrate: 4);
+        basis: '100g', source: 'reviewed', fat: 1.2, sugars: 0.3, carbohydrate: 4);
     const fatty = NutritionFacts(
-        basis: '100g', source: 'label', fat: 31, sugars: 52, carbohydrate: 56);
-    const drink = NutritionFacts(basis: '100ml', source: 'label', fat: 2);
+        basis: '100g', source: 'reviewed', fat: 31, sugars: 52, carbohydrate: 56);
+    const drink = NutritionFacts(basis: '100ml', source: 'reviewed', fat: 2);
 
     test('Low fat follows the 3 g / 1.5 ml claim limits', () {
       expect(check('Az yağlı', solid).status, PreferenceStatus.ingredientsFit);
@@ -114,6 +114,28 @@ Karbonhidrat 10 g
       expect(v.message(false), contains('56 g karbonhidrat'));
     });
 
+    test('Unconfirmed label values give a caution, not a decision', () {
+      const read = NutritionFacts(
+          basis: '100g', source: 'label', fat: 1.2, sugars: 0.3);
+      expect(check('Az yağlı', read).status, PreferenceStatus.caution);
+      expect(check('Şekersiz', read).status, PreferenceStatus.caution);
+      expect(check('Az yağlı', read).message(false), contains('onayla'));
+      expect(check('Az yağlı', read.reviewed()).status,
+          PreferenceStatus.ingredientsFit);
+    });
+
+    test('Database values that do not add up are not decisive', () {
+      const odd = NutritionFacts(
+          basis: '100g_or_ml',
+          source: 'database',
+          energyKcal: 537,
+          fat: 3.1,
+          carbohydrate: 56,
+          protein: 6.3);
+      expect(odd.energyInconsistent, isTrue);
+      expect(check('Az yağlı', odd).status, PreferenceStatus.caution);
+    });
+
     test('Without a table these stay not assessable', () {
       for (final pref in ['Az yağlı', 'Ketojenik', 'Şekersiz']) {
         expect(
@@ -123,6 +145,50 @@ Karbonhidrat 10 g
             PreferenceStatus.notAssessable,
             reason: pref);
       }
+    });
+  });
+
+  group('Review helpers', () {
+    test('Energy consistency catches a misplaced decimal comma', () {
+      final ok = parseNutritionTable('''
+Enerji 2245 kJ / 537 kcal
+Yağ 31 g
+Karbonhidrat 56 g
+Lif 2,1 g
+Protein 6,3 g
+''')!;
+      expect(ok.energyInconsistent, isFalse);
+      final misread = parseNutritionTable('''
+Enerji 2245 kJ / 537 kcal
+Yağ 3,1 g
+Karbonhidrat 56 g
+Protein 6,3 g
+''')!;
+      expect(misread.energyInconsistent, isTrue);
+      const partial = NutritionFacts(
+          basis: '100g', source: 'label', energyKcal: 537, fat: 3.1);
+      expect(partial.energyInconsistent, isFalse);
+    });
+
+    test('Form values accept comma or dot and reject impossible amounts', () {
+      final n = NutritionFacts.fromForm(
+          {'fat': '3,1', 'sugars': '0.4', 'energyKcal': '120', 'salt': ''},
+          '100ml')!;
+      expect(n.confirmed, isTrue);
+      expect(n.basis, '100ml');
+      expect(n.fat, 3.1);
+      expect(n.sugars, 0.4);
+      expect(n.salt, isNull);
+      expect(NutritionFacts.fromForm({'fat': '131'}, '100g'), isNull);
+      expect(NutritionFacts.fromForm({'fat': 'abc'}, '100g'), isNull);
+      expect(NutritionFacts.fromForm({}, '100g')!.count, 0);
+    });
+
+    test('Form text uses the decimal comma in Turkish', () {
+      expect(NutritionFacts.formText(3.1), '3,1');
+      expect(NutritionFacts.formText(3.1, english: true), '3.1');
+      expect(NutritionFacts.formText(31), '31');
+      expect(NutritionFacts.formText(null), '');
     });
   });
 }
