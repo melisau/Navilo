@@ -53,7 +53,7 @@ jobs:
         run: |
           python3 - <<'PY'
           import json
-          tests, errors = {}, {}
+          tests, errors, prints = {}, {}, {}
           for line in open('test-results.json', encoding='utf-8'):
               try:
                   e = json.loads(line)
@@ -64,12 +64,16 @@ jobs:
                   tests[t['id']] = (t['name'], t.get('url') or '')
               elif e.get('type') == 'error':
                   errors.setdefault(e['testID'], []).append(e.get('error', ''))
+              elif e.get('type') == 'print':
+                  prints.setdefault(e['testID'], []).append(e.get('message', ''))
           def esc(s):
               return s.replace('%', '%25').replace('\r', '').replace('\n', '%0A')
           for tid, errs in errors.items():
               name, url = tests.get(tid, ('unknown', ''))
               path = url.split('/navilo/')[-1] if '/navilo/' in url else ''
-              msg = esc('\n'.join(errs)[:1500])
+              detail = '\n'.join(prints.get(tid, []))
+              # Widget-test exceptions are printed before the error event.
+              msg = esc(('\n'.join(errs) + '\n' + detail[-3000:])[:4000])
               loc = f' file={path}' if path else ''
               print(f'::error{loc} title={esc(name)[:200].replace(':', '%3A').replace(',', '%2C')}::{msg}')
           PY
