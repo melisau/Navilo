@@ -329,7 +329,8 @@ extension _LibraryScreen on _HomePageState {
           reviewedAt: product.reviewedAt,
           imageFile: product.imageFile,
           remoteImageUrl: product.remoteImageUrl,
-          imageSourceUrl: product.imageSourceUrl));
+          imageSourceUrl: product.imageSourceUrl,
+          nutrition: product.nutrition));
       await refreshRecent();
       if (!mounted) return;
       ScaffoldMessenger.of(context).showSnackBar(SnackBar(
@@ -427,6 +428,17 @@ extension _LibraryScreen on _HomePageState {
                           style: Theme.of(context).textTheme.titleLarge),
                       const SizedBox(height: 12),
                       SelectableText(product.ingredients),
+                      if (product.nutrition != null) ...[
+                        const SizedBox(height: 20),
+                        Text(
+                            '${copy('Besin değerleri', 'Nutrition')} · ${product.nutrition!.basisLabel(english)}',
+                            style: Theme.of(context).textTheme.titleMedium),
+                        const SizedBox(height: 8),
+                        Text(product.nutrition!.lines(english).join(' · ')),
+                        Text(copy('Kaydederken onayladın.',
+                                'Confirmed by you when saving.'),
+                            style: Theme.of(context).textTheme.bodySmall),
+                      ],
                       if (product.category == 'cosmetic')
                         skinFitCard(product.ingredients, reviewed: true),
                       const SizedBox(height: 24),

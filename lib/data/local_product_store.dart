@@ -1,13 +1,19 @@
 import 'dart:convert';
 import 'dart:io';
 
+import '../domain/nutrition.dart';
+
 class LocalProduct {
   final String id, barcode, category, name, ingredients;
   final DateTime reviewedAt;
   final String? imageFile;
   final String? remoteImageUrl, imageSourceUrl;
+
+  /// Nutrition values the user confirmed when saving, if any.
+  final NutritionFacts? nutrition;
   LocalProduct(
       {String? id,
+      this.nutrition,
       this.imageFile,
       this.remoteImageUrl,
       this.imageSourceUrl,
@@ -26,7 +32,8 @@ class LocalProduct {
         'category': category,
         'name': name,
         'ingredients': ingredients,
-        'reviewedAt': reviewedAt.toUtc().toIso8601String()
+        'reviewedAt': reviewedAt.toUtc().toIso8601String(),
+        if (nutrition != null) 'nutrition': nutrition!.toJson(),
       };
   factory LocalProduct.fromJson(Map<String, dynamic> json) => LocalProduct(
       id: json['id'] as String?,
@@ -37,7 +44,8 @@ class LocalProduct {
       category: json['category'] as String,
       name: json['name'] as String,
       ingredients: json['ingredients'] as String,
-      reviewedAt: DateTime.parse(json['reviewedAt'] as String));
+      reviewedAt: DateTime.parse(json['reviewedAt'] as String),
+      nutrition: NutritionFacts.fromJson(json['nutrition']));
 }
 
 class PendingSubmission {
@@ -216,7 +224,8 @@ class LocalProductStore {
         name: product.name,
         ingredients: product.ingredients,
         reviewedAt: product.reviewedAt,
-        imageFile: name);
+        imageFile: name,
+        nutrition: product.nutrition);
     try {
       await save(updated);
     } catch (_) {

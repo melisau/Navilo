@@ -242,6 +242,10 @@ extension _ProductLookup on _HomePageState {
       label.text = product.ingredients;
       localReviewDate = product.reviewedAt;
       ingredientSectionDetected = true;
+      if (product.nutrition != null) {
+        reviewedNutrition = product.nutrition;
+        reviewedNutritionFor = nutritionKey;
+      }
       stage = ScanStage.review;
     });
   }

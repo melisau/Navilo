@@ -127,6 +127,11 @@ extension _CaptureActions on _HomePageState {
           name: confirmedName,
           ingredients: text,
           reviewedAt: date,
+          // Only values the user confirmed are stored.
+          nutrition: savedCategory == 'food' &&
+                  currentNutrition?.confirmed == true
+              ? currentNutrition
+              : null,
           imageFile: previous?.imageFile,
           remoteImageUrl: previous?.remoteImageUrl ?? productRecord?.imageUrl,
           imageSourceUrl: previous?.imageSourceUrl ??

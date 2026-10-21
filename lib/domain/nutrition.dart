@@ -50,6 +50,44 @@ class NutritionFacts {
     return diff > 20 && diff / e > 0.2;
   }
 
+  Map<String, dynamic> toJson() => {
+        'basis': basis,
+        'source': source,
+        for (final k in keys)
+          if (valueOf(k) != null) k: valueOf(k),
+      };
+
+  /// Restores saved values; unknown or invalid entries are dropped.
+  static NutritionFacts? fromJson(Object? json) {
+    if (json is! Map) return null;
+    double? v(String key) {
+      final value = json[key];
+      return value is num && value >= 0 && value <= 1000
+          ? value.toDouble()
+          : null;
+    }
+
+    final basis = json['basis'];
+    final source = json['source'];
+    final facts = NutritionFacts(
+      basis: ['100g', '100ml', '100g_or_ml'].contains(basis)
+          ? basis as String
+          : '100g',
+      source: ['label', 'reviewed', 'database'].contains(source)
+          ? source as String
+          : 'label',
+      energyKcal: v('energyKcal'),
+      fat: v('fat'),
+      saturatedFat: v('saturatedFat'),
+      carbohydrate: v('carbohydrate'),
+      sugars: v('sugars'),
+      fibre: v('fibre'),
+      protein: v('protein'),
+      salt: v('salt'),
+    );
+    return facts.count == 0 ? null : facts;
+  }
+
   /// The same values marked as confirmed by the user.
   NutritionFacts reviewed({String? basis}) => NutritionFacts(
         basis: basis ?? this.basis,

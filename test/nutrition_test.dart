@@ -191,4 +191,17 @@ Protein 6,3 g
       expect(NutritionFacts.formText(null), '');
     });
   });
+
+  test('Saved nutrition round-trips and ignores invalid entries', () {
+    const n = NutritionFacts(
+        basis: '100ml', source: 'reviewed', fat: 1.5, sugars: 4.2);
+    final back = NutritionFacts.fromJson(n.toJson())!;
+    expect(back.basis, '100ml');
+    expect(back.confirmed, isTrue);
+    expect(back.fat, 1.5);
+    expect(back.sugars, 4.2);
+    expect(back.salt, isNull);
+    expect(NutritionFacts.fromJson({'fat': -2, 'basis': 'x'}), isNull);
+    expect(NutritionFacts.fromJson('oops'), isNull);
+  });
 }
