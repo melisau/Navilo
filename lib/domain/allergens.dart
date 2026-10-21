@@ -23,9 +23,9 @@ class AllergenEntry {
   /// Exempt or look-alike phrases (coconut milk, wheat glucose syrup) are
   /// removed before matching.
   bool matches(String text) {
-    var value = normalize(text);
+    var value = matchForm(text);
     for (final phrase in exclude) {
-      value = value.replaceAll(normalize(phrase), ' ');
+      value = value.replaceAll(matchForm(phrase), ' ');
     }
     return aliases.any((alias) => containsIngredient(value, alias));
   }
