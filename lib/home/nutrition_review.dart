@@ -131,6 +131,9 @@ extension _NutritionReview on _HomePageState {
             shown.source == 'database'
                 ? copy('Open Food Facts verisi. Ambalajdaki tabloyla karşılaştır.',
                     'Open Food Facts data. Compare with the table on the package.')
+                : shown.source == 'catalogue'
+                ? copy('Navilo kataloğu (ambalaj fotoğrafından). Ambalajdaki tabloyla karşılaştır.',
+                    'Navilo catalogue (from a package photo). Compare with the table on the package.')
                 : copy(
                     'Etiketten okundu. Rakamları ve virgülleri ambalajla karşılaştır; "az yağlı" ve "şekersiz" sonucu ancak onaylanınca kesinleşir.',
                     'Read from the label. Compare digits and decimal commas with the package; "low fat" and "sugar-free" are only decided after you confirm.'),

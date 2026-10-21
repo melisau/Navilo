@@ -436,8 +436,11 @@ extension _DietaryPanel on _HomePageState {
                   : n.source == 'label'
                       ? copy('Etiketten okundu · henüz onaylanmadı',
                           'Read from the label · not yet confirmed')
-                      : copy('Open Food Facts verisi · ambalajla karşılaştır',
-                          'Open Food Facts data · compare with the package'),
+                      : n.source == 'catalogue'
+                          ? copy('Navilo kataloğu · ambalajla karşılaştır',
+                              'Navilo catalogue · compare with the package')
+                          : copy('Open Food Facts verisi · ambalajla karşılaştır',
+                              'Open Food Facts data · compare with the package'),
       n?.lines(english) ?? const [],
       warning: n != null && n.energyInconsistent && !n.confirmed,
       unknown: n == null || (n.source == 'label' && !n.confirmed));

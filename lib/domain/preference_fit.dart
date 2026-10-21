@@ -556,5 +556,7 @@ bool _unconfirmed(NutritionFacts n) =>
 String _source(NutritionFacts n) => switch (n.source) {
       'label' => 'Besin tablosu (etiket, onaylanmadı) / Nutrition table (label, unconfirmed)',
       'reviewed' => 'Besin tablosu (onaylandı) / Nutrition table (confirmed)',
+      'catalogue' =>
+        'Besin tablosu (Navilo kataloğu) / Nutrition table (Navilo catalogue)',
       _ => 'Besin değerleri (Open Food Facts) / Nutrition (Open Food Facts)',
     };
