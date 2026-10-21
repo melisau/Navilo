@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'allergens.dart';
 import 'dietary.dart';
 import 'dietary_analysis.dart';
 import 'policy.dart';
@@ -34,9 +35,17 @@ class PreferenceVerdict {
   final PreferenceStatus status;
   final String tr, en;
   final List<String> evidence;
+
+  /// Display title when [preference] is a stored key (e.g. `Alerji:milk`).
+  final String? titleTr, titleEn;
   const PreferenceVerdict(this.preference, this.status, this.tr, this.en,
-      [this.evidence = const []]);
+      [this.evidence = const [], this.titleTr, this.titleEn]);
   String message(bool english) => english ? en : tr;
+
+  /// [translate] maps a stored Turkish preference label to English.
+  String title(bool english, String Function(String) translate) => english
+      ? (titleEn ?? translate(preference))
+      : (titleTr ?? preference);
 }
 
 /// Facts the dietary panel already derives from the reviewed text.
@@ -49,6 +58,7 @@ class DietaryFacts {
   final bool simpleRice;
   final List<String> sugarAdditions, fruitSweeteners, otherSweeteners;
   final String? fodmapCertification;
+  final AllergenFindings allergens;
   final bool sugarClaim;
 
   /// The user confirmed the ingredient list is complete.
@@ -67,11 +77,14 @@ class DietaryFacts {
     this.fruitSweeteners = const [],
     this.otherSweeteners = const [],
     this.fodmapCertification,
+    this.allergens = AllergenFindings.empty,
     this.sugarClaim = false,
     this.complete = false,
   });
 
-  factory DietaryFacts.fromAnalysis(DietaryAnalysis a, {bool english = false}) {
+  factory DietaryFacts.fromAnalysis(DietaryAnalysis a,
+      {bool english = false,
+      AllergenFindings allergens = AllergenFindings.empty}) {
     List<String> names(List<DietaryEntry> e) =>
         e.map((x) => x.name(english)).toList();
     return DietaryFacts(
@@ -89,6 +102,7 @@ class DietaryFacts {
       fruitSweeteners: a.fruitSweeteners,
       otherSweeteners: a.otherSweeteners,
       fodmapCertification: a.fodmapCertification,
+      allergens: allergens,
       sugarClaim: a.sugarClaim,
       complete: a.complete,
     );
@@ -173,7 +187,9 @@ List<String> listedAnimalIngredients(String text, List<VeganEntry> entries,
 class PreferenceReference {
   final List<DietaryEntry> dietary;
   final List<VeganEntry> vegan;
-  const PreferenceReference(this.dietary, this.vegan);
+  final List<AllergenEntry> allergens;
+  const PreferenceReference(this.dietary, this.vegan,
+      {this.allergens = const []});
 }
 
 /// Checks free text (e.g. a catalogue product) against saved preferences.
@@ -181,9 +197,13 @@ List<PreferenceVerdict> checkIngredientText(
     Set<String> preferences, PreferenceReference ref, String text,
     {String evidence = '',
     List<String> labels = const [],
+    List<String> allergenTags = const [],
+    List<String> traceTags = const [],
     bool complete = false,
     bool english = false}) {
   if (preferences.isEmpty) return const [];
+  final allergens = findAllergens(text, ref.allergens,
+      allergenTags: allergenTags, traceTags: traceTags);
   final analysis = DietaryAnalysis.of(
       ref.dietary.where((e) => e.matches(text)).toList(),
       text: text,
@@ -191,18 +211,31 @@ List<PreferenceVerdict> checkIngredientText(
       labels: labels,
       complete: complete);
   return evaluatePreferences(
-      preferences, DietaryFacts.fromAnalysis(analysis, english: english), text,
-      vegan: ref.vegan, english: english);
+      preferences,
+      DietaryFacts.fromAnalysis(analysis,
+          english: english, allergens: allergens),
+      text,
+      vegan: ref.vegan,
+      allergenEntries: ref.allergens,
+      english: english);
 }
 
 /// Verdicts for the user's saved food preferences, conflicts first.
 List<PreferenceVerdict> evaluatePreferences(
     Set<String> preferences, DietaryFacts f, String ingredientText,
-    {List<VeganEntry> vegan = const [], bool english = false}) {
+    {List<VeganEntry> vegan = const [],
+    List<AllergenEntry> allergenEntries = const [],
+    bool english = false}) {
   final verdicts = <PreferenceVerdict>[];
   for (final p in preferenceOrder.where(preferences.contains)) {
     final v = _evaluate(p, f, ingredientText, vegan, english);
     if (v != null) verdicts.add(v);
+  }
+  for (final entry in allergenEntries) {
+    final key = allergenPreference(entry.id);
+    if (preferences.contains(key)) {
+      verdicts.add(_allergenVerdict(key, entry, f));
+    }
   }
   verdicts.sort((a, b) => a.status.index.compareTo(b.status.index));
   return verdicts;
@@ -374,4 +407,35 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
           'Needs fat amounts; cannot be judged from ingredients.');
   }
   return null;
+}
+
+PreferenceVerdict _allergenVerdict(
+    String key, AllergenEntry entry, DietaryFacts f) {
+  final tr = entry.name(false), en = entry.name(true);
+  if (f.allergens.containsId(entry.id)) {
+    return PreferenceVerdict(key, PreferenceStatus.conflict,
+        'İçeriklerde listelenmiş.', 'Listed in the ingredients.', [tr], tr, en);
+  }
+  if (f.allergens.mayContainId(entry.id)) {
+    return PreferenceVerdict(
+        key,
+        PreferenceStatus.caution,
+        'İz miktarda içerebilir uyarısı var.',
+        'A "may contain" warning names it.',
+        [tr],
+        tr,
+        en);
+  }
+  return PreferenceVerdict(
+      key,
+      PreferenceStatus.noneFound,
+      f.complete
+          ? 'Okunan metinde bulunmadı; bu alerjen içermediği anlamına gelmez. Ambalajı kontrol et.'
+          : 'İçerik listesi tam onaylanmadı; okunan metinde bulunmadı. Ambalajı kontrol et.',
+      f.complete
+          ? 'Not found in the text read; this does not mean it is absent. Check the package.'
+          : 'The list was not confirmed complete; not found in the text read. Check the package.',
+      const [],
+      tr,
+      en);
 }
