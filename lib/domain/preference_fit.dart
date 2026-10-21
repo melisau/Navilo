@@ -109,6 +109,7 @@ class DietaryFacts {
       otherSweeteners: a.otherSweeteners,
       fodmapCertification: a.fodmapCertification,
       allergens: allergens,
+      nutrition: nutrition,
       sugarClaim: a.sugarClaim,
       complete: a.complete,
     );

@@ -409,7 +409,6 @@ extension _DietaryPanel on _HomePageState {
 
   /// Label table first (what the user photographed), then the database.
   NutritionFacts? get currentNutrition {
-    debugPrint('NAVILO-DEBUG currentNutrition reviewed=${reviewedNutrition?.count} for=[$reviewedNutritionFor] key=[$nutritionKey] stage=$stage');
     if (reviewedNutrition != null && reviewedNutritionFor == nutritionKey) {
       // An empty confirmed table means "do not use nutrition values".
       return reviewedNutrition!.count == 0 ? null : reviewedNutrition;

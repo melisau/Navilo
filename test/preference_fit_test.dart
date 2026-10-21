@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:flutter_test/flutter_test.dart';
 import 'package:navilo/domain/dietary.dart';
+import 'package:navilo/domain/nutrition.dart';
 import 'package:navilo/domain/preference_fit.dart';
 
 final vegan = VeganEntry.decodeAll(File('assets/vegan.json').readAsStringSync());
@@ -119,6 +120,14 @@ void main() {
     final rice = checkIngredientText({'Glutensiz'}, reference, 'Pirinç, tuz');
     expect(rice.single.status, isNot(PreferenceStatus.conflict));
     expect(checkIngredientText({}, reference, 'Buğday unu'), isEmpty);
+  });
+
+  test('Nutrition values reach the preference check', () {
+    final v = checkIngredientText({'Az yağlı'}, reference, 'Fındık, şeker',
+            nutrition: const NutritionFacts(
+                basis: '100g', source: 'reviewed', fat: 31))
+        .single;
+    expect(v.status, PreferenceStatus.conflict);
   });
 
   test('Database label tags count as a claim, not as suitability', () {
