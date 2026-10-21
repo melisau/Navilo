@@ -9,13 +9,20 @@ String normalizedLipInci(String text) => text
     .toUpperCase()
     .replaceAll(RegExp(r'[^A-Z0-9]'), '');
 
+/// Local research export; not committed to the repository. The check runs
+/// where the file exists and is skipped elsewhere (e.g. CI).
+const _research = 'docs/lip_research_20261015/selected_200.json';
+final String? _researchSkip = File(_research).existsSync()
+    ? null
+    : 'Local research file not in the repository: $_research';
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
   test('200 new lip products resolve by published barcode without network',
       () async {
     final rows = jsonDecode(
-        File('docs/lip_research_20261015/selected_200.json').readAsStringSync())
+        File(_research).readAsStringSync())
         as List;
     expect(rows, hasLength(200));
     expect(rows.map((r) => (r['code'] as String).padLeft(14, '0')).toSet(),
@@ -43,5 +50,5 @@ void main() {
     final catalogue = await repository.listCurated(category: 'cosmetic');
     final codes = catalogue.map((p) => p.code).toSet();
     expect(rows.every((row) => codes.contains(row['code'])), isTrue);
-  });
+  }, skip: _researchSkip);
 }
