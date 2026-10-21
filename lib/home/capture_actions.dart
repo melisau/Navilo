@@ -127,6 +127,11 @@ extension _CaptureActions on _HomePageState {
           name: confirmedName,
           ingredients: text,
           reviewedAt: date,
+          // Only values the user confirmed are stored.
+          nutrition: savedCategory == 'food' &&
+                  currentNutrition?.confirmed == true
+              ? currentNutrition
+              : null,
           imageFile: previous?.imageFile,
           remoteImageUrl: previous?.remoteImageUrl ?? productRecord?.imageUrl,
           imageSourceUrl: previous?.imageSourceUrl ??
@@ -224,6 +229,10 @@ extension _CaptureActions on _HomePageState {
           complete = IngredientText.reviewIssues(saved.ingredients).isEmpty;
           editingReview = false;
           matches = loadedPolicy.evaluate(saved.ingredients, category);
+          if (saved.nutrition != null) {
+            reviewedNutrition = saved.nutrition;
+            reviewedNutritionFor = nutritionKey;
+          }
           stage = ScanStage.review;
         });
         return;
