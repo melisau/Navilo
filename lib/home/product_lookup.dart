@@ -242,6 +242,7 @@ extension _ProductLookup on _HomePageState {
       label.text = product.ingredients;
       localReviewDate = product.reviewedAt;
       ingredientSectionDetected = true;
+      debugPrint('NAVILO-DEBUG openSaved nutrition=${product.nutrition?.count}');
       if (product.nutrition != null) {
         reviewedNutrition = product.nutrition;
         reviewedNutritionFor = nutritionKey;
