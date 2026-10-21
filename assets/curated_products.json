@@ -11136,5 +11136,519 @@
     "verified_at": "2026-10-21T00:00:00+03:00",
     "status": "verified",
     "verification_basis": "user_provided_label_transcription"
+  },
+  {
+    "code": "8697403870105",
+    "name": "Ekici Tam Yağlı Beyaz Peynir Lokum Kıvamında 800 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, Peynir mayası, peynir kültürü, Stabilizör(kalsiyum klorür) ve tuz",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/ekici-tam-yagli-beyaz-peynir-lokum-kivaminda-800gr",
+    "barcode_source_url": "https://www.sariyermarket.com/ekici-tam-yagli-beyaz-peynir-lokum-kivaminda-800gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/ekici-tam-yagli-beyaz-peynir-lokum-kivaminda-800gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/ekici-tam-yagli-beyaz-peynir-lokum-kivaminda-800gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/ekici-tam-yagli-beyaz-peynir-lokum-kivaminda-800gr"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/ekici-tam-yagli-beyaz-peynir-lokum-kivaminda-800gr"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 225.0,
+      "fat": 18.3,
+      "saturatedFat": 5.0,
+      "carbohydrate": 3.5,
+      "sugars": 0.6,
+      "protein": 14.5,
+      "salt": 2.5
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8690504433347",
+    "name": "İçim Tam Yağlı Beyaz Peynir 500 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir kültürü, stabilizör (kalsiyum klorür), peynir mayası",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/icim-tam-yagli-beyaz-peynir-500-g",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-tam-yagli-beyaz-peynir-500-g",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-tam-yagli-beyaz-peynir-500-g"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-tam-yagli-beyaz-peynir-500-g"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-tam-yagli-beyaz-peynir-500-g"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/icim-tam-yagli-beyaz-peynir-500-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 215.0,
+      "fat": 16.5,
+      "saturatedFat": 10.7,
+      "carbohydrate": 3.5,
+      "sugars": 3.5,
+      "protein": 13.0,
+      "salt": 2.0
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8692886412095",
+    "name": "Altınkılıç Tam Yağlı Olgunlaştırılmış İnek Peyniri 500 g",
+    "category": "food",
+    "ingredients": "Pastörize İnek Sütü, Peynir Mayası, Tuz.",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-gr"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/altinkilic-tam-yagli-olgunlastirilmis-inek-peyniri-500-gr"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 285.0,
+      "fat": 24.0,
+      "saturatedFat": 15.5,
+      "carbohydrate": 0.0,
+      "sugars": 0.0,
+      "protein": 17.4,
+      "salt": 3.1
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "SÜT"
+  },
+  {
+    "code": "8691225156355",
+    "name": "Tahsildaroğlu Klasik Beyaz Peynir 500 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir mayası, tuz",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/tahsildaroglu-klasik-beyaz-peynir-500-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/tahsildaroglu-klasik-beyaz-peynir-500-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/tahsildaroglu-klasik-beyaz-peynir-500-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/tahsildaroglu-klasik-beyaz-peynir-500-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/tahsildaroglu-klasik-beyaz-peynir-500-gr"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/tahsildaroglu-klasik-beyaz-peynir-500-gr"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 300.0,
+      "fat": 25.0,
+      "saturatedFat": 7.0,
+      "carbohydrate": 1.0,
+      "sugars": 1.0,
+      "protein": 17.2,
+      "salt": 2.7
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check"
+  },
+  {
+    "code": "8690565010822",
+    "name": "Pınar Üçgen Peynir Yarım Yağlı 8 x 12,5 g",
+    "category": "food",
+    "ingredients": "Peynir ,emülsifiye edici tuzlar (sodyum fosfat,difosfatlar),tuz,koruyucu(p.sorbat).",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/pinar-ucgen-peynir-yarim-yagli-8x12-5-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/pinar-ucgen-peynir-yarim-yagli-8x12-5-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/pinar-ucgen-peynir-yarim-yagli-8x12-5-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/pinar-ucgen-peynir-yarim-yagli-8x12-5-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/pinar-ucgen-peynir-yarim-yagli-8x12-5-gr"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/pinar-ucgen-peynir-yarim-yagli-8x12-5-gr"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 214.0,
+      "fat": 15.5,
+      "saturatedFat": 10.4,
+      "carbohydrate": 3.0,
+      "sugars": 3.0,
+      "protein": 15.5,
+      "salt": 1.0
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check"
+  },
+  {
+    "code": "8690504420712",
+    "name": "İçim Ayran 1000 ml",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü ,su , tuz , yoğurt kültürü .",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/icim-ayran-1000-ml",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-ayran-1000-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-ayran-1000-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-ayran-1000-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-ayran-1000-ml"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/icim-ayran-1000-ml"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 30.0,
+      "saturatedFat": 1.0,
+      "carbohydrate": 2.0,
+      "sugars": 2.0,
+      "protein": 2.0,
+      "salt": 0.7
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Laktoz"
+  },
+  {
+    "code": "8692971421421",
+    "name": "İçim Ekşi Mayalı Ayran 1000 ml",
+    "category": "food",
+    "ingredients": "Yoğurt(Pastörize inek sütü,yoğurt kültürü),su ,tuz.",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/icim-eksi-mayali-ayran-1000-ml",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-eksi-mayali-ayran-1000-ml",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-eksi-mayali-ayran-1000-ml"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-eksi-mayali-ayran-1000-ml"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-eksi-mayali-ayran-1000-ml"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/icim-eksi-mayali-ayran-1000-ml"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 30.0,
+      "fat": 1.6,
+      "saturatedFat": 1.0,
+      "carbohydrate": 2.0,
+      "sugars": 2.0,
+      "protein": 2.0,
+      "salt": 0.7
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Pastörize inek sütü."
+  },
+  {
+    "code": "8690767673887",
+    "name": "Sütaş Süzme Yoğurt 750 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü ve yoğurt kültürü.",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/sutas-suzme-yogurt-750-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/sutas-suzme-yogurt-750-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/sutas-suzme-yogurt-750-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/sutas-suzme-yogurt-750-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/sutas-suzme-yogurt-750-gr"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/sutas-suzme-yogurt-750-gr"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 97.0,
+      "fat": 5.5,
+      "saturatedFat": 3.5,
+      "carbohydrate": 3.9,
+      "sugars": 3.9,
+      "protein": 8.0,
+      "salt": 0.0
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "İNEK SÜTÜ"
+  },
+  {
+    "code": "8691316520973",
+    "name": "Eker Süzme Yoğurt 900 g",
+    "category": "food",
+    "ingredients": "Pastörize ve homojenize inek sütü , yoğurt kültürü.",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/eker-suzme-yogurt-900-gr",
+    "barcode_source_url": "https://www.sariyermarket.com/eker-suzme-yogurt-900-gr",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/eker-suzme-yogurt-900-gr"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/eker-suzme-yogurt-900-gr"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/eker-suzme-yogurt-900-gr"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/eker-suzme-yogurt-900-gr"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 102.0,
+      "fat": 5.8,
+      "saturatedFat": 3.8,
+      "carbohydrate": 5.0,
+      "sugars": 5.0,
+      "protein": 7.5,
+      "salt": 0.0
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Pastörize ve homojenize inek sütü"
+  },
+  {
+    "code": "8692886310711",
+    "name": "Altınkılıç Kefir 1 L",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü,Kefir mayası,Kefir kültürü",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/altinkilic-kefir-1-lt",
+    "barcode_source_url": "https://www.sariyermarket.com/altinkilic-kefir-1-lt",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/altinkilic-kefir-1-lt"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/altinkilic-kefir-1-lt"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/altinkilic-kefir-1-lt"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/altinkilic-kefir-1-lt"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 63.0,
+      "fat": 3.2,
+      "saturatedFat": 2.2,
+      "carbohydrate": 5.2,
+      "sugars": 2.3,
+      "protein": 3.3,
+      "salt": 0.2
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Laktoz içerir"
+  },
+  {
+    "code": "8692971429410",
+    "name": "İçim Orman Meyveli Kefir 1 L",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü , orman meyveleri sosu(%11)[şeker, orman meyveleri (%10)(çilek, böğürtlen, ahududu), kıvam vericiler (karragenan), modifiye nişasta, siyah havuç suyu konsantresi, aroma verici, asitlik düzenleyici (sitrik asit)], kefir kültürü, probiyotik mikroorganizmalar, (bifidobacterium, lactobacillus acidophilus).",
+    "source_name": "Sarıyer Market ürün sayfası (GTIN, içindekiler ve besin değerleri aynı sayfada)",
+    "source_url": "https://www.sariyermarket.com/icim-orman-meyveli-kefir-1-lt",
+    "barcode_source_url": "https://www.sariyermarket.com/icim-orman-meyveli-kefir-1-lt",
+    "field_sources": {
+      "code": [
+        "https://www.sariyermarket.com/icim-orman-meyveli-kefir-1-lt"
+      ],
+      "name": [
+        "https://www.sariyermarket.com/icim-orman-meyveli-kefir-1-lt"
+      ],
+      "ingredients": [
+        "https://www.sariyermarket.com/icim-orman-meyveli-kefir-1-lt"
+      ],
+      "nutrition": [
+        "https://www.sariyermarket.com/icim-orman-meyveli-kefir-1-lt"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "nutrition": {
+      "basis": "100g_or_ml",
+      "source": "catalogue",
+      "energyKcal": 62.0,
+      "fat": 1.5,
+      "saturatedFat": 1.0,
+      "carbohydrate": 9.4,
+      "sugars": 9.3,
+      "protein": 2.7,
+      "salt": 0.0
+    },
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-21T00:00:00+03:00",
+    "checked_at": "2026-10-21T00:00:00+03:00",
+    "catalog_batch": "sariyer-dairy-20261021",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "source_reviewed_pending_physical_package_check",
+    "source_allergen_text": "Pastörize İnek Sütü"
   }
 ]
