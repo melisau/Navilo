@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-21.1",
+  "version": "2026-10-21.2",
   "note": "Recognises common animal-derived names only. No match never means vegan.",
   "sources": {
     "vegan_society": {
@@ -22,6 +22,20 @@
       "license": "EFSA Journal, CC BY-ND 4.0",
       "reviewed": "2026-10-21",
       "note": "Cochineal/carmine is obtained from the insect Dactylopius coccus."
+    },
+    "dtschb": {
+      "title": "Deutscher Tierschutzbund e.V. — Pflanzliche & tierische E-Nummern",
+      "url": "https://tierschutzbund.de/fileadmin/Seiten/tierschutzbund.de/Downloads/Steckbriefe_Infos/E-Nummern_Vegan_DTschB.pdf",
+      "license": "Quoted for reference; © Deutscher Tierschutzbund e.V.",
+      "reviewed": "2026-10-21",
+      "note": "E120, E901 and E904 are of animal origin; E304, E322, E422, E431-436, E442, E445, E470-E495, E570, E920, E966, E1105 and E1518 may be of animal origin."
+    },
+    "eu_flavourings": {
+      "title": "Regulation (EC) No 1334/2008 on flavourings, Article 3(2)(c)-(d)",
+      "url": "https://www.legislation.gov.uk/eur/2008/1334/article/3",
+      "license": "Open Government Licence v3.0 (legislation.gov.uk)",
+      "reviewed": "2026-10-21",
+      "note": "Natural flavouring substances and flavouring preparations may be obtained from material of vegetable, animal or microbiological origin."
     }
   },
   "entries": [
@@ -80,7 +94,8 @@
         "pirinç süt",
         "kakao yağı"
       ],
-      "source": "vegan_society"
+      "source": "vegan_society",
+      "certainty": "animal"
     },
     {
       "id": "egg",
@@ -100,7 +115,8 @@
         "egg yolk"
       ],
       "exclude": [],
-      "source": "vegan_society"
+      "source": "vegan_society",
+      "certainty": "animal"
     },
     {
       "id": "honey",
@@ -112,8 +128,12 @@
         "bal",
         "honey"
       ],
-      "exclude": [],
-      "source": "vegan_society"
+      "exclude": [
+        "bal mumu",
+        "balmumu"
+      ],
+      "source": "vegan_society",
+      "certainty": "animal"
     },
     {
       "id": "meat",
@@ -142,7 +162,8 @@
         "meat extract"
       ],
       "exclude": [],
-      "source": "vegan_society"
+      "source": "vegan_society",
+      "certainty": "animal"
     },
     {
       "id": "fish_shellfish",
@@ -168,7 +189,8 @@
         "mussel"
       ],
       "exclude": [],
-      "source": "vegan_society"
+      "source": "vegan_society",
+      "certainty": "animal"
     },
     {
       "id": "gelatine",
@@ -187,7 +209,8 @@
         "pork gelatin"
       ],
       "exclude": [],
-      "source": "ie_gelatine"
+      "source": "ie_gelatine",
+      "certainty": "animal"
     },
     {
       "id": "carmine",
@@ -207,7 +230,290 @@
         "cochineal"
       ],
       "exclude": [],
-      "source": "efsa_e120"
+      "source": "efsa_e120",
+      "certainty": "animal"
+    },
+    {
+      "id": "beeswax",
+      "names": {
+        "tr": "Balmumu (E901)",
+        "en": "Beeswax (E901)"
+      },
+      "aliases": [
+        "balmumu",
+        "bal mumu",
+        "arı mumu",
+        "beeswax",
+        "e901"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "animal"
+    },
+    {
+      "id": "shellac",
+      "names": {
+        "tr": "Şellak (E904)",
+        "en": "Shellac (E904)"
+      },
+      "aliases": [
+        "şellak",
+        "gomalak",
+        "shellac",
+        "e904"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "animal"
+    },
+    {
+      "id": "lecithin",
+      "names": {
+        "tr": "Lesitin (E322) — yumurtadan olabilir",
+        "en": "Lecithin (E322) — may be from egg"
+      },
+      "aliases": [
+        "lesitin",
+        "lecithin",
+        "e322",
+        "lesitinler",
+        "lecithins"
+      ],
+      "exclude": [
+        "soya lesitini (e322)",
+        "ayçiçek lesitini (e322)",
+        "ayçiçeği lesitini (e322)",
+        "kolza lesitini (e322)",
+        "soy lecithin (e322)",
+        "sunflower lecithin (e322)",
+        "lesitinler (soya)",
+        "lesitinler (ayçiçek)",
+        "lesitinler (ayçiçeği)",
+        "lecithins (soy)",
+        "lecithins (sunflower)",
+        "e322 (soya)",
+        "e322 (ayçiçek)",
+        "e322 (ayçiçeği)",
+        "e322 (soy)",
+        "e322 (sunflower)",
+        "soya lesitini",
+        "soya lesitin",
+        "ayçiçek lesitini",
+        "ayçiçeği lesitini",
+        "ayçiçek lesitin",
+        "kolza lesitini",
+        "kanola lesitini",
+        "lesitin (soya)",
+        "lesitin (ayçiçek)",
+        "lesitin (ayçiçeği)",
+        "soy lecithin",
+        "soya lecithin",
+        "sunflower lecithin",
+        "rapeseed lecithin",
+        "lecithin (soy)",
+        "lecithin (soya)",
+        "lecithin (sunflower)"
+      ],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "glycerol",
+      "names": {
+        "tr": "Gliserin (E422)",
+        "en": "Glycerol (E422)"
+      },
+      "aliases": [
+        "gliserin",
+        "gliserol",
+        "glycerin",
+        "glycerol",
+        "e422"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "fatty_acid_emulsifiers",
+      "names": {
+        "tr": "Yağ asidi kaynaklı emülgatörler (E470–E495)",
+        "en": "Fatty-acid emulsifiers (E470–E495)"
+      },
+      "aliases": [
+        "mono ve digliseritler",
+        "yağ asitlerinin mono ve digliseritleri",
+        "yağ asitlerinin mono- ve digliseritleri",
+        "mono- ve digliseritler",
+        "mono and diglycerides",
+        "mono- and diglycerides",
+        "mono and diglycerides of fatty acids",
+        "mono- and diglycerides of fatty acids",
+        "polisorbat",
+        "polysorbate",
+        "e431",
+        "e432",
+        "e433",
+        "e434",
+        "e435",
+        "e436",
+        "e442",
+        "e445",
+        "e470a",
+        "e470b",
+        "e471",
+        "e472a",
+        "e472b",
+        "e472c",
+        "e472d",
+        "e472e",
+        "e472f",
+        "e473",
+        "e474",
+        "e475",
+        "e476",
+        "e477",
+        "e479b",
+        "e481",
+        "e482",
+        "e483",
+        "e491",
+        "e492",
+        "e493",
+        "e494",
+        "e495",
+        "sodyum stearoil laktilat",
+        "kalsiyum stearoil laktilat",
+        "sodium stearoyl lactylate",
+        "calcium stearoyl lactylate"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "fatty_acids",
+      "names": {
+        "tr": "Yağ asitleri / stearik asit (E570)",
+        "en": "Fatty acids / stearic acid (E570)"
+      },
+      "aliases": [
+        "stearik asit",
+        "stearic acid",
+        "e570"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "ascorbyl_palmitate",
+      "names": {
+        "tr": "Askorbil palmitat (E304)",
+        "en": "Ascorbyl palmitate (E304)"
+      },
+      "aliases": [
+        "askorbil palmitat",
+        "ascorbyl palmitate",
+        "e304"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "cysteine",
+      "names": {
+        "tr": "L-sistein (E920) — tüy veya kıldan olabilir",
+        "en": "L-cysteine (E920) — may be from feathers or bristles"
+      },
+      "aliases": [
+        "l-sistein",
+        "sistein",
+        "l-cysteine",
+        "cysteine",
+        "e920"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "lactitol",
+      "names": {
+        "tr": "Laktitol (E966) — süt şekerinden",
+        "en": "Lactitol (E966) — made from milk sugar"
+      },
+      "aliases": [
+        "laktitol",
+        "lactitol",
+        "e966"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "lysozyme",
+      "names": {
+        "tr": "Lizozim (E1105) — yumurtadan olabilir",
+        "en": "Lysozyme (E1105) — may be from egg"
+      },
+      "aliases": [
+        "lizozim",
+        "lysozyme",
+        "e1105"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "triacetin",
+      "names": {
+        "tr": "Gliserol triasetat (E1518)",
+        "en": "Triacetin (E1518)"
+      },
+      "aliases": [
+        "gliserol triasetat",
+        "triasetin",
+        "triacetin",
+        "glycerol triacetate",
+        "e1518"
+      ],
+      "exclude": [],
+      "source": "dtschb",
+      "certainty": "possible"
+    },
+    {
+      "id": "flavourings",
+      "names": {
+        "tr": "Aroma — hayvansal kaynaklı olabilir",
+        "en": "Flavouring — may be of animal origin"
+      },
+      "aliases": [
+        "aroma",
+        "aromalar",
+        "aroma verici",
+        "aroma vericiler",
+        "doğal aroma",
+        "doğal aromalar",
+        "doğal aroma verici",
+        "flavouring",
+        "flavourings",
+        "natural flavouring",
+        "natural flavourings",
+        "flavoring",
+        "flavorings",
+        "natural flavoring",
+        "natural flavor",
+        "natural flavour",
+        "natural flavors",
+        "natural flavours"
+      ],
+      "exclude": [],
+      "source": "eu_flavourings",
+      "certainty": "possible"
     }
   ]
 }

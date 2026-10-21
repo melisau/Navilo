@@ -9,10 +9,35 @@ String normalize(String value) => value
     .replaceAll(RegExp(r'\s+'), ' ')
     .trim();
 
+final _eNumber = RegExp(
+    r'(?<![a-z0-9])(?<!vitamin )e\s?[-‐.]?\s?([0-9o]{3,4})(?:\s?([a-i]))?(?![a-z0-9])');
+
+/// The form both label text and aliases take before matching:
+/// [normalize], then Turkish letters folded (OCR often drops ş, ğ, ü, ö,
+/// ç) and E numbers written as one token ("E 120", "E-120", "E.120" and
+/// the OCR misread "E12O" all become "e120").
+String matchForm(String value) => normalize(value)
+    .replaceAll('ç', 'c')
+    .replaceAll('ğ', 'g')
+    .replaceAll('ö', 'o')
+    .replaceAll('ş', 's')
+    .replaceAll('ü', 'u')
+    .replaceAll('â', 'a')
+    .replaceAll('î', 'i')
+    .replaceAll('û', 'u')
+    .replaceAllMapped(_eNumber, (m) {
+      final digits = m[1]!;
+      // Only treat "o" as a zero when most characters are real digits.
+      if (RegExp(r'\d').allMatches(digits).length < digits.length - 1) {
+        return m[0]!;
+      }
+      return 'e${digits.replaceAll('o', '0')}${m[2] ?? ''}';
+    });
+
 // Negation belongs to the immediately named substance, never the entire label.
 bool containsIngredient(String text, String alias) {
-  final value = normalize(text);
-  final name = RegExp.escape(normalize(alias));
+  final value = matchForm(text);
+  final name = RegExp.escape(matchForm(alias));
   final negative = RegExp(
       r'(?:contains\s+no|free\s+from|without|does\s+not\s+contain)\s+' +
           name +

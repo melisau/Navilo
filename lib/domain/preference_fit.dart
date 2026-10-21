@@ -154,11 +154,17 @@ const _refinedSugarAliases = {
 /// Recognises common names only: absence never means vegan.
 class VeganEntry {
   final String id, source;
+
+  /// `animal`: always animal-derived. `possible`: may be animal-derived
+  /// (e.g. E471, flavourings); the label does not say which.
+  final String certainty;
+  bool get possibleOnly => certainty == 'possible';
   final Map<String, String> names;
   final List<String> aliases, exclude;
   VeganEntry(Map<String, dynamic> j)
       : id = j['id'] as String,
         source = j['source'] as String,
+        certainty = j['certainty'] as String? ?? 'animal',
         names = Map<String, String>.from(j['names'] as Map),
         aliases = List<String>.from(j['aliases'] as List),
         exclude = List<String>.from(j['exclude'] as List? ?? const []);
@@ -166,9 +172,9 @@ class VeganEntry {
 
   /// Plant-based look-alikes (coconut milk, cocoa butter) are removed first.
   bool matches(String text) {
-    var value = normalize(text);
+    var value = matchForm(text);
     for (final phrase in exclude) {
-      value = value.replaceAll(normalize(phrase), ' ');
+      value = value.replaceAll(matchForm(phrase), ' ');
     }
     return aliases.any((alias) => containsIngredient(value, alias));
   }
@@ -179,9 +185,21 @@ class VeganEntry {
           .toList();
 }
 
+/// Ingredients that are always animal-derived.
 List<String> listedAnimalIngredients(String text, List<VeganEntry> entries,
         {bool english = false}) =>
-    entries.where((e) => e.matches(text)).map((e) => e.name(english)).toList();
+    entries
+        .where((e) => !e.possibleOnly && e.matches(text))
+        .map((e) => e.name(english))
+        .toList();
+
+/// Additives and flavourings that may be animal-derived.
+List<String> listedPossiblyAnimal(String text, List<VeganEntry> entries,
+        {bool english = false}) =>
+    entries
+        .where((e) => e.possibleOnly && e.matches(text))
+        .map((e) => e.name(english))
+        .toList();
 
 /// Reference data needed to check any ingredient text against preferences.
 class PreferenceReference {
@@ -325,6 +343,15 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
         return PreferenceVerdict(p, PreferenceStatus.conflict,
             'Hayvansal kaynaklı içerik listelenmiş.',
             'An animal-derived ingredient is listed.', animal);
+      }
+      final possible = listedPossiblyAnimal(text, vegan, english: english);
+      if (possible.isNotEmpty) {
+        return PreferenceVerdict(
+            p,
+            PreferenceStatus.caution,
+            'Hayvansal kaynaklı olabilecek katkı veya aroma var; kaynağı etikette yazmıyor. Üreticiye sorabilirsin.',
+            'Lists an additive or flavouring that may be animal-derived; the label does not say which. You can ask the manufacturer.',
+            possible);
       }
       return PreferenceVerdict(
           p,

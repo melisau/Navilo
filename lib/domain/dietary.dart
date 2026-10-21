@@ -137,7 +137,7 @@ List<String> listedSugarAdditions(String text) {
     'akçaağaç şurubu',
     'maple syrup',
   ];
-  return aliases.where((alias) => containsIngredient(text, alias)).toList();
+  return _matchedOnce(aliases, text);
 }
 
 /// Sweetening ingredients made from fruit (apple extract, dates, grape
@@ -165,7 +165,7 @@ List<String> listedFruitSweeteners(String text) {
     'üzüm pekmezi',
     'keçiboynuzu pekmezi',
   ];
-  return aliases.where((alias) => containsIngredient(text, alias)).toList();
+  return _matchedOnce(aliases, text);
 }
 
 /// Non-sugar sweeteners (stevia, polyols, intense sweeteners).
@@ -201,5 +201,15 @@ List<String> listedNonSugarSweeteners(String text) {
     'keşiş meyvesi',
     'monk fruit',
   ];
-  return aliases.where((alias) => containsIngredient(text, alias)).toList();
+  return _matchedOnce(aliases, text);
+}
+
+/// Matching aliases, one per spelling after [matchForm] ("şeker" and
+/// "seker" are the same match).
+List<String> _matchedOnce(List<String> aliases, String text) {
+  final seen = <String>{};
+  return aliases
+      .where((alias) =>
+          containsIngredient(text, alias) && seen.add(matchForm(alias)))
+      .toList();
 }
