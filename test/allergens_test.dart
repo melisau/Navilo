@@ -9,9 +9,9 @@ import 'package:navilo/domain/preference_fit.dart';
 final entries =
     AllergenEntry.decodeAll(File('assets/allergens.json').readAsStringSync());
 
-List<String> contains(String text) =>
+List<String> containedIds(String text) =>
     findAllergens(text, entries).contains.map((e) => e.id).toList();
-List<String> mayContain(String text) =>
+List<String> tracedIds(String text) =>
     findAllergens(text, entries).mayContain.map((e) => e.id).toList();
 
 void main() {
@@ -45,9 +45,9 @@ void main() {
   test('Ingredients and "may contain" statements are kept apart', () {
     const label = 'Buğday unu, şeker, fındık (%8), süt tozu. '
         'Eser miktarda yer fıstığı ve susam içerebilir.';
-    expect(contains(label), containsAll(['gluten', 'nuts', 'milk']));
-    expect(contains(label), isNot(contains('peanuts')));
-    expect(mayContain(label), containsAll(['peanuts', 'sesame']));
+    expect(containedIds(label), containsAll(['gluten', 'nuts', 'milk']));
+    expect(containedIds(label), isNot(contains('peanuts')));
+    expect(tracedIds(label), containsAll(['peanuts', 'sesame']));
   });
 
   test('Decimals do not split sentences', () {
@@ -58,24 +58,24 @@ void main() {
 
   test('An allergen already in the ingredients is not repeated as a trace',
       () {
-    expect(mayContain('Süt, şeker. Süt içerebilir.'), isEmpty);
+    expect(tracedIds('Süt, şeker. Süt içerebilir.'), isEmpty);
   });
 
   test('Plant look-alikes and exempt forms are not flagged', () {
-    expect(contains('Hindistan cevizi sütü, kakao yağı'), isEmpty);
-    expect(contains('Glikoz şurubu (buğday), su'), isEmpty);
-    expect(contains('Hindistan cevizi, şeker'), isNot(contains('nuts')));
-    expect(contains('Tam rafine soya yağı'), isEmpty);
+    expect(containedIds('Hindistan cevizi sütü, kakao yağı'), isEmpty);
+    expect(containedIds('Glikoz şurubu (buğday), su'), isEmpty);
+    expect(containedIds('Hindistan cevizi, şeker'), isNot(contains('nuts')));
+    expect(containedIds('Tam rafine soya yağı'), isEmpty);
   });
 
   test('Common Turkish forms and E numbers are recognised', () {
-    expect(contains('Kuru kayısı (koruyucu: kükürt dioksit)'),
+    expect(containedIds('Kuru kayısı (koruyucu: kükürt dioksit)'),
         contains('sulphites'));
-    expect(contains('Sirke, E224'), contains('sulphites'));
-    expect(contains('Tahin, şeker'), contains('sesame'));
-    expect(contains('Ton balığı, zeytinyağı'), contains('fish'));
-    expect(contains('Soya lesitini'), contains('soybeans'));
-    expect(contains('Gluten içermez. Pirinç unu'), isEmpty);
+    expect(containedIds('Sirke, E224'), contains('sulphites'));
+    expect(containedIds('Tahin, şeker'), contains('sesame'));
+    expect(containedIds('Ton balığı, zeytinyağı'), contains('fish'));
+    expect(containedIds('Soya lesitini'), contains('soybeans'));
+    expect(containedIds('Gluten içermez. Pirinç unu'), isEmpty);
   });
 
   test('Only precautionary statements of the raw OCR text count', () {
