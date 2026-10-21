@@ -163,7 +163,7 @@ NutritionFacts? parseNutritionTable(String raw) {
   final facts = NutritionFacts(
     basis: basis,
     source: 'label',
-    energyKcal: energy == null ? null : energy.roundToDouble(),
+    energyKcal: energy?.roundToDouble(),
     fat: fat,
     saturatedFat: sat,
     carbohydrate: carb,
