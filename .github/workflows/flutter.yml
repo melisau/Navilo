@@ -29,13 +29,27 @@ jobs:
         run: flutter pub get
 
       - name: Analyze
-        run: flutter analyze
+        run: |
+          set +e
+          flutter analyze > analyze.txt 2>&1
+          status=$?
+          cat analyze.txt
+          python3 - <<'PY'
+          import re
+          for line in open('analyze.txt', encoding='utf-8'):
+              m = re.match(r'\s*(error|warning|info)\s+[•-]\s+(.*?)\s+[•-]\s+(\S+?):(\d+):(\d+)\s+[•-]\s+(\S+)', line)
+              if m:
+                  level = 'error' if m[1] == 'error' else 'warning'
+                  msg = m[2].replace('%', '%25')
+                  print(f'::{level} file={m[3]},line={m[4]},col={m[5]},title={m[6]}::{msg}')
+          PY
+          exit $status
 
       - name: Test
         run: flutter test --file-reporter json:test-results.json
 
       - name: Annotate failed tests
-        if: failure()
+        if: failure() && hashFiles('test-results.json') != ''
         run: |
           python3 - <<'PY'
           import json
