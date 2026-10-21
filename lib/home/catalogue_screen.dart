@@ -18,6 +18,7 @@ extension _CatalogueScreen on _HomePageState {
                 labels: product.labels,
                 allergenTags: product.allergens,
                 traceTags: product.traces,
+                nutrition: product.nutrition,
                 english: english)
             .where((v) => v.status == PreferenceStatus.conflict)
             .toList());

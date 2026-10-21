@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'allergens.dart';
 import 'dietary.dart';
 import 'dietary_analysis.dart';
+import 'nutrition.dart';
 import 'policy.dart';
 
 /// How a product's reviewed ingredient text relates to one saved preference.
@@ -59,6 +60,9 @@ class DietaryFacts {
   final List<String> sugarAdditions, fruitSweeteners, otherSweeteners;
   final String? fodmapCertification;
   final AllergenFindings allergens;
+
+  /// Per-100 g values from the label or database, if any were read.
+  final NutritionFacts? nutrition;
   final bool sugarClaim;
 
   /// The user confirmed the ingredient list is complete.
@@ -78,13 +82,15 @@ class DietaryFacts {
     this.otherSweeteners = const [],
     this.fodmapCertification,
     this.allergens = AllergenFindings.empty,
+    this.nutrition,
     this.sugarClaim = false,
     this.complete = false,
   });
 
   factory DietaryFacts.fromAnalysis(DietaryAnalysis a,
       {bool english = false,
-      AllergenFindings allergens = AllergenFindings.empty}) {
+      AllergenFindings allergens = AllergenFindings.empty,
+      NutritionFacts? nutrition}) {
     List<String> names(List<DietaryEntry> e) =>
         e.map((x) => x.name(english)).toList();
     return DietaryFacts(
@@ -217,6 +223,7 @@ List<PreferenceVerdict> checkIngredientText(
     List<String> labels = const [],
     List<String> allergenTags = const [],
     List<String> traceTags = const [],
+    NutritionFacts? nutrition,
     bool complete = false,
     bool english = false}) {
   if (preferences.isEmpty) return const [];
@@ -231,7 +238,7 @@ List<PreferenceVerdict> checkIngredientText(
   return evaluatePreferences(
       preferences,
       DietaryFacts.fromAnalysis(analysis,
-          english: english, allergens: allergens),
+          english: english, allergens: allergens, nutrition: nutrition),
       text,
       vegan: ref.vegan,
       allergenEntries: ref.allergens,
@@ -370,6 +377,25 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
             'A sugar or sugar syrup is listed.', f.sugarAdditions);
       }
       final sweeteners = [...f.fruitSweeteners, ...f.otherSweeteners];
+      final sugars = f.nutrition?.sugars;
+      if (p == 'Şekersiz' && sugars != null) {
+        final n = f.nutrition!;
+        final per = n.basisLabel(false), perEn = n.basisLabel(true);
+        final value = _fmt(sugars);
+        return sugars <= NutritionClaimLimits.sugarsFree
+            ? PreferenceVerdict(
+                p,
+                PreferenceStatus.ingredientsFit,
+                '$per başına $value g şeker; "şekersiz" beyan eşiğinin (≤0,5 g) içinde.',
+                '${_fmt(sugars, en: true)} g sugars per $perEn; within the "sugar-free" claim limit (≤0.5 g).',
+                [...sweeteners, _source(n)])
+            : PreferenceVerdict(
+                p,
+                PreferenceStatus.conflict,
+                '$per başına $value g şeker (doğal şeker dahil); "şekersiz" eşiği 0,5 g.',
+                '${_fmt(sugars, en: true)} g sugars per $perEn (including natural sugars); the "sugar-free" limit is 0.5 g.',
+                [...sweeteners, _source(n)]);
+      }
       if (p == 'Şekersiz' && f.sugarClaim) {
         return PreferenceVerdict(p, PreferenceStatus.labelClaim,
             'Etikette şekersiz beyanı var; bağımsız doğrulanmadı.',
@@ -425,13 +451,42 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
               : unconfirmedEn,
           f.sugarAdditions);
     case 'Ketojenik':
+      final carbs = f.nutrition?.carbohydrate;
+      if (carbs != null) {
+        final n = f.nutrition!;
+        return PreferenceVerdict(
+            p,
+            PreferenceStatus.caution,
+            '${n.basisLabel(false)} başına ${_fmt(carbs)} g karbonhidrat. Ketojenik uygunluk günlük toplam alıma bağlıdır; ürün tek başına değerlendirilemez.',
+            '${_fmt(carbs, en: true)} g carbohydrate per ${n.basisLabel(true)}. Ketogenic fit depends on total daily intake; a single product cannot settle it.',
+            [_source(n)]);
+      }
       return PreferenceVerdict(p, PreferenceStatus.notAssessable,
-          'Karbonhidrat miktarı gerekir; içerik listesinden değerlendirilemez.',
-          'Needs carbohydrate amounts; cannot be judged from ingredients.');
+          'Besin değeri tablosu okunamadı; karbonhidrat miktarı gerekir.',
+          'The nutrition table was not read; carbohydrate amounts are needed.');
     case 'Az yağlı':
+      final fat = f.nutrition?.fat;
+      if (fat != null) {
+        final n = f.nutrition!;
+        final limit = NutritionClaimLimits.lowFat(n);
+        final per = n.basisLabel(false), perEn = n.basisLabel(true);
+        return fat <= limit
+            ? PreferenceVerdict(
+                p,
+                PreferenceStatus.ingredientsFit,
+                '$per başına ${_fmt(fat)} g yağ; "az yağlı" beyan eşiğinin (≤${_fmt(limit)} g) içinde.',
+                '${_fmt(fat, en: true)} g fat per $perEn; within the "low fat" claim limit (≤${_fmt(limit, en: true)} g).',
+                [_source(n)])
+            : PreferenceVerdict(
+                p,
+                PreferenceStatus.conflict,
+                '$per başına ${_fmt(fat)} g yağ; "az yağlı" eşiği ${_fmt(limit)} g.',
+                '${_fmt(fat, en: true)} g fat per $perEn; the "low fat" limit is ${_fmt(limit, en: true)} g.',
+                [_source(n)]);
+      }
       return PreferenceVerdict(p, PreferenceStatus.notAssessable,
-          'Yağ miktarı gerekir; içerik listesinden değerlendirilemez.',
-          'Needs fat amounts; cannot be judged from ingredients.');
+          'Besin değeri tablosu okunamadı; yağ miktarı gerekir.',
+          'The nutrition table was not read; fat amounts are needed.');
   }
   return null;
 }
@@ -466,3 +521,14 @@ PreferenceVerdict _allergenVerdict(
       tr,
       en);
 }
+
+String _fmt(double v, {bool en = false}) {
+  final s = v == v.roundToDouble()
+      ? v.toStringAsFixed(0)
+      : v.toStringAsFixed(v < 1 ? 2 : 1);
+  return en ? s : s.replaceAll('.', ',');
+}
+
+String _source(NutritionFacts n) => n.source == 'label'
+    ? 'Besin tablosu (etiket) / Nutrition table (label)'
+    : 'Besin değerleri (Open Food Facts) / Nutrition (Open Food Facts)';

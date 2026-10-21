@@ -179,7 +179,8 @@ extension _DietaryPanel on _HomePageState {
           final riceLactose = a.riceLactose;
           final lactoseFree = a.lactoseFree;
           final milkAllergens = a.milkAllergens;
-          final facts = DietaryFacts.fromAnalysis(a, english: english);
+          final facts = DietaryFacts.fromAnalysis(a,
+              english: english, nutrition: currentNutrition);
           return Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -391,6 +392,7 @@ extension _DietaryPanel on _HomePageState {
               fodmapCertification: facts.fodmapCertification,
               complete: facts.complete,
               allergens: allergens,
+              nutrition: facts.nutrition,
             );
             return Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
@@ -401,8 +403,28 @@ extension _DietaryPanel on _HomePageState {
                       allergenEntries: ref?.allergens ?? const [],
                       english: english)),
                   if (ref != null) allergenRows(allergens),
+                  nutritionRow(facts.nutrition),
                 ]);
           });
+
+  /// Label table first (what the user photographed), then the database.
+  NutritionFacts? get currentNutrition =>
+      parseNutritionTable(rawOcrText) ?? productRecord?.nutrition;
+
+  Widget nutritionRow(NutritionFacts? n) => resultRow(
+      n == null
+          ? copy('Besin değerleri', 'Nutrition')
+          : '${copy('Besin değerleri', 'Nutrition')} · ${n.basisLabel(english)}',
+      n == null
+          ? copy('Besin değeri tablosu okunamadı',
+              'Nutrition table was not read')
+          : n.source == 'label'
+              ? copy('Etiketten okundu · değerleri ambalajla karşılaştır',
+                  'Read from the label · compare with the package')
+              : copy('Open Food Facts verisi · ambalajla karşılaştır',
+                  'Open Food Facts data · compare with the package'),
+      n?.lines(english) ?? const [],
+      unknown: n == null);
 
   /// The 14 regulated allergens: what the ingredients name and what only a
   /// "may contain" statement names.
