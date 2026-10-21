@@ -32,4 +32,30 @@ jobs:
         run: flutter analyze
 
       - name: Test
-        run: flutter test
+        run: flutter test --file-reporter json:test-results.json
+
+      - name: Annotate failed tests
+        if: failure()
+        run: |
+          python3 - <<'PY'
+          import json
+          tests, errors = {}, {}
+          for line in open('test-results.json', encoding='utf-8'):
+              try:
+                  e = json.loads(line)
+              except ValueError:
+                  continue
+              if e.get('type') == 'testStart':
+                  t = e['test']
+                  tests[t['id']] = (t['name'], t.get('url') or '')
+              elif e.get('type') == 'error':
+                  errors.setdefault(e['testID'], []).append(e.get('error', ''))
+          def esc(s):
+              return s.replace('%', '%25').replace('\r', '').replace('\n', '%0A')
+          for tid, errs in errors.items():
+              name, url = tests.get(tid, ('unknown', ''))
+              path = url.split('/navilo/')[-1] if '/navilo/' in url else ''
+              msg = esc('\n'.join(errs)[:1500])
+              loc = f' file={path}' if path else ''
+              print(f'::error{loc} title={esc(name)[:200].replace(':', '%3A').replace(',', '%2C')}::{msg}')
+          PY

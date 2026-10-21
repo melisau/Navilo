@@ -9,13 +9,20 @@ String normalizedInci(String text) => text
     .toUpperCase()
     .replaceAll(RegExp(r'[^A-Z0-9]'), '');
 
+/// Local research export; not committed to the repository. The check runs
+/// where the file exists and is skipped elsewhere (e.g. CI).
+const _research = 'docs/eyeshadow_research_20261015/reviewed_combined.json';
+final String? _researchSkip = File(_research).existsSync()
+    ? null
+    : 'Local research file not in the repository: $_research';
+
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
 
   test('All reviewed eyeshadow GTINs resolve offline with the source formula',
       () async {
     final rows = jsonDecode(
-        File('docs/eyeshadow_research_20261015/reviewed_combined.json')
+        File(_research)
             .readAsStringSync()) as List;
     expect(rows, hasLength(103));
     var networkCalls = 0;
@@ -36,7 +43,7 @@ void main() {
       expect(product.nameMatched, isFalse);
     }
     expect(networkCalls, 0);
-  });
+  }, skip: _researchSkip);
 
   test('Corrected Pastel variants keep genuine GTINs and full label content',
       () async {
