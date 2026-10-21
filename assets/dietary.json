@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11.2",
+  "version": "2026-10-21.1",
   "sources": {
     "fsa": {
       "title": "Food Standards Agency — Allergen labelling guidance",
@@ -11,13 +11,13 @@
       "title": "American College of Gastroenterology — Low-FODMAP diet",
       "url": "https://gi.org/topics/low-fodmap-diet/",
       "license": "Small independently authored factual reference seed; no database reuse license asserted. Review before expansion/distribution.",
-      "reviewed": "2026-10-10"
+      "reviewed": "2026-10-21"
     },
     "monash_label": {
       "title": "Monash University — Update: Label reading and FODMAPs",
       "url": "https://www.monashfodmap.com/blog/update-label-reading/",
       "license": "Independently authored ingredient screening facts; no database imported.",
-      "reviewed": "2026-10-11"
+      "reviewed": "2026-10-21"
     }
   },
   "entries": [
@@ -288,6 +288,321 @@
         "chicory root fiber",
         "chicory root fibre",
         "chicory fibre"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "sorbitol",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Sorbitol (polyol)",
+        "en": "Sorbitol (polyol)"
+      },
+      "aliases": [
+        "sorbitol",
+        "sorbitol şurubu",
+        "sorbitol syrup",
+        "e420"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "mannitol",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Mannitol (polyol)",
+        "en": "Mannitol (polyol)"
+      },
+      "aliases": [
+        "mannitol",
+        "e421"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "maltitol",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Maltitol (polyol)",
+        "en": "Maltitol (polyol)"
+      },
+      "aliases": [
+        "maltitol",
+        "maltitol şurubu",
+        "maltitol syrup",
+        "e965"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "xylitol",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Ksilitol (polyol)",
+        "en": "Xylitol (polyol)"
+      },
+      "aliases": [
+        "ksilitol",
+        "xylitol",
+        "e967"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "isomalt",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "İzomalt (polyol)",
+        "en": "Isomalt (polyol)"
+      },
+      "aliases": [
+        "izomalt",
+        "isomalt",
+        "e953"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "lactitol",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Laktitol (polyol)",
+        "en": "Lactitol (polyol)"
+      },
+      "aliases": [
+        "laktitol",
+        "lactitol",
+        "e966"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "honey_fructose",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Bal — fruktoz kaynağı",
+        "en": "Honey — fructose source"
+      },
+      "aliases": [
+        "bal",
+        "honey"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "hfcs",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Glikoz-fruktoz şurubu — fruktoz kaynağı",
+        "en": "Glucose-fructose syrup — fructose source"
+      },
+      "aliases": [
+        "glikoz-fruktoz şurubu",
+        "glukoz-fruktoz şurubu",
+        "fruktoz-glikoz şurubu",
+        "fruktoz şurubu",
+        "yüksek fruktozlu mısır şurubu",
+        "glucose-fructose syrup",
+        "fructose-glucose syrup",
+        "high fructose corn syrup"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "fruit_juice",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Meyve suyu / konsantresi — fruktoz kaynağı",
+        "en": "Fruit juice / concentrate — fructose source"
+      },
+      "aliases": [
+        "elma suyu",
+        "elma suyu konsantresi",
+        "armut suyu",
+        "armut suyu konsantresi",
+        "meyve suyu konsantresi",
+        "apple juice",
+        "apple juice concentrate",
+        "pear juice",
+        "fruit juice concentrate"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "agave",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Agave şurubu — fruktoz kaynağı",
+        "en": "Agave syrup — fructose source"
+      },
+      "aliases": [
+        "agave şurubu",
+        "agave syrup",
+        "agave"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "dates",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Hurma",
+        "en": "Dates"
+      },
+      "aliases": [
+        "hurma",
+        "hurma ezmesi",
+        "hurma şurubu",
+        "dates",
+        "date paste",
+        "date syrup"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "chickpea",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Nohut / nohut unu — GOS kaynağı",
+        "en": "Chickpea / chickpea flour — GOS source"
+      },
+      "aliases": [
+        "nohut",
+        "nohut unu",
+        "chickpea",
+        "chickpeas",
+        "chickpea flour"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "soy_flour",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Soya unu",
+        "en": "Soy flour"
+      },
+      "aliases": [
+        "soya unu",
+        "soy flour",
+        "soya flour"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "legumes",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Baklagil (fasulye, mercimek) — GOS kaynağı",
+        "en": "Legumes (beans, lentils) — GOS source"
+      },
+      "aliases": [
+        "mercimek",
+        "kırmızı mercimek",
+        "yeşil mercimek",
+        "kuru fasulye",
+        "barbunya",
+        "börülce",
+        "lentil",
+        "lentils",
+        "kidney beans",
+        "red kidney beans",
+        "baked beans"
+      ],
+      "source": "acg"
+    },
+    {
+      "id": "lupin_flour",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Acı bakla (lupin) unu",
+        "en": "Lupin flour"
+      },
+      "aliases": [
+        "acı bakla unu",
+        "lupin unu",
+        "lupin flour"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "jerusalem_artichoke",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Yerelması",
+        "en": "Jerusalem artichoke"
+      },
+      "aliases": [
+        "yerelması",
+        "yer elması",
+        "jerusalem artichoke"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "fos_gos",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "FOS / GOS (oligosakkarit lifleri)",
+        "en": "FOS / GOS (oligosaccharide fibres)"
+      },
+      "aliases": [
+        "fruktooligosakkarit",
+        "fruktooligosakkaritler",
+        "oligofruktoz",
+        "galaktooligosakkarit",
+        "galaktooligosakkaritler",
+        "fos",
+        "gos",
+        "fructooligosaccharides",
+        "oligofructose",
+        "galactooligosaccharides"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "vegetable_powder",
+      "kind": "fodmap_potential",
+      "names": {
+        "tr": "Sebze tozu — sıklıkla soğan/sarımsak içerir",
+        "en": "Vegetable powder — often contains onion/garlic"
+      },
+      "aliases": [
+        "sebze tozu",
+        "kurutulmuş sebze",
+        "dehidre sebze",
+        "vegetable powder",
+        "dehydrated vegetables"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "yoghurt",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Yoğurt",
+        "en": "Yoghurt"
+      },
+      "aliases": [
+        "yoğurt",
+        "yogurt",
+        "yoghurt",
+        "yoğurt tozu",
+        "yogurt powder"
+      ],
+      "source": "monash_label"
+    },
+    {
+      "id": "milk_solids",
+      "kind": "lactose_check",
+      "names": {
+        "tr": "Süt katı maddesi",
+        "en": "Milk solids"
+      },
+      "aliases": [
+        "süt katı maddesi",
+        "süt katı maddeleri",
+        "milk solids"
       ],
       "source": "monash_label"
     }

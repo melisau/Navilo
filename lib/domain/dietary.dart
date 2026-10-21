@@ -37,6 +37,26 @@ List<String> glutenFreeIngredients(String text, {bool english = false}) {
       .toList();
 }
 
+/// Low-FODMAP certification wording on the pack or a database label tag.
+/// Certified products are laboratory tested at the serving stated on the
+/// pack; Navilo does not verify the certificate itself.
+String? lowFodmapCertification(String text, {List<String> labels = const []}) {
+  final v = normalize(text);
+  if (v.contains('monash') && v.contains('fodmap')) {
+    return 'Monash University Low FODMAP Certified';
+  }
+  if (RegExp(r'fodmap\s*friendly').hasMatch(v)) return 'FODMAP Friendly';
+  if (RegExp(r'certified\s+low[- ]?fodmap|low[- ]?fodmap\s+certified|'
+          r'düşük\s+fodmap\s+sertifikal|fodmap\s+sertifikal')
+      .hasMatch(v)) {
+    return 'Low FODMAP certified';
+  }
+  if (labels.any((tag) => tag.toLowerCase().contains('fodmap'))) {
+    return 'Low FODMAP (database label)';
+  }
+  return null;
+}
+
 bool hasGlutenFreeClaim(String text) => RegExp(
         r'(?<![a-zçğöşü])(?:glutensiz|gluten[- ]free|glutenfrei)(?![a-zçğöşü])')
     .hasMatch(normalize(text));
@@ -74,7 +94,9 @@ bool isSimpleRiceList(String text) {
       parts.every((v) => rice.contains(v) || salt.contains(v));
 }
 
-/// Listed additions, not a measurement of the product's total sugars.
+/// Sugars and sugar syrups listed as ingredients. Not a measurement of the
+/// product's total sugars. Fruit-based sweeteners and non-sugar sweeteners
+/// are reported separately and never called "added sugar".
 List<String> listedSugarAdditions(String text) {
   const aliases = <String>[
     'şeker',
@@ -92,28 +114,92 @@ List<String> listedSugarAdditions(String text) {
     'fruktoz',
     'fructose',
     'invert şeker',
+    'invert şeker şurubu',
     'invert sugar',
     'glikoz şurubu',
     'glukoz şurubu',
+    'glikoz-fruktoz şurubu',
+    'glukoz-fruktoz şurubu',
+    'fruktoz-glikoz şurubu',
     'glucose syrup',
+    'glucose-fructose syrup',
+    'fructose-glucose syrup',
     'corn syrup',
+    'high fructose corn syrup',
     'mısır şurubu',
     'misir surubu',
     'fruktoz şurubu',
     'bal',
     'honey',
-    'pekmez',
     'molasses',
     'agave syrup',
     'agave şurubu',
     'akçaağaç şurubu',
     'maple syrup',
-    'hurma şurubu',
-    'date syrup',
+  ];
+  return aliases.where((alias) => containsIngredient(text, alias)).toList();
+}
+
+/// Sweetening ingredients made from fruit (apple extract, dates, grape
+/// molasses, juice concentrates). They contain natural sugars but are not
+/// labelled here as added sugar.
+List<String> listedFruitSweeteners(String text) {
+  const aliases = <String>[
+    'elma özü',
+    'elma ekstraktı',
+    'apple extract',
     'elma suyu konsantresi',
     'apple juice concentrate',
     'üzüm suyu konsantresi',
     'grape juice concentrate',
+    'meyve suyu konsantresi',
+    'fruit juice concentrate',
+    'hurma',
+    'hurma ezmesi',
+    'hurma özü',
+    'hurma şurubu',
+    'dates',
+    'date paste',
+    'date syrup',
+    'pekmez',
+    'üzüm pekmezi',
+    'keçiboynuzu pekmezi',
+  ];
+  return aliases.where((alias) => containsIngredient(text, alias)).toList();
+}
+
+/// Non-sugar sweeteners (stevia, polyols, intense sweeteners).
+List<String> listedNonSugarSweeteners(String text) {
+  const aliases = <String>[
+    'stevia',
+    'steviol glikozit',
+    'steviol glikozitleri',
+    'steviol glycosides',
+    'e960',
+    'eritritol',
+    'erythritol',
+    'e968',
+    'ksilitol',
+    'xylitol',
+    'e967',
+    'sorbitol',
+    'e420',
+    'maltitol',
+    'e965',
+    'sukraloz',
+    'sucralose',
+    'e955',
+    'aspartam',
+    'aspartame',
+    'e951',
+    'asesülfam k',
+    'acesulfame k',
+    'e950',
+    'sakarin',
+    'saccharin',
+    'e954',
+    'keşiş meyvesi',
+    'monk fruit',
   ];
   return aliases.where((alias) => containsIngredient(text, alias)).toList();
 }

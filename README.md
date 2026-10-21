@@ -20,7 +20,7 @@ Development prototype. The main flow now separates product capture, ingredient-t
 - On-device Latin-script OCR with crop/rotate and manual correction of misread text.
 - Optional device-local product library with separate Food/Cosmetics sections, name/barcode search, full ingredient details and five recently saved products on home. Products can be named and saved without a barcode. Existing barcode records remain readable.
 - Optional text-only community contributions use Supabase: after OCR review, the user can explicitly consent to send the barcode, product name and reviewed ingredient text to a private moderation queue. Only approved records are returned to other users; personal photos and preferences are never included.
-- Persistent language, self-reported skin type and dietary preferences. Preferences do not yet filter results or generate recommendations.
+- Persistent language, self-reported skin type and dietary preferences. Food results include a "For your preferences" section (`lib/domain/preference_fit.dart`) that lists conflicts first (gluten, lactose, sugar, refined sugar, vegan), FODMAP cautions and preferences that cannot be judged from ingredients (ketogenic, low-fat). It never states that a product is suitable. The food catalogue marks conflicting products and can hide them. The vegan check uses `assets/vegan.json`, a source-referenced list of common animal-derived names (Vegan Society, Regulation (EC) No 853/2004 via gov.ie, EFSA E 120); no match does not mean vegan. Preferences do not generate recommendations.
 - A versioned avoidance dictionary with separate margarine, hydrogenated-oil and trans-fat records and explicit cosmetic ingredient lists.
 - Larger touch targets, scalable system text, scrollable layouts, text labels alongside colours and Turkish/English interface copy.
 
@@ -33,8 +33,14 @@ See [Mobile UX flow](docs/MOBILE_UX_FLOW.md) for the screen structure and device
 3. Personal preferences, scientific evidence, and regulatory status are separate records.
 4. Labels cannot rule out lead, cadmium, or arsenic contamination. No heavy-metal-free claim is generated without relevant verified laboratory evidence.
 5. FODMAP classifications require serving information and verified data with appropriate usage rights. Ingredient lists alone are insufficient.
+   Navilo flags potential FODMAP sources named on the label (fructans, GOS/legumes, fructose sources, lactose, polyols such as sorbitol, mannitol, maltitol, xylitol, isomalt and lactitol) from Monash's label-reading guidance and the ACG low-FODMAP page. A Monash University Low FODMAP Certified or FODMAP Friendly mark on the pack is shown as a label claim that applies to the serving stated on the pack; it is not verified.
 6. Gluten-free, vegan, lactose-free, sugar-free, no-added-sugar, and refined-sugar-free are distinct attributes. Missing evidence remains unknown.
+   Only sugars and sugar syrups (sugar, glucose, glucose-fructose syrup, honey, agave/maple syrup) are reported as added sugar. Fruit-based sweeteners (apple extract, dates, grape molasses, juice concentrates) and non-sugar sweeteners (stevia, polyols, intense sweeteners) are listed separately as sweeteners, never as added sugar.
 7. Health and cycle interests are optional. Navilo does not provide medical advice; its language and functionality must reflect this purpose.
+
+## Continuous integration
+
+`.github/workflows/flutter.yml` runs `flutter analyze` and `flutter test` on every pull request and on pushes to `main`.
 
 ## Getting started
 
