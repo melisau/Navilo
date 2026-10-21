@@ -22,6 +22,7 @@ import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'domain/policy.dart';
+import 'domain/dietary_analysis.dart';
 import 'domain/preference_fit.dart';
 import 'data/community_submission.dart';
 import 'theme/navilo_theme.dart';
@@ -121,6 +122,16 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   late final Future<Map<String, dynamic>> dietary = rootBundle
       .loadString('assets/dietary.json')
       .then((value) => jsonDecode(value) as Map<String, dynamic>);
+  late final Future<List<VeganEntry>> veganEntries = rootBundle
+      .loadString('assets/vegan.json')
+      .then(VeganEntry.decodeAll);
+  late final Future<PreferenceReference> preferenceReference = Future.wait(
+          [dietary, veganEntries])
+      .then((values) => PreferenceReference(
+          ((values[0] as Map<String, dynamic>)['entries'] as List)
+              .map((e) => DietaryEntry(e as Map<String, dynamic>))
+              .toList(),
+          values[1] as List<VeganEntry>));
   int page = 0;
   String category = 'food';
   String skin = 'Henüz seçilmedi';
@@ -160,6 +171,8 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   int libraryTab = 0;
   String catalogueCategory = 'food';
   String catalogueQuery = '';
+  bool hideConflicting = false;
+  final Map<String, List<PreferenceVerdict>> catalogueConflictCache = {};
   late Future<List<ProductRecord>> catalogueProducts =
       ProductRepository().listCurated(category: catalogueCategory);
   bool contributing = false;

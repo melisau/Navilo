@@ -1,0 +1,213 @@
+{
+  "version": "2026-10-21.1",
+  "note": "Recognises common animal-derived names only. No match never means vegan.",
+  "sources": {
+    "vegan_society": {
+      "title": "The Vegan Society — Definition of veganism",
+      "url": "https://www.vegansociety.com/go-vegan/definition-veganism",
+      "license": "Quoted for reference; © The Vegan Society",
+      "reviewed": "2026-10-21",
+      "note": "Dietary veganism excludes meat (including fish, shellfish and insects), dairy, eggs and honey."
+    },
+    "ie_gelatine": {
+      "title": "gov.ie — Products of animal origin for human consumption: gelatine and collagen (Regulation (EC) No 853/2004, Annex I)",
+      "url": "https://www.gov.ie/en/department-of-agriculture-food-and-the-marine/publications/products-of-animal-origin-for-human-consumption-gelatine-and-collagen/",
+      "license": "Public sector information",
+      "reviewed": "2026-10-21",
+      "note": "Gelatine is obtained by partial hydrolysis of collagen from bones, hides and skins, tendons and sinews of animals."
+    },
+    "efsa_e120": {
+      "title": "EFSA — Scientific Opinion on the re-evaluation of cochineal, carminic acid, carmines (E 120) as a food additive (EFSA Journal 2015;13(11):4288)",
+      "url": "https://www.efsa.europa.eu/en/efsajournal/pub/4288",
+      "license": "EFSA Journal, CC BY-ND 4.0",
+      "reviewed": "2026-10-21",
+      "note": "Cochineal/carmine is obtained from the insect Dactylopius coccus."
+    }
+  },
+  "entries": [
+    {
+      "id": "dairy",
+      "names": {
+        "tr": "Süt ürünü",
+        "en": "Dairy"
+      },
+      "aliases": [
+        "süt",
+        "inek sütü",
+        "süt tozu",
+        "yağsız süt tozu",
+        "peynir altı suyu",
+        "peynir altı suyu tozu",
+        "laktoz",
+        "krema",
+        "süt kreması",
+        "tereyağı",
+        "peynir",
+        "yoğurt",
+        "kazein",
+        "kazeinat",
+        "milk",
+        "milk powder",
+        "skimmed milk powder",
+        "whey",
+        "whey powder",
+        "lactose",
+        "cream",
+        "butter",
+        "cheese",
+        "yogurt",
+        "yoghurt",
+        "casein",
+        "caseinate"
+      ],
+      "exclude": [
+        "coconut milk",
+        "almond milk",
+        "oat milk",
+        "soy milk",
+        "soya milk",
+        "rice milk",
+        "peanut butter",
+        "cocoa butter",
+        "shea butter",
+        "cream of tartar",
+        "coconut cream",
+        "hindistan cevizi süt",
+        "hindistan cevizi kreması",
+        "badem süt",
+        "yulaf süt",
+        "soya süt",
+        "pirinç süt",
+        "kakao yağı"
+      ],
+      "source": "vegan_society"
+    },
+    {
+      "id": "egg",
+      "names": {
+        "tr": "Yumurta",
+        "en": "Egg"
+      },
+      "aliases": [
+        "yumurta",
+        "yumurta tozu",
+        "yumurta akı",
+        "yumurta sarısı",
+        "egg",
+        "eggs",
+        "egg powder",
+        "egg white",
+        "egg yolk"
+      ],
+      "exclude": [],
+      "source": "vegan_society"
+    },
+    {
+      "id": "honey",
+      "names": {
+        "tr": "Bal",
+        "en": "Honey"
+      },
+      "aliases": [
+        "bal",
+        "honey"
+      ],
+      "exclude": [],
+      "source": "vegan_society"
+    },
+    {
+      "id": "meat",
+      "names": {
+        "tr": "Et",
+        "en": "Meat"
+      },
+      "aliases": [
+        "et suyu",
+        "tavuk",
+        "tavuk eti",
+        "hindi eti",
+        "sığır eti",
+        "dana eti",
+        "kuzu eti",
+        "domuz",
+        "domuz eti",
+        "domuz yağı",
+        "chicken",
+        "turkey meat",
+        "beef",
+        "veal",
+        "lamb",
+        "pork",
+        "lard",
+        "meat extract"
+      ],
+      "exclude": [],
+      "source": "vegan_society"
+    },
+    {
+      "id": "fish_shellfish",
+      "names": {
+        "tr": "Balık / kabuklu deniz ürünü",
+        "en": "Fish / shellfish"
+      },
+      "aliases": [
+        "balık",
+        "balığı",
+        "balık yağı",
+        "ançüez",
+        "hamsi",
+        "ton balığı",
+        "karides",
+        "midye",
+        "fish",
+        "fish oil",
+        "anchovy",
+        "tuna",
+        "shrimp",
+        "prawn",
+        "mussel"
+      ],
+      "exclude": [],
+      "source": "vegan_society"
+    },
+    {
+      "id": "gelatine",
+      "names": {
+        "tr": "Jelatin",
+        "en": "Gelatine"
+      },
+      "aliases": [
+        "jelatin",
+        "jelatini",
+        "sığır jelatini",
+        "domuz jelatini",
+        "gelatin",
+        "gelatine",
+        "beef gelatin",
+        "pork gelatin"
+      ],
+      "exclude": [],
+      "source": "ie_gelatine"
+    },
+    {
+      "id": "carmine",
+      "names": {
+        "tr": "Karmin / koşnil (E120)",
+        "en": "Carmine / cochineal (E120)"
+      },
+      "aliases": [
+        "karmin",
+        "karminik asit",
+        "koşnil",
+        "e120",
+        "e 120",
+        "carmine",
+        "carmines",
+        "carminic acid",
+        "cochineal"
+      ],
+      "exclude": [],
+      "source": "efsa_e120"
+    }
+  ]
+}

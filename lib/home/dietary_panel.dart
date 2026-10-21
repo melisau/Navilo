@@ -158,90 +158,32 @@ extension _DietaryPanel on _HomePageState {
               .where((e) => reference || e.matches(label.text))
               .toList();
           final sources = json['sources'] as Map<String, dynamic>;
-          final gluten = entries
-              .where((e) => e.kind == 'gluten_cereal' || e.kind == 'oats_check')
-              .toList();
-          final lactose =
-              entries.where((e) => e.kind == 'lactose_check').toList();
-          final lactoseEnzyme = [
-            'laktaz enzimi',
-            'lactase enzyme',
-            'lactase',
-            'laktaz'
-          ].any((alias) => containsIngredient(label.text, alias));
-          final explicitlyListsLactose = lactose.any((e) => e.id == 'lactose');
-          final lactoseFreeByEnzyme = lactoseEnzyme && !explicitlyListsLactose;
-          final evidence = normalize(
-              '$rawOcrText ${label.text} ${productName ?? ''} ${productRecord?.name ?? ''}');
-          final glutenClaim = hasGlutenFreeClaim(evidence) ||
-              (productRecord?.labels.any((tag) => [
-                        'en:gluten-free',
-                        'tr:glutensiz',
-                        'de:glutenfrei'
-                      ].contains(tag)) ??
-                  false);
-          bool claim(List<String> words, List<String> tags) =>
-              words.any((word) => RegExp(r'(?<![a-zçğöşü])' +
-                      RegExp.escape(word) +
-                      r'(?![a-zçğöşü])')
-                  .hasMatch(evidence)) ||
-              (productRecord?.labels.any(tags.contains) ?? false);
-          final lactoseClaim = claim(
-              ['laktozsuz', 'lactose-free', 'lactose free', 'laktosefrei'],
-              ['en:lactose-free', 'tr:laktozsuz']);
-          final fodmap = entries
-              .where((e) =>
-                  e.kind == 'fodmap_potential' ||
-                  (e.kind == 'lactose_check' &&
-                      (!lactoseClaim || explicitlyListsLactose) &&
-                      !lactoseFreeByEnzyme))
-              .toList();
-          final sugarClaim = claim([
-            'şekersiz',
-            'sekersiz',
-            'sugar-free',
-            'sugar free',
-            'zuckerfrei'
-          ], [
-            'en:sugar-free',
-            'tr:şekersiz'
-          ]);
-          final sugarAdditions = listedSugarAdditions(label.text);
+          // In reference mode every entry is listed; the analysis below is
+          // only displayed for a real product.
+          final a = DietaryAnalysis.of(entries,
+              text: label.text,
+              evidence:
+                  '$rawOcrText ${productName ?? ''} ${productRecord?.name ?? ''}',
+              labels: productRecord?.labels ?? const [],
+              complete: complete);
+          final gluten = a.gluten;
+          final lactose = a.lactose;
+          final lactoseFreeByEnzyme = a.lactoseFreeByEnzyme;
+          final glutenClaim = a.glutenClaim;
+          final fodmap = a.fodmap;
+          final sugarClaim = a.sugarClaim;
+          final sugarAdditions = a.sugarAdditions;
           final natural = glutenFreeIngredients(label.text, english: english);
-          final simpleRice = complete && isSimpleRiceList(label.text);
-          final riceGluten = simpleRice && gluten.isEmpty;
-          final riceLactose = simpleRice && lactose.isEmpty;
-          final lactoseFree = !explicitlyListsLactose &&
-              (lactoseClaim || lactoseFreeByEnzyme || riceLactose);
-          final milkAllergens =
-              lactose.where((e) => e.id != 'lactose').toList();
-          final verdicts = reference
-              ? const <PreferenceVerdict>[]
-              : evaluatePreferences(
-                  preferences,
-                  DietaryFacts(
-                    glutenSources: gluten.map((e) => e.name(english)).toList(),
-                    glutenClaim: glutenClaim,
-                    glutenFreeByIngredients: riceGluten,
-                    lactoseSources:
-                        lactose.map((e) => e.name(english)).toList(),
-                    lactoseFree: lactoseFree,
-                    lactoseFreeByIngredients:
-                        riceLactose && !lactoseClaim && !lactoseFreeByEnzyme,
-                    lactoseClaim: lactoseClaim,
-                    milkIngredients:
-                        lactose.map((e) => e.name(english)).toList(),
-                    fodmapSources: fodmap.map((e) => e.name(english)).toList(),
-                    simpleRice: simpleRice,
-                    sugarAdditions: sugarAdditions,
-                    sugarClaim: sugarClaim,
-                    complete: complete,
-                  ),
-                  label.text);
+          final simpleRice = a.simpleRice;
+          final riceGluten = a.riceGluten;
+          final riceLactose = a.riceLactose;
+          final lactoseFree = a.lactoseFree;
+          final milkAllergens = a.milkAllergens;
+          final facts = DietaryFacts.fromAnalysis(a, english: english);
           return Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                if (!reference) preferenceSummary(verdicts),
+                if (!reference) preferenceSummary(facts),
                 if (!reference) ...[
                   resultRow(
                       'Gluten',
@@ -400,7 +342,14 @@ extension _DietaryPanel on _HomePageState {
 
   /// Saved food preferences checked against the reviewed text, conflicts
   /// first. Never says "suitable": only conflicts, cautions or no findings.
-  Widget preferenceSummary(List<PreferenceVerdict> verdicts) {
+  Widget preferenceSummary(DietaryFacts facts) =>
+      FutureBuilder<List<VeganEntry>>(
+          future: veganEntries,
+          builder: (context, snapshot) => preferenceVerdicts(evaluatePreferences(
+              preferences, facts, label.text,
+              vegan: snapshot.data ?? const [], english: english)));
+
+  Widget preferenceVerdicts(List<PreferenceVerdict> verdicts) {
     final title = Text(copy('Tercihlerine göre', 'For your preferences'),
         style: Theme.of(context).textTheme.titleMedium);
     if (verdicts.isEmpty) {

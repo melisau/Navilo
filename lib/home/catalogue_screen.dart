@@ -2,6 +2,40 @@ part of '../main.dart';
 
 // Seçilmiş ürün kataloğu.
 extension _CatalogueScreen on _HomePageState {
+  /// Conflicting preference verdicts for a catalogue food, cached per
+  /// product, preference set and language.
+  List<PreferenceVerdict> catalogueConflicts(
+      ProductRecord product, PreferenceReference? ref) {
+    if (ref == null || preferences.isEmpty || catalogueCategory != 'food') {
+      return const [];
+    }
+    final key =
+        '${product.code}|${product.name}|${(preferences.toList()..sort()).join(',')}|$english';
+    return catalogueConflictCache.putIfAbsent(
+        key,
+        () => checkIngredientText(preferences, ref, product.ingredients,
+                evidence: product.name,
+                labels: product.labels,
+                english: english)
+            .where((v) => v.status == PreferenceStatus.conflict)
+            .toList());
+  }
+
+  Widget conflictLine(List<PreferenceVerdict> conflicts) => Row(children: [
+        const Icon(Icons.warning_amber_rounded,
+            size: 16, color: NaviloColors.warning),
+        const SizedBox(width: 4),
+        Expanded(
+            child: Text(
+                '${copy('Tercihinle çelişiyor', 'Conflicts with')}: ${conflicts.map((v) => tr(v.preference)).join(', ')}',
+                maxLines: 2,
+                overflow: TextOverflow.ellipsis,
+                style: Theme.of(context)
+                    .textTheme
+                    .bodySmall
+                    ?.copyWith(color: NaviloColors.warning))),
+      ]);
+
   Widget catalogueThumbnail(ProductRecord product, {double size = 64}) {
     final fallback = Container(
         color: NaviloColors.line,
@@ -30,7 +64,8 @@ extension _CatalogueScreen on _HomePageState {
                     errorBuilder: (_, error, stack) => fallback)));
   }
 
-  Future<void> showCatalogueProduct(ProductRecord product) async {
+  Future<void> showCatalogueProduct(ProductRecord product,
+      {List<PreferenceVerdict> conflicts = const []}) async {
     final selectedCategory = catalogueCategory;
     await showModalBottomSheet<void>(
         context: context,
@@ -65,6 +100,15 @@ extension _CatalogueScreen on _HomePageState {
                           style: Theme.of(context).textTheme.titleMedium),
                       const SizedBox(height: 8),
                       SelectableText(product.ingredients),
+                      if (conflicts.isNotEmpty) ...[
+                        const SizedBox(height: 16),
+                        Text(copy('Tercihlerine göre', 'For your preferences'),
+                            style: Theme.of(context).textTheme.titleMedium),
+                        for (final v in conflicts)
+                          resultRow(tr(v.preference), v.message(english),
+                              v.evidence,
+                              warning: true),
+                      ],
                       if (product.mayContain.isNotEmpty) ...[
                         const SizedBox(height: 16),
                         Text(copy('İçerebilir · renk pigmentleri',
@@ -103,15 +147,26 @@ extension _CatalogueScreen on _HomePageState {
                     ]))));
   }
 
-  Widget catalogueScreen() => FutureBuilder<List<ProductRecord>>(
+  Widget catalogueScreen() => FutureBuilder<PreferenceReference>(
+      future: preferenceReference,
+      builder: (context, refSnapshot) => catalogueList(refSnapshot.data));
+
+  Widget catalogueList(PreferenceReference? ref) =>
+      FutureBuilder<List<ProductRecord>>(
       future: catalogueProducts,
       builder: (context, snapshot) {
         final query = normalize(catalogueQuery);
+        final checkPreferences = ref != null &&
+            preferences.isNotEmpty &&
+            catalogueCategory == 'food';
         final records = (snapshot.data ?? <ProductRecord>[])
             .where((p) =>
                 query.isEmpty ||
                 normalize(p.name).contains(query) ||
                 p.code.contains(query))
+            .where((p) =>
+                !(checkPreferences && hideConflicting) ||
+                catalogueConflicts(p, ref).isEmpty)
             .toList();
         return CustomScrollView(slivers: [
           SliverPadding(
@@ -150,6 +205,16 @@ extension _CatalogueScreen on _HomePageState {
                                       .listCurated(category: item.$1);
                                 })),
                     ]),
+                    if (checkPreferences) ...[
+                      const SizedBox(height: 8),
+                      FilterChip(
+                          avatar: const Icon(Icons.tune, size: 18),
+                          label: Text(copy('Tercihlerimle çelişenleri gizle',
+                              'Hide products that conflict with my preferences')),
+                          selected: hideConflicting,
+                          onSelected: (value) =>
+                              _update(() => hideConflicting = value)),
+                    ],
                     const SizedBox(height: 8),
                     if (snapshot.hasData)
                       Text(copy('${records.length} ürün',
@@ -177,14 +242,25 @@ extension _CatalogueScreen on _HomePageState {
                     delegate: SliverChildBuilderDelegate((context, index) {
                   if (index.isOdd) return const Divider(height: 1);
                   final product = records[index ~/ 2];
+                  final conflicts = catalogueConflicts(product, ref);
                   return ListTile(
                       contentPadding: const EdgeInsets.symmetric(vertical: 8),
                       leading: catalogueThumbnail(product),
                       title: Text(product.name,
                           maxLines: 2, overflow: TextOverflow.ellipsis),
-                      subtitle: Text(product.code),
+                      subtitle: conflicts.isEmpty
+                          ? Text(product.code)
+                          : Column(
+                              mainAxisSize: MainAxisSize.min,
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                  Text(product.code),
+                                  const SizedBox(height: 2),
+                                  conflictLine(conflicts),
+                                ]),
                       trailing: const Icon(Icons.chevron_right),
-                      onTap: () => showCatalogueProduct(product));
+                      onTap: () => showCatalogueProduct(product,
+                          conflicts: conflicts));
                 }, childCount: records.length * 2 - 1))),
         ]);
       });
