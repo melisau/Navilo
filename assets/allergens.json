@@ -1,0 +1,510 @@
+{
+  "version": "2026-10-21.1",
+  "note": "Names the 14 regulated allergens only. No match does not mean allergen-free; always check the package.",
+  "sources": {
+    "tgk_ek1": {
+      "title": "T.C. Tarım ve Orman Bakanlığı — Toplu tüketim yerlerinde alerjen bildirimi (Türk Gıda Kodeksi Gıda Etiketleme ve Tüketicileri Bilgilendirme Yönetmeliği, Ek-1)",
+      "url": "https://www.tarimorman.gov.tr/Konu/2023/Toplu_Tuketim_Yerlerinde_Alerjen_Bildirimi",
+      "license": "Kamu bilgisi; mevzuat metni",
+      "reviewed": "2026-10-21"
+    },
+    "fsa": {
+      "title": "Food Standards Agency — Food allergen labelling and information requirements: technical guidance (Annex II)",
+      "url": "https://www.gov.uk/government/publications/food-allergen-labelling-and-information-requirements-technical-guidance/food-allergen-labelling-and-information-requirements-technical-guidance",
+      "license": "Open Government Licence v3.0; contains public sector information licensed under the OGL v3.0",
+      "reviewed": "2026-10-21"
+    }
+  },
+  "entries": [
+    {
+      "id": "gluten",
+      "names": {
+        "tr": "Gluten içeren tahıllar",
+        "en": "Cereals containing gluten"
+      },
+      "aliases": [
+        "buğday",
+        "buğday unu",
+        "tam buğday unu",
+        "buğday gluteni",
+        "buğday nişastası",
+        "irmik",
+        "bulgur",
+        "çavdar",
+        "çavdar unu",
+        "arpa",
+        "arpa unu",
+        "arpa maltı",
+        "malt",
+        "malt ekstraktı",
+        "yulaf",
+        "yulaf unu",
+        "yulaf ezmesi",
+        "spelt",
+        "kamut",
+        "horasan buğdayı",
+        "gluten",
+        "wheat",
+        "wheat flour",
+        "wheat starch",
+        "durum wheat",
+        "semolina",
+        "rye",
+        "barley",
+        "barley malt",
+        "malt extract",
+        "oats",
+        "oat flour",
+        "spelt"
+      ],
+      "exclude": [
+        "glikoz şurubu (buğday)",
+        "glukoz şurubu (buğday)",
+        "dekstroz (buğday)",
+        "maltodekstrin (buğday)",
+        "glucose syrup (wheat)",
+        "dextrose (wheat)",
+        "maltodextrin (wheat)"
+      ],
+      "off_tags": [
+        "en:gluten"
+      ],
+      "source": "tgk_ek1",
+      "note": "Buğday bazlı glikoz şurubu, dekstroz ve maltodekstrin muaftır."
+    },
+    {
+      "id": "crustaceans",
+      "names": {
+        "tr": "Kabuklular",
+        "en": "Crustaceans"
+      },
+      "aliases": [
+        "karides",
+        "ıstakoz",
+        "yengeç",
+        "kerevit",
+        "kabuklular",
+        "shrimp",
+        "shrimps",
+        "prawn",
+        "prawns",
+        "lobster",
+        "crab",
+        "crayfish",
+        "crustacea",
+        "crustaceans"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:crustaceans"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "eggs",
+      "names": {
+        "tr": "Yumurta",
+        "en": "Eggs"
+      },
+      "aliases": [
+        "yumurta",
+        "yumurta tozu",
+        "yumurta akı",
+        "yumurta sarısı",
+        "yumurta albümini",
+        "egg",
+        "eggs",
+        "egg powder",
+        "egg white",
+        "egg yolk",
+        "egg albumin"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:eggs"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "fish",
+      "names": {
+        "tr": "Balık",
+        "en": "Fish"
+      },
+      "aliases": [
+        "balık",
+        "balığı",
+        "balık yağı",
+        "balık sosu",
+        "ançüez",
+        "hamsi",
+        "ton balığı",
+        "somon",
+        "sardalya",
+        "uskumru",
+        "morina",
+        "fish",
+        "fish oil",
+        "fish sauce",
+        "anchovy",
+        "anchovies",
+        "tuna",
+        "salmon",
+        "sardine",
+        "mackerel",
+        "cod"
+      ],
+      "exclude": [
+        "mürekkep balığı",
+        "balık jelatini (vitamin",
+        "isinglass"
+      ],
+      "off_tags": [
+        "en:fish"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "peanuts",
+      "names": {
+        "tr": "Yer fıstığı",
+        "en": "Peanuts"
+      },
+      "aliases": [
+        "yer fıstığı",
+        "yerfıstığı",
+        "yer fıstığı ezmesi",
+        "yer fıstığı yağı",
+        "peanut",
+        "peanuts",
+        "groundnut",
+        "groundnuts",
+        "arachis",
+        "fıstık ezmesi"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:peanuts"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "soybeans",
+      "names": {
+        "tr": "Soya",
+        "en": "Soybeans"
+      },
+      "aliases": [
+        "soya",
+        "soya fasulyesi",
+        "soya unu",
+        "soya proteini",
+        "soya lesitini",
+        "soya sosu",
+        "soy",
+        "soybean",
+        "soybeans",
+        "soy flour",
+        "soy protein",
+        "soya lecithin",
+        "soy lecithin",
+        "soy sauce",
+        "tofu",
+        "edamame"
+      ],
+      "exclude": [
+        "tam rafine soya yağı",
+        "fully refined soybean oil",
+        "fully refined soya oil"
+      ],
+      "off_tags": [
+        "en:soybeans"
+      ],
+      "source": "tgk_ek1",
+      "note": "Tam rafine soya yağı ve yağı muaftır."
+    },
+    {
+      "id": "milk",
+      "names": {
+        "tr": "Süt",
+        "en": "Milk"
+      },
+      "aliases": [
+        "süt",
+        "inek sütü",
+        "keçi sütü",
+        "koyun sütü",
+        "süt tozu",
+        "yağsız süt tozu",
+        "tam yağlı süt tozu",
+        "peynir altı suyu",
+        "peynir altı suyu tozu",
+        "laktoz",
+        "krema",
+        "süt kreması",
+        "tereyağı",
+        "peynir",
+        "yoğurt",
+        "kazein",
+        "kazeinat",
+        "süt proteini",
+        "süt katı maddesi",
+        "milk",
+        "milk powder",
+        "skimmed milk powder",
+        "whole milk powder",
+        "whey",
+        "whey powder",
+        "whey protein",
+        "lactose",
+        "cream",
+        "butter",
+        "butterfat",
+        "cheese",
+        "yogurt",
+        "yoghurt",
+        "casein",
+        "caseinate",
+        "milk protein",
+        "milk solids"
+      ],
+      "exclude": [
+        "hindistan cevizi süt",
+        "hindistan cevizi kreması",
+        "badem süt",
+        "yulaf süt",
+        "soya süt",
+        "pirinç süt",
+        "coconut milk",
+        "coconut cream",
+        "almond milk",
+        "oat milk",
+        "soy milk",
+        "soya milk",
+        "rice milk",
+        "peanut butter",
+        "cocoa butter",
+        "shea butter",
+        "kakao yağı",
+        "cream of tartar"
+      ],
+      "off_tags": [
+        "en:milk"
+      ],
+      "source": "tgk_ek1",
+      "note": "Laktoz dahildir; laktitol muaftır."
+    },
+    {
+      "id": "nuts",
+      "names": {
+        "tr": "Sert kabuklu meyveler",
+        "en": "Nuts"
+      },
+      "aliases": [
+        "badem",
+        "fındık",
+        "ceviz",
+        "kaju",
+        "kaju fıstığı",
+        "pikan cevizi",
+        "pekan cevizi",
+        "brezilya fındığı",
+        "brezilya cevizi",
+        "antep fıstığı",
+        "şam fıstığı",
+        "makadamya",
+        "makadamya fındığı",
+        "queensland fındığı",
+        "almond",
+        "almonds",
+        "hazelnut",
+        "hazelnuts",
+        "walnut",
+        "walnuts",
+        "cashew",
+        "cashews",
+        "pecan",
+        "pecans",
+        "brazil nut",
+        "brazil nuts",
+        "pistachio",
+        "pistachios",
+        "macadamia",
+        "queensland nut"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:nuts"
+      ],
+      "source": "tgk_ek1",
+      "note": "Hindistan cevizi ve muskat bu gruba girmez."
+    },
+    {
+      "id": "celery",
+      "names": {
+        "tr": "Kereviz",
+        "en": "Celery"
+      },
+      "aliases": [
+        "kereviz",
+        "kereviz tohumu",
+        "kereviz tuzu",
+        "kereviz sapı",
+        "celery",
+        "celeriac",
+        "celery seed",
+        "celery salt"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:celery"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "mustard",
+      "names": {
+        "tr": "Hardal",
+        "en": "Mustard"
+      },
+      "aliases": [
+        "hardal",
+        "hardal tohumu",
+        "hardal unu",
+        "hardal yağı",
+        "mustard",
+        "mustard seed",
+        "mustard flour"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:mustard"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "sesame",
+      "names": {
+        "tr": "Susam",
+        "en": "Sesame"
+      },
+      "aliases": [
+        "susam",
+        "susam tohumu",
+        "susam yağı",
+        "tahin",
+        "sesame",
+        "sesame seed",
+        "sesame seeds",
+        "sesame oil",
+        "tahini"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:sesame-seeds"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "sulphites",
+      "names": {
+        "tr": "Kükürt dioksit ve sülfitler",
+        "en": "Sulphur dioxide and sulphites"
+      },
+      "aliases": [
+        "sülfit",
+        "sülfitler",
+        "kükürt dioksit",
+        "sodyum sülfit",
+        "sodyum bisülfit",
+        "sodyum metabisülfit",
+        "potasyum metabisülfit",
+        "kalsiyum sülfit",
+        "e220",
+        "e221",
+        "e222",
+        "e223",
+        "e224",
+        "e225",
+        "e226",
+        "e227",
+        "e228",
+        "sulphite",
+        "sulphites",
+        "sulfite",
+        "sulfites",
+        "sulphur dioxide",
+        "sulfur dioxide",
+        "sodium metabisulphite",
+        "sodium metabisulfite",
+        "potassium metabisulphite",
+        "potassium metabisulfite",
+        "sodium bisulphite",
+        "sodium bisulfite"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:sulphur-dioxide-and-sulphites"
+      ],
+      "source": "tgk_ek1",
+      "note": "Toplam SO₂ 10 mg/kg veya 10 mg/L üzerindeyse beyan zorunludur; miktar etiketten ölçülemez."
+    },
+    {
+      "id": "lupin",
+      "names": {
+        "tr": "Acı bakla (lupin)",
+        "en": "Lupin"
+      },
+      "aliases": [
+        "acı bakla",
+        "acı bakla unu",
+        "lupin",
+        "lupin unu",
+        "lupin flour",
+        "lupine"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:lupin"
+      ],
+      "source": "tgk_ek1"
+    },
+    {
+      "id": "molluscs",
+      "names": {
+        "tr": "Yumuşakçalar",
+        "en": "Molluscs"
+      },
+      "aliases": [
+        "midye",
+        "istiridye",
+        "kalamar",
+        "ahtapot",
+        "salyangoz",
+        "deniz tarağı",
+        "mürekkep balığı",
+        "yumuşakçalar",
+        "mussel",
+        "mussels",
+        "oyster",
+        "oysters",
+        "squid",
+        "octopus",
+        "snail",
+        "snails",
+        "scallop",
+        "scallops",
+        "clam",
+        "clams",
+        "cuttlefish",
+        "mollusc",
+        "molluscs"
+      ],
+      "exclude": [],
+      "off_tags": [
+        "en:molluscs"
+      ],
+      "source": "tgk_ek1"
+    }
+  ]
+}

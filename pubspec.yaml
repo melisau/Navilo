@@ -24,6 +24,7 @@ flutter:
     - assets/policy.json
     - assets/dietary.json
     - assets/vegan.json
+    - assets/allergens.json
     - assets/contribution_candidates.json
     - assets/curated_products.json
     - assets/curated_cosmetics.json

@@ -16,6 +16,8 @@ extension _CatalogueScreen on _HomePageState {
         () => checkIngredientText(preferences, ref, product.ingredients,
                 evidence: product.name,
                 labels: product.labels,
+                allergenTags: product.allergens,
+                traceTags: product.traces,
                 english: english)
             .where((v) => v.status == PreferenceStatus.conflict)
             .toList());
@@ -27,7 +29,7 @@ extension _CatalogueScreen on _HomePageState {
         const SizedBox(width: 4),
         Expanded(
             child: Text(
-                '${copy('Tercihinle çelişiyor', 'Conflicts with')}: ${conflicts.map((v) => tr(v.preference)).join(', ')}',
+                '${copy('Tercihinle çelişiyor', 'Conflicts with')}: ${conflicts.map((v) => v.title(english, tr)).join(', ')}',
                 maxLines: 2,
                 overflow: TextOverflow.ellipsis,
                 style: Theme.of(context)
@@ -105,7 +107,7 @@ extension _CatalogueScreen on _HomePageState {
                         Text(copy('Tercihlerine göre', 'For your preferences'),
                             style: Theme.of(context).textTheme.titleMedium),
                         for (final v in conflicts)
-                          resultRow(tr(v.preference), v.message(english),
+                          resultRow(v.title(english, tr), v.message(english),
                               v.evidence,
                               warning: true),
                       ],

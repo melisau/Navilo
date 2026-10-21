@@ -22,6 +22,7 @@ import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 import 'domain/policy.dart';
+import 'domain/allergens.dart';
 import 'domain/dietary_analysis.dart';
 import 'domain/preference_fit.dart';
 import 'data/community_submission.dart';
@@ -125,13 +126,17 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   late final Future<List<VeganEntry>> veganEntries = rootBundle
       .loadString('assets/vegan.json')
       .then(VeganEntry.decodeAll);
+  late final Future<List<AllergenEntry>> allergenEntries = rootBundle
+      .loadString('assets/allergens.json')
+      .then(AllergenEntry.decodeAll);
   late final Future<PreferenceReference> preferenceReference = Future.wait(
-          [dietary, veganEntries])
+          [dietary, veganEntries, allergenEntries])
       .then((values) => PreferenceReference(
           ((values[0] as Map<String, dynamic>)['entries'] as List)
               .map((e) => DietaryEntry(e as Map<String, dynamic>))
               .toList(),
-          values[1] as List<VeganEntry>));
+          values[1] as List<VeganEntry>,
+          allergens: values[2] as List<AllergenEntry>));
   int page = 0;
   String category = 'food';
   String skin = 'Henüz seçilmedi';

@@ -364,11 +364,76 @@ extension _DietaryPanel on _HomePageState {
   /// Saved food preferences checked against the reviewed text, conflicts
   /// first. Never says "suitable": only conflicts, cautions or no findings.
   Widget preferenceSummary(DietaryFacts facts) =>
-      FutureBuilder<List<VeganEntry>>(
-          future: veganEntries,
-          builder: (context, snapshot) => preferenceVerdicts(evaluatePreferences(
-              preferences, facts, label.text,
-              vegan: snapshot.data ?? const [], english: english)));
+      FutureBuilder<PreferenceReference>(
+          future: preferenceReference,
+          builder: (context, snapshot) {
+            final ref = snapshot.data;
+            final allergens = ref == null
+                ? AllergenFindings.empty
+                : findAllergens(label.text, ref.allergens,
+                    extra: rawOcrText,
+                    allergenTags: productRecord?.allergens ?? const [],
+                    traceTags: productRecord?.traces ?? const []);
+            final withAllergens = DietaryFacts(
+              glutenSources: facts.glutenSources,
+              glutenClaim: facts.glutenClaim,
+              glutenFreeByIngredients: facts.glutenFreeByIngredients,
+              lactoseSources: facts.lactoseSources,
+              lactoseFree: facts.lactoseFree,
+              lactoseFreeByIngredients: facts.lactoseFreeByIngredients,
+              lactoseClaim: facts.lactoseClaim,
+              fodmapSources: facts.fodmapSources,
+              simpleRice: facts.simpleRice,
+              sugarAdditions: facts.sugarAdditions,
+              fruitSweeteners: facts.fruitSweeteners,
+              otherSweeteners: facts.otherSweeteners,
+              sugarClaim: facts.sugarClaim,
+              fodmapCertification: facts.fodmapCertification,
+              complete: facts.complete,
+              allergens: allergens,
+            );
+            return Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  preferenceVerdicts(evaluatePreferences(
+                      preferences, withAllergens, label.text,
+                      vegan: ref?.vegan ?? const [],
+                      allergenEntries: ref?.allergens ?? const [],
+                      english: english)),
+                  if (ref != null) allergenRows(allergens),
+                ]);
+          });
+
+  /// The 14 regulated allergens: what the ingredients name and what only a
+  /// "may contain" statement names.
+  Widget allergenRows(AllergenFindings found) {
+    List<String> names(List<AllergenEntry> e) =>
+        e.map((x) => x.name(english)).toList();
+    return Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+      resultRow(
+          copy('Alerjenler', 'Allergens'),
+          found.contains.isNotEmpty
+              ? copy('İçeriklerde alerjen listelenmiş',
+                  'Allergens listed in the ingredients')
+              : copy('Listelenen alerjen tespit edilmedi',
+                  'No listed allergen detected'),
+          names(found.contains),
+          accent: found.contains.isNotEmpty ? NaviloColors.warning : null),
+      if (found.mayContain.isNotEmpty)
+        resultRow(
+            copy('İz miktarda içerebilir', 'May contain'),
+            copy('Çapraz bulaşma uyarısı', 'Cross-contact warning'),
+            names(found.mayContain),
+            unknown: true),
+      Padding(
+          padding: const EdgeInsets.only(top: 4, bottom: 8),
+          child: Text(
+              copy(
+                  'Türk Gıda Kodeksi Ek-1’deki 14 alerjen aranır. Eşleşme olmaması alerjen içermediği anlamına gelmez; alerjin varsa ambalajı mutlaka kontrol et.',
+                  'The 14 allergens in the Turkish Food Codex Annex 1 are checked. No match does not mean allergen-free; if you have an allergy, always check the package.'),
+              style: Theme.of(context).textTheme.bodySmall)),
+    ]);
+  }
 
   Widget preferenceVerdicts(List<PreferenceVerdict> verdicts) {
     final title = Text(copy('Tercihlerine göre', 'For your preferences'),
@@ -411,7 +476,7 @@ extension _DietaryPanel on _HomePageState {
                           ? NaviloColors.warning
                           : NaviloColors.ink)),
               for (final v in verdicts)
-                resultRow(tr(v.preference), v.message(english), v.evidence,
+                resultRow(v.title(english, tr), v.message(english), v.evidence,
                     warning: v.status == PreferenceStatus.conflict,
                     unknown: v.status == PreferenceStatus.caution ||
                         v.status == PreferenceStatus.notAssessable,

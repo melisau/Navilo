@@ -197,6 +197,41 @@ extension _ProfileScreen on _HomePageState {
                     .toList()),
           ]));
 
+  /// The 14 regulated allergens; stored as `Alerji:<id>` preferences.
+  Widget allergyChips() => FutureBuilder<List<AllergenEntry>>(
+      future: allergenEntries,
+      builder: (context, snapshot) {
+        final entries = snapshot.data ?? const <AllergenEntry>[];
+        if (entries.isEmpty) return const SizedBox.shrink();
+        return Padding(
+            padding: const EdgeInsets.only(top: 18),
+            child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(copy('Alerjilerim', 'My allergies').toUpperCase(),
+                      style: Theme.of(context).textTheme.labelSmall?.copyWith(
+                          color: NaviloColors.muted,
+                          letterSpacing: 1,
+                          fontWeight: FontWeight.w700)),
+                  const SizedBox(height: 8),
+                  Wrap(spacing: 8, runSpacing: 8, children: [
+                    for (final entry in entries)
+                      FilterChip(
+                          showCheckmark: false,
+                          label: Text(entry.name(english)),
+                          selected: preferences
+                              .contains(allergenPreference(entry.id)),
+                          onSelected: (selected) {
+                            final key = allergenPreference(entry.id);
+                            _update(() => selected
+                                ? preferences.add(key)
+                                : preferences.remove(key));
+                            persistSettings();
+                          }),
+                  ]),
+                ]));
+      });
+
   Widget profileScreen() => pageList([
         ListTile(
             contentPadding: EdgeInsets.zero,
@@ -215,14 +250,15 @@ extension _ProfileScreen on _HomePageState {
             copy('Diyet', 'Diet'), ['Vegan', 'Ketojenik', 'Az yağlı']),
         preferenceChips(copy('Hassasiyetler', 'Sensitivities'),
             ['Glutensiz', 'Laktozsuz', 'Düşük FODMAP']),
+        allergyChips(),
         preferenceChips(copy('Şeker tercihi', 'Sugar preference'),
             ['Şekersiz', 'İlave şekersiz', 'Rafine şekersiz'],
             singleChoice: true),
         const SizedBox(height: 20),
         Text(
             copy(
-                'Gıda sonuçlarında ve katalogda seçtiğin tercihlerle çelişen içerikler gösterilir. Ketojenik ve az yağlı için besin değeri gerektiğinden değerlendirme yapılmaz. Sağlık tavsiyesi değildir.',
-                'Food results and the catalogue show ingredients that conflict with your preferences. Ketogenic and low-fat need nutrition values, so they are not assessed. This is not medical advice.'),
+                'Gıda sonuçlarında ve katalogda seçtiğin tercihlerle ve alerjilerinle çelişen içerikler gösterilir. Alerjen eşleşmesi olmaması alerjen içermediği anlamına gelmez. Ketojenik ve az yağlı için besin değeri gerektiğinden değerlendirme yapılmaz. Sağlık tavsiyesi değildir.',
+                'Food results and the catalogue show ingredients that conflict with your preferences and allergies. No allergen match does not mean allergen-free. Ketogenic and low-fat need nutrition values, so they are not assessed. This is not medical advice.'),
             style: Theme.of(context).textTheme.bodySmall),
         if (storageError != null) notice(storageError!, warning: true),
         const Divider(height: 32),
