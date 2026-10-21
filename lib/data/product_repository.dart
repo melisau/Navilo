@@ -5,6 +5,7 @@ import 'package:flutter/services.dart' show rootBundle;
 import '../domain/barcode.dart';
 import '../domain/catalogue_provenance.dart';
 import '../domain/catalogue_exclusions.dart';
+import '../domain/nutrition.dart';
 
 class ProductRecord {
   final String code, name, ingredients, sourceUrl;
@@ -23,6 +24,9 @@ class ProductRecord {
   final String? nameLookupSource;
   final DateTime? modified;
   final List<String> allergens, traces, labels;
+
+  /// Per-100 g values from the product database, when it has them.
+  final NutritionFacts? nutrition;
   ProductRecord(this.code, this.name, this.ingredients, this.sourceUrl,
       this.modified, this.allergens, this.traces, this.labels,
       {this.sourceName = 'Open Food Facts',
@@ -33,7 +37,8 @@ class ProductRecord {
       this.verifiedAt,
       this.verificationStatus = 'unverified',
       this.nameMatched = false,
-      this.nameLookupSource});
+      this.nameLookupSource,
+      this.nutrition});
   static String? licensedImage(dynamic value) {
     final uri = value is String ? Uri.tryParse(value) : null;
     return uri != null &&
@@ -107,6 +112,7 @@ class ProductRecord {
         tags('labels_tags'),
         sourceName: sourceName,
         sourceType: 'open_food_facts',
+        nutrition: NutritionFacts.fromOpenFoodFacts(p['nutriments']),
         nameMatched: nameMatched,
         nameLookupSource: nameLookupSource,
         imageSourceUrl: host == 'world.openfoodfacts.org'
@@ -309,7 +315,7 @@ class ProductRepository {
             'json': '1',
             'page_size': '20',
             'fields':
-                'code,product_name,product_name_tr,product_name_en,ingredients_text,ingredients_text_tr,ingredients_text_en,allergens_tags,traces_tags,labels_tags,last_modified_t,image_front_url'
+                'code,product_name,product_name_tr,product_name_en,ingredients_text,ingredients_text_tr,ingredients_text_en,allergens_tags,traces_tags,labels_tags,last_modified_t,image_front_url,nutriments'
           };
           if (turkishOnly) parameters['countries_tags_en'] = 'turkey';
           final response =
@@ -498,7 +504,7 @@ class ProductRepository {
       try {
         final json = await load(Uri.https(host, '/api/v2/product/$code.json', {
           'fields':
-              'code,product_name,product_name_tr,product_name_en,ingredients_text,ingredients_text_tr,ingredients_text_en,allergens_tags,traces_tags,labels_tags,last_modified_t,image_front_url'
+              'code,product_name,product_name_tr,product_name_en,ingredients_text,ingredients_text_tr,ingredients_text_en,allergens_tags,traces_tags,labels_tags,last_modified_t,image_front_url,nutriments'
         }));
         return ProductRecord.parse(code, json,
             english: english, host: host, sourceName: source);

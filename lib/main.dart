@@ -24,6 +24,7 @@ import 'package:url_launcher/url_launcher.dart';
 import 'domain/policy.dart';
 import 'domain/allergens.dart';
 import 'domain/dietary_analysis.dart';
+import 'domain/nutrition.dart';
 import 'domain/preference_fit.dart';
 import 'data/community_submission.dart';
 import 'theme/navilo_theme.dart';
