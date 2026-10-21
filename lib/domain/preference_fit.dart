@@ -378,6 +378,15 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
       }
       final sweeteners = [...f.fruitSweeteners, ...f.otherSweeteners];
       final sugars = f.nutrition?.sugars;
+      if (p == 'Şekersiz' && sugars != null && _unconfirmed(f.nutrition!)) {
+        final n = f.nutrition!;
+        return PreferenceVerdict(
+            p,
+            PreferenceStatus.caution,
+            'Etiketten okunan değer: ${n.basisLabel(false)} başına ${_fmt(sugars)} g şeker. Kesin sonuç için değeri inceleme ekranında onayla.',
+            'Value read from the label: ${_fmt(sugars, en: true)} g sugars per ${n.basisLabel(true)}. Confirm it on the review screen for a result.',
+            [...sweeteners, _source(n)]);
+      }
       if (p == 'Şekersiz' && sugars != null) {
         final n = f.nutrition!;
         final per = n.basisLabel(false), perEn = n.basisLabel(true);
@@ -466,6 +475,15 @@ PreferenceVerdict? _evaluate(String p, DietaryFacts f, String text,
           'The nutrition table was not read; carbohydrate amounts are needed.');
     case 'Az yağlı':
       final fat = f.nutrition?.fat;
+      if (fat != null && _unconfirmed(f.nutrition!)) {
+        final n = f.nutrition!;
+        return PreferenceVerdict(
+            p,
+            PreferenceStatus.caution,
+            'Etiketten okunan değer: ${n.basisLabel(false)} başına ${_fmt(fat)} g yağ. Kesin sonuç için değeri inceleme ekranında onayla.',
+            'Value read from the label: ${_fmt(fat, en: true)} g fat per ${n.basisLabel(true)}. Confirm it on the review screen for a result.',
+            [_source(n)]);
+      }
       if (fat != null) {
         final n = f.nutrition!;
         final limit = NutritionClaimLimits.lowFat(n);
@@ -529,6 +547,13 @@ String _fmt(double v, {bool en = false}) {
   return en ? s : s.replaceAll('.', ',');
 }
 
-String _source(NutritionFacts n) => n.source == 'label'
-    ? 'Besin tablosu (etiket) / Nutrition table (label)'
-    : 'Besin değerleri (Open Food Facts) / Nutrition (Open Food Facts)';
+/// OCR values decide nothing until the user confirms them; values that do
+/// not add up are treated the same way even from a database.
+bool _unconfirmed(NutritionFacts n) =>
+    n.source == 'label' || (!n.confirmed && n.energyInconsistent);
+
+String _source(NutritionFacts n) => switch (n.source) {
+      'label' => 'Besin tablosu (etiket, onaylanmadı) / Nutrition table (label, unconfirmed)',
+      'reviewed' => 'Besin tablosu (onaylandı) / Nutrition table (confirmed)',
+      _ => 'Besin değerleri (Open Food Facts) / Nutrition (Open Food Facts)',
+    };

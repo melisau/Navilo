@@ -40,6 +40,7 @@ part 'home/criteria_screen.dart';
 part 'home/dietary_panel.dart';
 part 'home/home_screen.dart';
 part 'home/library_screen.dart';
+part 'home/nutrition_review.dart';
 part 'home/product_lookup.dart';
 part 'home/profile_screen.dart';
 part 'home/result_screen.dart';
@@ -190,6 +191,13 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   String criteriaCategory = 'all';
   String? activeLocalId;
   String rawOcrText = '';
+  // Nutrition values the user checked on the review screen, valid only for
+  // the label text and product they were checked against.
+  NutritionFacts? reviewedNutrition;
+  String reviewedNutritionFor = '';
+  Map<String, String> nutritionDraft = {};
+  String nutritionDraftFor = '';
+  bool editingNutrition = false;
   late final Future<AppSettingsStore> settingsStore =
       localStore.then((store) => AppSettingsStore(store.directory.parent));
 

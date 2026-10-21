@@ -7,7 +7,8 @@ class NutritionFacts {
   /// `100g`, `100ml`, or `100g_or_ml` when the source does not say.
   final String basis;
 
-  /// `label` (OCR of the package) or `database` (e.g. Open Food Facts).
+  /// `label` (OCR of the package, not yet confirmed), `reviewed` (checked
+  /// or entered by the user) or `database` (e.g. Open Food Facts).
   final String source;
   final double? energyKcal,
       fat,
@@ -32,6 +33,99 @@ class NutritionFacts {
   });
 
   bool get isLiquid => basis == '100ml';
+
+  /// The user confirmed these values against the package.
+  bool get confirmed => source == 'reviewed';
+
+  /// Energy does not agree with fat, carbohydrate and protein
+  /// (9/4/4 kcal per g, fibre 2 kcal): a typical sign of a misread digit or
+  /// decimal comma ("31 g" read as "3,1 g"). Needs all four values.
+  bool get energyInconsistent {
+    final e = energyKcal, f = fat, c = carbohydrate, p = protein;
+    if (e == null || f == null || c == null || p == null || e <= 0) {
+      return false;
+    }
+    final expected = 9 * f + 4 * c + 4 * p + 2 * (fibre ?? 0);
+    final diff = (expected - e).abs();
+    return diff > 20 && diff / e > 0.2;
+  }
+
+  /// The same values marked as confirmed by the user.
+  NutritionFacts reviewed({String? basis}) => NutritionFacts(
+        basis: basis ?? this.basis,
+        source: 'reviewed',
+        energyKcal: energyKcal,
+        fat: fat,
+        saturatedFat: saturatedFat,
+        carbohydrate: carbohydrate,
+        sugars: sugars,
+        fibre: fibre,
+        protein: protein,
+        salt: salt,
+      );
+
+  /// Nutrient keys used by the review form, in label order.
+  static const keys = [
+    'energyKcal',
+    'fat',
+    'saturatedFat',
+    'carbohydrate',
+    'sugars',
+    'fibre',
+    'protein',
+    'salt',
+  ];
+
+  double? valueOf(String key) => switch (key) {
+        'energyKcal' => energyKcal,
+        'fat' => fat,
+        'saturatedFat' => saturatedFat,
+        'carbohydrate' => carbohydrate,
+        'sugars' => sugars,
+        'fibre' => fibre,
+        'protein' => protein,
+        'salt' => salt,
+        _ => null,
+      };
+
+  /// Builds user-reviewed values from form text ("3,1" or "3.1"; empty
+  /// means not given). Returns null if any value is not a valid amount.
+  static NutritionFacts? fromForm(Map<String, String> values, String basis) {
+    final parsed = <String, double?>{};
+    for (final key in keys) {
+      final text = (values[key] ?? '').trim();
+      if (text.isEmpty) {
+        parsed[key] = null;
+        continue;
+      }
+      final v = double.tryParse(text.replaceAll(',', '.'));
+      if (v == null || v < 0 || v > (key == 'energyKcal' ? 1000 : 100)) {
+        return null;
+      }
+      parsed[key] = v;
+    }
+    return NutritionFacts(
+      basis: basis,
+      source: 'reviewed',
+      energyKcal: parsed['energyKcal'],
+      fat: parsed['fat'],
+      saturatedFat: parsed['saturatedFat'],
+      carbohydrate: parsed['carbohydrate'],
+      sugars: parsed['sugars'],
+      fibre: parsed['fibre'],
+      protein: parsed['protein'],
+      salt: parsed['salt'],
+    );
+  }
+
+  /// Form text for a value: "3,1" in Turkish, "3.1" in English.
+  static String formText(double? v, {bool english = false}) {
+    if (v == null) return '';
+    final s = v == v.roundToDouble()
+        ? v.toStringAsFixed(0)
+        : v.toStringAsFixed(v < 1 ? 2 : 1);
+    return english ? s : s.replaceAll('.', ',');
+  }
   String basisLabel(bool english) =>
       {'100g': '100 g', '100ml': '100 ml'}[basis] ??
       (english ? '100 g or ml' : '100 g veya ml');
