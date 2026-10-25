@@ -430,3 +430,84 @@
 8690550913510|Tadelle Çikolata Sütlü Fındık Dolgulu 30 Gr.
 8690550914838|Tadelle Çikolatalı Gofret 35 Gr.
 8690550915330|Tadelle Şeker İlavesiz Fındık Dolgulu Sütlü Çikolata 20 gr
+8691316523271|Eker Probiyotik Yoğurt 125 gr İncir & Yulaf
+8691316522885|Eker Kefir Ananaslı 200 ml
+8691316521628|Eker Çilekli Kefir 200 Ml
+8691316521567|Eker Efsane Yoğurt 350 G
+8691316525022|Eker Kazandibi 150 G
+8691316522052|Eker Supangle 150 G
+8691316522014|Eker Sütlaç 150 G
+8691316521840|Eker Probiyotik Yoğurt 500 G
+8691316521208|Eker Kefir 1 L
+8691316521154|Eker Kaymak 100 G
+8691316521666|Eker Kaymaklı Tava Yoğurt 1 Kg
+8691316520379|Eker Yarım Yağlı Kaymaksız Yoğurt 1500 G
+8691316523523|Eker Süzme Yoğurt 500 G
+8691316522724|Eker Probiyotik Tam Yağlı Ayran 1L
+8697471727202|Maret Pratik Hindi Sosis 140 gr
+8697471725642|Maret Pratik Hindi Salam 60 gr
+8697471725666|Maret Pratik Hindi Füme 60 g
+8697471726373|Maret Macar Salam 50 gr
+8697471725918|Maret Hindi Füme 110 G
+8697471720197|Maret Dana Sucuk 200 Gr
+8697471726816|Maret Boncuk Dana Sucuk 220 Gr
+8690681201166|Maret Altın Seri Sucuk 250 G
+8697471728537|Maret Enfes Baton Sucuk Isil Işlem 380gr
+8697471728377|Maret Enfes Isil Işlem Sucuk 250 Gr
+8697471728513|Maret Enfes Macar Salam 250 Gr
+8690681203191|Maret Macar Tombul Salam 250 G
+8690681201951|Maret Yöre Piliç Kangal Sucuk 240 Gr
+8693407002771|Polonez Piliç Füme 150 G
+8693407002788|Polonez Fit Yaşam Xl Hindi Füme 150 G
+8693407002979|Polonez Çemeni Sıyrılmış Pastırma 110 G
+8693407000951|Polonez Dana Sosis 500 G
+8693407000869|Polonez Fit Yaşam Hindi Füme 10 Dilim 60 G
+8693407000890|Polonez Fit Yaşam Hindi Jambon 10 Dilim 60 G
+8693407000852|Polonez Fit Yaşam Jambon 60 G
+8693407002511|Polonez Füme Et Ürünü 100 G
+8693407002856|Polonez Hindi Salam 110 G
+8693407002412|Polonez Kangal Sucuk 2X200 G
+8693407002528|Polonez Karabiberli Füme Et Ürünü 100 G
+8693407000159|Polonez Mini Lezzet Hindi Parça Etli Salam 60 G
+8693407000173|Polonez Mini Lezzet Macar Salam 60 G
+8693407000630|Polonez Pastırma 50 G
+8690347200113|Kaanlar Sürülebilir Lor Peynir 500 gr
+8683417000720|Sarelle Gofret Duo Sütlü Fındıklı 33 gr
+8690550914401|Sarelle Gold Fındıklı Bar Çikolata 33 Gr.
+8683417000027|Sarelle Kakaolu Fındık Ezmesi 350 G
+8683417000065|Sarelle Bitter Fındık Ezmesi 350 G
+8683417000041|Sarelle Duo Sütlü Kakaolu Fındık Kreması 350 G
+8683417000102|Sarelle Fındık Ezmesi 350 G
+8683417000126|Sarelle Kakaolu Fındık Ezmesi 700 G
+8690550915606|Sarelle Gofret Bitter 33 gr
+8690698509668|Uno Anadolu Kepekli Ekmek 400 Gr
+8690698510336|Uno Anadolu Tam Buğday Ekmeği 350 Gr
+8690698511616|Uno Sandviç Yatay 5 li 325 gr
+8690698511678|Uno Ekmek Bol Tahıllı 350 Gr.
+8690698510404|Uno Fırından Çavdar Ekmeği 450 G
+8690698513115|Uno Büyük Tost Ekmeği 550 G
+8690698513559|Uno Gurme Hamburger Ekmeği 4X110 G
+8690698509149|Uno Fırından Tam Buğday 450 G
+8690698092009|Uno Büyük Susamlı Hamburger 510 G
+8690698509811|Uno Denge Tam Buğdaylı Ve Çiya Tohumlu Ekmek 470 G
+8690698512705|Uno Ekşi Mayalı Tam Buğday Ekmek 450 G
+8690698500207|Uno Geleneksel Lavaş 25 Cm 520 Gr.
+8690698504779|Uno Kruvasan Tekli 50 Gr.
+8690698503642|Uno Kruvasan Çikolata Kremalı 300 Gr.
+8690698509682|Uno Otantik Tava Ekmeği 550 gr
+8690698003425|Uno Pastaban Kakaolu 2 Katlı 250 Gr.
+8690698003418|Uno Pastaban Sade 2 Katlı 250 Gr.
+8690698511685|Uno Premium Çavdarlı & Karabuğdaylı Ekmek 350 gr
+8690698032203|Uno Premium Çok Tahıllı&Siyez Buğdaylı Ekmek 460 G
+8690698003180|Uno Sandviç Ekmeği 455 G
+8690698511579|Uno Tam Buğday Unlu Tava Ekmeği 520 Gr.
+8690698512712|Uno İki Kat Lifli Tava Ekmeği 520 G
+8690579772341|Filiz Tam Buğday Makarna Burgu 350 G
+8690579161190|Filiz Sebzeli Burgu Makarna 350 G
+8690579224116|Filiz Yumurtalı Erişte Makarna 350 G
+8690579161206|Filiz Yumurtalı Uzun Makarna 350 G
+8690504064190|Dankek Çay Saati Meyveli Kek 210 G
+8690504066927|Dankek Rulo Pasta Çikolatalı 245 G
+8690504064251|Dankek Çay Saati Islak Kek 240 Gr.
+8690504064183|Dankek Çay Saati Kakaolu Kek 210 G
+8690504082705|Biskrem Elmalı Poşet 120 G
