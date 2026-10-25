@@ -72,6 +72,29 @@ def ingredient_image(code, images):
     return None
 
 
+def fetch_photo(s, code, prod, index):
+    name = display_name({**prod, 'code': code})
+    url = ingredient_image(code, prod.get('images'))
+    if not name or not url:
+        print('no photo', code)
+        return False
+    try:
+        img = s.get(url, timeout=60)
+        img.raise_for_status()
+        im = Image.open(io.BytesIO(img.content)).convert('RGB')
+        im.thumbnail((1600, 1600))
+        im.save(OUT / f'{code}.jpg', 'JPEG', quality=82)
+    except Exception as error:  # noqa: BLE001
+        print('skip', code, error)
+        return False
+    time.sleep(1)
+    index.append({'code': code, 'name': name, 'image_url': url,
+                  'product_url': f'https://world.openfoodfacts.org/product/{code}',
+                  'license': 'CC BY-SA 3.0, Open Food Facts contributors'})
+    print(code, name)
+    return True
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument('--limit', type=int, default=80)
@@ -84,6 +107,22 @@ def main():
     index = json.loads(index_file.read_text(encoding='utf-8')) if index_file.exists() else []
     skip = known_codes() | {r['code'] for r in index}
     added = 0
+    # Barcodes the coverage check found on Open Food Facts without ingredients.
+    codes_file = ROOT / 'docs/new_products/photo_codes.txt'
+    for code in (codes_file.read_text().split() if codes_file.exists() else []):
+        if added >= args.limit or code in skip:
+            continue
+        try:
+            r = s.get(f'https://world.openfoodfacts.org/api/v2/product/{code}',
+                      params={'fields': FIELDS}, timeout=30)
+            prod = r.json().get('product') if r.status_code == 200 else None
+        except Exception as error:  # noqa: BLE001
+            print('skip', code, error)
+            continue
+        time.sleep(0.8)
+        if prod and fetch_photo(s, code, prod, index):
+            skip.add(code)
+            added += 1
     for page in range(1, args.pages + 1):
         if added >= args.limit:
             break
@@ -106,26 +145,9 @@ def main():
             code = str(prod.get('code') or '')
             if code in skip or not valid_gtin(code):
                 continue
-            name = display_name(prod)
-            url = ingredient_image(code, prod.get('images'))
-            if not name or not url:
-                continue
-            try:
-                img = s.get(url, timeout=60)
-                img.raise_for_status()
-                im = Image.open(io.BytesIO(img.content)).convert('RGB')
-                im.thumbnail((1600, 1600))
-                im.save(OUT / f'{code}.jpg', 'JPEG', quality=82)
-            except Exception as error:  # noqa: BLE001
-                print('skip', code, error)
-                continue
-            time.sleep(1)
-            skip.add(code)
-            added += 1
-            index.append({'code': code, 'name': name, 'image_url': url,
-                          'product_url': f'https://world.openfoodfacts.org/product/{code}',
-                          'license': 'CC BY-SA 3.0, Open Food Facts contributors'})
-            print(code, name)
+            if fetch_photo(s, code, prod, index):
+                skip.add(code)
+                added += 1
     index_file.write_text(json.dumps(index, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
     print(f'{added} photos added, {len(index)} total')
 

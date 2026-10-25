@@ -8,7 +8,7 @@ on:
     paths:
       - 'tool/off_ingredient_photos.py'
       - '.github/workflows/off-ingredient-photos.yml'
-      - 'docs/new_products/photos_request.txt'
+      - 'docs/new_products/photo*.txt'
   workflow_dispatch:
 
 permissions:
@@ -37,8 +37,8 @@ jobs:
           fi
       - name: Download photos
         run: |
-          limit=$(grep -oE '^limit=[0-9]+' docs/new_products/photos_request.txt 2>/dev/null | cut -d= -f2)
-          pages=$(grep -oE '^pages=[0-9]+' docs/new_products/photos_request.txt 2>/dev/null | cut -d= -f2)
+          limit=$(grep -oE '^limit=[0-9]+' docs/new_products/photo*.txt 2>/dev/null | cut -d= -f2)
+          pages=$(grep -oE '^pages=[0-9]+' docs/new_products/photo*.txt 2>/dev/null | cut -d= -f2)
           python tool/off_ingredient_photos.py --limit "${limit:-80}" --pages "${pages:-5}" > out.txt 2>&1 || { echo "::error title=photos failed::$(tail -c 1500 out.txt | tr '\n' ' ')"; exit 1; }
           echo "::notice title=photos::$(tail -n 3 out.txt | tr '\n' ' ')"
       - name: Commit to data branch
