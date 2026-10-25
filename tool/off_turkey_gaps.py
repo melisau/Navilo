@@ -85,7 +85,18 @@ def display_name(product):
     return re.sub(r'\s+', ' ', name)
 
 
-def search(session, host, page):
+def search(session, host, page, attempts=3):
+    """One search page; transient 5xx/429 answers are retried."""
+    for attempt in range(1, attempts + 1):
+        try:
+            return _search_once(session, host, page)
+        except RuntimeError as error:
+            if attempt == attempts or 'HTTP 4' in str(error) and 'rate limited' not in str(error):
+                raise
+            time.sleep(20 * attempt)
+
+
+def _search_once(session, host, page):
     response = session.get(
         f'https://{host}/api/v2/search',
         params={
@@ -113,9 +124,11 @@ def collect(limit, pages, session):
     skip = known_codes() | candidate_codes(existing)
     found, report = [], []
     today = date.today().isoformat()
-    for host, category, source_name in SOURCES:
+    for index, (host, category, source_name) in enumerate(SOURCES):
+        # Split the limit so one failing source cannot be replaced by the other.
+        quota = len(found) + -(-(limit - len(found)) // (len(SOURCES) - index))
         for page in range(1, pages + 1):
-            if len(found) >= limit:
+            if len(found) >= quota:
                 break
             try:
                 products = search(session, host, page)
@@ -127,7 +140,7 @@ def collect(limit, pages, session):
                 break
             for product in products:
                 code = str(product.get('code') or '')
-                if len(found) >= limit:
+                if len(found) >= quota:
                     break
                 if code in skip or not valid_gtin(code):
                     continue
