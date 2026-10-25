@@ -16,6 +16,9 @@ extension _ContributionScreen on _HomePageState {
       activeLocalId = candidate['id'] as String;
       category = candidate['category'] as String;
       productName = candidate['name'] as String;
+      // Open Facts knows the barcode; the user confirms it on the package.
+      final barcode = candidate['candidate_barcode'];
+      if (barcode is String && isValidGtin(barcode)) activeBarcode = barcode;
       page = 0;
       stage = ScanStage.review;
     });
@@ -64,8 +67,12 @@ extension _ContributionScreen on _HomePageState {
                       subtitle: Text(updated
                           ? copy('Bu cihazda kaydedildi · Düzenle',
                               'Saved on this device · Edit')
-                          : copy('Barkod ve içerik bekliyor',
-                              'Needs barcode and ingredients')),
+                          : candidate['candidate_barcode'] is String
+                              ? copy(
+                                  'Barkod ${candidate['candidate_barcode']} · içerik bekliyor${candidate['source_name'] is String ? ' · ${candidate['source_name']}' : ''}',
+                                  'Barcode ${candidate['candidate_barcode']} · needs ingredients')
+                              : copy('Barkod ve içerik bekliyor',
+                                  'Needs barcode and ingredients')),
                       trailing: Icon(updated
                           ? Icons.edit_outlined
                           : Icons.add_circle_outline),

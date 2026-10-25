@@ -40,6 +40,8 @@ See [Mobile UX flow](docs/MOBILE_UX_FLOW.md) for the screen structure and device
 
 ## Continuous integration
 
+`.github/workflows/catalogue-gaps.yml` runs weekly (and on demand): `tool/off_turkey_gaps.py` asks Open Food Facts and Open Beauty Facts for products sold in Turkey that have a barcode and name but no ingredient list, skips anything already in the catalogue, the contribution list or quarantine, and adds them to `assets/contribution_candidates.json` as `off-gap-<barcode>` candidates with ODbL attribution. Ingredients are never guessed and nothing is marked verified; users complete the ingredients from the package in the app's contribution flow, where the barcode is pre-filled. The workflow opens a pull request (enable "Allow GitHub Actions to create and approve pull requests" in repository settings; otherwise it pushes a branch).
+
 `.github/workflows/flutter.yml` runs `flutter analyze` and `flutter test` on every pull request and on pushes to `main`.
 
 ## Getting started

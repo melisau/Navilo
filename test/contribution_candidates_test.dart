@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:navilo/domain/barcode.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();
@@ -22,6 +23,25 @@ void main() {
       'Cappy Şeftali Nektarı Karton Kutu (200 ml)',
     ]) {
       expect(rows.any((row) => row['name'] == name), isTrue);
+    }
+  });
+
+  test('Automatic Open Facts candidates carry a valid barcode and source',
+      () async {
+    final rows = (jsonDecode(
+            await rootBundle.loadString('assets/contribution_candidates.json'))
+        as List).cast<Map<String, dynamic>>();
+    final catalogue = (jsonDecode(
+            await rootBundle.loadString('assets/curated_products.json')) as List)
+        .map((row) => row['code'])
+        .toSet();
+    for (final row in rows.where((r) => (r['id'] as String).startsWith('off-gap-'))) {
+      final code = row['candidate_barcode'] as String;
+      expect(isValidGtin(code), isTrue, reason: code);
+      expect(row['id'], 'off-gap-$code');
+      expect(catalogue.contains(code), isFalse, reason: code);
+      expect(row['missing_fields'], contains('ingredients'));
+      expect((row['source_url'] as String).startsWith('https://'), isTrue);
     }
   });
 }
