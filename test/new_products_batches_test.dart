@@ -31,7 +31,10 @@ void main() {
           reason: code);
       expect(row['field_sources']['code'], [row['source_url']]);
       expect(row['field_sources']['ingredients'], [row['source_url']]);
-      expect(row['source_url'] as String, contains(code));
+      if (row['source_type'] != 'manufacturer') {
+        // Market Karşılaştır and Open Food Facts URLs carry the GTIN.
+        expect(row['source_url'] as String, contains(code));
+      }
       final product = await repo.find(code);
       expect(product.name, row['name']);
       expect(product.ingredients, row['ingredients']);
