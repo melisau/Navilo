@@ -136,6 +136,11 @@ def main():
                 break
             time.sleep(20 * (attempt + 1))
         if r.status_code >= 400:
+            # The cached facet page is lighter than the search API.
+            r = s.get(f'https://world.openfoodfacts.org/country/turkey/state/'
+                      f'ingredients-to-be-completed/{page}.json',
+                      params={'fields': FIELDS, 'page_size': 100}, timeout=60)
+        if r.status_code >= 400:
             print(f'search page {page}: HTTP {r.status_code}; stopping')
             break
         time.sleep(7)
