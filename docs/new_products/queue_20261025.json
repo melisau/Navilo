@@ -1,0 +1,590 @@
+[
+ {
+  "code": "8690508201485",
+  "name": "Tukaş Bezelye 680 G (Cam)",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508103468",
+  "name": "Tukaş Acılı Ketçap 400 Gr",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508103451",
+  "name": "Tukaş Ketçap 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508302311",
+  "name": "Tukaş Fasülye Pilaki 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508402417",
+  "name": "Tukaş Fasulye Haşlama 830 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508403414",
+  "name": "Tukaş Nohut Haşlama 830 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508301314",
+  "name": "Tukaş Barbunya Pilaki 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508101419",
+  "name": "Tukaş Domates Salçası 700 Gr",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508153357",
+  "name": "Tukaş Paprika Sos 350 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508600493",
+  "name": "Tukaş Acı Sos 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508204493",
+  "name": "Tukaş Fasulye 670 G Cam",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508006745",
+  "name": "Tukaş Biber Salçası 700 G Cam",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508654212",
+  "name": "Tukaş Közlenmiş Biber 680 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508007254",
+  "name": "Tukaş Acı Biber Salçası 700 G Cam",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508600431",
+  "name": "Tukaş Biber & Domates Karışık Salça 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508206435",
+  "name": "Tukaş Garnitür 560 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690508001856",
+  "name": "Tukaş Rendelenmiş Domates 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tukas"
+ },
+ {
+  "code": "8690575010515",
+  "name": "Tamek Domates Püresi 210 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575045319",
+  "name": "Tamek Barbunya Pilaki 190 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575070212",
+  "name": "Tamek Garnitür 535 G (Cam)",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575045715",
+  "name": "Tamek Barbunya Pilaki 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575044312",
+  "name": "Tamek Fasulye Pilaki 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575086114",
+  "name": "Tamek Haşlanmış Barbunya 800 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575085711",
+  "name": "Tamek Haşlanmış Fasulye 800 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575109011",
+  "name": "Tamek Ahududu Reçeli 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575171513",
+  "name": "Tamek Kahvaltılık Sos 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575021221",
+  "name": "Tamek Acı Biber Salçası 540 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575171520",
+  "name": "Tamek Acılı Kahvaltılık Sos 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575109219",
+  "name": "Tamek Çilek Reçeli 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8690575038120",
+  "name": "Tamek Domates Rendesi 680 G Cam",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tamek"
+ },
+ {
+  "code": "8693374255279",
+  "name": "Yayla Arabiata Soslu Makarna 250 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374255330",
+  "name": "Yayla Napoliten Soslu Makarna 250 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374254517",
+  "name": "Yayla Haşlanmış Bezelye 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374253602",
+  "name": "Yayla Haşlanmış Fasulye 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374253589",
+  "name": "Yayla Haşlanmış Nohut 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374011196",
+  "name": "Yayla Aşurelik Buğday 1 Kg",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374011134",
+  "name": "Yayla Köftelik Bulgur 1 Kg",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8693374011226",
+  "name": "Yayla Çiğ Köftelik Bulgur 1 Kg",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/yayla"
+ },
+ {
+  "code": "8690710009039",
+  "name": "Koska Kağıt Helva 45 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710135868",
+  "name": "Koska Dondurma Külahı 10'lu 32 g",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710009435",
+  "name": "Koska Kakaolu Helva 200 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710003518",
+  "name": "Koska Çilek Reçeli 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710137312",
+  "name": "Koska Harnup Pekmezi 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710009442",
+  "name": "Koska Fıstıklı Helva 200 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710141708",
+  "name": "Koska Keçiboynuzlu Tahin Pekmez 350 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710001286",
+  "name": "Koska Cevizli Yaz Helvası 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710141678",
+  "name": "Koska Kabuklu Susamdan Tahin 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710009084",
+  "name": "Koska Karışık Lokum 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710001934",
+  "name": "Koska Dut Pekmezi 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710009060",
+  "name": "Koska Fındıklı Lokum 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710070046",
+  "name": "Koska Karışık Çerezli Lokum 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710136155",
+  "name": "Koska Amerikan Fıstık Krokan 40 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710138555",
+  "name": "Koska Fındıklı Cezerye 40 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710107070",
+  "name": "Koska Fıstık Krokan 40 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710139750",
+  "name": "Koska Organik Üzüm Pekmezi 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8690710003501",
+  "name": "Koska Vişne Reçeli 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/koska"
+ },
+ {
+  "code": "8698529301405",
+  "name": "Seyidoğlu Fıstıklı Helva 175 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529300972",
+  "name": "Seyidoğlu Çilek Reçeli 380 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529300019",
+  "name": "Seyidoğlu Kakaolu Helva 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529300002",
+  "name": "Seyidoğlu Sade Helva 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529303300",
+  "name": "Seyidoğlu Tahin 550 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529303294",
+  "name": "Seyidoğlu Keçiboynuzu Pekmezi 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529301436",
+  "name": "Seyidoğlu Tahin 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8698529309784",
+  "name": "Seyidoğlu Kahvaltı Masası 9'lu 150 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/seyidoglu"
+ },
+ {
+  "code": "8690158002050",
+  "name": "Teksüt Kaşar Peyniri 700 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/teksut"
+ },
+ {
+  "code": "8699177445411",
+  "name": "Mezzetürk Rus Salatası 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/mezzeturk"
+ },
+ {
+  "code": "8691225154320",
+  "name": "Tahsildaroğlu Kahvaltılık Lor 300 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225153002",
+  "name": "Tahsildaroğlu Taze Kaşar Peyniri 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225153415",
+  "name": "Tahsildaroğlu Eski Kaşar 350 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225152609",
+  "name": "Tahsildaroğlu İzmir Tulum Peyniri 350 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225152340",
+  "name": "Tahsildaroğlu Ezine Peyniri 350 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225156744",
+  "name": "Tahsildaroğlu Gurme Ezine Peyniri 450 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225152494",
+  "name": "Tahsildaroğlu Dil Peyniri 250 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225152449",
+  "name": "Tahsildaroğlu Ezine Koyun Peyniri 600 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225155235",
+  "name": "Tahsildaroğlu Tam Yağlı Beyaz Peynir 800 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225153361",
+  "name": "Tahsildaroğlu Tereyağı 1000 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8691225152142",
+  "name": "Tahsildaroğlu Örgü Peyniri 250 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/tahsildaroglu"
+ },
+ {
+  "code": "8696292000341",
+  "name": "Untad Tam Buğday Ekmeği 400 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/untad"
+ },
+ {
+  "code": "8696292001201",
+  "name": "Untad Baklavalık Böreklik Yufka 800 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/untad"
+ },
+ {
+  "code": "8698720170251",
+  "name": "Efendioğulları Şavak Tulum Peyniri 500 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/efendiogullari"
+ },
+ {
+  "code": "8690504011804",
+  "name": "Hanımeller Fındıklı Rulo 82 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/hanimeller"
+ },
+ {
+  "code": "8690504013150",
+  "name": "Hanımeller Asorti 180 G",
+  "category": "food",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/hanimeller"
+ },
+ {
+  "code": "8690506429355",
+  "name": "Duru Güzellik Sabunu Saf&Doğal Gül 4x70 G",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506494582",
+  "name": "Duru Fresh Duş Sabunu Çiçek Tazeliği 4x150 G",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506448509",
+  "name": "Duru Geleneksel Pirina Kalıp Sabunu 800 G",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506490157",
+  "name": "Duru Granül Sabun Lavanta 1 Kg",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506499020",
+  "name": "Duru 2'si 1 Arada Şampuan 600 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506467968",
+  "name": "Duru Bodrum Mandalina Kolonyası 400 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506025090",
+  "name": "Duru Deniz Mineralleri Güzellik Sabunu 4x90 G",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506495428",
+  "name": "Duru Fruit&Milk Duş Jeli Çilek 450 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8690506493554",
+  "name": "Duru Çiçek Terapisi Sıvı Sabun 300 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/duru"
+ },
+ {
+  "code": "8691226628479",
+  "name": "Rebul Bouquet Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ },
+ {
+  "code": "8691226606125",
+  "name": "Rebul Aqua Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ },
+ {
+  "code": "8691226604893",
+  "name": "Rebul Green Tea Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ },
+ {
+  "code": "8691226604633",
+  "name": "Rebul Ice Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ },
+ {
+  "code": "8691226604626",
+  "name": "Rebul Jasmine Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ },
+ {
+  "code": "8691226604602",
+  "name": "Rebul Lavanta Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ },
+ {
+  "code": "8691226604596",
+  "name": "Rebul Mandarine Kolonya 270 Ml",
+  "category": "cosmetic",
+  "barcode_source_url": "https://marketkarsilastir.com/marka/rebul"
+ }
+]
