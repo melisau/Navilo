@@ -33,7 +33,13 @@ SOURCES = [
     ('world.openfoodfacts.org', 'food', 'Open Food Facts'),
     ('world.openbeautyfacts.org', 'cosmetic', 'Open Beauty Facts'),
 ]
-FIELDS = 'code,product_name,product_name_tr,brands,quantity,countries_tags,states_tags'
+FIELDS = ('code,product_name,product_name_tr,brands,quantity,countries_tags,'
+          'states_tags,categories_tags')
+# Not useful to ask for: tobacco, non-food, plain waters (ingredient = water).
+SKIP_CATEGORIES = {'en:tobacco', 'en:non-food-products', 'en:waters',
+                   'en:spring-waters', 'en:mineral-waters', 'en:natural-mineral-waters'}
+SKIP_NAME = re.compile(r'\b(sigara|cigarette|tütün|tobacco|maden suyu|kaynak suyu|içme suyu)\b',
+                       re.IGNORECASE)
 # Open Facts asks for at most ~10 search requests per minute.
 SEARCH_PAUSE_SECONDS = 7
 
@@ -62,10 +68,15 @@ def candidate_codes(rows):
 
 
 def display_name(product):
+    """A name a shopper can recognise on the shelf, or None."""
     name = (product.get('product_name_tr') or product.get('product_name') or '').strip()
-    if not name:
-        return None
     brand = (product.get('brands') or '').split(',')[0].strip()
+    code = str(product.get('code') or '')
+    # Brand and a real product name are needed to find the item in a store.
+    if not name or not brand or len(name) < 4 or (code and code in name):
+        return None
+    if SKIP_NAME.search(name) or set(product.get('categories_tags') or []) & SKIP_CATEGORIES:
+        return None
     if brand and not name.lower().startswith(brand.lower()):
         name = f'{brand} {name}'
     quantity = (product.get('quantity') or '').strip()
