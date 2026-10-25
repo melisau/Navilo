@@ -21,7 +21,7 @@ concurrency:
 jobs:
   photos:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
         with:
@@ -39,7 +39,7 @@ jobs:
         run: |
           limit=$(grep -oE '^limit=[0-9]+' docs/new_products/photo*.txt 2>/dev/null | cut -d= -f2)
           pages=$(grep -oE '^pages=[0-9]+' docs/new_products/photo*.txt 2>/dev/null | cut -d= -f2)
-          python tool/off_ingredient_photos.py --limit "${limit:-80}" --pages "${pages:-5}" > out.txt 2>&1 || { echo "::error title=photos failed::$(tail -c 1500 out.txt | tr '\n' ' ')"; exit 1; }
+          python tool/off_ingredient_photos.py --dump --limit "${limit:-80}" --pages "${pages:-5}" > out.txt 2>&1 || { echo "::error title=photos failed::$(tail -c 1500 out.txt | tr '\n' ' ')"; exit 1; }
           echo "::notice title=photos::$(tail -n 3 out.txt | tr '\n' ' ')"
       - name: Commit to data branch
         env:

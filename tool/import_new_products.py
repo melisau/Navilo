@@ -48,9 +48,9 @@ ALLERGENS = [
     ('en:celery', r'kereviz'),
     ('en:lupin', r'acı bakla|lupin'),
     ('en:sulphur-dioxide-and-sulphites', r'sülfit|kükürt dioksit|metabisülfit'),
-    ('en:fish', r'\bbalık'),
+    ('en:fish', r'balı[kğ]|sardalya|\bton\b|levrek|mezgit|hamsi|somon|uskumru|alabalık|ançüez'),
     ('en:crustaceans', r'karides|kabuklular'),
-    ('en:molluscs', r'yumuşakça'),
+    ('en:molluscs', r'yumuşakça|midye|kalamar|ahtapot|istiridye'),
 ]
 NEGATIVE = re.compile(r'içermez|içermemektedir|bulunmamaktadır', re.IGNORECASE)
 
@@ -118,7 +118,10 @@ def main():
         if kind == 'off_photo':
             verdict = verdict or 'open_facts_without_ingredients'
         statement_tags = [] if NEGATIVE.search(allergen_text) else tags(allergen_text)
-        allergens = sorted(set(tags(ingredients)) | set(statement_tags))
+        allergens = set(tags(ingredients)) | set(statement_tags)
+        if re.search(r'gl[uü]ten içermez|glutensiz', allergen_text + name, re.IGNORECASE):
+            allergens.discard('en:gluten')  # labelled gluten-free (e.g. certified oats)
+        allergens = sorted(allergens)
         traces = sorted(set(tags(trace_text)) - set(allergens))
         row = {'code': code, 'name': name, 'category': 'food', 'ingredients': ingredients}
         if kind == 'marketkarsilastir':

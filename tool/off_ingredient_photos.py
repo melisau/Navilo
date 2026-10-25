@@ -95,10 +95,43 @@ def fetch_photo(s, code, prod, index):
     return True
 
 
+DUMP = 'https://static.openfoodfacts.org/data/en.openfoodfacts.org.products.csv.gz'
+
+
+def dump_candidates(session, out_file):
+    """Turkish products without ingredient text but with an ingredients photo,
+    read from the daily CSV export (no search API load)."""
+    import csv
+    import gzip
+    csv.field_size_limit(10 ** 8)
+    found = []
+    with session.get(DUMP, stream=True, timeout=120) as r:
+        r.raise_for_status()
+        r.raw.decode_content = True
+        lines = (line.decode('utf-8', 'replace') for line in gzip.GzipFile(fileobj=r.raw))
+        for row in csv.DictReader(lines, delimiter='\t'):
+            if 'en:turkey' not in (row.get('countries_tags') or ''):
+                continue
+            if (row.get('ingredients_text') or '').strip():
+                continue
+            image = row.get('image_ingredients_url') or ''
+            if not image:
+                continue
+            found.append({'code': row.get('code', ''), 'product_name': row.get('product_name', ''),
+                          'brands': row.get('brands', ''), 'quantity': row.get('quantity', ''),
+                          'image': image.replace('.400.jpg', '.full.jpg'),
+                          'scans': int(float(row.get('unique_scans_n') or 0))})
+    found.sort(key=lambda r: -r['scans'])
+    out_file.write_text(json.dumps(found, ensure_ascii=False) + '\n', encoding='utf-8')
+    print(f'dump: {len(found)} Turkish products with an ingredients photo and no text')
+    return found
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument('--limit', type=int, default=80)
     p.add_argument('--pages', type=int, default=5)
+    p.add_argument('--dump', action='store_true', help='use the CSV export')
     args = p.parse_args()
     s = requests.Session()
     s.headers['User-Agent'] = UA
@@ -107,6 +140,38 @@ def main():
     index = json.loads(index_file.read_text(encoding='utf-8')) if index_file.exists() else []
     skip = known_codes() | {r['code'] for r in index}
     added = 0
+    if args.dump:
+        cand_file = OUT / 'dump_candidates.json'
+        cands = (json.loads(cand_file.read_text(encoding='utf-8')) if cand_file.exists()
+                 else dump_candidates(s, cand_file))
+        for c in cands:
+            if added >= args.limit:
+                break
+            code = c['code']
+            if code in skip or not valid_gtin(code):
+                continue
+            name = display_name({'code': code, 'product_name': c['product_name'],
+                                 'brands': c['brands'], 'quantity': c['quantity']})
+            if not name:
+                continue
+            try:
+                img = s.get(c['image'], timeout=60)
+                img.raise_for_status()
+                im = Image.open(io.BytesIO(img.content)).convert('RGB')
+                im.thumbnail((1600, 1600))
+                im.save(OUT / f'{code}.jpg', 'JPEG', quality=82)
+            except Exception as error:  # noqa: BLE001
+                print('skip', code, error)
+                continue
+            skip.add(code)
+            added += 1
+            index.append({'code': code, 'name': name, 'image_url': c['image'],
+                          'product_url': f'https://world.openfoodfacts.org/product/{code}',
+                          'license': 'CC BY-SA 3.0, Open Food Facts contributors'})
+            time.sleep(0.3)
+        index_file.write_text(json.dumps(index, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
+        print(f'{added} photos added, {len(index)} total')
+        return
     # Barcodes the coverage check found on Open Food Facts without ingredients.
     codes_file = ROOT / 'docs/new_products/photo_codes.txt'
     for code in (codes_file.read_text().split() if codes_file.exists() else []):
