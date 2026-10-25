@@ -165,3 +165,78 @@
 8691641529009|Fiskobirlik Nuga Kakaolu Fındık Kreması 350 G
 8691641090219|Fiskobirlik Fiskorella Kakaolu Fındık Kreması 400 Gr
 8691641545672|Fiskobirlik Fıstık Ezmesi 300 gr
+8697471729787|Namet 7/24 Piliç Füme 50G
+8697471720005|Namet Hindi Salam Fist Ikli 50 Gr
+8697471721019|Namet 7-24 Namet Dana Macar Salam 60 Gr
+8697471720036|Namet Dana Jambon 7/24 50 G
+8697471724379|Namet Hindi Füme 7/24 60 G
+8697471727493|Namet Dana Dilimli Macar Salam 50 gr
+8697471720180|Namet Kokteyl Hindi Sosis 140 Gr.
+8692415400692|Namet Hindi Etli Jambon 130 G
+8692415400562|Namet Hindi Füme 200 G
+8697471720555|NAMET 200 GR KLASIK KANGAL SUCUK
+8697471724553|Namet Dilimli Isıl İşlem Görmüş Sucuk 200 G
+8697471720012|Namet Dilimli Kavurma 200 G
+8697471727219|Namet Kangal Sucuk 240 G
+8692415400548|Namet Klasik Dilimli Pastırma 130 G
+8692415400555|Namet Çemeni Sıyrılmış Dilimli Pastırma 130 G
+8697471724256|Namet Bir Tavalık Sucuk 80 G
+8697471723716|Namet 7/24 Jambon 60 G
+8697471724935|Namet Dana Dilimli Salam 300 g
+8697471729732|Namet Dana Fermente Kangal Sucuk 225 g
+8692415400258|NAMET DANA MACAR SALAM 150 GR
+8692415400166|Namet Dilimli Dana Jambon 150 G
+8697471722429|Namet Füme Kavurma 100 G
+8690451709892|Banvit Piliç Nuget Küvet 300 g
+8690451713646|Banvit Piliç Salam 850 Gr
+8690451712489|Banvit Schinıtzel Küvet 700 Gr
+8690451706174|Banvit Dilimli Piliç Sucuk 400 Gr
+8690451713516|Banvit Piliç Kokteyl Sosis 500 Gr
+8690451703098|Banvit Piliç Nugget 1000 Gr
+8690451706433|Banvit Piliç Sosis Uzun 1KG
+8690451704477|Banvit Piliç Yaprak Döner 200 G
+8690451712441|Banvit Çıtır Kanat 1KG
+8690451706457|BANVİT SALAM MACAR PİLİÇ 750 GR
+8690451707058|Bi Dilim Piliç Jambon 60 G
+8692095340257|Sek Çikolatalı Pastörize Süt 200 Ml
+8692095343838|Sek Çiftlik Kaymaksız Yoğurt 450 G
+8692095344293|Sek Quark İncir-Ceviz 140 G
+8692095342886|Sek Laktozsuz Pastörize Süt 1 L
+8692095335673|Sek Hazır Salep 1 L
+8692095341155|Sek Kaşar Peyniri 200 G
+8692095342183|Sek Tam Yağlı Taze Kaşar Peyniri 600 G
+8692095341971|Sek Quark Yaban Mersini 150 G
+8692095051030|Sek Tereyağı 1 Kg
+8691375640209|Bizim Çorba Domates 65 Gr.
+8691375640100|Bizim Çorba Ezogelin 65 Gr.
+8691375640506|Bizim Mutfak Hazır Çorba Kremalı Tavuk 62 Gr.
+8691375608209|Bizim Margarin Paket 250 Gr.
+8691375640704|Bizim Çorba Kremalı Mantar 65 gr
+8682287361108|Bizim Mutfak Serbest Gezen Tavuk 12X10 G
+8682287361160|Bizim Mutfak Yerli Besi Et Bulyon 24X10 G
+8691375608506|Bizim Kase Margarin 250 Gr
+8682005310210|Bizim Bulyon Kemik Suyu 12li 120 gr
+8690504632450|Bizim Mutfak Analı Kızlı Çorbası 92 G
+8690504635376|Bizim Mutfak Kakaolu Puding 100 G
+8691375635311|Bizim Mutfak Kakaolu Toz Puding 150 Gr
+8691375628092|Bizim Mutfak Krem Şanti 2li Poşet 150 gr
+8691375640902|Bizim Mutfak Yayla Çorbası 65 G
+8691375640407|Bizim Mutfak Şehriyeli Tavuk Çorbası 65 G
+8690504485117|Bizim Çikolatalı Sos 128 Gr.
+8691375642982|Bizim Çıtır Pane Harcı 100 G
+8690770328811|Pakmaya Mayalı Poğaça Harcı 35 G
+8690770324028|Pakmaya Kabartma Tozu 10lu 100 gr
+8690770324776|Pakmaya Çilekli Puding 125 G
+8690770326695|Pakmaya Çikolatalı Portakallı Puding 116 G
+8690770324721|Pakmaya Bitter Çikolatalı Puding 115 G
+8690770329238|Pakmaya Çikolatalı Puding 106 G
+8690770329214|Pakmaya Kakaolu Puding Toz Karışım 145 G
+8690770324790|Pakmaya Krem Şanti 2x75 gr
+8690770329504|Pakmaya Limon Frambuaz Nane Aromalı Kokoln Vermisel 50 G
+8690770329160|Pakmaya Çift Renkli Damla Çikolata 70 gr
+8690770330609|Pakmaya Beyaz Pul Çikolata 100 G
+8690770328156|Pakmaya Bitter Pul Çikolata 100 G
+8690770329207|Pakmaya Bitter Kurabiye Çikolatası 90 G
+8690770327685|Pakmaya Beyaz Ekmek Harcı 30 G
+8690770327678|Pakmaya Esmer Ekmek Harcı 30 G
+8690770328903|Pakmaya Mayalı Sade Kek Harcı 28 G
