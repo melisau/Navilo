@@ -21,7 +21,32 @@ from PIL import Image
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from catalog_validation import valid_gtin  # noqa: E402
-from off_turkey_gaps import display_name, known_codes  # noqa: E402
+from catalog_validation import excluded_codes  # noqa: E402
+
+SKIP_NAME = re.compile(r'\b(sigara|tütün|maden suyu|kaynak suyu|içme suyu)\b', re.IGNORECASE)
+
+
+def known_codes():
+    codes = set(excluded_codes())
+    for name in ('curated_products.json', 'curated_cosmetics.json'):
+        path = ROOT / 'assets' / name
+        if path.exists():
+            codes |= {r.get('code', '') for r in json.loads(path.read_text(encoding='utf-8'))}
+    return codes
+
+
+def display_name(product):
+    name = (product.get('product_name_tr') or product.get('product_name') or '').strip()
+    brand = (product.get('brands') or '').split(',')[0].strip()
+    code = str(product.get('code') or '')
+    if not name or not brand or len(name) < 4 or code in name or SKIP_NAME.search(name):
+        return None
+    if not name.lower().startswith(brand.lower()):
+        name = f'{brand} {name}'
+    quantity = (product.get('quantity') or '').strip()
+    if quantity and quantity.lower() not in name.lower():
+        name = f'{name} ({quantity})'
+    return re.sub(r'\s+', ' ', name)
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / 'docs/new_products/off_photos'
