@@ -1,0 +1,33 @@
+8690575044312|Tamek Fasulye Pilaki 400 g|Kuru fasulye, patates, ayçiçek yağı, havuç, kuru soğan, tuz, maydanoz, limon suyu konsantresi, sarımsak tozu||
+8690575085711|Tamek Haşlanmış Fasulye 800 g|Kuru fasulye, su, tuz|Alerjen içermemektedir|
+8693374011196|Yayla Aşurelik Buğday 1 kg|Aşurelik buğday|Gluten içerir.|
+8693374011226|Yayla Çiğ Köftelik Bulgur 1 kg|Çiğ köftelik bulgur|Gluten içerir.|
+8690710001286|Koska Cevizli Yaz Helvası 500 g|Şeker, irmik (buğday içerir), tahin (susam içerir), ceviz (%10), su, glikoz şurubu, bitkisel yağ (mısır yağı), kakao tozu, aroma verici (vanilin), asitlik düzenleyici (sitrik asit)|Buğday(gluten), Susam tohumu, ceviz içerir. Eser miktarda fındık, fıstık ve badem içerebilir.|
+8690710138555|Koska Fındıklı Cezerye 40 g|Havuç, şeker, fındık (%12), glikoz şurubu, hindistan cevizi, aroma verici (tarçın), asitlik düzenleyici (sitrik asit)||Eser miktarda yer fıstığı, antep fıstığı, susam, badem ve ceviz içerebilir
+8690710139750|Koska Organik Üzüm Pekmezi 300 g|%100 Üzüm Pekmezi||
+8690710107070|Koska Fıstık Krokan 40 g|Antep fıstığı (%60), şeker, süzme çam balı (%3)||Eser miktarda susam, fındık, yer fıstığı, badem, ceviz ve buğday gluteni içerebilir.
+8691225152494|Tahsildaroğlu Dil Peyniri 250 g|Pastörize inek sütü, peynir mayası, starter kültür, stabilizatör (E509 kalsiyum klorür), tuz|Laktoz içerir.|
+8691225152449|Tahsildaroğlu Ezine Koyun Peyniri 600 g|Pastörize koyun sütü (%55), keçi sütü (%40), inek sütü (%5), peynir mayası, tuz|Laktoz içerir.|
+8691225155235|Tahsildaroğlu Tam Yağlı Beyaz Peynir 800 g|Pastörize inek sütü, peynir mayası, peynir kültürü, stabilizatör (E509 kalsiyum klorür), tuz|Laktoz içerir.|
+8690508103468|Tukaş Acılı Ketçap 400 g|Domates püresi, glikoz şurubu, şeker, sirke, modifiye nişasta, tuz, asitlik düzenleyici (asetik asit), koruyucu madde (potasyum sorbat, sodyum benzoat), acı biber ekstraktı||
+8690508153357|Tukaş Paprika Sos 350 g|Acı kırmızı biber (%60), domates salçası (%20), biber salçası (%10), su, tuz, asitliği düzenleyici (sitrik asit), koruyucu madde (potasyum sorbat), antioksidan (askorbik asit), biber ekstraktı||
+8690508654212|Tukaş Közlenmiş Biber 680 g|Közlenmiş kapya biber, su, sirke, şeker, tuz||
+8690508007254|Tukaş Acı Biber Salçası 700 g|Acı kırmızı biber, limon suyu konsantresi||
+8690575045715|Tamek Barbunya Pilaki 400 g|Barbunya, su, ayçiçek yağı, domates, dolmalık biber, kuru soğan, domates salça, tuz, sarımsak, şeker, karabiber||
+8690710137312|Koska Harnup Pekmezi 380 g|%100 keçiboynuzu pekmezi||
+8690710009442|Koska Fıstıklı Helva 200 g|Tahin (susam içerir) (%57), şeker, antep fıstığı (%8), emülgatör (yağ asitlerinin mono- ve digliseritleri), çöven ekstraktı, asitlik düzenleyici (sitrik asit), aroma verici (vanilin)|Antep Fıstığı ve Susam Tohumu içerir.|Eser miktarda fındık, ceviz ve badem içerebilir.
+8690710141708|Koska Keçiboynuzlu Tahin Pekmez 350 g|%60 keçiboynuzu pekmezi (keçiboynuzundan üretilmiştir), %40 tahin (susamdan üretilmiştir)|Susam tohumu ürünü (tahin) içerir.|
+8690710009084|Koska Karışık Lokum 500 g|Şeker, mısır nişastası, su, doğal aroma vericiler (gül, limon, portakal, nane), asitlik düzenleyici (sitrik asit), renklendiriciler (antosiyanin, kurkumin, paprika ekstraktı, klorofil)||Eser miktarda fındık, antepfıstığı, ceviz ve badem içerebilir.
+8690710070046|Koska Karışık Çerezli Lokum 500 g|Şeker, çeşidine göre [fındık (%12), antep fıstığı (%12), hindistan cevizi (%9)], mısır nişastası, su, asitlik düzenleyici (sitrik asit)|Antep fıstık ve fındık içerir|
+8690710136155|Koska Amerikan Fıstık Krokan 40 g|Yer fıstığı (%60), şeker, süzme çam balı (%3), susam|Yer fıstığı ve susam tohumu içerir.|Eser miktarda fındık, antep fıstık, badem, ceviz ve buğday gluteni içerebilir.
+8699177445411|Mezzetürk Rus Salatası 300 g|Patates, mayonez [su, ayçiçek yağı, mısır nişastası, şeker, tuz, asitlik düzenleyici (sitrik asit), koruyucu (potasyum sorbat)], havuç, bezelye, salatalık turşusu, koruyucu (potasyum sorbat, sodyum benzoat)||Eser miktarda acı bakla, ceviz, gluten, kereviz, soya, susam, süt ürünü, yer fıstığı ve yumurta içerebilir.
+8691225153002|Tahsildaroğlu Taze Kaşar Peyniri 400 g|Pastörize inek sütü, peynir mayası, peynir kültürü, stabilizatör (E509 kalsiyum klorür), tuz|Laktoz içerir.|
+8691225153415|Tahsildaroğlu Eski Kaşar 350 g|Pastörize inek sütü, tuz, peynir mayası|Laktoz içerir.|
+8697403873953|Ekici Geleneksel Lezzet Tereyağı 125 g|Pastörize inek sütü kreması|Laktoz|
+8697403871041|Ekici Krem Peynir 500 g|Kaşar peyniri, teleme (taze peynir), beyaz peynir, su, tereyağı, peynir altı suyu tozu, süt proteini, emülsifiye edici tuz (E331, E339, E450), tuz|Laktoz içerir.|
+8699197160080|Tire Süt Kooperatifi Organik Pastörize Süt 1 L|Organik yağlı pastörize inek sütü (%3 yağlı)|Laktoz içerir.|
+8699197161261|Tire Süt Kooperatifi Döner 200 g|Sığır eti ve yağı (yağ en çok %25), tuz (en çok %2), süt, soğan, bitkisel yağ, karabiber, kimyon, tatlı toz biber|Süt içerir.|
+8699197160288|Tire Süt Kooperatifi Şiş Köfte 250 g|Sığır eti, dana kavram yağı, tuz, un|Gluten içerir.|
+8690103853041|Marmarabirlik Çizik Yeşil Zeytin (S) 400 g|Sofralık yeşil zeytin, su, tuz, asitlik düzenleyici (sitrik asit), sertleştirici (kalsiyum klorür), antioksidan (askorbik asit)||
+8692963150667|Kebir Tuzlu Tereyağı 500 g|Pastörize inek sütü kreması, tereyağı kültürü, tuz (maksimum %2)|Süt ürünüdür.|
+8692963150810|Kebir Kolot Peyniri 500 g|Pastörize inek sütü, tuz, peynir kültürü, peynir mayası, koruyucu (E202)|Süt ürünüdür.|

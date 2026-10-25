@@ -11650,5 +11650,1127 @@
     "ingredient_evidence": "full_label_transcription",
     "evidence_status": "source_reviewed_pending_physical_package_check",
     "source_allergen_text": "Pastörize İnek Sütü"
+  },
+  {
+    "code": "8690575044312",
+    "name": "Tamek Fasulye Pilaki 400 g",
+    "category": "food",
+    "ingredients": "Kuru fasulye, patates, ayçiçek yağı, havuç, kuru soğan, tuz, maydanoz, limon suyu konsantresi, sarımsak tozu",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690575044312-tamek-fasulye-pilaki-400-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690575044312-tamek-fasulye-pilaki-400-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690575044312-tamek-fasulye-pilaki-400-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690575044312-tamek-fasulye-pilaki-400-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690575044312-tamek-fasulye-pilaki-400-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690575085711",
+    "name": "Tamek Haşlanmış Fasulye 800 g",
+    "category": "food",
+    "ingredients": "Kuru fasulye, su, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690575085711-tamek-haslanmis-fasulye-800-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690575085711-tamek-haslanmis-fasulye-800-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690575085711-tamek-haslanmis-fasulye-800-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690575085711-tamek-haslanmis-fasulye-800-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690575085711-tamek-haslanmis-fasulye-800-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Alerjen içermemektedir"
+  },
+  {
+    "code": "8693374011196",
+    "name": "Yayla Aşurelik Buğday 1 kg",
+    "category": "food",
+    "ingredients": "Aşurelik buğday",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8693374011196-yayla-asurelik-bugday-1-kg",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8693374011196-yayla-asurelik-bugday-1-kg",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8693374011196-yayla-asurelik-bugday-1-kg"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8693374011196-yayla-asurelik-bugday-1-kg"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8693374011196-yayla-asurelik-bugday-1-kg"
+      ]
+    },
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8693374011226",
+    "name": "Yayla Çiğ Köftelik Bulgur 1 kg",
+    "category": "food",
+    "ingredients": "Çiğ köftelik bulgur",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8693374011226-yayla-cig-koftelik-bulgur-1-kg",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8693374011226-yayla-cig-koftelik-bulgur-1-kg",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8693374011226-yayla-cig-koftelik-bulgur-1-kg"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8693374011226-yayla-cig-koftelik-bulgur-1-kg"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8693374011226-yayla-cig-koftelik-bulgur-1-kg"
+      ]
+    },
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8690710001286",
+    "name": "Koska Cevizli Yaz Helvası 500 g",
+    "category": "food",
+    "ingredients": "Şeker, irmik (buğday içerir), tahin (susam içerir), ceviz (%10), su, glikoz şurubu, bitkisel yağ (mısır yağı), kakao tozu, aroma verici (vanilin), asitlik düzenleyici (sitrik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710001286-koska-cevizli-yaz-helvasi-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710001286-koska-cevizli-yaz-helvasi-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710001286-koska-cevizli-yaz-helvasi-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710001286-koska-cevizli-yaz-helvasi-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710001286-koska-cevizli-yaz-helvasi-500-g"
+      ]
+    },
+    "allergens": [
+      "en:gluten",
+      "en:sesame-seeds",
+      "en:nuts"
+    ],
+    "traces": [
+      "en:nuts",
+      "en:peanuts"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Buğday(gluten), Susam tohumu, ceviz içerir. Eser miktarda fındık, fıstık ve badem içerebilir."
+  },
+  {
+    "code": "8690710138555",
+    "name": "Koska Fındıklı Cezerye 40 g",
+    "category": "food",
+    "ingredients": "Havuç, şeker, fındık (%12), glikoz şurubu, hindistan cevizi, aroma verici (tarçın), asitlik düzenleyici (sitrik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710138555-koska-findikli-cezerye-40-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710138555-koska-findikli-cezerye-40-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710138555-koska-findikli-cezerye-40-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710138555-koska-findikli-cezerye-40-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710138555-koska-findikli-cezerye-40-g"
+      ]
+    },
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [
+      "en:peanuts",
+      "en:nuts",
+      "en:sesame-seeds"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda yer fıstığı, antep fıstığı, susam, badem ve ceviz içerebilir"
+  },
+  {
+    "code": "8690710139750",
+    "name": "Koska Organik Üzüm Pekmezi 300 g",
+    "category": "food",
+    "ingredients": "%100 Üzüm Pekmezi",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710139750-koska-organik-uzum-pekmezi-300-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710139750-koska-organik-uzum-pekmezi-300-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710139750-koska-organik-uzum-pekmezi-300-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710139750-koska-organik-uzum-pekmezi-300-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710139750-koska-organik-uzum-pekmezi-300-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690710107070",
+    "name": "Koska Fıstık Krokan 40 g",
+    "category": "food",
+    "ingredients": "Antep fıstığı (%60), şeker, süzme çam balı (%3)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710107070-koska-fistik-krokan-40-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710107070-koska-fistik-krokan-40-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710107070-koska-fistik-krokan-40-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710107070-koska-fistik-krokan-40-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710107070-koska-fistik-krokan-40-g"
+      ]
+    },
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [
+      "en:sesame-seeds",
+      "en:nuts",
+      "en:peanuts",
+      "en:gluten"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda susam, fındık, yer fıstığı, badem, ceviz ve buğday gluteni içerebilir."
+  },
+  {
+    "code": "8691225152494",
+    "name": "Tahsildaroğlu Dil Peyniri 250 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir mayası, starter kültür, stabilizatör (E509 kalsiyum klorür), tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691225152494-tahsildaroglu-dil-peyniri-250-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691225152494-tahsildaroglu-dil-peyniri-250-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691225152494-tahsildaroglu-dil-peyniri-250-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691225152494-tahsildaroglu-dil-peyniri-250-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691225152494-tahsildaroglu-dil-peyniri-250-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8691225152449",
+    "name": "Tahsildaroğlu Ezine Koyun Peyniri 600 g",
+    "category": "food",
+    "ingredients": "Pastörize koyun sütü (%55), keçi sütü (%40), inek sütü (%5), peynir mayası, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691225152449-tahsildaroglu-ezine-koyun-peyniri-600-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691225152449-tahsildaroglu-ezine-koyun-peyniri-600-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691225152449-tahsildaroglu-ezine-koyun-peyniri-600-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691225152449-tahsildaroglu-ezine-koyun-peyniri-600-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691225152449-tahsildaroglu-ezine-koyun-peyniri-600-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8691225155235",
+    "name": "Tahsildaroğlu Tam Yağlı Beyaz Peynir 800 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir mayası, peynir kültürü, stabilizatör (E509 kalsiyum klorür), tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691225155235-tahsildaroglu-tam-yagli-beyaz-peynir-800-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691225155235-tahsildaroglu-tam-yagli-beyaz-peynir-800-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691225155235-tahsildaroglu-tam-yagli-beyaz-peynir-800-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691225155235-tahsildaroglu-tam-yagli-beyaz-peynir-800-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691225155235-tahsildaroglu-tam-yagli-beyaz-peynir-800-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8690508103468",
+    "name": "Tukaş Acılı Ketçap 400 g",
+    "category": "food",
+    "ingredients": "Domates püresi, glikoz şurubu, şeker, sirke, modifiye nişasta, tuz, asitlik düzenleyici (asetik asit), koruyucu madde (potasyum sorbat, sodyum benzoat), acı biber ekstraktı",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690508103468-tukas-acili-ketcap-400-gr",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690508103468-tukas-acili-ketcap-400-gr",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690508103468-tukas-acili-ketcap-400-gr"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690508103468-tukas-acili-ketcap-400-gr"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690508103468-tukas-acili-ketcap-400-gr"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690508153357",
+    "name": "Tukaş Paprika Sos 350 g",
+    "category": "food",
+    "ingredients": "Acı kırmızı biber (%60), domates salçası (%20), biber salçası (%10), su, tuz, asitliği düzenleyici (sitrik asit), koruyucu madde (potasyum sorbat), antioksidan (askorbik asit), biber ekstraktı",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690508153357-tukas-paprika-sos-350-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690508153357-tukas-paprika-sos-350-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690508153357-tukas-paprika-sos-350-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690508153357-tukas-paprika-sos-350-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690508153357-tukas-paprika-sos-350-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690508654212",
+    "name": "Tukaş Közlenmiş Biber 680 g",
+    "category": "food",
+    "ingredients": "Közlenmiş kapya biber, su, sirke, şeker, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690508654212-tukas-kozlenmis-biber-680-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690508654212-tukas-kozlenmis-biber-680-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690508654212-tukas-kozlenmis-biber-680-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690508654212-tukas-kozlenmis-biber-680-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690508654212-tukas-kozlenmis-biber-680-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690508007254",
+    "name": "Tukaş Acı Biber Salçası 700 g",
+    "category": "food",
+    "ingredients": "Acı kırmızı biber, limon suyu konsantresi",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690508007254-tukas-aci-biber-salcasi-700-g-cam",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690508007254-tukas-aci-biber-salcasi-700-g-cam",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690508007254-tukas-aci-biber-salcasi-700-g-cam"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690508007254-tukas-aci-biber-salcasi-700-g-cam"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690508007254-tukas-aci-biber-salcasi-700-g-cam"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690575045715",
+    "name": "Tamek Barbunya Pilaki 400 g",
+    "category": "food",
+    "ingredients": "Barbunya, su, ayçiçek yağı, domates, dolmalık biber, kuru soğan, domates salça, tuz, sarımsak, şeker, karabiber",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690575045715-tamek-barbunya-pilaki-400-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690575045715-tamek-barbunya-pilaki-400-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690575045715-tamek-barbunya-pilaki-400-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690575045715-tamek-barbunya-pilaki-400-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690575045715-tamek-barbunya-pilaki-400-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690710137312",
+    "name": "Koska Harnup Pekmezi 380 g",
+    "category": "food",
+    "ingredients": "%100 keçiboynuzu pekmezi",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710137312-koska-harnup-pekmezi-380-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710137312-koska-harnup-pekmezi-380-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710137312-koska-harnup-pekmezi-380-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710137312-koska-harnup-pekmezi-380-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710137312-koska-harnup-pekmezi-380-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690710009442",
+    "name": "Koska Fıstıklı Helva 200 g",
+    "category": "food",
+    "ingredients": "Tahin (susam içerir) (%57), şeker, antep fıstığı (%8), emülgatör (yağ asitlerinin mono- ve digliseritleri), çöven ekstraktı, asitlik düzenleyici (sitrik asit), aroma verici (vanilin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710009442-koska-fistikli-helva-paket-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710009442-koska-fistikli-helva-paket-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710009442-koska-fistikli-helva-paket-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710009442-koska-fistikli-helva-paket-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710009442-koska-fistikli-helva-paket-200-g"
+      ]
+    },
+    "allergens": [
+      "en:sesame-seeds",
+      "en:nuts"
+    ],
+    "traces": [
+      "en:nuts"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Antep Fıstığı ve Susam Tohumu içerir. Eser miktarda fındık, ceviz ve badem içerebilir."
+  },
+  {
+    "code": "8690710141708",
+    "name": "Koska Keçiboynuzlu Tahin Pekmez 350 g",
+    "category": "food",
+    "ingredients": "%60 keçiboynuzu pekmezi (keçiboynuzundan üretilmiştir), %40 tahin (susamdan üretilmiştir)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710141708-koska-keciboynuzlu-tahin-pekmez-350-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710141708-koska-keciboynuzlu-tahin-pekmez-350-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710141708-koska-keciboynuzlu-tahin-pekmez-350-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710141708-koska-keciboynuzlu-tahin-pekmez-350-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710141708-koska-keciboynuzlu-tahin-pekmez-350-g"
+      ]
+    },
+    "allergens": [
+      "en:sesame-seeds"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Susam tohumu ürünü (tahin) içerir."
+  },
+  {
+    "code": "8690710009084",
+    "name": "Koska Karışık Lokum 500 g",
+    "category": "food",
+    "ingredients": "Şeker, mısır nişastası, su, doğal aroma vericiler (gül, limon, portakal, nane), asitlik düzenleyici (sitrik asit), renklendiriciler (antosiyanin, kurkumin, paprika ekstraktı, klorofil)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710009084-koska-karisik-lokum-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710009084-koska-karisik-lokum-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710009084-koska-karisik-lokum-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710009084-koska-karisik-lokum-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710009084-koska-karisik-lokum-500-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "en:nuts"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda fındık, antepfıstığı, ceviz ve badem içerebilir."
+  },
+  {
+    "code": "8690710070046",
+    "name": "Koska Karışık Çerezli Lokum 500 g",
+    "category": "food",
+    "ingredients": "Şeker, çeşidine göre [fındık (%12), antep fıstığı (%12), hindistan cevizi (%9)], mısır nişastası, su, asitlik düzenleyici (sitrik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710070046-koska-karisik-cerezli-lokum-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710070046-koska-karisik-cerezli-lokum-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710070046-koska-karisik-cerezli-lokum-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710070046-koska-karisik-cerezli-lokum-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710070046-koska-karisik-cerezli-lokum-500-g"
+      ]
+    },
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Antep fıstık ve fındık içerir"
+  },
+  {
+    "code": "8690710136155",
+    "name": "Koska Amerikan Fıstık Krokan 40 g",
+    "category": "food",
+    "ingredients": "Yer fıstığı (%60), şeker, süzme çam balı (%3), susam",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710136155-koska-amerikan-fistik-krokan-40-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710136155-koska-amerikan-fistik-krokan-40-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710136155-koska-amerikan-fistik-krokan-40-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710136155-koska-amerikan-fistik-krokan-40-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710136155-koska-amerikan-fistik-krokan-40-g"
+      ]
+    },
+    "allergens": [
+      "en:peanuts",
+      "en:sesame-seeds"
+    ],
+    "traces": [
+      "en:nuts",
+      "en:gluten"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Yer fıstığı ve susam tohumu içerir. Eser miktarda fındık, antep fıstık, badem, ceviz ve buğday gluteni içerebilir."
+  },
+  {
+    "code": "8699177445411",
+    "name": "Mezzetürk Rus Salatası 300 g",
+    "category": "food",
+    "ingredients": "Patates, mayonez [su, ayçiçek yağı, mısır nişastası, şeker, tuz, asitlik düzenleyici (sitrik asit), koruyucu (potasyum sorbat)], havuç, bezelye, salatalık turşusu, koruyucu (potasyum sorbat, sodyum benzoat)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8699177445411-mezzeturk-rus-salatasi-300-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8699177445411-mezzeturk-rus-salatasi-300-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8699177445411-mezzeturk-rus-salatasi-300-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8699177445411-mezzeturk-rus-salatasi-300-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8699177445411-mezzeturk-rus-salatasi-300-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [
+      "en:lupin",
+      "en:nuts",
+      "en:gluten",
+      "en:celery",
+      "en:soybeans",
+      "en:sesame-seeds",
+      "en:milk",
+      "en:peanuts",
+      "en:eggs"
+    ],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda acı bakla, ceviz, gluten, kereviz, soya, susam, süt ürünü, yer fıstığı ve yumurta içerebilir."
+  },
+  {
+    "code": "8691225153002",
+    "name": "Tahsildaroğlu Taze Kaşar Peyniri 400 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir mayası, peynir kültürü, stabilizatör (E509 kalsiyum klorür), tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691225153002-tahsildaroglu-taze-kasar-peyniri-400-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691225153002-tahsildaroglu-taze-kasar-peyniri-400-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691225153002-tahsildaroglu-taze-kasar-peyniri-400-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691225153002-tahsildaroglu-taze-kasar-peyniri-400-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691225153002-tahsildaroglu-taze-kasar-peyniri-400-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8691225153415",
+    "name": "Tahsildaroğlu Eski Kaşar 350 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, tuz, peynir mayası",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691225153415-tahsildaroglu-eski-kasar-350-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691225153415-tahsildaroglu-eski-kasar-350-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691225153415-tahsildaroglu-eski-kasar-350-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691225153415-tahsildaroglu-eski-kasar-350-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691225153415-tahsildaroglu-eski-kasar-350-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8697403873953",
+    "name": "Ekici Geleneksel Lezzet Tereyağı 125 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü kreması",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8697403873953-ekici-geleneksel-lezzet-tereyagi-125-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8697403873953-ekici-geleneksel-lezzet-tereyagi-125-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8697403873953-ekici-geleneksel-lezzet-tereyagi-125-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8697403873953-ekici-geleneksel-lezzet-tereyagi-125-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8697403873953-ekici-geleneksel-lezzet-tereyagi-125-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Laktoz"
+  },
+  {
+    "code": "8697403871041",
+    "name": "Ekici Krem Peynir 500 g",
+    "category": "food",
+    "ingredients": "Kaşar peyniri, teleme (taze peynir), beyaz peynir, su, tereyağı, peynir altı suyu tozu, süt proteini, emülsifiye edici tuz (E331, E339, E450), tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8697403871041-ekici-krem-peynir-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8697403871041-ekici-krem-peynir-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8697403871041-ekici-krem-peynir-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8697403871041-ekici-krem-peynir-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8697403871041-ekici-krem-peynir-500-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8699197160080",
+    "name": "Tire Süt Kooperatifi Organik Pastörize Süt 1 L",
+    "category": "food",
+    "ingredients": "Organik yağlı pastörize inek sütü (%3 yağlı)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8699197160080-tire-sut-kooperatifi-organik-pastorize-sut-1-l",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8699197160080-tire-sut-kooperatifi-organik-pastorize-sut-1-l",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8699197160080-tire-sut-kooperatifi-organik-pastorize-sut-1-l"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8699197160080-tire-sut-kooperatifi-organik-pastorize-sut-1-l"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8699197160080-tire-sut-kooperatifi-organik-pastorize-sut-1-l"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8699197161261",
+    "name": "Tire Süt Kooperatifi Döner 200 g",
+    "category": "food",
+    "ingredients": "Sığır eti ve yağı (yağ en çok %25), tuz (en çok %2), süt, soğan, bitkisel yağ, karabiber, kimyon, tatlı toz biber",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8699197161261-tire-sut-kooperatifi-doner-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8699197161261-tire-sut-kooperatifi-doner-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8699197161261-tire-sut-kooperatifi-doner-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8699197161261-tire-sut-kooperatifi-doner-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8699197161261-tire-sut-kooperatifi-doner-200-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt içerir."
+  },
+  {
+    "code": "8699197160288",
+    "name": "Tire Süt Kooperatifi Şiş Köfte 250 g",
+    "category": "food",
+    "ingredients": "Sığır eti, dana kavram yağı, tuz, un",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8699197160288-tire-sut-kooperatifi-sis-kofte-250-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8699197160288-tire-sut-kooperatifi-sis-kofte-250-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8699197160288-tire-sut-kooperatifi-sis-kofte-250-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8699197160288-tire-sut-kooperatifi-sis-kofte-250-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8699197160288-tire-sut-kooperatifi-sis-kofte-250-g"
+      ]
+    },
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8690103853041",
+    "name": "Marmarabirlik Çizik Yeşil Zeytin (S) 400 g",
+    "category": "food",
+    "ingredients": "Sofralık yeşil zeytin, su, tuz, asitlik düzenleyici (sitrik asit), sertleştirici (kalsiyum klorür), antioksidan (askorbik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690103853041-marmarabirlik-cizik-yesil-zeytin-s-291-320-400-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690103853041-marmarabirlik-cizik-yesil-zeytin-s-291-320-400-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690103853041-marmarabirlik-cizik-yesil-zeytin-s-291-320-400-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690103853041-marmarabirlik-cizik-yesil-zeytin-s-291-320-400-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690103853041-marmarabirlik-cizik-yesil-zeytin-s-291-320-400-g"
+      ]
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8692963150667",
+    "name": "Kebir Tuzlu Tereyağı 500 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü kreması, tereyağı kültürü, tuz (maksimum %2)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692963150667-kebir-tuzlu-tereyagi-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692963150667-kebir-tuzlu-tereyagi-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692963150667-kebir-tuzlu-tereyagi-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692963150667-kebir-tuzlu-tereyagi-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692963150667-kebir-tuzlu-tereyagi-500-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt ürünüdür."
+  },
+  {
+    "code": "8692963150810",
+    "name": "Kebir Kolot Peyniri 500 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, tuz, peynir kültürü, peynir mayası, koruyucu (E202)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692963150810-kebir-kolot-peyniri-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692963150810-kebir-kolot-peyniri-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692963150810-kebir-kolot-peyniri-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692963150810-kebir-kolot-peyniri-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692963150810-kebir-kolot-peyniri-500-g"
+      ]
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "source_type": "retailer",
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261025",
+    "ingredient_evidence": "full_label_transcription",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Süt ürünüdür."
   }
 ]
