@@ -14749,5 +14749,485 @@
     "ingredient_evidence": "full_label_transcription",
     "open_facts_coverage": "not_in_open_facts",
     "source_allergen_text": "Glüten içerebilir."
+  },
+  {
+    "code": "8690504108115",
+    "name": "McVitie's Ekşi Krema ve Frenk Soğanı Aromalı Patatesli Kraker",
+    "category": "food",
+    "ingredients": "Buğday unu, bitkisel yağlar (yüksek oleik asitli ayçiçek, palm, hindistan cevizi, kanola), patates unu (%15), nişasta, şeker, maltodekstrin, tuz, kabartıcılar (amonyum hidrojen karbonat, sodyum hidrojen karbonat, disodyum difosfat), invert şeker şurubu, soğan tozu, aroma vericiler, dekstroz, peyniraltı suyu tozu, stabilizör (potasyum klorür), maydanoz, emülgatör (yağ asitlerinin mono ve digliseritlerinin mono ve diasetil tartarik asit esterleri), frenk soğanı (%0,07), laktoz (süt), un işlem maddesi (sodyum metabisülfit)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690504108115",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690504108115",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690504108115"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690504108115"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690504108115"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8690504108115"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 468.0,
+      "fat": 19.0,
+      "saturatedFat": 2.1,
+      "carbohydrate": 67.0,
+      "sugars": 6.7,
+      "fibre": 2.0,
+      "protein": 5.8,
+      "salt": 1.8
+    },
+    "allergens": [
+      "en:gluten",
+      "en:milk",
+      "en:sulphur-dioxide-and-sulphites"
+    ],
+    "traces": [
+      "en:eggs",
+      "en:nuts",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda yumurta, soya, susam ve sert kabuklu meyveler içerebilir."
+  },
+  {
+    "code": "8682588741845",
+    "name": "Glutensiz Fabrika Yaban Mersinli Granola 200 g",
+    "category": "food",
+    "ingredients": "Çiğ karabuğday, yulaf ezmesi, tarçınlı karabuğday gevreği (karabuğday unu, nohut unu, pirinç unu, tarçın, kalsiyum karbonat (E170)), hurma suyu, %10 yabanmersini, elma suyu konsantresi, tarçın, zeytinyağı, vanilya, gam arabik (E414)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8682588741845",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8682588741845",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8682588741845"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8682588741845"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8682588741845"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8682588741845"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 316.8,
+      "fat": 4.3,
+      "saturatedFat": 0.8,
+      "carbohydrate": 54.4,
+      "sugars": 1.9,
+      "fibre": 12.2,
+      "protein": 10.3,
+      "salt": 0.01
+    },
+    "allergens": [],
+    "traces": [
+      "en:nuts",
+      "en:peanuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Glüten içermez. Eser miktarda fındık, badem, Antep fıstığı ve yer fıstığı içerebilir."
+  },
+  {
+    "code": "8695077143914",
+    "name": "Dost Orman Meyveli %2 Yağlı Probiyotik Kefir",
+    "category": "food",
+    "ingredients": "Pastörize ve homojenize inek sütü, orman meyveli sos (%10) (şeker, su, çilek (%9,3), modifiye nişasta, böğürtlen (%1,2), karadut (%0,6), aroma verici, siyah havuç suyu konsantresi, kıvam arttırıcı (karragenan), asitlik düzenleyiciler (sitrik asit, trisodyum sitrat)), kefir kültürü ve probiyotik mikroorganizma (Bifidobacterium ve Lactobacillus acidophilus)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077143914",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077143914",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077143914"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077143914"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077143914"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8694962011024",
+    "name": "Tarım Kredi Yarım Yağlı UHT İçme Sütü",
+    "category": "food",
+    "ingredients": "İnek sütü",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8694962011024",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8694962011024",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8694962011024"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8694962011024"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8694962011024"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8692813005697",
+    "name": "Kızılay Plus+ Yeşil Çay ve Ginsengli Maden Suyu 200 ml",
+    "category": "food",
+    "ingredients": "Doğal mineralli su (%98), karbondioksit, asitliği düzenleyici (sitrik asit), aroma vericiler, yeşil çay ekstraktı (%0,06), ginseng ekstraktı (%0,003), antioksidan (askorbik asit), tatlandırıcılar (asesülfam K, sukraloz), vitaminler (niasin, pantotenik asit, B6, folik asit)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8692813005697",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8692813005697",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8692813005697"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8692813005697"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8692813005697"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8692813005697"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 2.0,
+      "fat": 0.0,
+      "saturatedFat": 0.0,
+      "carbohydrate": 0.0,
+      "sugars": 0.0,
+      "protein": 0.0,
+      "salt": 0.03
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Kafein içerir (42 mg/l)."
+  },
+  {
+    "code": "8692813005642",
+    "name": "Kızılay Limonlu Maden Suyu 200 ml",
+    "category": "food",
+    "ingredients": "Doğal mineralli su (%92), şeker, karbondioksit, asitliği düzenleyici (sitrik asit), C vitamini, doğal aroma vericiler, antioksidan (askorbik asit), stabilizerler (gam arabik, ağaç reçinesinin gliserol esterleri), renklendirici (karotenler)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8692813005642",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8692813005642",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8692813005642"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8692813005642"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8692813005642"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8692813005642"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 25.0,
+      "fat": 0.0,
+      "saturatedFat": 0.0,
+      "carbohydrate": 6.3,
+      "sugars": 6.3,
+      "protein": 0.0,
+      "salt": 0.03
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690559007302",
+    "name": "Dardanel Acılı Sardalya 100 g",
+    "category": "food",
+    "ingredients": "Sardalya, domates salçası, ayçiçek yağı, sirke, tuz, nişasta, baharat",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559007302-dardanel-acili-sardalya-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559007302-dardanel-acili-sardalya-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559007302-dardanel-acili-sardalya-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559007302-dardanel-acili-sardalya-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559007302-dardanel-acili-sardalya-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Sardalya balığı içerir."
+  },
+  {
+    "code": "8690559015277",
+    "name": "Dardanel Acılı Ton Balığı 2x150 g",
+    "category": "food",
+    "ingredients": "Ton balığı, ayçiçek yağı, acı aroması, sarımsak tozu, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559015277-dardanel-acili-ton-baligi-2x150-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559015277-dardanel-acili-ton-baligi-2x150-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559015277-dardanel-acili-ton-baligi-2x150-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559015277-dardanel-acili-ton-baligi-2x150-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559015277-dardanel-acili-ton-baligi-2x150-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Balık"
+  },
+  {
+    "code": "8690559006923",
+    "name": "Dardanel Levrek Çorbası 500 g",
+    "category": "food",
+    "ingredients": "Balık suyu, levrek balığı (%14), süt, soğan, patates, zeytinyağı, nişasta, tuz, buğday unu, sirke, limon, sarımsak, maydanoz, baharat",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559006923-dardanel-levrek-corbasi-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559006923-dardanel-levrek-corbasi-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559006923-dardanel-levrek-corbasi-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559006923-dardanel-levrek-corbasi-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559006923-dardanel-levrek-corbasi-500-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish",
+      "en:gluten",
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Balık suyu, levrek balığı, buğday unu."
+  },
+  {
+    "code": "8690559014171",
+    "name": "Dardanel Mezgit Pane 375 g",
+    "category": "food",
+    "ingredients": "Mezgit balığı (%60), buğday unu, bitkisel yağlar (kanola yağı, ayçiçek yağı, değişen miktarlarda), şeker, maya, tuz, nişasta, kıvam arttırıcı (guar gam)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559014171-dardanel-mezgit-pane-375-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559014171-dardanel-mezgit-pane-375-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559014171-dardanel-mezgit-pane-375-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559014171-dardanel-mezgit-pane-375-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559014171-dardanel-mezgit-pane-375-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish",
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Mezgit balığı, buğday unu"
+  },
+  {
+    "code": "8690559014164",
+    "name": "Dardanel Midye Tava 400 g",
+    "category": "food",
+    "ingredients": "Midye eti (%85), buğday unu, bitkisel yağlar (kanola yağı, ayçiçek yağı, değişen miktarlarda), tuz, nişasta, kıvam arttırıcı (guar gam), kabartıcı (sodyum bikarbonat, sodyum asit pirofosfat), baharat",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559014164-dardanel-midye-tava-400-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559014164-dardanel-midye-tava-400-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559014164-dardanel-midye-tava-400-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559014164-dardanel-midye-tava-400-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559014164-dardanel-midye-tava-400-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten",
+      "en:molluscs"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Midye eti, buğday unu"
+  },
+  {
+    "code": "8691422226516",
+    "name": "Penguen Garnitür 540 g",
+    "category": "food",
+    "ingredients": "Su, bezelye, havuç, patates, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691422226516-penguen-garnitur-540-g-cam-sise",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691422226516-penguen-garnitur-540-g-cam-sise",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691422226516-penguen-garnitur-540-g-cam-sise"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691422226516-penguen-garnitur-540-g-cam-sise"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691422226516-penguen-garnitur-540-g-cam-sise"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
   }
 ]
