@@ -1,0 +1,55 @@
+not_in_open_facts                8691375640704 Bizim Çorba Kremalı Mantar 65 gr
+not_in_open_facts                8682287361108 Bizim Mutfak Serbest Gezen Tavuk 12X10 G
+not_in_open_facts                8682287361160 Bizim Mutfak Yerli Besi Et Bulyon 24X10 G
+open_facts_without_ingredients   8682005310210 Bizim Bulyon Kemik Suyu 12li 120 gr
+not_in_open_facts                8690504632450 Bizim Mutfak Analı Kızlı Çorbası 92 G
+not_in_open_facts                8690504635376 Bizim Mutfak Kakaolu Puding 100 G
+open_facts_without_ingredients   8691375635311 Bizim Mutfak Kakaolu Toz Puding 150 Gr
+not_in_open_facts                8691375628092 Bizim Mutfak Krem Şanti 2li Poşet 150 gr
+not_in_open_facts                8691375640902 Bizim Mutfak Yayla Çorbası 65 G
+not_in_open_facts                8691375640407 Bizim Mutfak Şehriyeli Tavuk Çorbası 65 G
+open_facts_without_ingredients   8690504485117 Bizim Çikolatalı Sos 128 Gr.
+open_facts_without_ingredients   8691375642982 Bizim Çıtır Pane Harcı 100 G
+not_in_open_facts                8690770328811 Pakmaya Mayalı Poğaça Harcı 35 G
+not_in_open_facts                8690770324028 Pakmaya Kabartma Tozu 10lu 100 gr
+open_facts_without_ingredients   8690770324776 Pakmaya Çilekli Puding 125 G
+not_in_open_facts                8690770326695 Pakmaya Çikolatalı Portakallı Puding 116 G
+not_in_open_facts                8690770324721 Pakmaya Bitter Çikolatalı Puding 115 G
+not_in_open_facts                8690770324790 Pakmaya Krem Şanti 2x75 gr
+not_in_open_facts                8690770329504 Pakmaya Limon Frambuaz Nane Aromalı Kokoln Vermisel 50 G
+not_in_open_facts                8690770330609 Pakmaya Beyaz Pul Çikolata 100 G
+open_facts_without_ingredients   8690770328156 Pakmaya Bitter Pul Çikolata 100 G
+not_in_open_facts                8690770329207 Pakmaya Bitter Kurabiye Çikolatası 90 G
+not_in_open_facts                8690770327685 Pakmaya Beyaz Ekmek Harcı 30 G
+not_in_open_facts                8690770327678 Pakmaya Esmer Ekmek Harcı 30 G
+not_in_open_facts                8690770328903 Pakmaya Mayalı Sade Kek Harcı 28 G
+73 barcodes: in_open_facts=19, not_in_open_facts=34, open_facts_without_ingredients=20
+open_facts_without_ingredients   8697471729787 Namet 7/24 Piliç Füme 50G
+open_facts_without_ingredients   8697471720180 Namet Kokteyl Hindi Sosis 140 Gr.
+open_facts_without_ingredients   8692415400692 Namet Hindi Etli Jambon 130 G
+open_facts_without_ingredients   8692415400562 Namet Hindi Füme 200 G
+open_facts_without_ingredients   8697471720555 NAMET 200 GR KLASIK KANGAL SUCUK
+not_in_open_facts                8697471724553 Namet Dilimli Isıl İşlem Görmüş Sucuk 200 G
+open_facts_without_ingredients   8697471720012 Namet Dilimli Kavurma 200 G
+not_in_open_facts                8692415400548 Namet Klasik Dilimli Pastırma 130 G
+open_facts_without_ingredients   8692415400555 Namet Çemeni Sıyrılmış Dilimli Pastırma 130 G
+not_in_open_facts                8697471724256 Namet Bir Tavalık Sucuk 80 G
+not_in_open_facts                8697471723716 Namet 7/24 Jambon 60 G
+not_in_open_facts                8697471724935 Namet Dana Dilimli Salam 300 g
+open_facts_without_ingredients   8697471729732 Namet Dana Fermente Kangal Sucuk 225 g
+open_facts_without_ingredients   8692415400258 NAMET DANA MACAR SALAM 150 GR
+not_in_open_facts                8692415400166 Namet Dilimli Dana Jambon 150 G
+not_in_open_facts                8697471722429 Namet Füme Kavurma 100 G
+open_facts_without_ingredients   8690451713646 Banvit Piliç Salam 850 Gr
+open_facts_without_ingredients   8690451703098 Banvit Piliç Nugget 1000 Gr
+open_facts_without_ingredients   8690451706433 Banvit Piliç Sosis Uzun 1KG
+not_in_open_facts                8690451712441 Banvit Çıtır Kanat 1KG
+not_in_open_facts                8690451706457 BANVİT SALAM MACAR PİLİÇ 750 GR
+not_in_open_facts                8690451707058 Bi Dilim Piliç Jambon 60 G
+open_facts_without_ingredients   8692095344293 Sek Quark İncir-Ceviz 140 G
+not_in_open_facts                8692095341155 Sek Kaşar Peyniri 200 G
+not_in_open_facts                8692095341971 Sek Quark Yaban Mersini 150 G
+not_in_open_facts                8692095051030 Sek Tereyağı 1 Kg
+not_in_open_facts                8691375640209 Bizim Çorba Domates 65 Gr.
+open_facts_without_ingredients   8691375640100 Bizim Çorba Ezogelin 65 Gr.
+not_in_open_facts                8691375640506 Bizim Mutfak Hazır Çorba Kremalı Tavuk 62 Gr.

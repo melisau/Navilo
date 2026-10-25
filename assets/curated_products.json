@@ -12772,5 +12772,1788 @@
     "evidence_status": "retailer_reported_pending_package_check",
     "open_facts_coverage": "open_facts_without_ingredients",
     "source_allergen_text": "Süt ürünüdür."
+  },
+  {
+    "code": "8680181001656",
+    "name": "Torku Acılı Sucuk 225 g",
+    "category": "food",
+    "ingredients": "Dana eti, dana yağı, baharat karışımı, acı biber (%3), tuz, sarımsak, stabilizör (sodyum polifosfat), antioksidan madde (askorbik asit, sodyum askorbat), koruyucu madde (sodyum nitrit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8680181001656-torku-acili-sucuk-vakum-225-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8680181001656-torku-acili-sucuk-vakum-225-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8680181001656-torku-acili-sucuk-vakum-225-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8680181001656-torku-acili-sucuk-vakum-225-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8680181001656-torku-acili-sucuk-vakum-225-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8680181064668",
+    "name": "Torku Banada Kakaolu Süt 230 ml",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü (hayvansal), şeker (bitkisel), sütlü çikolata (%0,1) (hayvansal - bitkisel), kakao tozu (bitkisel), kıvam arttırıcı (selüloz, selüloz gam, karragenan) (bitkisel), aroma vericiler (bitkisel-sentez)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8680181064668-torku-banada-230-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8680181064668-torku-banada-230-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8680181064668-torku-banada-230-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8680181064668-torku-banada-230-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8680181064668-torku-banada-230-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:nuts",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Süt içerir. Eser miktarda soya ürünü, glüten, antep fıstığı, fındık içerebilir."
+  },
+  {
+    "code": "8680181000864",
+    "name": "Torku Dilimli Tost Peyniri 700 g",
+    "category": "food",
+    "ingredients": "Cheddar peyniri, tereyağı, emülsifiye edici tuzlar (sodyum sitratlar, sodyum fosfatlar, polifosfatlar, potasyum fosfatlar), tuz, koruyucu (potasyum sorbat)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8680181000864-torku-dilimli-tost-peyniri-700-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8680181000864-torku-dilimli-tost-peyniri-700-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8680181000864-torku-dilimli-tost-peyniri-700-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8680181000864-torku-dilimli-tost-peyniri-700-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8680181000864-torku-dilimli-tost-peyniri-700-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt içerir."
+  },
+  {
+    "code": "8691641080005",
+    "name": "Fiskobirlik Fındık Ezmesi 180 g",
+    "category": "food",
+    "ingredients": "Fındık %70, şeker %30, aroma verici (vanilin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691641080005-fiskobirlik-findik-ezmesi-180-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691641080005-fiskobirlik-findik-ezmesi-180-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691641080005-fiskobirlik-findik-ezmesi-180-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691641080005-fiskobirlik-findik-ezmesi-180-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691641080005-fiskobirlik-findik-ezmesi-180-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Fındık içerir."
+  },
+  {
+    "code": "8691573024146",
+    "name": "Burcu Enginar Konservesi 540 g",
+    "category": "food",
+    "ingredients": "Su, enginar, tuz, asitlik düzenleyici (sitrik asit), antioksidan (askorbik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691573024146-burcu-enginar-konservesi-cam-540-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691573024146-burcu-enginar-konservesi-cam-540-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691573024146-burcu-enginar-konservesi-cam-540-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691573024146-burcu-enginar-konservesi-cam-540-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691573024146-burcu-enginar-konservesi-cam-540-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "İçermez"
+  },
+  {
+    "code": "8691520104631",
+    "name": "Aytaç Isıl İşlem Görmüş Kangal Sucuk 200 g",
+    "category": "food",
+    "ingredients": "Dana eti, sığır yağı, baharat karışımı, tuz, antioksidan (askorbik asit), stabilizör (sodyum polifosfat), koruyucu (sodyum nitrit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691520104631-aytac-isil-islem-gormus-kangal-sucuk-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691520104631-aytac-isil-islem-gormus-kangal-sucuk-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691520104631-aytac-isil-islem-gormus-kangal-sucuk-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691520104631-aytac-isil-islem-gormus-kangal-sucuk-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691520104631-aytac-isil-islem-gormus-kangal-sucuk-200-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690504635376",
+    "name": "Bizim Mutfak Kakaolu Puding 100 g",
+    "category": "food",
+    "ingredients": "Şeker, nişasta (mısır), yağı azaltılmış kakao tozu (%12), bitkisel yağlar (palm, kanola), aroma verici, peynir altı suyu tozu (süt ürünü), buğday unu",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690504635376-bizim-mutfak-kakaolu-puding-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690504635376-bizim-mutfak-kakaolu-puding-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690504635376-bizim-mutfak-kakaolu-puding-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690504635376-bizim-mutfak-kakaolu-puding-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690504635376-bizim-mutfak-kakaolu-puding-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Buğday unu, süt ve süt ürünleri içerir."
+  },
+  {
+    "code": "8690770328811",
+    "name": "Pakmaya Mayalı Poğaça Harcı 35 g",
+    "category": "food",
+    "ingredients": "Şeker, instant kuru hamur mayası (%28,6), buğday unu, mahlep",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770328811-pakmaya-mayali-pogaca-harci-35-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770328811-pakmaya-mayali-pogaca-harci-35-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770328811-pakmaya-mayali-pogaca-harci-35-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770328811-pakmaya-mayali-pogaca-harci-35-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770328811-pakmaya-mayali-pogaca-harci-35-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8690770324776",
+    "name": "Pakmaya Çilekli Puding 125 g",
+    "category": "food",
+    "ingredients": "Şeker, mısır nişastası, aroma verici, renklendiriciler (pancar kökü kırmızısı, beta karoten), çilek tozu (%0,1), yemeklik tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770324776-pakmaya-cilekli-puding-125-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770324776-pakmaya-cilekli-puding-125-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770324776-pakmaya-cilekli-puding-125-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770324776-pakmaya-cilekli-puding-125-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770324776-pakmaya-cilekli-puding-125-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:nuts",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda Antep fıstığı, fındık, badem, gluten, soya ve süt ürünleri içerebilir."
+  },
+  {
+    "code": "8690770326695",
+    "name": "Pakmaya Çikolatalı Portakallı Puding 116 g",
+    "category": "food",
+    "ingredients": "Şeker, mısır nişastası, kakao tozu, kurutulmuş portakal kabuğu parçaları (%4,35), bitter çikolata tozu (%0,34) (kakao kitlesi, şeker, kakao yağı, kakao tozu, emülgatör (soya lesitini), aroma verici), aroma verici, yemeklik tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770326695-pakmaya-cikolatali-portakalli-puding-116-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770326695-pakmaya-cikolatali-portakalli-puding-116-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770326695-pakmaya-cikolatali-portakalli-puding-116-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770326695-pakmaya-cikolatali-portakalli-puding-116-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770326695-pakmaya-cikolatali-portakalli-puding-116-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:soybeans"
+    ],
+    "traces": [
+      "en:eggs",
+      "en:gluten",
+      "en:milk",
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Soya ürünü içerir. Eser miktarda Antep fıstığı, fındık, badem, gluten, yumurta ve süt ürünleri içerebilir."
+  },
+  {
+    "code": "8690770324721",
+    "name": "Pakmaya Bitter Çikolatalı Puding 115 g",
+    "category": "food",
+    "ingredients": "Kristal şeker, kakao tozu, mısır nişastası, bitter çikolata parçaları (%3,5) (şeker, kakao yağı, kakao kitlesi, emülgatör (soya lesitini), aroma verici), yemeklik tuz, aroma verici",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770324721-pakmaya-bitter-cikolatali-puding-115-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770324721-pakmaya-bitter-cikolatali-puding-115-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770324721-pakmaya-bitter-cikolatali-puding-115-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770324721-pakmaya-bitter-cikolatali-puding-115-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770324721-pakmaya-bitter-cikolatali-puding-115-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:soybeans"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda antep fıstığı, fındık, badem, gluten ve süt ürünü içerebilir."
+  },
+  {
+    "code": "8690770330609",
+    "name": "Pakmaya Beyaz Pul Çikolata 100 g",
+    "category": "food",
+    "ingredients": "Şeker, kakao yağı, tam yağlı süt tozu, peyniraltı suyu tozu (süt ürünü), laktoz (süt ürünü), emülgatör (ayçiçek lesitini)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770330609-pakmaya-beyaz-pul-cikolata-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770330609-pakmaya-beyaz-pul-cikolata-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770330609-pakmaya-beyaz-pul-cikolata-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770330609-pakmaya-beyaz-pul-cikolata-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770330609-pakmaya-beyaz-pul-cikolata-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:nuts",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda fındık, Antep fıstığı, badem, gluten ve soya ürünü içerebilir."
+  },
+  {
+    "code": "8690770328156",
+    "name": "Pakmaya Bitter Pul Çikolata 100 g",
+    "category": "food",
+    "ingredients": "Şeker, kakao kitlesi, kakao yağı, kakao tozu, emülgatör (soya lesitini), aroma verici (vanilin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770328156-pakmaya-bitter-pul-cikolata-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770328156-pakmaya-bitter-pul-cikolata-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770328156-pakmaya-bitter-pul-cikolata-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770328156-pakmaya-bitter-pul-cikolata-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770328156-pakmaya-bitter-pul-cikolata-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:soybeans"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda süt ürünü, antep fıstığı, badem, fındık ve gluten içerebilir."
+  },
+  {
+    "code": "8690770329207",
+    "name": "Pakmaya Bitter Kurabiye Çikolatası 90 g",
+    "category": "food",
+    "ingredients": "Kakao kitlesi, şeker, kakao tozu, kakao yağı, dekstroz, emülgatör (ayçiçek lesitini), aroma verici (vanilin), parlatıcı (gam arabik)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770329207-pakmaya-bitter-kurabiye-cikolatasi-90-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770329207-pakmaya-bitter-kurabiye-cikolatasi-90-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770329207-pakmaya-bitter-kurabiye-cikolatasi-90-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770329207-pakmaya-bitter-kurabiye-cikolatasi-90-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770329207-pakmaya-bitter-kurabiye-cikolatasi-90-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda süt, fındık, Antep fıstığı, badem ve gluten içerebilir."
+  },
+  {
+    "code": "8690770327685",
+    "name": "Pakmaya Beyaz Ekmek Harcı 30 g",
+    "category": "food",
+    "ingredients": "Buğday unu, ekşi hamur tozu (fermente buğday unu) (%22,6), instant maya (%20), ekmekçilik enzimleri",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770327685-pakmaya-beyaz-ekmek-harci-30-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770327685-pakmaya-beyaz-ekmek-harci-30-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770327685-pakmaya-beyaz-ekmek-harci-30-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770327685-pakmaya-beyaz-ekmek-harci-30-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770327685-pakmaya-beyaz-ekmek-harci-30-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8690770327678",
+    "name": "Pakmaya Esmer Ekmek Harcı 30 g",
+    "category": "food",
+    "ingredients": "Buğday unu, ekşi hamur tozu (fermente buğday unu) (%21,9), instant maya (%20), çavdar malt unu, ekmekçilik enzimleri",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770327678-pakmaya-esmer-ekmek-harci-30-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770327678-pakmaya-esmer-ekmek-harci-30-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770327678-pakmaya-esmer-ekmek-harci-30-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770327678-pakmaya-esmer-ekmek-harci-30-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770327678-pakmaya-esmer-ekmek-harci-30-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8690770328903",
+    "name": "Pakmaya Mayalı Sade Kek Harcı 28 g",
+    "category": "food",
+    "ingredients": "Nişasta, kabartıcılar (glukono delta lakton, sodyum bikarbonat), instant maya (%10,70), kristal şeker, toz glikoz, emülgatör (yağ asitlerinin mono ve digliseridlerinin laktik asit ve asetik asit esterleri), yağsız süt tozu, vanilin, aroma verici",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770328903-pakmaya-mayali-sade-kek-harci-28-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770328903-pakmaya-mayali-sade-kek-harci-28-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770328903-pakmaya-mayali-sade-kek-harci-28-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770328903-pakmaya-mayali-sade-kek-harci-28-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770328903-pakmaya-mayali-sade-kek-harci-28-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt ürünü içerir."
+  },
+  {
+    "code": "8690770329504",
+    "name": "Pakmaya Limon Frambuaz Nane Aromalı Kokolin Vermisel 50 g",
+    "category": "food",
+    "ingredients": "Şeker, hidrojenize bitkisel yağ (palm), tam yağlı süt tozu, peynir altı suyu tozu, aroma vericiler (limon, frambuaz, nane, vanilin), renklendiriciler (pancar kökü kırmızısı, beta karoten, klorofil), emülgatör (soya lesitini), parlatıcı (gam arabik, şellak)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690770329504-pakmaya-limon-frambuaz-nane-aromali-kokoln-vermisel-50-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690770329504-pakmaya-limon-frambuaz-nane-aromali-kokoln-vermisel-50-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690770329504-pakmaya-limon-frambuaz-nane-aromali-kokoln-vermisel-50-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690770329504-pakmaya-limon-frambuaz-nane-aromali-kokoln-vermisel-50-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690770329504-pakmaya-limon-frambuaz-nane-aromali-kokoln-vermisel-50-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk",
+      "en:soybeans"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda antep fıstığı, badem, fındık ve gluten içerebilir."
+  },
+  {
+    "code": "8697471729787",
+    "name": "Namet 7/24 Piliç Füme 50 g",
+    "category": "food",
+    "ingredients": "Piliç eti, su, patates nişastası, baharat karışımı, tuz, kıvam arttırıcı (E407), stabilizör (E450, E452), antioksidan (E301), koruyucu (E250)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8697471729787-namet-7-24-pilic-fume-50g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8697471729787-namet-7-24-pilic-fume-50g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8697471729787-namet-7-24-pilic-fume-50g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8697471729787-namet-7-24-pilic-fume-50g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8697471729787-namet-7-24-pilic-fume-50g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8692415400692",
+    "name": "Namet Hindi Etli Jambon 130 g",
+    "category": "food",
+    "ingredients": "Hindi eti, patates nişastası, su, tuz, baharat karışımı, kıvam arttırıcı (E407), stabilizatör (E450, E452), antioksidan (E316), doğal tütsü aroma vericisi, koruyucu (E250), renklendirici (E120), ambalajlama gazı (azot, karbon dioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692415400692-namet-hindi-etli-jambon-130-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692415400692-namet-hindi-etli-jambon-130-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692415400692-namet-hindi-etli-jambon-130-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692415400692-namet-hindi-etli-jambon-130-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692415400692-namet-hindi-etli-jambon-130-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8692415400562",
+    "name": "Namet Hindi Füme 200 g",
+    "category": "food",
+    "ingredients": "Hindi eti, su, tuz, baharat karışımı, stabilizör (E450, E452), antioksidan (E316), koruyucu (E250), ambalajlama gazı (azot, karbon dioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692415400562-namet-hindi-fume-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692415400562-namet-hindi-fume-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692415400562-namet-hindi-fume-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692415400562-namet-hindi-fume-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692415400562-namet-hindi-fume-200-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Alerjen içermemektedir."
+  },
+  {
+    "code": "8697471724553",
+    "name": "Namet Dilimli Isıl İşlem Görmüş Sucuk 200 g",
+    "category": "food",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, tuz, sarımsak, stabilizör (E450, E452), antioksidan (E316), koruyucu (E250), ambalajlama gazı (azot, karbondioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8697471724553-namet-dilimli-isil-islem-gormus-sucuk-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8697471724553-namet-dilimli-isil-islem-gormus-sucuk-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8697471724553-namet-dilimli-isil-islem-gormus-sucuk-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8697471724553-namet-dilimli-isil-islem-gormus-sucuk-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8697471724553-namet-dilimli-isil-islem-gormus-sucuk-200-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8692415400548",
+    "name": "Namet Klasik Dilimli Pastırma 130 g",
+    "category": "food",
+    "ingredients": "Dana eti, çemen unu (buğday unu), sarımsak, tuz, kırmızı biber, antioksidan (E316), koruyucu (E250), renklendirici (E120), ambalajlama gazı (azot, karbon dioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692415400548-namet-klasik-dilimli-pastirma-130-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692415400548-namet-klasik-dilimli-pastirma-130-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692415400548-namet-klasik-dilimli-pastirma-130-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692415400548-namet-klasik-dilimli-pastirma-130-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692415400548-namet-klasik-dilimli-pastirma-130-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8692415400555",
+    "name": "Namet Çemeni Sıyrılmış Dilimli Pastırma 130 g",
+    "category": "food",
+    "ingredients": "Dana eti, çemen unu (buğday unu), sarımsak, tuz, kırmızı biber, antioksidan (E316), koruyucu (E250), ambalajlama gazı (azot, karbon dioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692415400555-namet-cemeni-siyrilmis-dilimli-pastirma-130-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692415400555-namet-cemeni-siyrilmis-dilimli-pastirma-130-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692415400555-namet-cemeni-siyrilmis-dilimli-pastirma-130-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692415400555-namet-cemeni-siyrilmis-dilimli-pastirma-130-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692415400555-namet-cemeni-siyrilmis-dilimli-pastirma-130-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Gluten içerir."
+  },
+  {
+    "code": "8697471724256",
+    "name": "Namet Bir Tavalık Sucuk 80 g",
+    "category": "food",
+    "ingredients": "Dana eti ve yağı, baharat karışımı, tuz, sarımsak, stabilizör (E450, E452), antioksidan (E316), koruyucu (E250), ambalajlama gazı (azot, karbon dioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8697471724256-namet-bir-tavalik-sucuk-80-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8697471724256-namet-bir-tavalik-sucuk-80-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8697471724256-namet-bir-tavalik-sucuk-80-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8697471724256-namet-bir-tavalik-sucuk-80-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8697471724256-namet-bir-tavalik-sucuk-80-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8692415400166",
+    "name": "Namet Dilimli Dana Jambon 150 g",
+    "category": "food",
+    "ingredients": "Dana eti, patates nişastası, baharat karışımı, tuz, su, kıvam arttırıcı (E407), stabilizör (E450, E451, E452), antioksidan (E316), koruyucu (E250), renklendirici (E120), ambalajlama gazı (azot, karbon dioksit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692415400166-namet-dilimli-dana-jambon-150-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692415400166-namet-dilimli-dana-jambon-150-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692415400166-namet-dilimli-dana-jambon-150-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692415400166-namet-dilimli-dana-jambon-150-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692415400166-namet-dilimli-dana-jambon-150-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8697471722429",
+    "name": "Namet Füme Kavurma 100 g",
+    "category": "food",
+    "ingredients": "Dana eti ve yağı, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8697471722429-namet-fume-kavurma-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8697471722429-namet-fume-kavurma-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8697471722429-namet-fume-kavurma-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8697471722429-namet-fume-kavurma-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8697471722429-namet-fume-kavurma-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690451707058",
+    "name": "Bi Dilim Piliç Jambon 60 g",
+    "category": "food",
+    "ingredients": "Piliç eti, su, nişasta, tuz, bitkisel lif (selüloz), şeker, kıvam arttırıcı (karragenan, keçiboynuzu gamı), maya özü, stabilizör (sodyum polifosfat), koruyucu (sodyum laktat, sodyum asetat, sodyum nitrit), antioksidan (sodyum eritorbat)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690451707058-bi-dilim-pilic-jambon-60-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690451707058-bi-dilim-pilic-jambon-60-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690451707058-bi-dilim-pilic-jambon-60-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690451707058-bi-dilim-pilic-jambon-60-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690451707058-bi-dilim-pilic-jambon-60-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8692095341155",
+    "name": "Sek Kaşar Peyniri 200 g",
+    "category": "food",
+    "ingredients": "Pastörize edilmiş inek sütü, peynir kültürü, peynir mayası, sofra tuzu",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692095341155-sek-kasar-peyniri-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692095341155-sek-kasar-peyniri-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692095341155-sek-kasar-peyniri-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692095341155-sek-kasar-peyniri-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692095341155-sek-kasar-peyniri-200-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Pastörize edilmiş inek sütü"
+  },
+  {
+    "code": "8692095051030",
+    "name": "Sek Tereyağı 1 kg",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü kreması, tereyağ kültürü",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692095051030-sek-tereyagi-1-kg",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692095051030-sek-tereyagi-1-kg",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692095051030-sek-tereyagi-1-kg"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692095051030-sek-tereyagi-1-kg"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692095051030-sek-tereyagi-1-kg"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Pastörize inek sütü"
+  },
+  {
+    "code": "8690767002069",
+    "name": "Sütaş Eski Kaşar 350 g",
+    "category": "food",
+    "ingredients": "Termize inek sütü, termize koyun sütü, termize keçi sütü, sofra tuzu, peynir kültürü, peynir mayası",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690767002069-sutas-eski-kasar-350-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690767002069-sutas-eski-kasar-350-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690767002069-sutas-eski-kasar-350-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690767002069-sutas-eski-kasar-350-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690767002069-sutas-eski-kasar-350-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt ve süt ürünleri (laktoz dahil)"
+  },
+  {
+    "code": "8690767674655",
+    "name": "Sütaş Kaşar Peyniri 700 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, sofra tuzu, peynir kültürü, peynir mayası",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690767674655-sutas-kasar-peyniri-700-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690767674655-sutas-kasar-peyniri-700-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690767674655-sutas-kasar-peyniri-700-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690767674655-sutas-kasar-peyniri-700-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690767674655-sutas-kasar-peyniri-700-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt ve süt ürünleri (laktoz dahil)"
+  },
+  {
+    "code": "8690504429241",
+    "name": "İçim Çilekli Kefir 260 ml",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, çilek sosu (%11) [şeker, çilek (%10), nişasta, kıvam arttırıcı (karragenan), limon suyu konsantresi, aroma verici], kefir mayası, kefir kültürü, probiyotik mikroorganizmalar (bifidobacterium, lactobacillus acidophilus)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690504429241-icim-cilekli-kefir-260-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690504429241-icim-cilekli-kefir-260-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690504429241-icim-cilekli-kefir-260-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690504429241-icim-cilekli-kefir-260-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690504429241-icim-cilekli-kefir-260-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Pastörize inek sütü"
+  },
+  {
+    "code": "8692971412269",
+    "name": "İçim Çilekli Pastörize Süt 1 L",
+    "category": "food",
+    "ingredients": "İnek sütü, çilek sosu (%3) [çilek (%30), şeker, modifiye nişasta, renklendiriciler (pancarkökü kırmızısı, beta karoten), kıvam arttırıcı (keçiboynuzu gamı, guar gam), aroma verici], şeker",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692971412269-icim-cilekli-pastorize-sut-1l",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692971412269-icim-cilekli-pastorize-sut-1l",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692971412269-icim-cilekli-pastorize-sut-1l"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692971412269-icim-cilekli-pastorize-sut-1l"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692971412269-icim-cilekli-pastorize-sut-1l"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "İnek sütü"
+  },
+  {
+    "code": "8692971435749",
+    "name": "İçim Dilimli Tost Peyniri 200 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir mayası, peynir kültürü, emülsifiye edici tuzlar (polifosfatlar, sodyum sitratlar, potasyum fosfatlar), koruyucu (potasyum sorbat), tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692971435749-icim-dilimli-tost-peyniri-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692971435749-icim-dilimli-tost-peyniri-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692971435749-icim-dilimli-tost-peyniri-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692971435749-icim-dilimli-tost-peyniri-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692971435749-icim-dilimli-tost-peyniri-200-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Pastörize inek sütü"
+  },
+  {
+    "code": "8692971434353",
+    "name": "İçim Fit Kahveli Laktozsuz Süt 500 ml",
+    "category": "food",
+    "ingredients": "Yağsız inek sütü, süt proteini, çözünebilir kahve (%0,5), stabilizör (karragenan, selüloz), laktaz enzimi, aroma verici (kahve), tatlandırıcı (sukraloz)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692971434353-icim-fit-kahveli-laktozsuz-sut-500-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692971434353-icim-fit-kahveli-laktozsuz-sut-500-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692971434353-icim-fit-kahveli-laktozsuz-sut-500-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692971434353-icim-fit-kahveli-laktozsuz-sut-500-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692971434353-icim-fit-kahveli-laktozsuz-sut-500-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz"
+  },
+  {
+    "code": "8692971434346",
+    "name": "İçim Fit Çikolatalı Süt 500 ml",
+    "category": "food",
+    "ingredients": "Yağsız inek sütü, süt proteini, çikolata (%0,5), stabilizör (gellan gum), aroma verici, laktaz enzimi, tatlandırıcı (sukraloz)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692971434346-icim-fit-sut-cikolata-500-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692971434346-icim-fit-sut-cikolata-500-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692971434346-icim-fit-sut-cikolata-500-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692971434346-icim-fit-sut-cikolata-500-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692971434346-icim-fit-sut-cikolata-500-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz"
+  },
+  {
+    "code": "8692971434513",
+    "name": "İçim Fit Çilekli Laktozsuz Süt 500 ml",
+    "category": "food",
+    "ingredients": "Süt proteini, yağsız inek sütü, stabilizör (selüloz, selüloz gam), çilek aroma vericisi, renklendirici (beta karoten), tatlandırıcı (sukraloz), laktaz enzimi",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8692971434513-icim-fit-cilekli-laktozsuz-sut-500ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8692971434513-icim-fit-cilekli-laktozsuz-sut-500ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8692971434513-icim-fit-cilekli-laktozsuz-sut-500ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8692971434513-icim-fit-cilekli-laktozsuz-sut-500ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8692971434513-icim-fit-cilekli-laktozsuz-sut-500ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "İnek sütü"
+  },
+  {
+    "code": "8690629435240",
+    "name": "Dr. Oetker Bitter Çikolatalı Sos 125 g",
+    "category": "food",
+    "ingredients": "Şeker, yağı azaltılmış kakao tozu, modifiye mısır nişastası, mısır nişastası, kakao tozu, kıvam arttırıcı (ksantan gam), aroma vericiler, bitter çikolata tozu (%0,2) (şeker, kakao kitlesi, kakao yağı), tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690629435240-dr-oetker-bitter-cikolatali-sos-125-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690629435240-dr-oetker-bitter-cikolatali-sos-125-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690629435240-dr-oetker-bitter-cikolatali-sos-125-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690629435240-dr-oetker-bitter-cikolatali-sos-125-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690629435240-dr-oetker-bitter-cikolatali-sos-125-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt ve fındık ürünü içerebilir."
+  },
+  {
+    "code": "8690515124401",
+    "name": "Kent Olips C Vitaminli Stick 28 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), asitlik düzenleyici (sitrik asit), C vitamini, meyve suyu konsantreleri %0,3 (portakal, limon), aroma vericiler, renklendirici (beta karoten)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515124401-kent-olips-c-vitaminli-stick-28-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515124401-kent-olips-c-vitaminli-stick-28-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515124401-kent-olips-c-vitaminli-stick-28-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515124401-kent-olips-c-vitaminli-stick-28-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515124401-kent-olips-c-vitaminli-stick-28-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Alerjen içermemektedir."
+  },
+  {
+    "code": "8690515141149",
+    "name": "Kent Jelibon Kolalı 100 g",
+    "category": "food",
+    "ingredients": "Glukoz şurubu, şeker, sığır jelatini, asit (laktik asit), karamelize şeker, palm çekirdeği yağı, aroma vericiler, asitlik düzenleyici (sodyum sitratlar), parlatıcılar (karnauba mumu, balmumu)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515141149-kent-jelibon-kolali-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515141149-kent-jelibon-kolali-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515141149-kent-jelibon-kolali-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515141149-kent-jelibon-kolali-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515141149-kent-jelibon-kolali-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690515124272",
+    "name": "Kent Olips Mentol Stick 28 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), aroma vericiler, asitlik düzenleyici (sitrik asit), renklendirici (indigotin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515124272-kent-olips-mentol-stick-28-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515124272-kent-olips-mentol-stick-28-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515124272-kent-olips-mentol-stick-28-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515124272-kent-olips-mentol-stick-28-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515124272-kent-olips-mentol-stick-28-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Alerjen içermemektedir."
+  },
+  {
+    "code": "8690515124005",
+    "name": "Kent Olips Mentollü Şeker 76 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), aroma vericiler, asitlik düzenleyici (sitrik asit), renklendirici (indigotin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515124005-kent-olips-mentollu-seker-76-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515124005-kent-olips-mentollu-seker-76-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515124005-kent-olips-mentollu-seker-76-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515124005-kent-olips-mentollu-seker-76-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515124005-kent-olips-mentollu-seker-76-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690515124104",
+    "name": "Kent Olips C Vitaminli 76 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), asitlik düzenleyici (sitrik asit), C vitamini, meyve suyu konsantreleri %0,3 (portakal, limon), aroma vericiler, renklendirici (beta karoten)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515124104-kent-olips-c-vitaminli-76-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515124104-kent-olips-c-vitaminli-76-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515124104-kent-olips-c-vitaminli-76-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515124104-kent-olips-c-vitaminli-76-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515124104-kent-olips-c-vitaminli-76-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690515599766",
+    "name": "Kent Olips Nane 76 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), aroma vericiler, renklendirici (beta karoten, brilliant blue FCF)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515599766-kent-olips-nane-76-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515599766-kent-olips-nane-76-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515599766-kent-olips-nane-76-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515599766-kent-olips-nane-76-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515599766-kent-olips-nane-76-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8699118060963",
+    "name": "Çokça %55 Yağı Azaltılmış Mayonez 840 g",
+    "category": "food",
+    "ingredients": "Su, ayçiçek yağı, modifiye mısır nişastası, pastörize yumurta sarısı, sirke, şeker, tuz, koruyucu (potasyum sorbat), kıvam arttırıcı (ksantan gam), aroma vericiler (hardal tohumu, sarımsak), renklendirici (betakaroten), asitlik düzenleyici (sitrik asit), antioksidan (kalsiyum disodyum EDTA)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8699118060963",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8699118060963",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8699118060963"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8699118060963"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8699118060963"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8699118060963"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 300.0,
+      "fat": 30.0,
+      "saturatedFat": 3.3,
+      "carbohydrate": 5.4,
+      "sugars": 1.5,
+      "protein": 0.6,
+      "salt": 0.7
+    },
+    "allergens": [
+      "en:eggs",
+      "en:mustard"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8691641529016",
+    "name": "Fiskobirlik Nuga Kakaolu Fındık Kreması 700 g",
+    "category": "food",
+    "ingredients": "Şeker, bitkisel yağlar (değişen miktarlarda fındık, ayçiçek, pamuk), fındık (%16), kakao tozu (%7), yağsız süt tozu, peynir altı suyu tozu (süt ürünü), laktoz (süt ürünü), emülgatör (soya lesitini), aroma verici (vanilin)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8691641529016",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8691641529016",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8691641529016"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8691641529016"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8691641529016"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8691641529016"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 535.0,
+      "fat": 30.5,
+      "saturatedFat": 6.4,
+      "carbohydrate": 58.1,
+      "sugars": 49.8,
+      "fibre": 5.8,
+      "protein": 8.2,
+      "salt": 0.2
+    },
+    "allergens": [
+      "en:milk",
+      "en:nuts",
+      "en:soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690120061207",
+    "name": "Torku Banada Bitter Çikolatalı Kakaolu Fındık Kreması 370 g",
+    "category": "food",
+    "ingredients": "Şeker, bitkisel yağ (hurma), fındık (%13), kakao tozu, bitter çikolata (%1) (şeker, kakao kitlesi, kakao yağı), bitkisel yağ (hurma), emülgatör (ayçiçek lesitini), aroma verici (vanilin)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690120061207",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690120061207",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690120061207"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690120061207"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690120061207"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda gluten, süt ve soya ürünü içerebilir."
+  },
+  {
+    "code": "8690504079323",
+    "name": "Ülker Dankek Pöti Meyveli Kek 35 g",
+    "category": "food",
+    "ingredients": "Buğday unu, şeker, su, yumurta, bitkisel yağ (palm), kuru üzüm (%8,7), invert şeker şurubu, yumurta akı, meyveler (%3) (portakal, ayva, limon, incir), nem verici (gliserol), peynir altı suyu tozu, koruyucular (potasyum sorbat, sodyum propiyonat, sorbik asit), nişasta, emülgatörler (yağ asitlerinin mono ve digliseritleri, yağ asitlerinin poligliserol esterleri, soya lesitini), kabartıcılar (disodyum difosfat, sodyum hidrojen karbonat), tuz, kıvam arttırıcı (guar gam), asitlik düzenleyici (sitrik asit), aroma verici, renklendirici (beta karoten)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690504079323",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690504079323",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690504079323"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690504079323"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690504079323"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:eggs",
+      "en:gluten",
+      "en:milk",
+      "en:soybeans"
+    ],
+    "traces": [
+      "en:nuts",
+      "en:sesame-seeds"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda susam ve sert kabuklu meyveler içerebilir."
+  },
+  {
+    "code": "8695077125651",
+    "name": "Harras Yer Fıstığı Ezmesi 350 g",
+    "category": "food",
+    "ingredients": "Yer fıstığı (%100)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077125651",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077125651",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077125651"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077125651"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077125651"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:peanuts"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:nuts",
+      "en:sesame-seeds",
+      "en:soybeans",
+      "en:sulphur-dioxide-and-sulphites"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda gluten, ceviz, fındık, antep fıstığı, kaju fıstığı, badem, susam, kükürt dioksit ve sülfitler, soya ve süt ürünleri içerebilir."
+  },
+  {
+    "code": "8696368944173",
+    "name": "Danone Bitkisel Yağlı Krema 200 ml",
+    "category": "food",
+    "ingredients": "Su, bitkisel yağ (palm) (%20), yağsız süt tozu, modifiye nişasta, şeker, asitlik düzenleyici (potasyum sitratlar), stabilizörler (selüloz, selüloz gam), emülgatör (yağ asitlerinin mono- ve digliseritlerinin sitrik asit esterleri), kıvam arttırıcı (karragenan)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8696368944173",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8696368944173",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8696368944173"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8696368944173"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8696368944173"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:nuts",
+      "en:peanuts",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "İz miktarda gluten, sert kabuklu meyveler, yer fıstığı ve soya içerebilir."
   }
 ]
