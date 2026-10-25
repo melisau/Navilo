@@ -150,6 +150,10 @@ def main():
     summary = [f'Found {len(found)} Turkish products with a barcode but no ingredients.',
                *report, *[f'- {r["candidate_barcode"]} · {r["name"]}' for r in found]]
     print('\n'.join(summary))
+    if os.environ.get('GITHUB_ACTIONS'):
+        # One annotation keeps the result visible on the pull request.
+        text = '\n'.join(summary)[:3500].replace('%', '%25').replace('\n', '%0A')
+        print(f'::notice title=Catalogue gaps ({len(found)} found)::{text}')
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
             out.write('\n'.join(summary) + '\n')

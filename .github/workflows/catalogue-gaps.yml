@@ -6,6 +6,10 @@ name: Catalogue gaps (Open Facts → contribution list)
 on:
   schedule:
     - cron: '17 4 * * 1' # Mondays 07:17 Europe/Istanbul
+  pull_request:
+    paths:
+      - 'tool/off_turkey_gaps.py'
+      - '.github/workflows/catalogue-gaps.yml'
   workflow_dispatch:
     inputs:
       limit:
@@ -37,13 +41,19 @@ jobs:
       - name: Install requests
         run: pip install requests
 
+      - name: Preview on pull requests (no changes)
+        if: github.event_name == 'pull_request'
+        run: python tool/off_turkey_gaps.py --limit 40 --pages 2 --dry-run
+
       - name: Find Turkish products without ingredients
+        if: github.event_name != 'pull_request'
         run: >
           python tool/off_turkey_gaps.py
           --limit "${{ github.event.inputs.limit || '50' }}"
           --pages "${{ github.event.inputs.pages || '3' }}"
 
       - name: Validate candidate file
+        if: github.event_name != 'pull_request'
         run: |
           python3 - <<'PY'
           import json, sys
@@ -61,6 +71,7 @@ jobs:
           PY
 
       - name: Open pull request
+        if: github.event_name != 'pull_request'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
