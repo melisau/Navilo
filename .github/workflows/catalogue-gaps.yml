@@ -1,0 +1,83 @@
+name: Catalogue gaps (Open Facts → contribution list)
+
+# Weekly: find products sold in Turkey that Open Food Facts / Open Beauty
+# Facts know by barcode but without ingredients, add them to the in-app
+# contribution list and open a pull request for review.
+on:
+  schedule:
+    - cron: '17 4 * * 1' # Mondays 07:17 Europe/Istanbul
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Maximum new candidates'
+        default: '50'
+      pages:
+        description: 'Search pages per source (100 products each)'
+        default: '3'
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: catalogue-gaps
+  cancel-in-progress: false
+
+jobs:
+  gaps:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Find Turkish products without ingredients
+        run: >
+          python tool/off_turkey_gaps.py
+          --limit "${{ github.event.inputs.limit || '50' }}"
+          --pages "${{ github.event.inputs.pages || '3' }}"
+
+      - name: Validate candidate file
+        run: |
+          python3 - <<'PY'
+          import json, sys
+          sys.path.insert(0, 'tool')
+          from catalog_validation import valid_gtin
+          rows = json.load(open('assets/contribution_candidates.json', encoding='utf-8'))
+          ids = [r['id'] for r in rows]
+          assert len(ids) == len(set(ids)), 'duplicate candidate ids'
+          for r in rows:
+              assert r.get('name') and r.get('category') in ('food', 'cosmetic'), r
+              if r['id'].startswith('off-gap-'):
+                  assert valid_gtin(r['candidate_barcode']), r
+                  assert r['source_url'].startswith('https://'), r
+          print(f'{len(rows)} candidates OK')
+          PY
+
+      - name: Open pull request
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then
+            echo "No new candidates." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          branch="auto/catalogue-gaps-$(date +%Y%m%d-%H%M)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$branch"
+          git add assets/contribution_candidates.json
+          git commit -m "Add Turkish products without ingredients to the contribution list"
+          git push -u origin "$branch"
+          body="Open Food Facts / Open Beauty Facts'te Türkiye'de satılan, barkodu ve adı olup içerik listesi eksik ürünler katkı listesine eklendi. İçerik tahmin edilmedi; kullanıcılar ambalaj fotoğrafıyla tamamlayacak. Ayrıntılar iş akışı özetinde."
+          if ! gh pr create --base main --head "$branch" \
+                --title "Katkı listesi: içeriği eksik Türkiye ürünleri ($(date +%d.%m.%Y))" \
+                --body "$body"; then
+            echo "PR could not be created automatically (enable 'Allow GitHub Actions to create pull requests' in repo settings). Branch pushed: $branch" >> "$GITHUB_STEP_SUMMARY"
+          fi

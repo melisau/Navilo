@@ -23,6 +23,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 import 'domain/policy.dart';
 import 'domain/allergens.dart';
+import 'domain/barcode.dart';
 import 'domain/dietary_analysis.dart';
 import 'domain/nutrition.dart';
 import 'domain/preference_fit.dart';
