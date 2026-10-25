@@ -1,0 +1,612 @@
+[
+ {
+  "code": "8690504008033",
+  "name": "ULKER 90-08 COKOPRENS 30 GR.",
+  "category": "food"
+ },
+ {
+  "code": "8690504019404",
+  "name": "Ülker 9Kat Tat Muzlu Gofret 39 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504834502",
+  "name": "Ülker Albeni Çikolata 24 lü 40 g",
+  "category": "food"
+ },
+ {
+  "code": "8690504086642",
+  "name": "Ülker Albeni Beyaz Çikolata Viva 36 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504033936",
+  "name": "Ülker Albeni Büyük Boy 52 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504034506",
+  "name": "Ülker Albeni 40 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504033899",
+  "name": "Ülker Albeni Kaplamalı Çikolatalı Kek 43 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504034735",
+  "name": "Ülker Albeni Atıştırmalık 72 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504085317",
+  "name": "Ülker 9 Kat Gofret Çilek Kremalı 114 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504085591",
+  "name": "Ülker 9 Kat Gofret Fındık Kremalı 114 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690766085735",
+  "name": "Ülker 9 Kat Gofret Hindistan Cevizli Kremalı 114 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504009726",
+  "name": "ULKER 97-2 CIZI KRAKER 4*70 GR",
+  "category": "food"
+ },
+ {
+  "code": "8690504136330",
+  "name": "Ülker Albeni Mini Bar 89 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690504136361",
+  "name": "Ülker All Star Mini Paket 91 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690766086473",
+  "name": "Ülker 9 Kat Tat Rulokat Fındıklı Rulo Gofret 170G",
+  "category": "food"
+ },
+ {
+  "code": "8690504036210",
+  "name": "Ülker Albeni Atıştırmalık Extra 170 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690840228928",
+  "name": "ULKER 2289-02 ONEO SLIMS 60 DK NANE SAKIZ 14 GR",
+  "category": "food"
+ },
+ {
+  "code": "8690504038191",
+  "name": "Ülker 9 Kat Tat Fındıklı Küp Gofret 100 G",
+  "category": "food"
+ },
+ {
+  "code": "8690504039020",
+  "name": "Ülker 9 Kat Tat Portakallı Küp Gofret 110 G",
+  "category": "food"
+ },
+ {
+  "code": "8690504086482",
+  "name": "Ülker 9 Kat Tat Rulokat Hindistan Cevizli Rulo Gofret 170G",
+  "category": "food"
+ },
+ {
+  "code": "8690766085742",
+  "name": "Ülker 9 Kat Tat İnce İnce Şekersiz Fındıklı 118 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690504085812",
+  "name": "Ülker 9 Kat Tat İnce İnce Şekersiz Portakallı 118 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690504152040",
+  "name": "Ülker Albeni Karamelize Bisküvili Bar 36 G",
+  "category": "food"
+ },
+ {
+  "code": "8690504154594",
+  "name": "Ülker Albeni Tane Tane 29 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690526026565",
+  "name": "Eti Antep Fıstıklı Beyaz Çikolata 30 G",
+  "category": "food"
+ },
+ {
+  "code": "8690526094038",
+  "name": "Eti Balık Kraker 160 G",
+  "category": "food"
+ },
+ {
+  "code": "8690526018935",
+  "name": "Eti Ahenk Gurme Sütlü Çikolatalı Gofret 50 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690526099613",
+  "name": "Eti Alaska Frigo Bitter Çikolata Kapl Dondurma 60 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690526069722",
+  "name": "Eti Alaska Frigo Karamelli 47 gr Dondurma",
+  "category": "food"
+ },
+ {
+  "code": "8690526099644",
+  "name": "Eti Alaska Frigo Bitter Çikolatalı Bisküvi Parçacıklı 50 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690526067537",
+  "name": "Eti Antep Fıstıklı Kare Çikolata 60 gr",
+  "category": "food"
+ },
+ {
+  "code": "8696368201481",
+  "name": "Danone Petit Danino Çilekli Yoğurt 6x40 Gr",
+  "category": "food"
+ },
+ {
+  "code": "8690526017631",
+  "name": "Eti Ahenk Bol Sütlü Çikolata 8 Li 32 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690526028576",
+  "name": "Eti Ahenk Sütlü Kare Çikolata 60 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690526048383",
+  "name": "Eti Aşk Tadında Sütlü Fındıklı 37 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690526024899",
+  "name": "Eti Balık Mini Mısırlı Kraker 40 G",
+  "category": "food"
+ },
+ {
+  "code": "8699141059699",
+  "name": "Şölen Boombastic Marshmallowlu Çikolatalı Kek 40 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8699141157005",
+  "name": "Şölen Mood Çikolatalı 40 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8699141059286",
+  "name": "Şölen Boombastic Fantastik Bar 40 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8699141055189",
+  "name": "Şölen Biscolata Starz Bitter 82 gr",
+  "category": "food"
+ },
+ {
+  "code": "8691707140049",
+  "name": "SOLEN BISCOLATA SUU STIX 40 GR",
+  "category": "food"
+ },
+ {
+  "code": "8691707140025",
+  "name": "Şölen Biscolata Stix Hindistan Cevizli 36 g",
+  "category": "food"
+ },
+ {
+  "code": "8691707140414",
+  "name": "Şölen Biscolata Stix Pirinç Patlaklı 34 g",
+  "category": "food"
+ },
+ {
+  "code": "8691707096001",
+  "name": "Şölen Nutymax Bar Çikolata Antep Fıstık Kremalı 44 G",
+  "category": "food"
+ },
+ {
+  "code": "8691707088495",
+  "name": "Şölen Greta Mevsim Yeşillikli 4x30 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8699141157517",
+  "name": "Şölen Biscolata Pia Frambuazlı 100 gr",
+  "category": "food"
+ },
+ {
+  "code": "8699141057039",
+  "name": "Şölen Biscolata Mood Bitter 125 gr",
+  "category": "food"
+ },
+ {
+  "code": "8699141059125",
+  "name": "Şölen Luppo Sandviç Kek Kakaolu 184 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8691707097015",
+  "name": "Şölen Biscolata Nirvana Roll Bitter 27.5 gr",
+  "category": "food"
+ },
+ {
+  "code": "8691707096551",
+  "name": "Şölen Biscolata Minis 117 g",
+  "category": "food"
+ },
+ {
+  "code": "8699141056049",
+  "name": "Şölen Biscolata Mood Hindistan Cevizi 125 gr",
+  "category": "food"
+ },
+ {
+  "code": "8691707015262",
+  "name": "Şölen Biscolata Nirvana Roll Hindistan Cevizli 22.5 gr",
+  "category": "food"
+ },
+ {
+  "code": "8691707096131",
+  "name": "Şölen Biscolata Veni Fındıklı Gofret 50 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8691707096193",
+  "name": "Şölen Biscolata Veni Kakaolu Gofret 50 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8691707039305",
+  "name": "Şölen Boombastic Hindistan Cevizli Bar 35 gr",
+  "category": "food"
+ },
+ {
+  "code": "8691707096841",
+  "name": "Şölen Boombastic Pirinç Patlaklı Fındık Krem Gofret 32 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8691707088501",
+  "name": "Şölen Greta 7 Tohumlu 4x30 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8691707059853",
+  "name": "Şölen Luppo Kek Mini Sade 55G",
+  "category": "food"
+ },
+ {
+  "code": "8691707097039",
+  "name": "Şölen Nirvana Roll Fındıklı 28 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690612515065",
+  "name": "Superfresh 7/24 Fırından Mini Baget Ekmeği 300 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612417864",
+  "name": "Superfresh Çıtır Toplar 360 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690612423001",
+  "name": "Superfresh Çıtır Halka Kroket 450 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612515041",
+  "name": "Superfresh 7/24 Fırından Simit 400 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612506230",
+  "name": "Superfresh Ispanaklı Rulo Börek 500 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612506087",
+  "name": "Superfresh Mantı Kayseri 400 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690612502058",
+  "name": "Superfresh Milfoy 1 Kg.",
+  "category": "food"
+ },
+ {
+  "code": "8690612314156",
+  "name": "Superfresh Ayçiçek Yağlı Ton Balığı 3*75 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612313890",
+  "name": "Superfresh Light Ton Balığı 3X75 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612601867",
+  "name": "Superfresh Baba Burger 360 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612603151",
+  "name": "Superfresh Hamburger Köfte 500 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612601737",
+  "name": "Superfresh Dana Burger 540 G (12 Adet)",
+  "category": "food"
+ },
+ {
+  "code": "8690612603137",
+  "name": "Superfresh Dana Izgara Köfte 320 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612603113",
+  "name": "Superfresh Dana Tekirdağ Köfte 320 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612504830",
+  "name": "Superfresh Katmer 140 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612503451",
+  "name": "Superfresh Künefe 250 G",
+  "category": "food"
+ },
+ {
+  "code": "8690612603090",
+  "name": "Superfresh İnegöl Köfte 320 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690559009306",
+  "name": "Dardanel 4 Tahıllı Ton Balığı 185 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690559704492",
+  "name": "Dardanel Fasülyeli Ton Balığı 185 g",
+  "category": "food"
+ },
+ {
+  "code": "8690559015659",
+  "name": "Dardanel Kuskuslu Ton 185 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559704485",
+  "name": "Dardanel Mısırlı Ton Balığı 185 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559007302",
+  "name": "Dardanel Acılı Sardalya 100 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559015277",
+  "name": "Dardanel Acılı Ton Balığı 2X150 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559705079",
+  "name": "Dardanel Ayçiçekyağlı Poşet Ton Balığı 120 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559007579",
+  "name": "Dardanel Fish Fingers 240 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559008262",
+  "name": "Dardanel Fish Nugget 240 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559006923",
+  "name": "Dardanel Levrek Çorbası 500 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559014171",
+  "name": "Dardanel Mezgit Pane 375 G",
+  "category": "food"
+ },
+ {
+  "code": "8690559014164",
+  "name": "Dardanel Midye Tava 400 G",
+  "category": "food"
+ },
+ {
+  "code": "8691422226516",
+  "name": "Penguen Garnitür 540 G ( Cam Şişe )",
+  "category": "food"
+ },
+ {
+  "code": "8691422701433",
+  "name": "Penguen Lütenitsa Balkan Sosu Acılı 300 G",
+  "category": "food"
+ },
+ {
+  "code": "8690637019852",
+  "name": "Knorr Çabuk Çorba Mercimek 22 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690637503290",
+  "name": "Knorr Ezogelin 22 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637036897",
+  "name": "Knorr Çabuk Çorba Acılı Domates 22 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690637019838",
+  "name": "Knorr Çabuk Çorba Kremalı Tavuk 18 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690637812323",
+  "name": "Knorr Çorba Kremalı Mantar 63 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637864728",
+  "name": "Knorr Çorba Yayla 65 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637018565",
+  "name": "Knorr Çorba İşkembe Yeni 63 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637812309",
+  "name": "Knorr Çorba Kremalı Domates 69 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690701053072",
+  "name": "Knorr Hazır Çorba Ezogelin Çorbası 65 G",
+  "category": "food"
+ },
+ {
+  "code": "8690637018626",
+  "name": "Knorr Hazır Çorba Kremalı Tavuk 65 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690701002308",
+  "name": "Knorr Bulyon Et 12 Li",
+  "category": "food"
+ },
+ {
+  "code": "8690701002766",
+  "name": "Knorr Harç Çıtır Pane 90 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637843242",
+  "name": "Knorr Harç Karma Köfte Harcı 82 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637839160",
+  "name": "Knorr Beşamel Sos 70 G",
+  "category": "food"
+ },
+ {
+  "code": "8690701006634",
+  "name": "Knorr Domatesli Bolonez Makarna Sosu 40 G",
+  "category": "food"
+ },
+ {
+  "code": "8690637504044",
+  "name": "Knorr Düğün Çorbası 72 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637018596",
+  "name": "Knorr Hazır Çorba Kremalı Sebze 68 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690637896477",
+  "name": "Knorr Çabuk Makarna 3 Peynirli 67 G",
+  "category": "food"
+ },
+ {
+  "code": "8690637896453",
+  "name": "Knorr Çabuk Makarna Napoliten 67 G",
+  "category": "food"
+ },
+ {
+  "code": "8690550915323",
+  "name": "Tadelle Maxinut Fındıklı Gofret 30 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690550915149",
+  "name": "Tadelle King Size 52 g",
+  "category": "food"
+ },
+ {
+  "code": "8690550915965",
+  "name": "Tadelle King Size Fındıklı Çikolata 52 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8683417000270",
+  "name": "Tadelle Fındık Dolgulu Sütlü Çikolata 52 gr",
+  "category": "food"
+ },
+ {
+  "code": "8683417000539",
+  "name": "Tadelle Beyaz Çikolatalı Gofret 35 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690550915781",
+  "name": "Tadelle Beyaz Çikolatalı Gofret 35 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690550915798",
+  "name": "Tadelle Bitter Çikolatalı Gofret 35 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690550913541",
+  "name": "Tadelle Fındık Dolgulu Beyaz Çikolata 30 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690550913534",
+  "name": "Tadelle Fındık Dolgulu Bitter Çikolata 30 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8683417000140",
+  "name": "Tadelle Fındık Dolgulu Sütlü Çikolata 30 gr",
+  "category": "food"
+ },
+ {
+  "code": "8690550913510",
+  "name": "Tadelle Çikolata Sütlü Fındık Dolgulu 30 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690550914838",
+  "name": "Tadelle Çikolatalı Gofret 35 Gr.",
+  "category": "food"
+ },
+ {
+  "code": "8690550915330",
+  "name": "Tadelle Şeker İlavesiz Fındık Dolgulu Sütlü Çikolata 20 gr",
+  "category": "food"
+ }
+]

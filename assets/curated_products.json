@@ -14555,5 +14555,199 @@
     "ingredient_evidence": "full_label_transcription",
     "open_facts_coverage": "open_facts_without_ingredients",
     "source_allergen_text": "İz miktarda gluten, sert kabuklu meyveler, yer fıstığı ve soya içerebilir."
+  },
+  {
+    "code": "8697403890332",
+    "name": "Danet Piliç Salam Baton 200 g",
+    "category": "food",
+    "ingredients": "Piliç eti, piliç yağı, patates nişastası, su, baharat karışımı, tuz, soya proteini, süt proteini, kıvam arttırıcı (karragenan), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit), tütsü aroma vericisi",
+    "source_name": "Danet resmi online mağaza ürün sayfası (Barkod, içindekiler ve besin değerleri)",
+    "source_url": "https://online.danet.com.tr/pilic-salam-i-baton-i-200-g",
+    "barcode_source_url": "https://online.danet.com.tr/pilic-salam-i-baton-i-200-g",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/pilic-salam-i-baton-i-200-g"
+      ],
+      "name": [
+        "https://online.danet.com.tr/pilic-salam-i-baton-i-200-g"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/pilic-salam-i-baton-i-200-g"
+      ],
+      "nutrition": [
+        "https://online.danet.com.tr/pilic-salam-i-baton-i-200-g"
+      ]
+    },
+    "source_type": "manufacturer",
+    "evidence_status": "manufacturer_product_page",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 213.0,
+      "fat": 15.0,
+      "saturatedFat": 6.0,
+      "carbohydrate": 9.5,
+      "sugars": 0.0,
+      "protein": 10.0,
+      "salt": 2.0
+    },
+    "allergens": [
+      "en:milk",
+      "en:soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "danet-not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt proteini ve soya proteini içerir."
+  },
+  {
+    "code": "8697403890226",
+    "name": "Danet Dana Macar Salam Baton 250 g",
+    "category": "food",
+    "ingredients": "Dana eti, kuzu yağı, dana yağı, su, ayçiçek yağı, baharat karışımı, patates nişastası, tuz, soya proteini, süt proteini, kıvam arttırıcı (karragenan), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit), tütsü aroma vericisi",
+    "source_name": "Danet resmi online mağaza ürün sayfası (Barkod, içindekiler ve besin değerleri)",
+    "source_url": "https://online.danet.com.tr/dana-macar-salam-i-baton-i-250g",
+    "barcode_source_url": "https://online.danet.com.tr/dana-macar-salam-i-baton-i-250g",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/dana-macar-salam-i-baton-i-250g"
+      ],
+      "name": [
+        "https://online.danet.com.tr/dana-macar-salam-i-baton-i-250g"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/dana-macar-salam-i-baton-i-250g"
+      ],
+      "nutrition": [
+        "https://online.danet.com.tr/dana-macar-salam-i-baton-i-250g"
+      ]
+    },
+    "source_type": "manufacturer",
+    "evidence_status": "manufacturer_product_page",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 195.0,
+      "fat": 15.0,
+      "saturatedFat": 9.0,
+      "carbohydrate": 5.0,
+      "sugars": 0.0,
+      "protein": 10.0,
+      "salt": 2.0
+    },
+    "allergens": [
+      "en:milk",
+      "en:soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "danet-not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Süt proteini ve soya proteini içerir."
+  },
+  {
+    "code": "8697403890103",
+    "name": "Danet Dana Antrikot Pastırma 250 g",
+    "category": "food",
+    "ingredients": "Dana eti, pastırma çemeni (buğday unu, kırmızıbiber, sarımsak), tuz, antioksidan (askorbik asit), koruyucu (sodyum nitrit)",
+    "source_name": "Danet resmi online mağaza ürün sayfası (Barkod, içindekiler ve besin değerleri)",
+    "source_url": "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g",
+    "barcode_source_url": "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g"
+      ],
+      "name": [
+        "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g"
+      ],
+      "nutrition": [
+        "https://online.danet.com.tr/dana-antrikot-pastirma-i-250-g"
+      ]
+    },
+    "source_type": "manufacturer",
+    "evidence_status": "manufacturer_product_page",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 215.0,
+      "fat": 7.0,
+      "saturatedFat": 3.0,
+      "carbohydrate": 3.0,
+      "sugars": 0.0,
+      "protein": 35.0,
+      "salt": 7.0
+    },
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "danet-not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Glüten içerebilir."
+  },
+  {
+    "code": "8697403890097",
+    "name": "Danet Dana Baton Sucuk Isıl İşlem Görmüş 300 g",
+    "category": "food",
+    "ingredients": "Dana eti, dana yağı, baharat karışımı, tuz, sarımsak, stabilizör (sodyum polifosfat), antioksidan (askorbik asit), koruyucu (sodyum nitrit)",
+    "source_name": "Danet resmi online mağaza ürün sayfası (Barkod, içindekiler ve besin değerleri)",
+    "source_url": "https://online.danet.com.tr/isil-islem-gormus-tekli-baton-sucuk-300gr",
+    "barcode_source_url": "https://online.danet.com.tr/isil-islem-gormus-tekli-baton-sucuk-300gr",
+    "field_sources": {
+      "code": [
+        "https://online.danet.com.tr/isil-islem-gormus-tekli-baton-sucuk-300gr"
+      ],
+      "name": [
+        "https://online.danet.com.tr/isil-islem-gormus-tekli-baton-sucuk-300gr"
+      ],
+      "ingredients": [
+        "https://online.danet.com.tr/isil-islem-gormus-tekli-baton-sucuk-300gr"
+      ],
+      "nutrition": [
+        "https://online.danet.com.tr/isil-islem-gormus-tekli-baton-sucuk-300gr"
+      ]
+    },
+    "source_type": "manufacturer",
+    "evidence_status": "manufacturer_product_page",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 383.0,
+      "fat": 35.0,
+      "saturatedFat": 21.0,
+      "carbohydrate": 3.0,
+      "sugars": 0.0,
+      "protein": 14.0,
+      "salt": 2.0
+    },
+    "allergens": [],
+    "traces": [
+      "en:gluten"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "danet-not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Glüten içerebilir."
   }
 ]
