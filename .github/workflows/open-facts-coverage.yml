@@ -20,13 +20,22 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: pip install requests
       - name: Check queued barcodes
         run: |
-          for f in docs/new_products/*.json; do
+          # Only queues touched by the latest commit (all on manual runs).
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            files=$(ls docs/new_products/queue_*.json)
+          else
+            files=$(git diff --name-only HEAD~1 HEAD -- 'docs/new_products/queue_*.json')
+          fi
+          for f in $files; do
             case "$f" in *report*) continue;; esac
             echo "## $f" >> "$GITHUB_STEP_SUMMARY"
             python tool/off_presence.py "$f" --out "${f%.json}.report.json"

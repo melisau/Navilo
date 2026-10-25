@@ -93,3 +93,75 @@
 8690637910685|Maraş Usulu Kesme Sade 650 Ml
 8697452492143|Gündoğdu Tereyağ 1 kg
 8697452491030|Gündoğdu Taze Kaşar Peyniri 400 G
+8693891195843|Öncü Salça Domates 830 Gr.
+8693891195881|Öncü Salça Biber Acı 700 Gr.
+8693891195980|Öncü Nar Aromalı Sos
+8691728000209|Öncü Salça Biber Domates Karışık 1600 G
+8691573011269|Burcu Garnitür Konservesi 570 G
+8691573099687|Burcu Büfe Tipi Mayonez 550 g
+8691573018190|Burcu Fasulye Pilaki 400G
+8691573017193|Burcu Barbunya Pilaki 400G
+8691573001260|Burcu Salça Domates Cam 600 Gr.
+8691573004339|Burcu Acı Biber Salçası 600 G.
+8691573024146|Burcu Enginar Konservesi Cam 540 G
+8691573031304|Burcu Ev Tipi Domates Salçası 1500 Gr.
+8691573079610|Burcu Kapari 310 Gr
+8691520104068|Aytaç Şipşak Piliç Salam Dilimli 60 G
+8691520104440|Aytaç Şipşak Dilimli Hindi Salam 50G
+8691520102255|Aytaç Piliç Kokteyl Sosis 350 g
+8691520104488|Aytaç Hindi Mangal Sucuk 280 G
+8691520104631|Aytaç Isıl İşlem Görmüş Kangal Sucuk 200 G
+8691520101067|Aytaç Dana Sucuk Gurme (fermente) 250 Gr
+8691520105003|Aytaç Fermente Sucuk 220 Gr
+8691520102873|Aytaç Geleneksel Dana Sucuk Isil Işlem 250gr
+8691520105041|Aytaç Keyifli Et Lokmaları Kekikli 25 G
+8691520105027|Aytaç Keyifli Et Lokmaları Sade 25 G
+8691520104044|Aytaç Şipşak Dilimli Macar Salam 60 G
+8690504038887|9 Kat Tat Muzlu Gofret 70 G
+8690504085676|9 Kat Tat Rulokat Çikolata Krema 230 G
+8690504019206|9 Kat Tat Çilekli 39 G
+8691725000509|Arslanoğlu Kemalpaşa Tatlısı 140 G
+8691725000257|Arslanoğlu Peynir Tatlısı 140 G
+8697643482250|Bemtat Organik Krep Karışımı 200G
+8690504568155|Bizim Ketçap Tatlı 400 gr
+8690637919824|Calvé Tatlı Acı Sweet Chili Dip Sos 300 G
+8680164790133|Centat Arnavut Ciğeri 200 gr
+8680164790027|Centat Çiğ Köfte 1 kg
+8680164790126|Centat İtalyan Salatası 200 gr
+8681506007414|Chips Master Düz Sade Patates Cipsi 110G
+8681506009982|Chıps Master Klasik Kabuklu Patates Cipsi 110G
+8680782529221|Cipso Tırtıklı Sade Patates Cipsi 104 G
+8690120059105|Torku Bisküvi Tam Çikolatam 83 Gr.
+8680181064651|Torku Cafe Latte 230 Ml
+8680181064637|Torku Cafe Mocha 230 Ml
+8680181103268|Torku Dilimli Fıstıklı Salam 50 G
+8680181001724|Torku Dilimli Salam 60 gr
+8690120070131|TORKU BANADA MINIKI KAKAO.FIN.KREMA 450 GR
+8690120070056|Torku Banada 400 Gr.
+8690120061207|Torku Banada Bitter Çikolata 370 Gr.
+8690120062235|Torku Banada Fındık Ezmesi 370 Gr.
+8680181001656|Torku Acılı Sucuk Vakum 225 G
+8680181064668|Torku Banada 230 Ml
+8680181000178|TORKU BEYAZ PEYNİR 500 GR
+8690120127415|Torku Bitter Çikolata 65 gr
+8690120127439|Torku Bol Sütlü Çikolata 65 gr
+8680181064620|Torku Cafe Chai Latte 230 Ml
+8680181064644|Torku Cafe Macchiato 230 Ml
+8680181064613|Torku Coco Tropico 230 Ml
+8680181000864|Torku Dilimli Tost Peyniri 700 G
+8690120122083|Torku Çikolatalı Gofret 30 gr
+8680734210542|Kırköy Tereyağ 700 gr
+8680734210191|Kırköy Tost Peyniri 600 gr
+8690931012535|YÖRÜKOĞLU 900 GR BEYAZ PEYNİR
+8690931010685|Yörükoğlu Kaşar Peyniri 600 G
+8690931009160|Yörükoğlu Köy Peyniri 600 g
+8690931009986|Yörükoğlu Labne 2750 Gr
+8690931005407|Yörükoğlu Piknik Krem Peynir 120*20 g
+8690931002529|Yörükoğlu Tereyağ 1 kg
+8690931001683|Yörükoğlu Tost Kaşarı 2 kg
+8690931005896|Yörükoğlu Yarım Yağlı Süt 1 lt
+8691641080005|Fiskobirlik Fındık Ezmesi 180 G
+8691641130281|Fiskobirlik Nuga Sütlü Fındık Kreması 350 G
+8691641529009|Fiskobirlik Nuga Kakaolu Fındık Kreması 350 G
+8691641090219|Fiskobirlik Fiskorella Kakaolu Fındık Kreması 400 Gr
+8691641545672|Fiskobirlik Fıstık Ezmesi 300 gr
