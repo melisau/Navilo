@@ -88,8 +88,17 @@ def main():
                *lines]
     print('\n'.join(summary))
     if os.environ.get('GITHUB_ACTIONS'):
-        text = '\n'.join(summary)[:3800].replace('%', '%25').replace('\n', '%0A')
-        print(f'::notice title=Open Facts coverage ({len(report)} checked)::{text}')
+        # Several short annotations: one is cut off after ~4 KB.
+        chunk, chunks = [], []
+        for line in summary:
+            if sum(len(x) + 1 for x in chunk) + len(line) > 3500:
+                chunks.append(chunk)
+                chunk = []
+            chunk.append(line)
+        chunks.append(chunk)
+        for i, part in enumerate(chunks, 1):
+            text = '\n'.join(part).replace('%', '%25').replace('\n', '%0A')
+            print(f'::notice title=Open Facts coverage {i}/{len(chunks)}::{text}')
     if os.environ.get('GITHUB_STEP_SUMMARY'):
         with open(os.environ['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as out:
             out.write('```\n' + '\n'.join(summary) + '\n```\n')
