@@ -42,6 +42,13 @@ SKIP_NAME = re.compile(r'\b(sigara|cigarette|tütün|tobacco|maden suyu|kaynak s
                        re.IGNORECASE)
 # Open Facts asks for at most ~10 search requests per minute.
 SEARCH_PAUSE_SECONDS = 7
+# Open Beauty Facts also holds cleaners and the odd food item; the
+# cosmetic list should only ask for personal care products.
+NOT_COSMETIC = re.compile(
+    r'(windows|glass|cam sil|deterjan|detergent|çamaşır|bulaşık|leke çıkarıcı|'
+    r'yumuşatıcı|temizleyici|cleaner|çamaşır suyu|turkey|hindi|tavuk|salam|sucuk)',
+    re.IGNORECASE)
+NOT_COSMETIC_CATEGORY = ('en:food', 'en:household', 'en:cleaning', 'en:meat', 'en:beverages')
 
 
 def known_codes():
@@ -67,7 +74,7 @@ def candidate_codes(rows):
     return codes
 
 
-def display_name(product):
+def display_name(product, category='food'):
     """A name a shopper can recognise on the shelf, or None."""
     name = (product.get('product_name_tr') or product.get('product_name') or '').strip()
     brand = (product.get('brands') or '').split(',')[0].strip()
@@ -76,6 +83,11 @@ def display_name(product):
     if not name or not brand or len(name) < 4 or (code and code in name):
         return None
     if SKIP_NAME.search(name) or set(product.get('categories_tags') or []) & SKIP_CATEGORIES:
+        return None
+    if category == 'cosmetic' and (
+            NOT_COSMETIC.search(name) or
+            any(tag.startswith(NOT_COSMETIC_CATEGORY)
+                for tag in product.get('categories_tags') or [])):
         return None
     if brand and not name.lower().startswith(brand.lower()):
         name = f'{brand} {name}'
@@ -149,7 +161,7 @@ def collect(limit, pages, session):
                     continue
                 if 'en:ingredients-to-be-completed' not in (product.get('states_tags') or []):
                     continue
-                name = display_name(product)
+                name = display_name(product, category)
                 if not name:
                     continue
                 skip.add(code)
