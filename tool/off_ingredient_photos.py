@@ -96,7 +96,9 @@ def main():
             if r.status_code < 500:
                 break
             time.sleep(20 * (attempt + 1))
-        r.raise_for_status()
+        if r.status_code >= 400:
+            print(f'search page {page}: HTTP {r.status_code}; stopping')
+            break
         time.sleep(7)
         for prod in r.json().get('products', []):
             if added >= args.limit:

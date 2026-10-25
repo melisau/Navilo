@@ -1,2 +1,2 @@
-limit=100
-pages=6
+limit=150
+pages=8
