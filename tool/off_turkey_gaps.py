@@ -88,7 +88,8 @@ def search(session, host, page):
         timeout=30)
     if response.status_code == 429:
         raise RuntimeError(f'{host}: rate limited; retry later')
-    response.raise_for_status()
+    if response.status_code >= 400:
+        raise RuntimeError(f'HTTP {response.status_code}: {response.text[:160]!r}')
     payload = response.json()
     products = payload.get('products')
     if not isinstance(products, list):
@@ -105,7 +106,11 @@ def collect(limit, pages, session):
         for page in range(1, pages + 1):
             if len(found) >= limit:
                 break
-            products = search(session, host, page)
+            try:
+                products = search(session, host, page)
+            except Exception as error:  # report and continue with the next source
+                report.append(f'{source_name} page {page}: {type(error).__name__}: {error}'[:300])
+                break
             time.sleep(SEARCH_PAUSE_SECONDS)
             if not products:
                 break
