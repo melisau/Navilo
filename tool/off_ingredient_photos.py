@@ -153,7 +153,11 @@ def main():
             name = display_name({'code': code, 'product_name': c['product_name'],
                                  'brands': c['brands'], 'quantity': c['quantity']})
             if not name:
-                continue
+                # The reviewer names the product from the label photo.
+                raw = (c['product_name'] or c['brands'] or '').strip()
+                if SKIP_NAME.search(raw):
+                    continue
+                name = raw or f'Ürün {code}'
             try:
                 img = s.get(c['image'], timeout=60)
                 img.raise_for_status()
