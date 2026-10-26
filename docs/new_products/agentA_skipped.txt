@@ -1,0 +1,65 @@
+8699015750127|plain spring water
+5000112664515|plain water
+8690766118600|German list only
+8699878420038|not a product photo
+8690120138725|list cut off, small
+8682530221814|no ingredient list
+8697713550032|plain water
+8690624202762|Turkish list cut off
+8690840179961|Turkish list cut off
+8690698511692|ingredient list blurred
+8680014080230|plain water
+8692005190019|no ingredient list
+8683280703278|image blank/unreadable
+8690526035086|no Turkish list
+8690624105407|Turkish list cut off
+0733603092621|no Turkish list
+8699118019145|herbal tea leaves
+8683130040492|text too small/blurred
+8445291594852|glare over list
+8690690178428|plain water
+8683851540370|list partly blurred
+8697429331017|plain water
+8699916610308|plain water
+8690504020295|low resolution text
+8690558020005|only foreign list visible
+8691058141979|plain water
+5200105720109|plain water
+8690504081944|no ingredient list
+8695077044198|no ingredient list
+7707211630486|only Spanish list
+7411909100013|tea leaves
+9055152417733|no ingredient list
+9414942001161|only English list
+0021078005353|supplement not food
+5900020031136|no Turkish list
+8690120119960|text too small/blurred
+8681324003827|barcode photo only
+7622201451486|glare hides words
+7622210393081|text unreadable
+8690632246406|no ingredient list
+8691573007194|no Turkish list
+8719179843791|non-Turkish product
+8690632245799|barcode differs (762197)
+8695077042064|no ingredient list
+8690612603175|Turkish list cut off
+8691707096544|no ingredient list visible
+00901222|only English list
+8690632018133|text too small
+8682214719491|no ingredient list
+8690065480019|assortment, multiple lists
+8681267006060|Turkish list blurred
+8697462700047|only English list
+8657520001066|plain water
+8690526316901|crumpled, glare, unreadable
+6971835852024|Turkish list cut off
+8682780742404|plain water
+9786059485661|book not food
+9789933461683|book not food
+8695707800460|honey, no ingredient list
+8683130078136|text too small/blurred
+8699118030379|text blurred
+8697288517607|glare, text unreadable
+8695077020406|no ingredient list
+8682340343997|glare, text blurred
+8690504156826|text too small

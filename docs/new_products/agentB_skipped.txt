@@ -1,0 +1,47 @@
+8691216104525|glare obscures words
+8699118030881|no ingredient list visible
+8691958005968|list start blurred
+8690624204018|glare obscures list
+8699270013234|text cut off edge
+8683789552148|no ingredient list visible
+6917654570190|barcode differs (8695077127778)
+8690804379352|only German list visible
+8694023910488|list curved and cut
+8681080906028|no ingredient list visible
+8695523200192|only English list visible
+8690120082127|crumpled glare, illegible
+1500144801642|no ingredient list visible
+8695077106612|list cut and glare
+8683417001338|photo blurred
+8697436558391|no ingredient list visible
+8680181122320|blurred caffeine figure
+8699118022145|front only, no list
+8690624105414|front only, no list
+8691837004266|only preparation text visible
+8682615108221|unrelated image, no label
+8681749145102|no ingredient list printed
+0057245349876|Turkish list cut off
+6687645708481|barcode differs, no list
+13178154|ingredient list cut off
+8683130095645|list start cut off
+8682392174068|no ingredient list visible
+8681737404808|no ingredient list visible
+8681080905021|no ingredient list visible
+8683771982007|no ingredient list printed
+8690526061825|Turkish list not visible
+8682696002265|Turkish list obscured
+8695991200021|plain water
+1500144301463|plain water
+8690504077688|no label visible
+8690108008606|front only, no list
+8690108000099|no ingredient list printed
+8690526663418|list edges cut off
+8690767674235|nutrition only, no list
+8699118014591|no label in photo
+8697288516679|Turkish list not visible
+8681506023476|text too small/rotated
+8684496817445|nutrition only, no list
+5012086070148|barcode differs (8690120070148)
+8683086169414|no label in photo
+8684207695034|nutrition only, no list
+8681080901023|no ingredient list visible
