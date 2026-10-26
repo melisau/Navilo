@@ -20578,59 +20578,6 @@
     "source_allergen_text": "Eser miktarda susam içerebilir."
   },
   {
-    "code": "2818418010003",
-    "name": "Pınar Hindi Etli Salam",
-    "category": "food",
-    "ingredients": "Hindi eti, dana yağı, ayçiçek yağı, su, patates nişastası, soya proteini, bitkisel lifler (soya lifi, buğday lifi), baharat karışımı, tuz, sarımsak, kıvam arttırıcı (karragenan), koruyucu madde (sodyum laktat, sodyum nitrit), stabilizör (sodyum polifosfat), antioksidan (askorbik asit), aroma vericiler, doğal tütsü aroması",
-    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
-    "source_url": "https://world.openfoodfacts.org/product/2818418010003",
-    "barcode_source_url": "https://world.openfoodfacts.org/product/2818418010003",
-    "field_sources": {
-      "code": [
-        "https://world.openfoodfacts.org/product/2818418010003"
-      ],
-      "name": [
-        "https://world.openfoodfacts.org/product/2818418010003"
-      ],
-      "ingredients": [
-        "https://world.openfoodfacts.org/product/2818418010003"
-      ],
-      "nutrition": [
-        "https://world.openfoodfacts.org/product/2818418010003"
-      ]
-    },
-    "source_type": "open_food_facts",
-    "evidence_status": "community_photo_transcription_pending_package_check",
-    "image_license": "CC-BY-SA-3.0",
-    "image_attribution": "Open Food Facts contributors",
-    "nutrition": {
-      "basis": "100g",
-      "source": "catalogue",
-      "energyKcal": 185.0,
-      "fat": 13.0,
-      "saturatedFat": 7.0,
-      "carbohydrate": 5.0,
-      "sugars": 0.6,
-      "protein": 12.0,
-      "salt": 1.6
-    },
-    "allergens": [
-      "en:gluten",
-      "en:soybeans"
-    ],
-    "traces": [
-      "en:milk"
-    ],
-    "labels": [],
-    "status": "verified",
-    "verified_at": "2026-10-25T00:00:00+03:00",
-    "checked_at": "2026-10-25T00:00:00+03:00",
-    "catalog_batch": "off-photo-transcription-20261026",
-    "ingredient_evidence": "full_label_transcription",
-    "open_facts_coverage": "open_facts_without_ingredients",
-    "source_allergen_text": "Eser miktarda süt proteini içerebilir."
-  },
-  {
     "code": "8690559020165",
     "name": "Dardanel Sızma Zeytinyağlı Somon 80 g",
     "category": "food",

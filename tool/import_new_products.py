@@ -108,7 +108,8 @@ def main():
         parts = line.split('|')
         code, name, ingredients, allergen_text, trace_text = parts[:5]
         extra = parts[5:]
-        if not valid_gtin(code) or code in known or code in {r['code'] for r in added}:
+        # GS1 prefixes 20–29 are store-internal codes, not product barcodes.
+        if (len(code) == 13 and code[0] == '2') or not valid_gtin(code) or code in known or code in {r['code'] for r in added}:
             skipped.append(code)
             continue
         verdict = verdicts.get(code)
