@@ -24455,26 +24455,12 @@
       ],
       "ingredients": [
         "https://world.openfoodfacts.org/product/80734369"
-      ],
-      "nutrition": [
-        "https://world.openfoodfacts.org/product/80734369"
       ]
     },
     "source_type": "open_food_facts",
     "evidence_status": "community_photo_transcription_pending_package_check",
     "image_license": "CC-BY-SA-3.0",
     "image_attribution": "Open Food Facts contributors",
-    "nutrition": {
-      "basis": "100g",
-      "source": "catalogue",
-      "energyKcal": 154.0,
-      "fat": 0.0,
-      "saturatedFat": 0.0,
-      "carbohydrate": 63.0,
-      "sugars": 0.0,
-      "protein": 0.0,
-      "salt": 0.02
-    },
     "allergens": [
       "en:gluten",
       "en:soybeans"
