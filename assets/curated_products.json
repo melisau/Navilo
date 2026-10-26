@@ -22861,5 +22861,904 @@
     "ingredient_evidence": "full_label_transcription",
     "open_facts_coverage": "open_facts_without_ingredients",
     "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "7622210710499",
+    "name": "Kent Olips Çilek Stick 28 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), aroma vericiler, siyah havuç suyu konsantresi, renklendirici (beta karoten)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/7622210710499-kent-olips-cilek-stick-28-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/7622210710499-kent-olips-cilek-stick-28-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/7622210710499-kent-olips-cilek-stick-28-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/7622210710499-kent-olips-cilek-stick-28-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/7622210710499-kent-olips-cilek-stick-28-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690515133625",
+    "name": "Kent Jelibon Ayıcık 200 g",
+    "category": "food",
+    "ingredients": "Glukoz şurubu, şeker, sığır jelatini, su, asit (sitrik asit), elma suyu konsantresi (%0,2), aroma vericiler, palm çekirdeği yağı, renklendiriciler (antosiyaninler, kurkumin, bitkisel karbon), asitlik düzenleyici (sodyum sitratlar), parlatıcılar (karnauba mumu, bal mumu)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690515133625-kent-jelibon-ayicik-200-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690515133625-kent-jelibon-ayicik-200-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690515133625-kent-jelibon-ayicik-200-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690515133625-kent-jelibon-ayicik-200-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690515133625-kent-jelibon-ayicik-200-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "7622210155290",
+    "name": "Kent Olips Karpuz Stick 28 g",
+    "category": "food",
+    "ingredients": "Şeker, glukoz şurubu, hacim arttırıcı (ksilitol), asitlik düzenleyiciler (malik asit, sitrik asit), renklendiriciler (antosiyaninler, paprika ekstraktı), aroma verici",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/7622210155290-kent-olips-karpuz-stick-28-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/7622210155290-kent-olips-karpuz-stick-28-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/7622210155290-kent-olips-karpuz-stick-28-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/7622210155290-kent-olips-karpuz-stick-28-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/7622210155290-kent-olips-karpuz-stick-28-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690550914241",
+    "name": "Sarelle Bitter Fındık Ezmesi 350 g",
+    "category": "food",
+    "ingredients": "Şeker, bitkisel yağ (ayçiçek, shea, hindistan cevizi), kakao tozu (%15), fındık (%13), bitter çikolata (şeker, kakao kitlesi, kakao yağı), emülgatör (ayçiçek lesitini), doğal aroma verici (vanilya)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690550914241-sarelle-bitter-findik-ezmesi-350-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690550914241-sarelle-bitter-findik-ezmesi-350-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690550914241-sarelle-bitter-findik-ezmesi-350-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690550914241-sarelle-bitter-findik-ezmesi-350-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690550914241-sarelle-bitter-findik-ezmesi-350-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [
+      "en:milk"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Fındık içerir. Eser miktarda süt ve süt ürünleri içerebilir."
+  },
+  {
+    "code": "8690550913404",
+    "name": "Sarelle Kakaolu Fındık Ezmesi 350 g",
+    "category": "food",
+    "ingredients": "Şeker, bitkisel yağ (ayçiçek, shea, hindistan cevizi), fındık (%13), yağsız süt tozu, kakao tozu (%7), peynir altı suyu tozu, laktoz, emülgatör (ayçiçek lesitini), doğal aroma verici (vanilya)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690550913404-sarelle-kakaolu-findik-ezmesi-350-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690550913404-sarelle-kakaolu-findik-ezmesi-350-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690550913404-sarelle-kakaolu-findik-ezmesi-350-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690550913404-sarelle-kakaolu-findik-ezmesi-350-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690550913404-sarelle-kakaolu-findik-ezmesi-350-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Fındık, peynir altı suyu tozu, laktoz içerir."
+  },
+  {
+    "code": "8690558035290",
+    "name": "Dimes %100 Sıkma Sebze ve Meyve Suyu 700 ml",
+    "category": "food",
+    "ingredients": "Portakal suyu, elma suyu, elma püresi, nar suyu, greyfurt suyu, mandalina suyu, siyah havuç suyu, antioksidan (askorbik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690558035290-dimes-100-sikma-sebze-ve-meyve-suyu-700-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690558035290-dimes-100-sikma-sebze-ve-meyve-suyu-700-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690558035290-dimes-100-sikma-sebze-ve-meyve-suyu-700-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690558035290-dimes-100-sikma-sebze-ve-meyve-suyu-700-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690558035290-dimes-100-sikma-sebze-ve-meyve-suyu-700-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda gluten, süt ve süt ürünü içerebilir."
+  },
+  {
+    "code": "8690558028360",
+    "name": "Dimes Go Vişne Nektarı 250 ml",
+    "category": "food",
+    "ingredients": "Su, şeker (pancar şekeri kullanılmıştır), vişne suyu konsantresi, asitlik düzenleyici (sitrik asit), aroma verici (vişne)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690558028360-dimes-go-visne-nektari-kutu-250-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690558028360-dimes-go-visne-nektari-kutu-250-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690558028360-dimes-go-visne-nektari-kutu-250-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690558028360-dimes-go-visne-nektari-kutu-250-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690558028360-dimes-go-visne-nektari-kutu-250-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda gluten, süt ve süt ürünü içerebilir."
+  },
+  {
+    "code": "8690558032237",
+    "name": "Dimes Kırmızı Smoothie Karışık Meyve Püresi 250 ml",
+    "category": "food",
+    "ingredients": "Su, meyve püre ve meyve konsantreleri (elma, muz, çilek), asitlik düzenleyici (sitrik asit), antioksidan (askorbik asit), aroma verici",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690558032237-dimes-kirmizi-smoothie-karisik-meyve-puresi-250ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690558032237-dimes-kirmizi-smoothie-karisik-meyve-puresi-250ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690558032237-dimes-kirmizi-smoothie-karisik-meyve-puresi-250ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690558032237-dimes-kirmizi-smoothie-karisik-meyve-puresi-250ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690558032237-dimes-kirmizi-smoothie-karisik-meyve-puresi-250ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Eser miktarda gluten, süt ve süt ürünü içerebilir."
+  },
+  {
+    "code": "40822600",
+    "name": "Cappy Atom 200 ml",
+    "category": "food",
+    "ingredients": "Konsantre ve pürelerden üretilmiş karışık meyve suyu en az %50 (elma, portakal, kivi, muz, ananas, nar), su, şeker veya fruktoz-glikoz şurubu, asitliği düzenleyici (sitrik asit), aroma vericiler, bal (%0,1), A vitamini",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/40822600-cappy-atom-200-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/40822600-cappy-atom-200-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/40822600-cappy-atom-200-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/40822600-cappy-atom-200-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/40822600-cappy-atom-200-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "90338588",
+    "name": "Cappy Karışık Meyve Nektarı 200 ml",
+    "category": "food",
+    "ingredients": "Konsantrelerden üretilmiş karışık meyve suyu en az %50 (elma, portakal, limon, üzüm, şeftali), su, şeker veya fruktoz-glikoz şurubu, aroma vericiler, asitliği düzenleyici (sitrik asit), A vitamini",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/90338588-cappy-karisik-meyve-nektari-200-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/90338588-cappy-karisik-meyve-nektari-200-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/90338588-cappy-karisik-meyve-nektari-200-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/90338588-cappy-karisik-meyve-nektari-200-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/90338588-cappy-karisik-meyve-nektari-200-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "90495526",
+    "name": "Cappy Kayısı Nektarı 200 ml",
+    "category": "food",
+    "ingredients": "Su, konsantreden üretilmiş kayısı suyu en az %40, şeker veya fruktoz-glikoz şurubu, aroma vericiler, asitliği düzenleyici (sitrik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/90495526-cappy-kayisi-nektari-200-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/90495526-cappy-kayisi-nektari-200-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/90495526-cappy-kayisi-nektari-200-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/90495526-cappy-kayisi-nektari-200-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/90495526-cappy-kayisi-nektari-200-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Alerjen içermemektedir."
+  },
+  {
+    "code": "5449000021601",
+    "name": "Cappy Kayısı Nektarı 330 ml",
+    "category": "food",
+    "ingredients": "Su, konsantreden üretilmiş kayısı suyu en az %40, şeker veya fruktoz-glukoz şurubu, aroma vericiler, asitliği düzenleyici (sitrik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/5449000021601-cappy-kayisi-nektari-330-ml",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/5449000021601-cappy-kayisi-nektari-330-ml",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/5449000021601-cappy-kayisi-nektari-330-ml"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/5449000021601-cappy-kayisi-nektari-330-ml"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/5449000021601-cappy-kayisi-nektari-330-ml"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "5449000070944",
+    "name": "Cappy Atom 1 L",
+    "category": "food",
+    "ingredients": "Konsantre ve pürelerden üretilmiş karışık meyve suyu en az %50 (elma, portakal, kivi, muz, ananas, nar), su, şeker veya fruktoz-glikoz şurubu, asitliği düzenleyici (sitrik asit), aroma vericiler, bal (%0,1), A vitamini",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/5449000070944-cappy-atom-1-l",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/5449000070944-cappy-atom-1-l",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/5449000070944-cappy-atom-1-l"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/5449000070944-cappy-atom-1-l"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/5449000070944-cappy-atom-1-l"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "5449000159236",
+    "name": "Cappy %100 Elma Karışık Meyve Suyu 1 L",
+    "category": "food",
+    "ingredients": "Konsantreden üretilmiş karışık meyve suyu %100 (elma, portakal, üzüm, limon, şeftali), su, aroma vericiler, A vitamini",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/5449000159236-cappy-100-elma-karisik-meyve-suyu-1-l",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/5449000159236-cappy-100-elma-karisik-meyve-suyu-1-l",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/5449000159236-cappy-100-elma-karisik-meyve-suyu-1-l"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/5449000159236-cappy-100-elma-karisik-meyve-suyu-1-l"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/5449000159236-cappy-100-elma-karisik-meyve-suyu-1-l"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "5449000026651",
+    "name": "Cappy Meyve Kokteyli 1 L",
+    "category": "food",
+    "ingredients": "Su, şeker veya fruktoz-glikoz şurubu, meyve suyu ve püre konsantreleri (şeftali, elma, portakal, ananas), asitliği düzenleyici (sitrik asit), aroma vericiler, renklendirici (beta-karoten)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/5449000026651-cappy-meyve-kokteyli-1-l",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/5449000026651-cappy-meyve-kokteyli-1-l",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/5449000026651-cappy-meyve-kokteyli-1-l"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/5449000026651-cappy-meyve-kokteyli-1-l"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/5449000026651-cappy-meyve-kokteyli-1-l"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Alerjen içermemektedir."
+  },
+  {
+    "code": "8690575871413",
+    "name": "Tamek Karışık Meyve Nektarı 1 L",
+    "category": "food",
+    "ingredients": "Su, meyve suyu ve püre konsantreleri (elma, portakal, şeftali) (meyve oranı en az %50), şeker (sakkaroz veya fruktoz-glukoz şurubu), asitlik düzenleyici (sitrik asit)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690575871413-tamek-karisik-meyve-nektari-1-l",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690575871413-tamek-karisik-meyve-nektari-1-l",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690575871413-tamek-karisik-meyve-nektari-1-l"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690575871413-tamek-karisik-meyve-nektari-1-l"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690575871413-tamek-karisik-meyve-nektari-1-l"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690612314125",
+    "name": "Superfresh Ayçiçek Yağlı Ton Balığı 2x150 g",
+    "category": "food",
+    "ingredients": "Ton balığı, ayçiçek yağı (%27), su, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690612314125-superfresh-aycicek-yagli-ton-baligi-2-150-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690612314125-superfresh-aycicek-yagli-ton-baligi-2-150-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690612314125-superfresh-aycicek-yagli-ton-baligi-2-150-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690612314125-superfresh-aycicek-yagli-ton-baligi-2-150-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690612314125-superfresh-aycicek-yagli-ton-baligi-2-150-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690559015215",
+    "name": "Dardanel Light Ton Balığı 3x75 g",
+    "category": "food",
+    "ingredients": "Ton balığı, su, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559015215-dardanel-light-ton-baligi-3x75-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559015215-dardanel-light-ton-baligi-3x75-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559015215-dardanel-light-ton-baligi-3x75-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559015215-dardanel-light-ton-baligi-3x75-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559015215-dardanel-light-ton-baligi-3x75-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Balık içerir."
+  },
+  {
+    "code": "8690559015253",
+    "name": "Dardanel Ayçiçek Yağlı Ton Balığı 2x150 g",
+    "category": "food",
+    "ingredients": "Ton balığı, ayçiçek yağı, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559015253-dardanel-aycicek-yagli-ton-baligi-2x150-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559015253-dardanel-aycicek-yagli-ton-baligi-2x150-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559015253-dardanel-aycicek-yagli-ton-baligi-2x150-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559015253-dardanel-aycicek-yagli-ton-baligi-2x150-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559015253-dardanel-aycicek-yagli-ton-baligi-2x150-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Balık içerir."
+  },
+  {
+    "code": "8690559600060",
+    "name": "Dardanel Hamsi 110 g",
+    "category": "food",
+    "ingredients": "Hamsi, ayçiçek yağı, su, limon sosu, tuz, baharat, dereotu, tane karabiber, doğala özdeş maydanoz aroması",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559600060-dardanel-hamsi-110-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559600060-dardanel-hamsi-110-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559600060-dardanel-hamsi-110-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559600060-dardanel-hamsi-110-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559600060-dardanel-hamsi-110-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Hamsi içerir."
+  },
+  {
+    "code": "8690559015260",
+    "name": "Dardanel Light Ton Balığı 2x150 g",
+    "category": "food",
+    "ingredients": "Ton balığı, su, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559015260-dardanel-light-ton-baligi-2x150-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559015260-dardanel-light-ton-baligi-2x150-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559015260-dardanel-light-ton-baligi-2x150-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559015260-dardanel-light-ton-baligi-2x150-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559015260-dardanel-light-ton-baligi-2x150-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Balık içerir."
+  },
+  {
+    "code": "8690559605010",
+    "name": "Dardanel Sardalya 100 g",
+    "category": "food",
+    "ingredients": "Sardalya, ayçiçek yağı, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559605010-dardanel-sardalya-100-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559605010-dardanel-sardalya-100-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559605010-dardanel-sardalya-100-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559605010-dardanel-sardalya-100-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559605010-dardanel-sardalya-100-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Sardalya balığı içerir."
+  },
+  {
+    "code": "8690559601029",
+    "name": "Dardanel Ton 160 g",
+    "category": "food",
+    "ingredients": "Ton, ayçiçek yağı, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690559601029-dardanel-ton-160-gr",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690559601029-dardanel-ton-160-gr",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690559601029-dardanel-ton-160-gr"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690559601029-dardanel-ton-160-gr"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690559601029-dardanel-ton-160-gr"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:fish"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Ton balığı içerir."
+  },
+  {
+    "code": "8690710001330",
+    "name": "Koska Kakaolu Helva 500 g",
+    "category": "food",
+    "ingredients": "Tahin (susam içerir) (%57), şeker, kakao tozu (%2,5), emülgatör (yağ asitlerinin mono- ve digliseritleri), çöven ekstraktı, asitlik düzenleyici (sitrik asit), aroma verici (vanilin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710001330-koska-kakaolu-helva-paket-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710001330-koska-kakaolu-helva-paket-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710001330-koska-kakaolu-helva-paket-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710001330-koska-kakaolu-helva-paket-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710001330-koska-kakaolu-helva-paket-500-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:sesame-seeds"
+    ],
+    "traces": [
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Susam tohumu ürünü (tahin) içerir. Eser miktarda fındık, fıstık, ceviz ve badem içerebilir."
+  },
+  {
+    "code": "8690710001347",
+    "name": "Koska Fıstıklı Helva 500 g",
+    "category": "food",
+    "ingredients": "Tahin (susam içerir) (%57), şeker, antepfıstığı (%8), emülgatör (yağ asitlerinin mono- ve digliseritleri), çöven ekstraktı, asitlik düzenleyici (sitrik asit), aroma verici (vanilin)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690710001347-koska-fistikli-helva-paket-500-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690710001347-koska-fistikli-helva-paket-500-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690710001347-koska-fistikli-helva-paket-500-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690710001347-koska-fistikli-helva-paket-500-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690710001347-koska-fistikli-helva-paket-500-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:nuts",
+      "en:sesame-seeds"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Susam tohumu ürünü (tahin) ve antepfıstığı içerir. Eser miktarda fındık, ceviz ve badem içerebilir."
+  },
+  {
+    "code": "8691422701464",
+    "name": "Penguen Süt Mısır 3x150 g",
+    "category": "food",
+    "ingredients": "Mısır (%93), su, tuz",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8691422701464-penguen-sut-misir-3x150-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8691422701464-penguen-sut-misir-3x150-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8691422701464-penguen-sut-misir-3x150-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8691422701464-penguen-sut-misir-3x150-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8691422701464-penguen-sut-misir-3x150-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts"
+  },
+  {
+    "code": "8690560022530",
+    "name": "Bağdat Cajun Baharatı 55 g",
+    "category": "food",
+    "ingredients": "Tuz, değişen miktarlarda baharatlar (tatlı toz biber, kekik, zahter, yenibahar toz, kişniş, kimyon, karabiber, kereviz, soğan, sarımsak, zerdeçal)",
+    "source_name": "Market Karşılaştır ürün sayfası (GTIN ve içindekiler aynı sayfada)",
+    "source_url": "https://marketkarsilastir.com/fiyat/8690560022530-bagdat-cajun-baharati-55-g",
+    "barcode_source_url": "https://marketkarsilastir.com/fiyat/8690560022530-bagdat-cajun-baharati-55-g",
+    "field_sources": {
+      "code": [
+        "https://marketkarsilastir.com/fiyat/8690560022530-bagdat-cajun-baharati-55-g"
+      ],
+      "name": [
+        "https://marketkarsilastir.com/fiyat/8690560022530-bagdat-cajun-baharati-55-g"
+      ],
+      "ingredients": [
+        "https://marketkarsilastir.com/fiyat/8690560022530-bagdat-cajun-baharati-55-g"
+      ]
+    },
+    "source_type": "retailer",
+    "evidence_status": "retailer_reported_pending_package_check",
+    "allergens": [
+      "en:celery"
+    ],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:mustard",
+      "en:nuts",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "not-in-open-facts-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "not_in_open_facts",
+    "source_allergen_text": "Kereviz içerir. İz miktarda gluten, hardal, soya, susam, antep fıstığı, çam fıstığı ve süt ürünü içerebilir."
   }
 ]
