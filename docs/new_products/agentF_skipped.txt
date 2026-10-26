@@ -1,0 +1,160 @@
+4760023500159|plain water
+8693202030023|plain water
+8680502360011|plain water
+8697641760411|plain water
+8690793601458|plain water
+8697502200797|plain water
+8690131110482|cosmetic not food
+1500144801819|list obscured by glare
+8690524164931|brand not on photo
+8692095161890|no ingredient list
+4760027100980|no label in photo
+8690998117136|honey, no ingredient list
+3574661553887|cosmetic not food
+8682214724471|text partly illegible
+8695077116512|brand not fully visible
+5601312094326|only Portuguese list
+8697432340273|plain water
+5449000189318|list cut off at edge
+8699638355655|cosmetic not food
+8690120093932|brand not shown, edge cut
+8690793020105|plain water
+8690920354226|no Turkish list
+8695077007346|Turkish list torn off
+1500145001591|brand not on photo
+8690629219574|no ingredient list
+8681349030433|no ingredient list
+8690624203691|hand and glare cover list
+8697869469011|glare hides words
+8699910801849|list start covered
+8690637953347|text too small/edges cut
+8690698511463|no label in photo
+8699546340071|cosmetic not food
+8681212061922|wet wipes not food
+5000112669862|list cut off at edge
+8683347030439|brand not on photo
+8695077056702|no label in photo
+8681185086113|brand not on photo
+8684117000058|wet wipes not food
+5901887035541|cosmetic not food
+8699118045953|brand not on photo
+8690644303432|cosmetic not food
+8695077114648|no ingredient list
+8681078072636|brand not on photo
+8695077074072|right edge cut off
+8690559022077|brand not on photo
+8681655007075|list text unreadable
+8690451703142|brand not on photo
+5202576097636|only Greek text
+8690576429002|barcode differs (029288)
+8690957001407|supplement, brand not shown
+4000790003010|only English list
+8699118044680|brand not on photo
+4046234747164|no Turkish list
+8718924019481|only French list
+8695077003591|only English list
+8690931005056|brand not legible
+9001638021314|no Turkish list
+9001638005239|no Turkish list
+8695077014672|no ingredient list
+6132504570162|no ingredient list
+8690559705055|no ingredient list
+8698980920757|text blurred, edge cut
+8699540250383|supplement, no list
+3612620562119|cosmetic not food
+8699536510019|medicine not food
+8695077067302|no ingredient list
+8690550913978|brand not on photo
+8719200021938|only Dutch list
+5060337500920|no ingredient list
+8697617171692|no ingredient list
+90424298|left edge cut off
+8690632060767|no ingredient list
+8697831790228|eggs, no ingredient list
+3574660533538|cosmetic not food
+8690526024684|list cut off at edge
+8681630305011|text blurred
+4388859115509|flower seeds, not food
+8690931009146|brand not on photo
+8697429330027|plain water
+8680722051232|brand not on photo
+8682983760250|brand cut, glare
+8694136000540|plain water
+8690526672182|list cut off
+8698720869339|brand not on photo
+8680652026126|cosmetic not food
+8699118018308|list cut off at edge
+8683347031573|no ingredient list
+8682943380658|label unreadable
+7350104248093|cosmetic not food
+8699745023751|brand not on photo
+8680865085361|no ingredient list
+8690105000184|tea leaves
+8695077069894|brand not on photo
+8681763381081|supplement, brand not shown
+8680495880282|list cut off
+5900020039255|no ingredient list
+0742948341318|not a product photo
+8696368943435|list partly cut
+8680643222421|no ingredient list
+8690793601434|plain water
+5449000003690|left edge cut off
+8015700160543|cosmetic not food
+8682241201440|wet wipes not food
+0603084071487|cosmetic not food
+8690627000921|coffee, no ingredient list
+0690445000019|tea leaves, no label
+8682549720322|brand not on photo
+8693887003350|brand not on photo
+8690531220170|brand not on photo
+8690551020286|honey, no ingredient list
+8691316523585|only English list visible
+8696236111508|brand not on photo
+8690504005629|no ingredient list
+7680300789114|brand not on photo
+8016674015877|cosmetic not food
+8699432211461|no label in photo
+8690506506933|cosmetic not food
+8682179409093|only Arabic list
+8696881100407|brand not on photo
+8699118067092|cosmetic not food
+8680905402660|herbal tea leaves
+8683655363083|Turkish list covered by seal
+0990998423229|no ingredient list
+8694587157985|brand not on photo
+8697404761303|text blurred
+0692941030897|barcode differs (8692971430898)
+8697288513029|no ingredient list
+8690717004419|tea leaves
+8680176000831|supplement not food
+8681511098865|cosmetic not food
+8690799023094|barcode photo only
+0699500445857|text blurred, dark
+8682279238210|no ingredient list
+8682815015534|brand not on photo
+8682009080836|no label in photo
+8697448351843|ingredient list cut off
+8690529011063|cosmetic not food
+8699118046462|brand name cut off
+8682742500745|supplement not food
+8682353237306|brand not on photo
+8682353237320|brand not on photo
+5583532837184|brand not on photo
+8682353237092|brand not on photo
+8681644064676|brand not on photo
+8699349870027|brand name cut off
+5056002490030|glare, edges cut
+8690637508745|left edge cut off
+8691707980126|text blurred
+8697695029243|no ingredient list
+8690793020167|plain water
+0690711240026|water, no list
+5000112670011|list cut off at edge
+4056489793861|only Dutch list
+8699432040504|Turkish list cut off
+8683476140382|no ingredient list
+2755619005202|in-store label, no list
+15000262|list torn off
+8696362805609|bundle sticker, barcode unclear
+8683717471527|brand not on photo
+8684521220202|cosmetic not food
