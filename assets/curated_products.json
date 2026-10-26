@@ -22634,5 +22634,232 @@
     "ingredient_evidence": "full_label_transcription",
     "open_facts_coverage": "not_in_open_facts",
     "source_allergen_text": "Pastörize inek sütü içerir."
+  },
+  {
+    "code": "8697464690919",
+    "name": "Haşiroğlu Acılı Tarhana Cipsi 225 g",
+    "category": "food",
+    "ingredients": "Buğday (gluten), yoğurt (süt ürünleri), pirinç, pul biber, tuz, dağ kekiği",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8697464690919",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8697464690919",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8697464690919"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8697464690919"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8697464690919"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8697464690919"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 390.0,
+      "fat": 3.73,
+      "saturatedFat": 1.37,
+      "carbohydrate": 78.0,
+      "sugars": 5.07,
+      "fibre": 5.33,
+      "protein": 11.04,
+      "salt": 3.52
+    },
+    "allergens": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8694525107294",
+    "name": "Çitello Cips Soslu Yer Fıstığı 200 g",
+    "category": "food",
+    "ingredients": "Yer fıstığı, kaplama (modifiye edilmiş mısır nişastası, patates nişastası, mısır nişastası, buğday nişastası, şeker, tuz, nacho aroma (%1,2), bitkisel margarin (palm), renklendirici (E129, E102))",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8694525107294",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8694525107294",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8694525107294"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8694525107294"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8694525107294"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:gluten",
+      "en:peanuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690508602923",
+    "name": "Migros Tatlı Ketçap 1000 g",
+    "category": "food",
+    "ingredients": "Su, domates salçası, şeker, sirke, modifiye mısır nişastası, tuz, aroma verici (ketçap)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690508602923",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690508602923",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690508602923"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690508602923"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690508602923"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8695077109422",
+    "name": "Harras Karamelli Dondurma",
+    "category": "food",
+    "ingredients": "Süt (inek sütü (%50), keçi sütü (%50)), şeker, karamelize şeker (%15), salep, emülgatör (yağ asitlerinin mono ve digliseritleri), stabilizörler (guar gam, sodyum aljinat, keçiboynuzu gamı, sodyum karboksi metil selüloz)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077109422",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077109422",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077109422"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077109422"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077109422"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [
+      "en:nuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Süt içerir. Eser miktarda Antep fıstığı, fındık ve badem içerebilir."
+  },
+  {
+    "code": "8684333872354",
+    "name": "Nazilli Gazozu Karışık Meyve Aromalı Gazlı İçecek",
+    "category": "food",
+    "ingredients": "Su, şeker, karbondioksit, asitlik düzenleyici (sitrik asit), aroma vericiler (karışık meyve aroması), koruyucular (potasyum sorbat, sodyum benzoat)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8684333872354",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8684333872354",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8684333872354"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8684333872354"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8684333872354"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8684992001195",
+    "name": "Harras Sürülebilir Tam Yağlı Taze Peynir 200 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, pastörize inek sütü kreması, peynir kültürü, tuz",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8684992001195",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8684992001195",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8684992001195"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8684992001195"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8684992001195"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz içerir."
   }
 ]
