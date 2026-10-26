@@ -23760,5 +23760,1656 @@
     "ingredient_evidence": "full_label_transcription",
     "open_facts_coverage": "not_in_open_facts",
     "source_allergen_text": "Kereviz içerir. İz miktarda gluten, hardal, soya, susam, antep fıstığı, çam fıstığı ve süt ürünü içerebilir."
+  },
+  {
+    "code": "8690767716300",
+    "name": "Sütaş Yarım Yağlı UHT Süt",
+    "category": "food",
+    "ingredients": "Homojenize ve pastörize inek sütü",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690767716300",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690767716300",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690767716300"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690767716300"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690767716300"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690637923272",
+    "name": "Calvé Mayonez %45 Daha Az Yağlı",
+    "category": "food",
+    "ingredients": "Su, bitkisel yağ (değişen miktarlarda ayçiçek, kanola), modifiye nişasta, yumurta sarısı, şeker, tuz, sirke, kıvam arttırıcı (ksantan gam), limon suyu konsantresi, aroma vericiler, asitlik düzenleyici (laktik asit, sitrik asit), koruyucu (sorbik asit), renklendirici (beta karoten), antioksidan (kalsiyum disodyum EDTA)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690637923272",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690637923272",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690637923272"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690637923272"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690637923272"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8690637923272"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 315.0,
+      "fat": 33.0,
+      "saturatedFat": 3.9,
+      "carbohydrate": 5.8,
+      "sugars": 2.1,
+      "protein": 0.4,
+      "salt": 1.4
+    },
+    "allergens": [
+      "en:eggs"
+    ],
+    "traces": [
+      "en:celery",
+      "en:fish",
+      "en:gluten",
+      "en:milk",
+      "en:mustard"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "İz miktarda hardal, kereviz, süt ve süt ürünleri, gluten ve balık ürünü içerebilir."
+  },
+  {
+    "code": "8695077110145",
+    "name": "Sole Bitkisel Margarin %75 Yağlı",
+    "category": "food",
+    "ingredients": "Bitkisel yağlar (değişen miktarlarda palm, pamuk, ayçiçek, kanola, keten tohumu), su, emülgatör (yağ asitlerinin mono ve digliseritleri, ayçiçek lesitini), yağsız süt tozu, tuz (en fazla %0,2), koruyucu (potasyum sorbat), asitlik düzenleyici (sitrik asit), tereyağı aroma vericisi, vitaminler (A, D), renklendirici (betakaroten)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077110145",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077110145",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077110145"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077110145"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077110145"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8682214706385",
+    "name": "Mis %3,1 Yağlı UHT İçme Sütü 200 ml",
+    "category": "food",
+    "ingredients": "%3,1 yağlı inek sütü",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8682214706385",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8682214706385",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8682214706385"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8682214706385"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8682214706385"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8696425020833",
+    "name": "Lezita Izgara Dilimli Piliç Fileto Sweet Chili Soslu 200 g",
+    "category": "food",
+    "ingredients": "Izgara dilimli piliç fileto (170g): piliç eti, su, soğan, ayçiçek yağı, tuz, stabilizör (sodyum polifosfat), yayıkaltı suyu tozu (süt ürünü), kıvam arttırıcı (karragenan, ksantan gam), bitkisel lif, dekstroz, asitlik düzenleyici (sodyum karbonat), antioksidan (askorbik asit), koruyucu (sodyum laktat, sodyum asetat), baharat karışımı, maya ekstraktı, ambalajlama gazı (azot, karbondioksit), sweet chili sosu (30g): su, şeker, elma sirkesi, soya sosu (su, soya fasulyesi, tuz, buğday unu, renklendirici (karamelize şeker)), domates salçası, acı biber suyu, tuz, modifiye nişasta, kıvam arttırıcı (ksantan gam), baharat karışımı, bitkisel yağ (palm yağı), mısır nişastası, aroma arttırıcı (monosodyum glutamat), koruyucu (potasyum sorbat), laktik asit, aroma verici",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8696425020833",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8696425020833",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8696425020833"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8696425020833"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8696425020833"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8696425020833"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 118.0,
+      "fat": 4.2,
+      "saturatedFat": 0.9,
+      "carbohydrate": 0.2,
+      "sugars": 0.2,
+      "protein": 20.0,
+      "salt": 1.27
+    },
+    "allergens": [
+      "en:gluten",
+      "en:milk",
+      "en:soybeans"
+    ],
+    "traces": [
+      "en:celery",
+      "en:eggs",
+      "en:mustard",
+      "en:nuts",
+      "en:sesame-seeds"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda gluten, soya proteini, kereviz ve yumurta içerebilir. Eser miktarda süt ve süt ürünleri, yumurta, hardal, çam fıstığı, susam ve badem içerebilir."
+  },
+  {
+    "code": "8690558039359",
+    "name": "Dimes Böğürtlen ve Hibiskus Aromalı Konsantre İçecek 310 ml",
+    "category": "food",
+    "ingredients": "Su, şeker (pancar şekeri kullanılmıştır.), asitlik düzenleyici (sitrik asit), renklendirici (siyah havuç suyu konsantresi), aroma verici (böğürtlen, hibiskus)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690558039359",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690558039359",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690558039359"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690558039359"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690558039359"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda gluten, süt ve süt ürünü içerebilir."
+  },
+  {
+    "code": "8690637140105",
+    "name": "Calvé Mayonez",
+    "category": "food",
+    "ingredients": "Bitkisel yağ (değişen miktarlarda ayçiçek, kanola), su, yumurta sarısı, şeker, modifiye nişasta, tuz, sirke, asitlik düzenleyiciler (sitrik asit, laktik asit), koruyucu (sorbik asit), kıvam arttırıcı (ksantan gam), renklendirici (beta karoten), aroma vericiler, antioksidan (kalsiyum disodyum EDTA)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690637140105",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690637140105",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690637140105"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690637140105"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690637140105"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:eggs"
+    ],
+    "traces": [
+      "en:celery",
+      "en:fish",
+      "en:gluten",
+      "en:milk",
+      "en:mustard"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "İz miktarda hardal, kereviz, süt ve süt ürünleri, gluten ve balık ürünü içerebilir."
+  },
+  {
+    "code": "8697742721885",
+    "name": "Dovido Gün Kurusu Kayısı 140 g",
+    "category": "food",
+    "ingredients": "Gün kurusu kayısı",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8697742721885",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8697742721885",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8697742721885"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8697742721885"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8697742721885"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8697742721885"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 280.0,
+      "fat": 0.3,
+      "saturatedFat": 0.2,
+      "carbohydrate": 62.5,
+      "sugars": 40.0,
+      "fibre": 8.4,
+      "protein": 2.6,
+      "salt": 0.0
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690102701817",
+    "name": "Tariş Naturel Kuru İncir 250 g",
+    "category": "food",
+    "ingredients": "%100 kuru incir",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690102701817",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690102701817",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690102701817"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690102701817"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690102701817"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8695077156723",
+    "name": "Le'Cola Kola",
+    "category": "food",
+    "ingredients": "Su, şeker (S)* veya fruktoz-glukoz şurubu (mısır) (F)*, karbon dioksit, renklendirici (amonyum sülfit karamel), asitlik düzenleyici (fosforik asit), aroma vericiler, koruyucu (sodyum benzoat), kafein (maks. 150 mg/L)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077156723",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077156723",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077156723"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077156723"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077156723"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:sulphur-dioxide-and-sulphites"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8680050309852",
+    "name": "Humm Organic Organik Çilekli Mini Küpler 30 g",
+    "category": "food",
+    "ingredients": "Organik çilek püresi (%53), organik elma suyu konsantresi (%36), organik pirinç unu (%9), organik buğday unu (%1), kıvam arttırıcı (pektin), asitlik düzenleyici (sitrik asit)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8680050309852",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8680050309852",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8680050309852"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8680050309852"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8680050309852"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8680050309852"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 382.0,
+      "fat": 0.1,
+      "saturatedFat": 0.1,
+      "carbohydrate": 93.0,
+      "sugars": 52.0,
+      "fibre": 2.6,
+      "protein": 0.8,
+      "salt": 0.03
+    },
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [
+      "en:nuts",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Gluten içerir. Eser miktarda sert kabuklu meyveler, susam ve soya içerebilir."
+  },
+  {
+    "code": "8690931005681",
+    "name": "Yörükoğlu UHT %3 Yağlı Süt 1000 ml",
+    "category": "food",
+    "ingredients": "%3 yağlı inek sütü",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690931005681",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690931005681",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690931005681"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690931005681"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690931005681"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8690931005681"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 57.0,
+      "fat": 3.0,
+      "saturatedFat": 2.0,
+      "carbohydrate": 4.7,
+      "sugars": 4.7,
+      "protein": 2.9,
+      "salt": 0.0
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690520580124",
+    "name": "Bremen 1827 Açık Renkli Bira",
+    "category": "food",
+    "ingredients": "Su, arpa maltı, şerbetçiotu, maya ve CO2",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690520580124",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690520580124",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690520580124"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690520580124"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690520580124"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8681630120010",
+    "name": "Züber Kidz Muzlu Kakaolu Meyve Tatlısı",
+    "category": "food",
+    "ingredients": "Hurma, muz (%25), kakao kitlesi (%7) (kakao tozu, kakao yağı), hindiba kökü lifi, fındık, badem, muz konsantresi",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8681630120010",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8681630120010",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8681630120010"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8681630120010"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8681630120010"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [
+      "en:peanuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Fındık ve Badem içerir. Antep fıstığı, Yer fıstığı ve Kaju içerebilir."
+  },
+  {
+    "code": "8692297003301",
+    "name": "Tezcanlar Tam Yağlı Ayran 285 ml",
+    "category": "food",
+    "ingredients": "Homojenize ve pastörize inek sütü, içme suyu ayran kültürü ve sofra tuzu (%0,7)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8692297003301",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8692297003301",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8692297003301"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8692297003301"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8692297003301"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8692297003301"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 32.0,
+      "fat": 1.8,
+      "saturatedFat": 1.2,
+      "carbohydrate": 2.0,
+      "sugars": 0.0,
+      "protein": 2.0,
+      "salt": 0.7
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8691316523417",
+    "name": "Eker Antep Fıstıklı Sütlü Çikolatalı Sütlü Tatlı",
+    "category": "food",
+    "ingredients": "Pastörize ve homojenize inek sütü (%80), şeker, modifiye nişasta (mısır), sütlü çikolata (%3) [şeker, süttozu, kakao kitlesi, kakao yağı], kakao tozu, antep fıstığı (%1,5), kıvam arttırıcılar (karagenan, ksantan gam), aroma vericisi (antepfıstığı)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8691316523417",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8691316523417",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8691316523417"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8691316523417"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8691316523417"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk",
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "80734369",
+    "name": "Vivident Xylit Cube Nane Aromalı Şekersiz Draje Sakız 86 g",
+    "category": "food",
+    "ingredients": "Tatlandırıcılar (ksilitol (%37), sorbitoller, maltitoller, asesülfam-K, aspartam, sukraloz), sakız mayası, aroma vericiler (%2), doğal nane aroma vericisi (%0,3), stabilizör (gliserol), emülgatör (soya lesitini), yenilebilir sığır jelatini, antioksidan (E321), renklendirici (E133)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/80734369",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/80734369",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/80734369"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/80734369"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/80734369"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/80734369"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 154.0,
+      "fat": 0.0,
+      "saturatedFat": 0.0,
+      "carbohydrate": 63.0,
+      "sugars": 0.0,
+      "protein": 0.0,
+      "salt": 0.02
+    },
+    "allergens": [
+      "en:gluten",
+      "en:soybeans"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Fenilalanin kaynağı içerir."
+  },
+  {
+    "code": "8681185086984",
+    "name": "Fellas Kırmızı Meyve Karışımı ve Kakaolu Protein Bar Parçacıklı Granola 270 g",
+    "category": "food",
+    "ingredients": "Yulaf ezmesi (%50), Fellas kakaolu protein bar parçaları (süt proteini konsantresi, peyniraltı suyu proteini konsantresi, hurma, kakao kitlesi (%11,2), inülin, kakao tozu (%5,4), B6 vitamini) (%15), turna yemişi (%9), elma suyu konsantresi, hurma suyu, sızma zeytinyağı, kabak çekirdeği (%3), ay çekirdeği (%3), chia (çiya) tohumu (%2), dondurularak kurutulmuş (freeze dried) çilek (%1), yaban mersini (%1)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8681185086984",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8681185086984",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8681185086984"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8681185086984"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8681185086984"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:gluten",
+      "en:milk"
+    ],
+    "traces": [
+      "en:nuts",
+      "en:peanuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz ve gluten içerir. İz miktarda fındık, badem, yer fıstığı ve Antep fıstığı içerebilir."
+  },
+  {
+    "code": "8681042078282",
+    "name": "Migros M Life Bio Organik Pilavlık Bulgur 1000 g",
+    "category": "food",
+    "ingredients": "Organik pilavlık bulgur (gluten içerir.)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8681042078282",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8681042078282",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8681042078282"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8681042078282"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8681042078282"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8699118050469",
+    "name": "Çerezya Gün Kurusu Kayısı",
+    "category": "food",
+    "ingredients": "Kuru kayısı",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8699118050469",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8699118050469",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8699118050469"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8699118050469"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8699118050469"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [
+      "en:sulphur-dioxide-and-sulphites"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda Kükürt Dioksit içerebilir."
+  },
+  {
+    "code": "8699118029274",
+    "name": "Dooy Şeftali Nektarı",
+    "category": "food",
+    "ingredients": "Su, şeker (S*) veya fruktoz-glikoz şurubu (F*), şeftali püre konsantresi (en az %50), asitlik düzenleyici (sitrik asit), aroma verici (şeftali)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8699118029274",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8699118029274",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8699118029274"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8699118029274"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8699118029274"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8699118029274"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 54.0,
+      "fat": 0.1,
+      "saturatedFat": 0.0,
+      "carbohydrate": 12.1,
+      "sugars": 11.6,
+      "protein": 0.4,
+      "salt": 0.0
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690632248950",
+    "name": "Nescafé Xpress Karışık Aromalı Sütlü Kahve İçeceği 250 ml",
+    "category": "food",
+    "ingredients": "Kahve (%66,1) [su, çözünebilir kahve (%1,36)], tam yağlı süt (%29), şeker, asitlik düzenleyiciler (sodyum bikarbonat, tripotasyum sitrat), aroma vericiler, kıvam arttırıcılar (selülöz, selülöz gam, karragenan)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690632248950",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690632248950",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690632248950"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690632248950"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690632248950"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8697403873595",
+    "name": "Ekici Tam Yağlı Taze Beyaz Peynir",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, peynir mayası, peynir kültürü, stabilizör (kalsiyum klorür) ve tuz",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8697403873595",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8697403873595",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8697403873595"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8697403873595"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8697403873595"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8697426091303",
+    "name": "Çerezim Ceviz İçi 150 g",
+    "category": "food",
+    "ingredients": "Ceviz içi",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8697426091303",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8697426091303",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8697426091303"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8697426091303"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8697426091303"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8697426091303"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 718.0,
+      "fat": 70.0,
+      "saturatedFat": 7.6,
+      "carbohydrate": 2.2,
+      "sugars": 2.1,
+      "fibre": 5.6,
+      "protein": 17.1,
+      "salt": 0.0
+    },
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Ceviz içerir."
+  },
+  {
+    "code": "9062300125273",
+    "name": "HiPP Organik 5 Tahıllı Bebek ve Küçük Çocuk Ek Gıdası 200 g",
+    "category": "food",
+    "ingredients": "%35 tam yulaf unu*, %19,99 buğday irmiği*, %18 tam buğday unu*, %13 tam arpa unu*, %7 tam kabuklu buğday unu*, %7 tam çavdar unu*, B1 vitamini (tiamin mononitrat)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/9062300125273",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/9062300125273",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/9062300125273"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/9062300125273"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/9062300125273"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/9062300125273"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 381.0,
+      "fat": 3.9,
+      "saturatedFat": 0.6,
+      "carbohydrate": 69.7,
+      "sugars": 1.8,
+      "fibre": 9.2,
+      "protein": 12.1,
+      "salt": 0.015
+    },
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8695077004628",
+    "name": "Teatone Ice Tea Limon Aromalı İçecek",
+    "category": "food",
+    "ingredients": "Su, şeker (S)* veya fruktoz-glukoz şurubu (F)*, asitlik düzenleyiciler (sitrik asit, trisodyum sitrat), çay ekstraktı, doğal aroma verici, doğal aroma vericiler (limon), antioksidan (askorbik asit)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077004628",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077004628",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077004628"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077004628"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077004628"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8699118061649",
+    "name": "Dooy Karışık Meyve Nektarı",
+    "category": "food",
+    "ingredients": "Su, şeker (S)* veya glukoz-fruktoz şurubu (mısır) (F)*, meyve suyu ve püre konsantreleri (en az %50) [portakal (%25,3), elma (%19,3), havuç (%2,3), limon (%2,1), beyaz üzüm (%0,5), şeftali (%0,5)], aroma vericiler, C vitamini, asitlik düzenleyici (sitrik asit), E vitamini, provitamin A",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8699118061649",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8699118061649",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8699118061649"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8699118061649"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8699118061649"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8699118061649"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 51.0,
+      "fat": 0.0,
+      "saturatedFat": 0.0,
+      "carbohydrate": 11.8,
+      "sugars": 11.6,
+      "fibre": 0.1,
+      "protein": 0.2,
+      "salt": 0.0
+    },
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8681506018199",
+    "name": "Chips Coin Acı Baharat Çeşnili Tırtıklı Patates Cipsi",
+    "category": "food",
+    "ingredients": "Patates, bitkisel yağ (palm olein yağı), acılı baharat çeşnisi [maltodekstrin, tuz, aroma arttırıcılar (monosodyum glutamat, disodyum inosinat, disodyum guanilat), şeker, domates tozu, soğan tozu, pirinç unu, sarımsak tozu, maydanoz tozu, asitlik düzenleyici (potasyum klorür), baharat (%0,1) (kekik), renklendirici (paprika ekstraktı)]",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8681506018199",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8681506018199",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8681506018199"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8681506018199"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8681506018199"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:gluten"
+    ],
+    "traces": [
+      "en:milk",
+      "en:peanuts",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarda süt, soya, gluten ve yer fıstığı içerebilir."
+  },
+  {
+    "code": "8695077305251",
+    "name": "Le'Porta Portakal Aromalı Gazoz 2,5 L",
+    "category": "food",
+    "ingredients": "Su, şeker (S)* veya fruktoz-glukoz şurubu (F)*, portakal suyu konsantresi, karbondioksit, konsantre portakal ekstraktı, asitlik düzenleyici (sitrik asit), C vitamini, koruyucular (potasyum sorbat, sodyum benzoat), doğal aroma vericiler, kıvam arttırıcı (keçiboynuzu gamı), renklendirici (karotenler)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077305251",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077305251",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077305251"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077305251"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077305251"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690575868314",
+    "name": "Tamek Karışık Meyveli İçecek 200 ml",
+    "category": "food",
+    "ingredients": "Su, şeker* (sakkaroz veya fruktoz-glukoz şurubu), meyve suyu ve püre konsantreleri (meyve oranı en az %10) (elma %6, şeftali %3, portakal %1), asitlik düzenleyici (sitrik asit), kıvam arttırıcı (karboksimetil selüloz), aroma vericiler, antioksidan (askorbik asit), renklendirici (beta karoten), tatlandırıcı (sukraloz)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690575868314",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690575868314",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690575868314"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690575868314"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690575868314"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690724060057",
+    "name": "Migros Tam Yağlı Taze Kaşar Peyniri 700 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü (laktoz içerir), peynir kültürü, stabilizör (kalsiyum klorür), peynir mayası, tuz",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690724060057",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690724060057",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690724060057"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690724060057"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690724060057"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8690724060057"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 328.0,
+      "fat": 24.8,
+      "saturatedFat": 16.6,
+      "carbohydrate": 1.0,
+      "sugars": 0.0,
+      "protein": 25.2,
+      "salt": 4.0
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690620612398",
+    "name": "In Bakery by Divan Choco Fresh Bitter Çikolata Kaplı Dondurularak Kurutulmuş Çilek 50 g",
+    "category": "food",
+    "ingredients": "Bitter çikolata (%74) [şeker, kakao kitlesi, kakao yağı], dondurularak kurutulmuş çilek (%26)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690620612398",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690620612398",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690620612398"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690620612398"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690620612398"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:milk",
+      "en:nuts",
+      "en:peanuts",
+      "en:sesame-seeds",
+      "en:soybeans"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "İz miktarda gluten, süt ürünleri, sert kabuklu meyveler, yer fıstığı, susam, soya ürünleri ve kükürtdioksit içerebilir."
+  },
+  {
+    "code": "8683204000568",
+    "name": "Tarım Kredi Tam Yağlı Olgunlaştırılmış Bergama Tulum Peyniri 400 g",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, tuz, peynir mayası",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8683204000568",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8683204000568",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8683204000568"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8683204000568"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8683204000568"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Laktoz içerir."
+  },
+  {
+    "code": "8698720869742",
+    "name": "Sarıyer Kola 250 ml",
+    "category": "food",
+    "ingredients": "Su, şeker (S)* veya fruktoz-glikoz şurubu (F)*, karbondioksit, renklendirici (amonyum sülfit karamel), asitlik düzenleyici (fosforik asit), aroma vericiler, stabilizör (gam arabik), koruyucu (sodyum benzoat), kafein (maks. 150mg/L)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8698720869742",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8698720869742",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8698720869742"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8698720869742"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8698720869742"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:sulphur-dioxide-and-sulphites"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8695077114693",
+    "name": "Harras Sarımsaklı Mayonez 490 g",
+    "category": "food",
+    "ingredients": "Su, ayçiçek yağı, modifiye nişasta, şeker, sarımsak püre (%3), sirke, pastörize yumurta sarısı, tuz, kıvam arttırıcı (ksantan gam), aroma vericisi (sarımsak, hardal), limon suyu konsantresi, koruyucular (potasyum sorbat, sodyum benzoat), antioksidan (kalsiyum disodyum EDTA), renklendirici (beta karoten)",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8695077114693",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8695077114693",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8695077114693"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8695077114693"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8695077114693"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8695077114693"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100g",
+      "source": "catalogue",
+      "energyKcal": 314.0,
+      "fat": 31.8,
+      "saturatedFat": 6.0,
+      "carbohydrate": 5.3,
+      "sugars": 3.1,
+      "protein": 1.4,
+      "salt": 2.0
+    },
+    "allergens": [
+      "en:eggs",
+      "en:mustard"
+    ],
+    "traces": [
+      "en:milk"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Yumurta ve yumurta ürünleri içerir. Eser miktarda hardal, hardal ürünleri, süt ve süt ürünleri içerebilir."
+  },
+  {
+    "code": "4697035163747",
+    "name": "Tuğba Antep Fıstığı Ezmesi 200 g",
+    "category": "food",
+    "ingredients": "Antep fıstığı (%50), şeker, su",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/4697035163747",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/4697035163747",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/4697035163747"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/4697035163747"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/4697035163747"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:nuts"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8690565018408",
+    "name": "Pınar %1,7 Yağlı Sade Kefir 1000 ml",
+    "category": "food",
+    "ingredients": "Pastörize inek sütü, kefir kültürü, probiyotik mikroorganizmalar (Bifidobacterium lactis (BB-12®), Lactobacillus acidophilus (LA-5®))",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8690565018408",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8690565018408",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8690565018408"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8690565018408"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8690565018408"
+      ],
+      "nutrition": [
+        "https://world.openfoodfacts.org/product/8690565018408"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "nutrition": {
+      "basis": "100ml",
+      "source": "catalogue",
+      "energyKcal": 45.0,
+      "fat": 1.7,
+      "saturatedFat": 1.0,
+      "carbohydrate": 4.7,
+      "sugars": 4.7,
+      "protein": 2.8,
+      "salt": 0.0
+    },
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "36214785",
+    "name": "İçim İçimino D Vitaminli Çikolatalı %1,2 Yağlı UHT İçme Sütü",
+    "category": "food",
+    "ingredients": "İnek sütü, şeker, çikolata (%0,5), kakao tozu, kıvam arttırıcı (jelan gam), vitamin D",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/36214785",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/36214785",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/36214785"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/36214785"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/36214785"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:milk"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients"
+  },
+  {
+    "code": "8681986008147",
+    "name": "Gülhanlı Hurma 300 g",
+    "category": "food",
+    "ingredients": "Hurma",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8681986008147",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8681986008147",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8681986008147"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8681986008147"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8681986008147"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [],
+    "traces": [
+      "en:gluten",
+      "en:nuts",
+      "en:peanuts"
+    ],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Eser miktarında Antep fıstığı, yer fıstığı, badem, ceviz, fındık, kaju fıstığı ve buğday gluteni içerebilir."
+  },
+  {
+    "code": "8683400680908",
+    "name": "Helvart Kuru Üzüm Pekmezli Ermenek Helvası 175 g",
+    "category": "food",
+    "ingredients": "Tahin (en az %52) (susam içerir), kuru üzüm pekmezi (en az %47), çöven suyu",
+    "source_name": "Open Food Facts içindekiler fotoğrafı (CC BY-SA), Navilo tarafından okundu",
+    "source_url": "https://world.openfoodfacts.org/product/8683400680908",
+    "barcode_source_url": "https://world.openfoodfacts.org/product/8683400680908",
+    "field_sources": {
+      "code": [
+        "https://world.openfoodfacts.org/product/8683400680908"
+      ],
+      "name": [
+        "https://world.openfoodfacts.org/product/8683400680908"
+      ],
+      "ingredients": [
+        "https://world.openfoodfacts.org/product/8683400680908"
+      ]
+    },
+    "source_type": "open_food_facts",
+    "evidence_status": "community_photo_transcription_pending_package_check",
+    "image_license": "CC-BY-SA-3.0",
+    "image_attribution": "Open Food Facts contributors",
+    "allergens": [
+      "en:sesame-seeds"
+    ],
+    "traces": [],
+    "labels": [],
+    "status": "verified",
+    "verified_at": "2026-10-25T00:00:00+03:00",
+    "checked_at": "2026-10-25T00:00:00+03:00",
+    "catalog_batch": "off-photo-transcription-20261026",
+    "ingredient_evidence": "full_label_transcription",
+    "open_facts_coverage": "open_facts_without_ingredients",
+    "source_allergen_text": "Susam içerir."
   }
 ]
