@@ -1,0 +1,56 @@
+open_facts_without_ingredients   8690120070131 TORKU BANADA MINIKI KAKAO.FIN.KREMA 450 GR
+open_facts_without_ingredients   8690120061207 Torku Banada Bitter Çikolata 370 Gr.
+open_facts_without_ingredients   8680181001656 Torku Acılı Sucuk Vakum 225 G
+open_facts_without_ingredients   8680181064668 Torku Banada 230 Ml
+not_in_open_facts                8680181000178 TORKU BEYAZ PEYNİR 500 GR
+not_in_open_facts                8690120127415 Torku Bitter Çikolata 65 gr
+open_facts_without_ingredients   8690120127439 Torku Bol Sütlü Çikolata 65 gr
+not_in_open_facts                8680181064620 Torku Cafe Chai Latte 230 Ml
+not_in_open_facts                8680181000864 Torku Dilimli Tost Peyniri 700 G
+open_facts_without_ingredients   8690120122083 Torku Çikolatalı Gofret 30 gr
+not_in_open_facts                8680734210542 Kırköy Tereyağ 700 gr
+not_in_open_facts                8680734210191 Kırköy Tost Peyniri 600 gr
+open_facts_without_ingredients   8690931012535 YÖRÜKOĞLU 900 GR BEYAZ PEYNİR
+not_in_open_facts                8690931010685 Yörükoğlu Kaşar Peyniri 600 G
+not_in_open_facts                8690931009160 Yörükoğlu Köy Peyniri 600 g
+not_in_open_facts                8690931009986 Yörükoğlu Labne 2750 Gr
+not_in_open_facts                8690931005407 Yörükoğlu Piknik Krem Peynir 120*20 g
+open_facts_without_ingredients   8690931002529 Yörükoğlu Tereyağ 1 kg
+not_in_open_facts                8690931001683 Yörükoğlu Tost Kaşarı 2 kg
+open_facts_without_ingredients   8691641080005 Fiskobirlik Fındık Ezmesi 180 G
+open_facts_without_ingredients   8691641090219 Fiskobirlik Fiskorella Kakaolu Fındık Kreması 400 Gr
+open_facts_without_ingredients   8691641545672 Fiskobirlik Fıstık Ezmesi 300 gr
+71 barcodes: in_open_facts=16, not_in_open_facts=34, open_facts_without_ingredients=21
+not_in_open_facts                8691573018190 Burcu Fasulye Pilaki 400G
+open_facts_without_ingredients   8691573017193 Burcu Barbunya Pilaki 400G
+open_facts_without_ingredients   8691573001260 Burcu Salça Domates Cam 600 Gr.
+open_facts_without_ingredients   8691573004339 Burcu Acı Biber Salçası 600 G.
+open_facts_without_ingredients   8691573024146 Burcu Enginar Konservesi Cam 540 G
+open_facts_without_ingredients   8691573031304 Burcu Ev Tipi Domates Salçası 1500 Gr.
+open_facts_without_ingredients   8691573079610 Burcu Kapari 310 Gr
+not_in_open_facts                8691520104068 Aytaç Şipşak Piliç Salam Dilimli 60 G
+open_facts_without_ingredients   8691520104440 Aytaç Şipşak Dilimli Hindi Salam 50G
+not_in_open_facts                8691520102255 Aytaç Piliç Kokteyl Sosis 350 g
+not_in_open_facts                8691520104488 Aytaç Hindi Mangal Sucuk 280 G
+not_in_open_facts                8691520104631 Aytaç Isıl İşlem Görmüş Kangal Sucuk 200 G
+not_in_open_facts                8691520101067 Aytaç Dana Sucuk Gurme (fermente) 250 Gr
+not_in_open_facts                8691520105003 Aytaç Fermente Sucuk 220 Gr
+not_in_open_facts                8691520102873 Aytaç Geleneksel Dana Sucuk Isil Işlem 250gr
+not_in_open_facts                8691520105041 Aytaç Keyifli Et Lokmaları Kekikli 25 G
+not_in_open_facts                8691520105027 Aytaç Keyifli Et Lokmaları Sade 25 G
+not_in_open_facts                8691520104044 Aytaç Şipşak Dilimli Macar Salam 60 G
+not_in_open_facts                8690504038887 9 Kat Tat Muzlu Gofret 70 G
+not_in_open_facts                8690504019206 9 Kat Tat Çilekli 39 G
+not_in_open_facts                8691725000509 Arslanoğlu Kemalpaşa Tatlısı 140 G
+not_in_open_facts                8691725000257 Arslanoğlu Peynir Tatlısı 140 G
+not_in_open_facts                8697643482250 Bemtat Organik Krep Karışımı 200G
+not_in_open_facts                8690504568155 Bizim Ketçap Tatlı 400 gr
+not_in_open_facts                8690637919824 Calvé Tatlı Acı Sweet Chili Dip Sos 300 G
+not_in_open_facts                8680164790133 Centat Arnavut Ciğeri 200 gr
+not_in_open_facts                8680164790027 Centat Çiğ Köfte 1 kg
+not_in_open_facts                8680164790126 Centat İtalyan Salatası 200 gr
+not_in_open_facts                8681506007414 Chips Master Düz Sade Patates Cipsi 110G
+open_facts_without_ingredients   8681506009982 Chıps Master Klasik Kabuklu Patates Cipsi 110G
+open_facts_without_ingredients   8680782529221 Cipso Tırtıklı Sade Patates Cipsi 104 G
+open_facts_without_ingredients   8690120059105 Torku Bisküvi Tam Çikolatam 83 Gr.
+not_in_open_facts                8680181103268 Torku Dilimli Fıstıklı Salam 50 G

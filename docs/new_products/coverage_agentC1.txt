@@ -1,0 +1,25 @@
+25 barcodes: in_open_facts=4, not_in_open_facts=10, open_facts_without_ingredients=10, unknown=1
+open_facts_without_ingredients   8690624304152 Çerezza Sinema Peynir ve Soğan Aromalı Mısır Çerezi 170 g
+open_facts_without_ingredients   8690624303339 Çerezza Popcorn Süper Boy 124 g
+open_facts_without_ingredients   8695876203727 Nutzz Popcorn Fıstık-Badem 85 g
+in_open_facts                    8696368944005 Tikveşli %18 Yağlı Krema 200 ml
+in_open_facts                    86902649 Tikveşli Krema 200 ml
+in_open_facts                    8696368230757 Tikveşli Hazır Salep 1 L
+open_facts_without_ingredients   8692005230142 Koop Süt Hellim Peyniri 250 g
+open_facts_without_ingredients   8690684005075 Pastavilla Meksikan Makarna Sosu 300 g
+open_facts_without_ingredients   8690684005082 Pastavilla Napoliten Makarna Sosu 300 g
+not_in_open_facts                8690684010017 Pastavilla Junior Ufo Tri Color Makarna 500 g
+open_facts_without_ingredients   8690998212497 Balparmak Apitera Up 7x7 g
+not_in_open_facts                8690998150829 Balparmak Apitera Zen 7x7 g
+not_in_open_facts                8690998214323 Balparmak Apitera Propolis + Çam Balı 7x7 g
+in_open_facts                    8696368164502 Danette İkilim Çikolatalı Sütlü Puding 4x70 g
+open_facts_without_ingredients   8696368232133 Danette Çikolatalı Puding 4x100 g
+not_in_open_facts                8696368231181 Danette Çilekli Puding 4x100 g
+open_facts_without_ingredients   8690251260005 Kocaman Marine Hamsi 200 g
+not_in_open_facts                8690251382004 Kocaman Deniz Ürünleri Salatası
+not_in_open_facts                8690251341018 Kocaman Ahtapot Kolları 200 g
+not_in_open_facts                8690251340011 Kocaman Ahtapot Salatası 200 g
+not_in_open_facts                8690251421109 Kocaman Torik Lakerda 200 g
+open_facts_without_ingredients   8692971441573 President Krema %35 Yağlı 200 ml
+not_in_open_facts                8692971434988 President Cheddar Peyniri 220 g
+not_in_open_facts                8692971433653 President Gouda Peyniri 220 g

@@ -1,0 +1,56 @@
+open_facts_without_ingredients   8690767002106 Sütaş Kaşar Peyniri 225 gr
+open_facts_without_ingredients   8690767716546 Sütaş Kaşar Peynir 600 gr
+not_in_open_facts                8681324000482 SUTAS 200 GR BEYAZ PEYNIR OLGUNLASTIRILMIS
+not_in_open_facts                8681324002066 Sütaş Burger Peynir 110 gr
+not_in_open_facts                8690767002069 Sütaş Eski Kaşar 350 G
+open_facts_without_ingredients   8690767675546 Sütaş Hüptrik Çilekli 5x33 gr
+not_in_open_facts                8690767674655 Sütaş Kaşar Peyniri 700 G
+not_in_open_facts                8681324005173 Sütaş Çikolatalı Süt 200 Ml
+open_facts_without_ingredients   8690504429241 İçim Çilekli Kefir 260 Ml
+open_facts_without_ingredients   8692971416434 İçim Devam Sütü 1000 Ml.
+not_in_open_facts                8692971412269 İçim Çilekli Pastörize Süt 1L
+open_facts_without_ingredients   8692971435749 İçim Dilimli Tost Peyniri 200 G
+not_in_open_facts                8690504473138 İçim Dolcia Puding Muzlu 4x110 Gr.
+not_in_open_facts                8690504473121 İçim Dolcia Çikolatalı Fındıklı Puding 4X110 G
+not_in_open_facts                8690504473107 İçim Dolcia Çikolatalı Puding 4X110 G
+open_facts_without_ingredients   8692971434353 İçim Fit Kahveli Laktozsuz Süt 500 Ml
+open_facts_without_ingredients   8692971434346 İçim Fit Süt Çikolata 500 Ml
+open_facts_without_ingredients   8692971434513 İçim Fit Çilekli Laktozsuz Süt 500ml
+64 barcodes: in_open_facts=9, not_in_open_facts=30, open_facts_without_ingredients=25
+not_in_open_facts                8690629435240 Dr Oetker Bitter Çikolatalı Sos 125 G
+open_facts_without_ingredients   8690576029202 NUH UN ANKARA MAKARNA ERİŞTE 500 GR
+not_in_open_facts                8690516008007 Piyale Kakaolu Puding 150gr
+open_facts_without_ingredients   8690515116215 Kent Mis Bonbon Sütlü Tereyağlı 43 Gr.
+open_facts_without_ingredients   8690515219718 Kent Missbon Çilek-Elma 43 gr
+open_facts_without_ingredients   8690515124401 Kent Olips C Vitaminli Stıck 28 G
+open_facts_without_ingredients   8690515133601 Kent Jelibon Ayıcık 100 G
+open_facts_without_ingredients   8690515141149 Kent Jelibon Kolalı 100 G
+open_facts_without_ingredients   8690515124272 Kent Olips Mentol Stick 28 G
+not_in_open_facts                8690515124005 Kent Olips Mentollü Şeker 76 G
+not_in_open_facts                8690515124104 Kent Olips C Vitaminli 76 G
+not_in_open_facts                8690515599766 Kent Olips Nane 76 G
+not_in_open_facts                8690515115720 Kent Bayram Şekeri Elegan Çilek 1 Kg
+not_in_open_facts                8690515101501 Kent Bayram Şekeri Miss Sütlü Bonbon Şeker 1 Kg
+open_facts_without_ingredients   8690515132079 Kent Elegan Meyveli Toffee Şeker 375 Gr
+not_in_open_facts                8690515133700 Kent Jelibon Fruty 100 G
+open_facts_without_ingredients   8690515599285 Kent Jelibon Tamtam 80 G
+open_facts_without_ingredients   8690515219749 Kent Missbon Vişne-Ahududu 43 gr
+not_in_open_facts                8698313585134 Golf Roko Çikolata 65 ml
+open_facts_without_ingredients   8698313599681 Golf Maraşım Sandwich 120 Ml
+open_facts_without_ingredients   8698313584014 GOLF MARASIM KORNET SADE 120 ML
+not_in_open_facts                8698313589880 GOLF MARASIM CIKOLATA-SADE 500ML
+not_in_open_facts                8698313589958 GOLF MARAŞIM SADE 500 ML
+not_in_open_facts                8698313520067 Golf Royal Gourmet Vanilya Gizemi-Madagaskar Vanilyası 850Ml
+not_in_open_facts                8698313588999 Golf Maraşim Kesme Dondurma 650 Ml
+not_in_open_facts                8698313582072 Golf Bravo Junior Tria - Badem - Antep Fıstığı 360 Ml
+not_in_open_facts                8698313596048 GOLF BRAVO BADEM BELCIKA 100 ML
+not_in_open_facts                8698313598714 Golf Dondurma Lungo Vanilya 105 Ml.
+not_in_open_facts                8698313585318 Golf Lungo Çilek Vanilya 105 Ml
+open_facts_without_ingredients   8690787181089 TADIM K.YEMIS KLASIK 75 GR
+not_in_open_facts                8690787181027 TADIM K.YEMIS KOKTEYL 75 GR
+open_facts_without_ingredients   8690527030578 PINAR AÇ BİTİR SOSİS 180 GR
+not_in_open_facts                8690527020777 PINAR ISIL İŞLEM GÖRMÜŞ MANGAL SUCUK 2X300 GR
+not_in_open_facts                8690565004814 PINAR PEYNIR KAHVALTI KEYFI 400 GR FE
+open_facts_without_ingredients   8681324000352 SUTAS KASAR DILIMLI 60 GR
+not_in_open_facts                8690767710162 SUTAS KASAR PEYNIR DILIMLI 150 GR 8LI
+open_facts_without_ingredients   8681324003377 Sütaş Beyaz Peynir 250 gr

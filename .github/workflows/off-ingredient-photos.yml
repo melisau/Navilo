@@ -1,0 +1,59 @@
+name: Open Food Facts ingredient photos
+
+# Collects ingredient-panel photos of Turkish products that have no
+# ingredient text on Open Food Facts and commits them to the
+# data/off-ingredient-photos branch for manual transcription.
+on:
+  pull_request:
+    paths:
+      - 'tool/off_ingredient_photos.py'
+      - '.github/workflows/off-ingredient-photos.yml'
+      - 'docs/new_products/photo*.txt'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: off-photos
+  cancel-in-progress: false
+
+jobs:
+  photos:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests pillow
+      - name: Restore earlier photos
+        run: |
+          if git fetch origin data/off-ingredient-photos 2>/dev/null; then
+            git checkout FETCH_HEAD -- docs/new_products/off_photos || true
+          fi
+      - name: Download photos
+        run: |
+          limit=$(grep -oE '^limit=[0-9]+' docs/new_products/photo*.txt 2>/dev/null | cut -d= -f2)
+          pages=$(grep -oE '^pages=[0-9]+' docs/new_products/photo*.txt 2>/dev/null | cut -d= -f2)
+          python tool/off_ingredient_photos.py --dump --limit "${limit:-80}" --pages "${pages:-5}" > out.txt 2>&1 || { echo "::error title=photos failed::$(tail -c 1500 out.txt | tr '\n' ' ')"; exit 1; }
+          echo "::notice title=photos::$(tail -n 3 out.txt | tr '\n' ' ')"
+      - name: Commit to data branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          trap 'echo "::error title=commit failed::line $LINENO"' ERR
+          tmp=$(mktemp -d)
+          mkdir -p "$tmp/docs/new_products"
+          cp -r docs/new_products/off_photos "$tmp/docs/new_products/"
+          cd "$tmp"
+          git init -q -b data
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -qm "Open Food Facts ingredient photos (CC BY-SA)"
+          git push -qf "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:refs/heads/data/off-ingredient-photos
+          echo "::notice title=Photos::$(ls docs/new_products/off_photos/*.jpg | wc -l) photos on data/off-ingredient-photos"

@@ -1,0 +1,99 @@
+not_in_open_facts                8690506025090 Duru Deniz Mineralleri Güzellik Sabunu 4x90 G
+not_in_open_facts                8690506495428 Duru Fruit&Milk Duş Jeli Çilek 450 Ml
+not_in_open_facts                8690506493554 Duru Çiçek Terapisi Sıvı Sabun 300 Ml
+not_in_open_facts                8691226628479 Rebul Bouquet Kolonya 270 Ml
+not_in_open_facts                8691226606125 Rebul Aqua Kolonya 270 Ml
+not_in_open_facts                8691226604893 Rebul Green Tea Kolonya 270 Ml
+not_in_open_facts                8691226604633 Rebul Ice Kolonya 270 Ml
+not_in_open_facts                8691226604626 Rebul Jasmine Kolonya 270 Ml
+not_in_open_facts                8691226604602 Rebul Lavanta Kolonya 270 Ml
+not_in_open_facts                8691226604596 Rebul Mandarine Kolonya 270 Ml
+not_in_open_facts                8690710001286 Koska Cevizli Yaz Helvası 500 G
+in_open_facts                    8690710141678 Koska Kabuklu Susamdan Tahin 300 G
+open_facts_without_ingredients   8690710009084 Koska Karışık Lokum 500 G
+in_open_facts                    8690710001934 Koska Dut Pekmezi 380 G
+in_open_facts                    8690710009060 Koska Fındıklı Lokum 500 G
+open_facts_without_ingredients   8690710070046 Koska Karışık Çerezli Lokum 500 G
+open_facts_without_ingredients   8690710136155 Koska Amerikan Fıstık Krokan 40 G
+not_in_open_facts                8690710138555 Koska Fındıklı Cezerye 40 G
+not_in_open_facts                8690710107070 Koska Fıstık Krokan 40 G
+not_in_open_facts                8690710139750 Koska Organik Üzüm Pekmezi 300 G
+in_open_facts                    8690710003501 Koska Vişne Reçeli 380 G
+not_in_open_facts                8698529301405 Seyidoğlu Fıstıklı Helva 175 G
+open_facts_without_ingredients   8698529300972 Seyidoğlu Çilek Reçeli 380 G
+not_in_open_facts                8698529300019 Seyidoğlu Kakaolu Helva 500 G
+not_in_open_facts                8698529300002 Seyidoğlu Sade Helva 500 G
+open_facts_without_ingredients   8698529303300 Seyidoğlu Tahin 550 G
+open_facts_without_ingredients   8698529303294 Seyidoğlu Keçiboynuzu Pekmezi 700 G
+in_open_facts                    8698529301436 Seyidoğlu Tahin 300 G
+not_in_open_facts                8698529309784 Seyidoğlu Kahvaltı Masası 9'lu 150 G
+not_in_open_facts                8690158002050 Teksüt Kaşar Peyniri 700 G
+open_facts_without_ingredients   8699177445411 Mezzetürk Rus Salatası 300 G
+in_open_facts                    8691225154320 Tahsildaroğlu Kahvaltılık Lor 300 G
+open_facts_without_ingredients   8691225153002 Tahsildaroğlu Taze Kaşar Peyniri 400 G
+open_facts_without_ingredients   8691225153415 Tahsildaroğlu Eski Kaşar 350 G
+in_open_facts                    8691225152609 Tahsildaroğlu İzmir Tulum Peyniri 350 G
+open_facts_without_ingredients   8691225152340 Tahsildaroğlu Ezine Peyniri 350 G
+not_in_open_facts                8691225156744 Tahsildaroğlu Gurme Ezine Peyniri 450 G
+not_in_open_facts                8691225152494 Tahsildaroğlu Dil Peyniri 250 G
+not_in_open_facts                8691225152449 Tahsildaroğlu Ezine Koyun Peyniri 600 G
+not_in_open_facts                8691225155235 Tahsildaroğlu Tam Yağlı Beyaz Peynir 800 G
+not_in_open_facts                8691225153361 Tahsildaroğlu Tereyağı 1000 G
+not_in_open_facts                8691225152142 Tahsildaroğlu Örgü Peyniri 250 G
+open_facts_without_ingredients   8696292000341 Untad Tam Buğday Ekmeği 400 G
+not_in_open_facts                8696292001201 Untad Baklavalık Böreklik Yufka 800 G
+not_in_open_facts                8698720170251 Efendioğulları Şavak Tulum Peyniri 500 G
+in_open_facts                    8690504011804 Hanımeller Fındıklı Rulo 82 G
+open_facts_without_ingredients   8690504013150 Hanımeller Asorti 180 G
+not_in_open_facts                8690506429355 Duru Güzellik Sabunu Saf&Doğal Gül 4x70 G
+not_in_open_facts                8690506494582 Duru Fresh Duş Sabunu Çiçek Tazeliği 4x150 G
+open_facts_without_ingredients   8690506448509 Duru Geleneksel Pirina Kalıp Sabunu 800 G
+not_in_open_facts                8690506490157 Duru Granül Sabun Lavanta 1 Kg
+not_in_open_facts                8690506499020 Duru 2'si 1 Arada Şampuan 600 Ml
+not_in_open_facts                8690506467968 Duru Bodrum Mandalina Kolonyası 400 Ml
+98 barcodes: in_open_facts=29, not_in_open_facts=39, open_facts_without_ingredients=30
+open_facts_without_ingredients   8690508201485 Tukaş Bezelye 680 G (Cam)
+open_facts_without_ingredients   8690508103468 Tukaş Acılı Ketçap 400 Gr
+in_open_facts                    8690508103451 Tukaş Ketçap 400 G
+in_open_facts                    8690508302311 Tukaş Fasülye Pilaki 400 G
+open_facts_without_ingredients   8690508402417 Tukaş Fasulye Haşlama 830 G
+in_open_facts                    8690508403414 Tukaş Nohut Haşlama 830 G
+open_facts_without_ingredients   8690508301314 Tukaş Barbunya Pilaki 400 G
+in_open_facts                    8690508101419 Tukaş Domates Salçası 700 Gr
+open_facts_without_ingredients   8690508153357 Tukaş Paprika Sos 350 G
+in_open_facts                    8690508600493 Tukaş Acı Sos 400 G
+open_facts_without_ingredients   8690508204493 Tukaş Fasulye 670 G Cam
+in_open_facts                    8690508006745 Tukaş Biber Salçası 700 G Cam
+open_facts_without_ingredients   8690508654212 Tukaş Közlenmiş Biber 680 G
+open_facts_without_ingredients   8690508007254 Tukaş Acı Biber Salçası 700 G Cam
+in_open_facts                    8690508600431 Tukaş Biber & Domates Karışık Salça 700 G
+in_open_facts                    8690508206435 Tukaş Garnitür 560 G
+open_facts_without_ingredients   8690508001856 Tukaş Rendelenmiş Domates 700 G
+open_facts_without_ingredients   8690575010515 Tamek Domates Püresi 210 G
+in_open_facts                    8690575045319 Tamek Barbunya Pilaki 190 G
+in_open_facts                    8690575070212 Tamek Garnitür 535 G (Cam)
+open_facts_without_ingredients   8690575045715 Tamek Barbunya Pilaki 400 G
+not_in_open_facts                8690575044312 Tamek Fasulye Pilaki 400 G
+open_facts_without_ingredients   8690575086114 Tamek Haşlanmış Barbunya 800 G
+not_in_open_facts                8690575085711 Tamek Haşlanmış Fasulye 800 G
+not_in_open_facts                8690575109011 Tamek Ahududu Reçeli 380 G
+open_facts_without_ingredients   8690575171513 Tamek Kahvaltılık Sos 300 G
+in_open_facts                    8690575021221 Tamek Acı Biber Salçası 540 G
+open_facts_without_ingredients   8690575171520 Tamek Acılı Kahvaltılık Sos 300 G
+in_open_facts                    8690575109219 Tamek Çilek Reçeli 380 G
+not_in_open_facts                8690575038120 Tamek Domates Rendesi 680 G Cam
+in_open_facts                    8693374255279 Yayla Arabiata Soslu Makarna 250 G
+in_open_facts                    8693374255330 Yayla Napoliten Soslu Makarna 250 G
+in_open_facts                    8693374254517 Yayla Haşlanmış Bezelye 700 G
+in_open_facts                    8693374253602 Yayla Haşlanmış Fasulye 700 G
+in_open_facts                    8693374253589 Yayla Haşlanmış Nohut 700 G
+not_in_open_facts                8693374011196 Yayla Aşurelik Buğday 1 Kg
+in_open_facts                    8693374011134 Yayla Köftelik Bulgur 1 Kg
+not_in_open_facts                8693374011226 Yayla Çiğ Köftelik Bulgur 1 Kg
+in_open_facts                    8690710009039 Koska Kağıt Helva 45 G
+not_in_open_facts                8690710135868 Koska Dondurma Külahı 10'lu 32 g
+in_open_facts                    8690710009435 Koska Kakaolu Helva 200 G
+in_open_facts                    8690710003518 Koska Çilek Reçeli 380 G
+open_facts_without_ingredients   8690710137312 Koska Harnup Pekmezi 380 G
+open_facts_without_ingredients   8690710009442 Koska Fıstıklı Helva 200 G
+open_facts_without_ingredients   8690710141708 Koska Keçiboynuzlu Tahin Pekmez 350 G

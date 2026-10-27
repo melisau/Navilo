@@ -1,0 +1,46 @@
+name: Open Facts coverage
+
+# Checks barcodes queued in docs/new_products/*.json against Open Food Facts,
+# Open Beauty Facts and Open Products Facts, so new catalogue batches only
+# add products the app cannot already find there.
+on:
+  pull_request:
+    paths:
+      - 'docs/new_products/*.json'
+      - 'tool/off_presence.py'
+      - '.github/workflows/open-facts-coverage.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  coverage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          ref: ${{ github.event.pull_request.head.sha || github.sha }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install requests
+      - name: Check queued barcodes
+        run: |
+          # Only queues touched by the latest commit (all on manual runs).
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            files=$(ls docs/new_products/queue_*.json)
+          else
+            files=$(git diff --name-only HEAD~1 HEAD -- 'docs/new_products/queue_*.json')
+          fi
+          for f in $files; do
+            case "$f" in *report*) continue;; esac
+            echo "## $f" >> "$GITHUB_STEP_SUMMARY"
+            python tool/off_presence.py "$f" --out "${f%.json}.report.json"
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: open-facts-coverage
+          path: docs/new_products/*.report.json

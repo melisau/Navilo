@@ -1,0 +1,157 @@
+8606032060580|cosmetic, not food
+8680050318311|no brand, no barcode
+8684298125618|plain water
+8690565430538|no brand, no barcode
+8699118058779|nutrition only, no list
+0690073091496|barcode differs (8690698509149)
+8698683400624|blurred, brand unclear
+8695077122988|no brand, no barcode
+8699745020484|no label in photo
+8683749039245|tiny text, no brand
+7610209054464|no brand, list cut
+8682615109525|no brand, no barcode
+5291217000401|only Greek label visible
+0382719068589|front only, no list
+8690504082392|list cut at right edge
+8681413502071|plain water
+8698934240139|brand not clearly shown
+8697426091280|no label in photo
+8698573503374|no ingredient list printed
+8696236304337|plain water
+8697755841143|no brand, likely cosmetic oil
+0684600043140|barcode differs (8694962010140)
+8699243630963|list cut at edges
+8697641760671|plain water
+8699118044277|list cut, no brand
+8681158290400|front only, no list/brand
+0693257470544|list cut off at edge
+8682815041014|no label in photo
+6260128709030|no list visible
+8691020006657|line starts faded, edge cut
+8683666208069|list cut at right edge
+8681749143276|no label in photo
+8690102461506|list cut at right edge
+8680171512551|blurred, glare
+8699277290003|plain water
+8690997037503|text illegible
+8699495579058|no brand, no barcode
+8690146126478|curved tiny text illegible
+8684600374840|no brand, no barcode
+1058667086690|blurred glare, illegible
+8682729068947|brand not on photo
+8681856394080|salt
+8683079425954|product name not shown
+1453914988855|no brand, no barcode
+7622202028120|brand not on photo
+8683789551295|brand not on photo
+8694962011444|no brand, no barcode
+4337182237907|screen photo, no brand
+0699000112105|list cut at left edge
+8697410579961|ambiguous mixed-language table
+8690105001891|plain tea leaves
+6269780200237|only Azerbaijani/Persian list
+8684221505968|no brand, no barcode
+8690632018041|tiny text illegible
+8684765177003|list cut at left edge
+0793618087340|only English list
+8682644292526|list cut at right edge
+8681856394004|salt
+8681749521135|nutrition only, no list
+8697584118478|product name not shown
+5413149775244|Turkish list cut off
+8690710132034|photo blurred
+8690120097459|list cut at right edge
+8682214702080|no brand, no barcode
+8697430885486|glare, partial text
+8690347082153|blurred, no brand
+0074854383084|no Turkish list
+8697457057118|glare, illegible
+8695077025272|brand not clearly shown
+16951105|barcode differs (13-digit)
+06295776|cosmetic, not food
+8690526054087|glare, multilingual overlap
+8695077000590|brand not on photo
+8690508601636|no ingredient list visible
+8699909480321|glare obscures list
+8695876201518|nutrition only, no list
+8682588751363|list cut at right edge
+8697420102937|nutrition only, no list
+9780201003819|front only, no list
+8682815018771|brand name not clear
+8693407000890|product name not shown
+8697458871713|front only, no list
+10814352|front only, no list
+8682392174020|product name not shown
+8699956001104|unrelated image
+8690451715725|small text blurred
+8699118060130|brand partly obscured
+8683808290075|nutrition only, no list
+8690504159438|rotated text, glare
+8683767633005|barcode only, no label
+8682214701946|brand not on photo
+4260505996710|no Turkish list
+8690504108252|Turkish list not visible
+8695077053473|brand not on photo
+8683717472739|brand not on photo
+8681636426215|percentage illegible
+8680659315148|brand/product not shown
+8680690053405|nutrition only, no list
+8692982011383|barcode differs (8694962012410)
+6263584700405|no Turkish list
+7690510004143|barcode differs (869052...)
+8683130621257|list cut at left edge
+0097049914276|no Turkish list
+8684917644650|plain water
+4690520024899|barcode likely differs, glare
+8682214732087|nutrition only, no list
+8692971468624|words partly obscured
+8680461060021|brand not on photo
+8690526574189|no ingredient list visible
+0724227043465|salt
+8682101508887|tiny rotated text
+8681212910350|no label in photo
+8682084414465|brand unclear, no barcode
+8695077174567|list cut at right edge
+8682125481821|brand not on photo
+8695077141002|tea, no list
+8683962050270|brand not on photo
+8690102760128|list cut off
+0643758697216|no Turkish list
+4062300436152|brand not on photo
+86946759|plain water
+8697911259195|brand not on photo
+8694962011420|brand not on photo
+8682615106135|upside down, brand unclear
+0601940361017|barcode differs (8681630361017)
+8684375609239|brand cut off
+0699878008005|barcode appears to differ
+8699745001384|nutrition only, no list
+8682615101161|ingredient text cut off
+0056056142331|brand cut, glare
+5410522645569|brand not on photo
+8082184416343|barcode differs (8691440309420)
+8684906827521|brand not on photo
+8695077004796|no label in photo
+8680908020144|list cut at edge
+8697423961982|no list, brand not shown
+8695077163950|brand not on photo
+6696531050962|brand not on photo
+8682091107077|tiny dense text illegible
+8690938230123|brand not on photo
+8680381080185|nutrition only, no list
+4061445292449|no proper ingredient list
+50127689|barcode differs (8690632768960)
+8690632550763|tiny text illegible
+8681917073008|list cut off at edge
+8683789553008|brand not on photo
+1500148001444|plain water
+0696092000020|glare over some words
+8695077156914|brand not on photo
+8680188132520|plain water
+8683655363533|brand not on photo
+8699270023448|mixed pack, small text
+8682835630113|brand not on photo
+7340000300360|no Turkish list
+8680659352600|brand not on photo
+8696236110815|brand not on photo
+9698005365210|barcode differs (8691405...)

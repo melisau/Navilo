@@ -1,0 +1,5 @@
+4 barcodes: not_in_open_facts=4
+not_in_open_facts                8697403890332 Danet Piliç Salam Baton 200 g
+not_in_open_facts                8697403890226 Danet Dana Macar Salam Baton 250 g
+not_in_open_facts                8697403890103 Danet Dana Antrikot Pastırma 250 g
+not_in_open_facts                8697403890097 Danet Dana Baton Sucuk Isıl İşlem Görmüş 300 g
