@@ -49,6 +49,11 @@ NOT_COSMETIC = re.compile(
     r'yumuşatıcı|temizleyici|cleaner|çamaşır suyu|turkey|hindi|tavuk|salam|sucuk)',
     re.IGNORECASE)
 NOT_COSMETIC_CATEGORY = ('en:food', 'en:household', 'en:cleaning', 'en:meat', 'en:beverages')
+# Personal-care items that have no ingredient (INCI) list to photograph.
+NO_INCI = re.compile(
+    r'(\bped\b|günlük ped|hijyenik ped|yara bandı|plaster|diş fırçası|toothbrush|diş ipi|'
+    r'flosser|banyo lifi|\blif\b|sünger|pamuk|kulak çubuğu|tıraş bıçağı|jilet|razor|'
+    r'tarak|fırça|brush|bez\b|mendil kutusu)', re.IGNORECASE)
 
 
 def known_codes():
@@ -82,7 +87,10 @@ def display_name(product, category='food'):
     # Brand and a real product name are needed to find the item in a store.
     if not name or not brand or len(name) < 4 or (code and code in name):
         return None
-    if SKIP_NAME.search(name) or set(product.get('categories_tags') or []) & SKIP_CATEGORIES:
+    # Brand and name together: Open Facts sometimes files "sigara" as the brand.
+    if SKIP_NAME.search(f'{brand} {name}') or set(product.get('categories_tags') or []) & SKIP_CATEGORIES:
+        return None
+    if category == 'cosmetic' and NO_INCI.search(name):
         return None
     if category == 'cosmetic' and (
             NOT_COSMETIC.search(name) or
@@ -154,7 +162,8 @@ def collect(limit, pages, session):
                 code = str(product.get('code') or '')
                 if len(found) >= quota:
                     break
-                if code in skip or not valid_gtin(code):
+                # GS1 prefixes 20–29 are store-internal codes, not product barcodes.
+                if code in skip or not valid_gtin(code) or (len(code) == 13 and code[0] == '2'):
                     continue
                 # Double-check the filters the API applied.
                 if 'en:turkey' not in (product.get('countries_tags') or []):

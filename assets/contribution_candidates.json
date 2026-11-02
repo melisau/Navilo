@@ -2220,19 +2220,6 @@
     "found_at": "2026-11-02"
   },
   {
-    "id": "off-gap-8711000532454",
-    "name": "Jacobs",
-    "category": "food",
-    "candidate_barcode": "8711000532454",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Food Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openfoodfacts.org/product/8711000532454",
-    "found_at": "2026-11-02"
-  },
-  {
     "id": "off-gap-8695077013804",
     "name": "Süsse Biscuit Petit beurre (175 g)",
     "category": "food",
@@ -2243,19 +2230,6 @@
     ],
     "source_name": "Open Food Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openfoodfacts.org/product/8695077013804",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-86918091",
-    "name": "sigara Parliament Night Blue (1)",
-    "category": "food",
-    "candidate_barcode": "86918091",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Food Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openfoodfacts.org/product/86918091",
     "found_at": "2026-11-02"
   },
   {
@@ -2532,19 +2506,6 @@
     "found_at": "2026-11-02"
   },
   {
-    "id": "off-gap-2050000097508",
-    "name": "Beaulis Finish It Transparan Sabitleyici Pudra 540 Rose Transparent (9 g)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000097508",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000097508",
-    "found_at": "2026-11-02"
-  },
-  {
     "id": "off-gap-8684378716422",
     "name": "Let'scrub Zeytinyağlı Kükürt Ardıç Sabunu 100 gr",
     "category": "cosmetic",
@@ -2568,19 +2529,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8690506541729",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-8685073100080",
-    "name": ".ki Günlük Ped (30 adet)",
-    "category": "cosmetic",
-    "candidate_barcode": "8685073100080",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8685073100080",
     "found_at": "2026-11-02"
   },
   {
@@ -2623,19 +2571,6 @@
     "found_at": "2026-11-02"
   },
   {
-    "id": "off-gap-2050002958357",
-    "name": "Eklips XL Banyo Lifi (Asortili)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002958357",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002958357",
-    "found_at": "2026-11-02"
-  },
-  {
     "id": "off-gap-8684252202928",
     "name": "Orien Erkek Deodorant Roll-On Random 50 ml",
     "category": "cosmetic",
@@ -2646,19 +2581,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8684252202928",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-2050002958760",
-    "name": "Eklips 3'lü Banyo Lifi",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002958760",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002958760",
     "found_at": "2026-11-02"
   },
   {
@@ -2675,58 +2597,6 @@
     "found_at": "2026-11-02"
   },
   {
-    "id": "off-gap-8681285114136",
-    "name": "Getwell Prenses Yara Bandı 15'li",
-    "category": "cosmetic",
-    "candidate_barcode": "8681285114136",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8681285114136",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-2050002916609",
-    "name": "Beaulis Flame It Mini Stick Allık 650 Sun Kissed",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002916609",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002916609",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-7317400028347",
-    "name": "Tepe Select Soft Diş Fırçası 3'lü (Asortili)",
-    "category": "cosmetic",
-    "candidate_barcode": "7317400028347",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/7317400028347",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-7350121257139",
-    "name": "Tepe Mini Flosser Çatallı Diş İpi 36'lı",
-    "category": "cosmetic",
-    "candidate_barcode": "7350121257139",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/7350121257139",
-    "found_at": "2026-11-02"
-  },
-  {
     "id": "off-gap-8684252201457",
     "name": "Bee Beauty Times Glamorous EDT Kadın Parfüm 50 ml",
     "category": "cosmetic",
@@ -2737,19 +2607,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8684252201457",
-    "found_at": "2026-11-02"
-  },
-  {
-    "id": "off-gap-2050000077562",
-    "name": "Beaulis Tune It Göz Kalemi 201 Cinnamon",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000077562",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000077562",
     "found_at": "2026-11-02"
   }
 ]
