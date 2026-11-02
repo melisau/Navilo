@@ -1,0 +1,84 @@
+8690937011648|cosmetic/cleaning, not food
+8699863459265|cosmetic/cleaning, not food
+8684441801161|cosmetic/cleaning, not food
+8690605065867|cosmetic/cleaning, not food
+8682214730984|cosmetic/cleaning, not food
+8690506544089|cosmetic/cleaning, not food
+8695077122704|cosmetic/cleaning, not food
+8695077172211|cosmetic/cleaning, not food
+8681153190606|cosmetic/cleaning, not food
+3838824421551|cosmetic/cleaning, not food
+8685119260006|cosmetic/cleaning, not food
+8004608227830|cosmetic/cleaning, not food
+8682257407072|cosmetic/cleaning, not food
+8684149131676|cosmetic/cleaning, not food
+8682276607170|cosmetic/cleaning, not food
+8682241221295|cosmetic/cleaning, not food
+8684295008020|cosmetic/cleaning, not food
+3574661526065|cosmetic/cleaning, not food
+8680057427023|cosmetic/cleaning, not food
+8690937011372|cosmetic/cleaning, not food
+8691722098417|nutrition only, no list
+8694136000342|plain water
+8690621081209|no ingredient list printed
+8694726004200|no label in photo
+8684992011583|brand not on photo
+0094400779710|no ingredient list printed
+8684992008705|no ingredient list visible
+8693374282619|brand not clearly shown
+8690612507275|glare obscures words
+8681771361785|no ingredient list printed
+8699118075554|list cut at right edge
+8699745001803|nutrition only, no list
+8680188132513|plain water
+8683417000614|line starts distorted at crease
+8681413502033|plain water
+8695077168733|list start obscured
+8684556266039|plain water
+8698657257124|list cut at right edge
+8697432370072|plain water
+8683684329623|list partly faded, no brand
+8680426651387|front only, no list
+8690533714141|only Swedish list visible
+8690533634067|glare at right edge
+8690632059150|glare at right edge
+8681630146010|only English list
+8690526067537|only German list visible
+4335619202269|cosmetic, not food
+8695077117328|cosmetic, not food
+3574661685991|cosmetic, not food
+8692813005659|brand cut off, no barcode
+8699270023677|list cut at left edge
+8695077076366|cosmetic, not food
+8690530064362|cleaning wipes, not food
+3600524172275|cosmetic, not food
+8682773091038|cosmetic, not food
+8682368909274|English only, list cut
+8682009361010|cosmetic, not food
+8683130111093|cosmetic, not food
+0503466654003|cosmetic, not food
+4006000165325|cosmetic, not food
+8699943342487|cosmetic, not food
+8693239203308|cosmetic, not food
+8606014106312|pet food, not human food
+8694686405864|pet food, not human food
+8809700321376|cosmetic, not food
+2050002855472|cosmetic, not food
+8684880890535|cosmetic, not food
+0804053536437|cosmetic, not food
+8684568126413|cleaning product, not food
+8699943343484|cosmetic, not food
+8809670682019|cosmetic, not food
+8683608064234|cosmetic, not food
+4305615549279|cosmetic, not food
+0604054603387|cosmetic, not food
+8682276605558|cosmetic, not food
+8680923354026|cosmetic, not food
+7004712664904|cosmetic, not food
+8691226645414|cosmetic, not food
+8690973703057|cosmetic, not food
+8699931333008|barcode differs (8699931330038)
+0044445080180|cosmetic, not food
+8683206305081|cosmetic, not food
+8690506520366|cosmetic, not food
+4305615838281|cosmetic, not food
