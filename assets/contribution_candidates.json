@@ -1076,19 +1076,6 @@
     "found_at": "2026-10-25"
   },
   {
-    "id": "off-gap-2050002945234",
-    "name": "Beaulis Fun Sugar and Spice Toz Allık 551 Shimmer Blush",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002945234",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002945234",
-    "found_at": "2026-10-25"
-  },
-  {
     "id": "off-gap-0882502226276",
     "name": "Benri Okyanus Kağıt Sabun (20 adet)",
     "category": "cosmetic",
@@ -1258,19 +1245,6 @@
     "found_at": "2026-10-25"
   },
   {
-    "id": "off-gap-2050000222511",
-    "name": "Benri Parıltılı Bronzlaştırıcı Vücut Losyonu (150 ml)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000222511",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000222511",
-    "found_at": "2026-10-25"
-  },
-  {
     "id": "off-gap-8682287373767",
     "name": "Loshel Keratin & Protein Sülfatsız Bakım Şampuanı (250 ml)",
     "category": "cosmetic",
@@ -1297,32 +1271,6 @@
     "found_at": "2026-10-25"
   },
   {
-    "id": "off-gap-8685073100103",
-    "name": ".ki Gece Boyu Hijyenik Ped (8 adet)",
-    "category": "cosmetic",
-    "candidate_barcode": "8685073100103",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8685073100103",
-    "found_at": "2026-10-25"
-  },
-  {
-    "id": "off-gap-2050001626424",
-    "name": "Bee Beauty Güneşten Koruyucu Yaşlanma Karşıtı Yüz Kremi SPF50 (50 ml)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050001626424",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050001626424",
-    "found_at": "2026-10-25"
-  },
-  {
     "id": "off-gap-3574661526065",
     "name": "Neutrogena Hydro Boost Jel El Kremi (75 ml)",
     "category": "cosmetic",
@@ -1333,19 +1281,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/3574661526065",
-    "found_at": "2026-10-25"
-  },
-  {
-    "id": "off-gap-2050001671967",
-    "name": "LYKD Likit Kapatıcı 135 Cream",
-    "category": "cosmetic",
-    "candidate_barcode": "2050001671967",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050001671967",
     "found_at": "2026-10-25"
   },
   {
@@ -1583,19 +1518,6 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-2050002929272",
-    "name": "Bee Beauty Hipoalerjenik Güneş Koruyucu Yüz Kremi SPF50+ (50 ml)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002929272",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002929272",
-    "found_at": "2026-10-26"
-  },
-  {
     "id": "off-gap-8697916012962",
     "name": "Bee Beauty Doğal Mango Özlü El Kremi (75 ml)",
     "category": "cosmetic",
@@ -1609,19 +1531,6 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-2050002929265",
-    "name": "Bee Beauty Hipoalerjenik Güneş Sütü Çocuk & Bebek İçin SPF50+ (100 ml)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002929265",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002929265",
-    "found_at": "2026-10-26"
-  },
-  {
     "id": "off-gap-8684252211524",
     "name": "Benri Peach Scent El Kremi (75 ml)",
     "category": "cosmetic",
@@ -1632,19 +1541,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8684252211524",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-2050002929258",
-    "name": "Bee Beauty Hipoalerjenik Güneş Koruyucu Losyonu SPF50+ (100 ml)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002929258",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002929258",
     "found_at": "2026-10-26"
   },
   {
@@ -1697,19 +1593,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/3838824414652",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-8685073100097",
-    "name": ".ki Normal Gündüz Ped (12 adet)",
-    "category": "cosmetic",
-    "candidate_barcode": "8685073100097",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8685073100097",
     "found_at": "2026-10-26"
   },
   {
@@ -1778,19 +1661,6 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-2050002958715",
-    "name": "Eklips Banyo Lifi Süngerli (Asortili)",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002958715",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002958715",
-    "found_at": "2026-10-26"
-  },
-  {
     "id": "off-gap-8684629041051",
     "name": "Illusione Lumiere EDP Kadın Parfüm 50 ml",
     "category": "cosmetic",
@@ -1814,19 +1684,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8684252211777",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-7702018866984",
-    "name": "Gillette Fusion 4 Adet Yedek Tıraş Bıçağı",
-    "category": "cosmetic",
-    "candidate_barcode": "7702018866984",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/7702018866984",
     "found_at": "2026-10-26"
   },
   {
@@ -1895,45 +1752,6 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-8699067179501",
-    "name": "Promani Tırnak Fırçası",
-    "category": "cosmetic",
-    "candidate_barcode": "8699067179501",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8699067179501",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-2050002916500",
-    "name": "Beaulis Glare It Mini Stick Aydınlatıcı 954 Pink Dust",
-    "category": "cosmetic",
-    "candidate_barcode": "2050002916500",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002916500",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-2050000155697",
-    "name": "LYKD Allık 513 Rose Quartz",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000155697",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000155697",
-    "found_at": "2026-10-26"
-  },
-  {
     "id": "off-gap-8825022703164",
     "name": "Eklips Cep Aynası Mor",
     "category": "cosmetic",
@@ -1947,19 +1765,6 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-2050000526275",
-    "name": "Beaulis Twist It Asansörlü Göz Kalemi 198 Copper",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000526275",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000526275",
-    "found_at": "2026-10-26"
-  },
-  {
     "id": "off-gap-8718951384743",
     "name": "Hacı Şakir Güzellik Sabunu Lavanta 70 gr x 4 (280 gr)",
     "category": "cosmetic",
@@ -1970,32 +1775,6 @@
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8718951384743",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-8683420170458",
-    "name": "Soho N.Y.C. Vegan Damla Kapatıcı Makyaj Fırçası V709",
-    "category": "cosmetic",
-    "candidate_barcode": "8683420170458",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8683420170458",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-2050000078224",
-    "name": "Beaulis Print It Dudak Kalemi 501 Rose",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000078224",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000078224",
     "found_at": "2026-10-26"
   },
   {
@@ -2051,32 +1830,6 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-8699863453935",
-    "name": "Eklips Krepe Tarak",
-    "category": "cosmetic",
-    "candidate_barcode": "8699863453935",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/8699863453935",
-    "found_at": "2026-10-26"
-  },
-  {
-    "id": "off-gap-2050000121401",
-    "name": "LYKD Göz Kalemi 100 Black",
-    "category": "cosmetic",
-    "candidate_barcode": "2050000121401",
-    "missing_fields": [
-      "ingredients",
-      "package_photo"
-    ],
-    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050000121401",
-    "found_at": "2026-10-26"
-  },
-  {
     "id": "off-gap-8809302966791",
     "name": "Glossy Blossom Tırnak Süsleme Sticker Cuevly-96679",
     "category": "cosmetic",
@@ -2090,16 +1843,510 @@
     "found_at": "2026-10-26"
   },
   {
-    "id": "off-gap-2050002958708",
-    "name": "Eklips İki Renkli Banyo Lifi (Asortili)",
+    "id": "off-gap-8696425018472",
+    "name": "Lezita Chicken shawarma (200g)",
+    "category": "food",
+    "candidate_barcode": "8696425018472",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8696425018472",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8695077000743",
+    "name": "Cardella Penne rigate (500)",
+    "category": "food",
+    "candidate_barcode": "8695077000743",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8695077000743",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8691720014433",
+    "name": "Ani Baharatli kraker",
+    "category": "food",
+    "candidate_barcode": "8691720014433",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8691720014433",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8681038061205",
+    "name": "Casey Meyveli Kek (45 g)",
+    "category": "food",
+    "candidate_barcode": "8681038061205",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8681038061205",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8682214707047",
+    "name": "Mis Full Fat Milk",
+    "category": "food",
+    "candidate_barcode": "8682214707047",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8682214707047",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8699141057053",
+    "name": "amada biscolata Mood (135g)",
+    "category": "food",
+    "candidate_barcode": "8699141057053",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8699141057053",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-86935241",
+    "name": "Baktat tavuk (250 ml)",
+    "category": "food",
+    "candidate_barcode": "86935241",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/86935241",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8695077100092",
+    "name": "Dost Süt Yarım Yağlı (1L)",
+    "category": "food",
+    "candidate_barcode": "8695077100092",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8695077100092",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690574114795",
+    "name": "Pepsi 1litre (1 L)",
+    "category": "food",
+    "candidate_barcode": "8690574114795",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690574114795",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8695077013804",
+    "name": "Süsse Biscuit Petit beurre (175 g)",
+    "category": "food",
+    "candidate_barcode": "8695077013804",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8695077013804",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8691216022027",
+    "name": "Haribo Starmix 80 G",
+    "category": "food",
+    "candidate_barcode": "8691216022027",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8691216022027",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690632059150",
+    "name": "Nestlé Kit Kat Chunky (38 g)",
+    "category": "food",
+    "candidate_barcode": "8690632059150",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690632059150",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690146101635",
+    "name": "Bebeto Roller (60g)",
+    "category": "food",
+    "candidate_barcode": "8690146101635",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690146101635",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690574114962",
+    "name": "Lipton ice tea peach",
+    "category": "food",
+    "candidate_barcode": "8690574114962",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690574114962",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8695077092472",
+    "name": "Kelly's yulaf",
+    "category": "food",
+    "candidate_barcode": "8695077092472",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8695077092472",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8694603081935",
+    "name": "Bénédicta Sauce crudités nature légère",
+    "category": "food",
+    "candidate_barcode": "8694603081935",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8694603081935",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690504271833",
+    "name": "Kellogg's Kırmızı Meyveli Tam Buğday Ve Pirinç Gevreği (400 g)",
+    "category": "food",
+    "candidate_barcode": "8690504271833",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690504271833",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690574114443",
+    "name": "Lipton Ice Tea Lemon",
+    "category": "food",
+    "candidate_barcode": "8690574114443",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690574114443",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690533634067",
+    "name": "ETİ Susamlı Çubuk (56 g)",
+    "category": "food",
+    "candidate_barcode": "8690533634067",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690533634067",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690767671081",
+    "name": "Sütaş ayran",
+    "category": "food",
+    "candidate_barcode": "8690767671081",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690767671081",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690946250014",
+    "name": "Mutlu Spagetti Makarna 500 G",
+    "category": "food",
+    "candidate_barcode": "8690946250014",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690946250014",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690526094045",
+    "name": "Eti Pizza Kraker (76 g)",
+    "category": "food",
+    "candidate_barcode": "8690526094045",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690526094045",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690637508622",
+    "name": "calve Ketçap (610g)",
+    "category": "food",
+    "candidate_barcode": "8690637508622",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690637508622",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-3337875597227",
+    "name": "CeraVe Hydraterende Crème (340g)",
     "category": "cosmetic",
-    "candidate_barcode": "2050002958708",
+    "candidate_barcode": "3337875597227",
     "missing_fields": [
       "ingredients",
       "package_photo"
     ],
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
-    "source_url": "https://world.openbeautyfacts.org/product/2050002958708",
-    "found_at": "2026-10-26"
+    "source_url": "https://world.openbeautyfacts.org/product/3337875597227",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-4005808890507",
+    "name": "Nivea soft (200 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "4005808890507",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/4005808890507",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-3600523036332",
+    "name": "Elseve Loreal Paris Elseve Mucizevi Yağ Saç Güzelleştirici Krem 150 ml (Kuru ve Sert Saçlar)",
+    "category": "cosmetic",
+    "candidate_barcode": "3600523036332",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3600523036332",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-3838824439730",
+    "name": "Palette Deluxe Saç Boyası 8-11 Küllü Soğuk Kumral (115 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "3838824439730",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3838824439730",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-3838824439853",
+    "name": "Palette Deluxe Saç Boyası 10-0 Açık Sarı (115 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "3838824439853",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3838824439853",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690529509461",
+    "name": "Dalan Derma Cream Nemlendirici Katı Sabun (100 g)",
+    "category": "cosmetic",
+    "candidate_barcode": "8690529509461",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690529509461",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-3838824439792",
+    "name": "Palette Deluxe Saç Boyası 9-7 Açık Bakır (115 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "3838824439792",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3838824439792",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-4015100891973",
+    "name": "Palette Göz Alıcı Renkler Saç Boyası 5-50 Açık Altın Kahve",
+    "category": "cosmetic",
+    "candidate_barcode": "4015100891973",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/4015100891973",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8684378716422",
+    "name": "Let'scrub Zeytinyağlı Kükürt Ardıç Sabunu 100 gr",
+    "category": "cosmetic",
+    "candidate_barcode": "8684378716422",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684378716422",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8690506541729",
+    "name": "Duru Diamonds Series Green Katı Sabun (90 g x 4)",
+    "category": "cosmetic",
+    "candidate_barcode": "8690506541729",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690506541729",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8682276607156",
+    "name": "Cire Aseptine Vitamin-C Brightening Özel Bakım Kremi (75 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8682276607156",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682276607156",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-4602006314103",
+    "name": "Influence Beauty Lipstick Stick Influence 08 Coral Kiss - Creamy Lipstick with Rich Pigment",
+    "category": "cosmetic",
+    "candidate_barcode": "4602006314103",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/4602006314103",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8700216657235",
+    "name": "Head&Shoulders Head & Shoulders Mentol Ferahlığı Şampuan 800 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "8700216657235",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8700216657235",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8684252202928",
+    "name": "Orien Erkek Deodorant Roll-On Random 50 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "8684252202928",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684252202928",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-4602006362050",
+    "name": "Influence Beauty 3in1 Stick Universum 02 Peach Glow - Multi-Use Stick for Eyes, Lips & Cheeks",
+    "category": "cosmetic",
+    "candidate_barcode": "4602006362050",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/4602006362050",
+    "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8684252201457",
+    "name": "Bee Beauty Times Glamorous EDT Kadın Parfüm 50 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "8684252201457",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684252201457",
+    "found_at": "2026-11-02"
   }
 ]

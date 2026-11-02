@@ -39,6 +39,9 @@ void main() {
       final code = row['candidate_barcode'] as String;
       expect(isValidGtin(code), isTrue, reason: code);
       expect(row['id'], 'off-gap-$code');
+      // GS1 prefixes 20–29 are store-internal codes that can collide.
+      expect(code.length == 13 && code.startsWith('2'), isFalse, reason: code);
+      expect((row['name'] as String).toLowerCase(), isNot(contains('sigara')));
       expect(catalogue.contains(code), isFalse, reason: code);
       expect(row['missing_fields'], contains('ingredients'));
       expect((row['source_url'] as String).startsWith('https://'), isTrue);
