@@ -1,0 +1,63 @@
+6299200063203|no Turkish list
+8690792027402|brand not on photo
+8691009511097|brand not on photo
+8697403270974|brand not on photo
+8690105014372|tea, no ingredient list
+0379430541460|barcode differs, honey
+8695077003621|instant coffee only
+8683659910986|brand cut off
+4690120094063|no ingredient list
+8682780788327|brand not on photo
+7690543079323|no ingredient list
+8697426159034|no Turkish list visible
+8697071100306|plain water
+8699118075561|no ingredient list
+8698726784322|brand not on photo
+8699032006726|brand cut off
+8699514110149|supplement not food
+7691381181056|barcode differs (8691397181056)
+8695077132253|no ingredient list
+4009300595359|tea, no list
+1551186023646|no ingredient list
+8693354001278|no ingredient list
+8690504206040|ingredient list not shown
+8683789554111|ingredient list not shown
+8681630760391|text blurred
+8690663665016|coffee, no list
+8698605504669|no ingredient list
+8684072911154|brand not on photo
+8721274646641|no ingredient list
+8693738061034|no label in photo
+8000380216130|brand not on photo
+2001111277631|fresh fruit, no list
+8690982035989|text too small
+8684458001301|mineral water
+4684064783312|no ingredient list
+8692813005888|mineral water
+0690593020099|barcode differs, water
+8693228050654|list cut off at edge
+8691440777205|brand not on photo
+8684898501195|no ingredient list
+0044128671612|small curved text
+8699118078586|brand not on photo
+8696236431507|brand not on photo
+8699432220913|flavoured tea powder
+1500146801442|plain water
+8690504005933|brand not on photo
+8690526599021|text too small/creased
+8684663774014|only English list
+8681413502057|barcode differs (...762883)
+8699745028862|product name cut off
+8697404764960|brand not on photo
+8684059049863|brand cut off
+3393077003157|list edge cut off
+8714599610244|instant coffee only
+8684992017738|no ingredient list visible
+8682952341763|brand not on photo
+8684992003472|brand not on photo
+3693072102061|left edge cut off
+0412104058755|glare hides words
+8681413502460|plain water
+8682974006800|brand not on photo
+8697457699714|brand not on photo
+8699266270290|brand not shown, blurred

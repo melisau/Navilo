@@ -10,6 +10,7 @@ const batches = {
   'not-in-open-facts-20261026',
   'off-photo-transcription-20261026',
   'danet-not-in-open-facts-20261026',
+  'off-photo-transcription-20261102',
 };
 
 void main() {
