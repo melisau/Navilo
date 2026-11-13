@@ -22,6 +22,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write  # start Flutter checks for the bot's pull request
 
 concurrency:
   group: catalogue-gaps
@@ -91,4 +92,11 @@ jobs:
                 --title "Katkı listesi: içeriği eksik Türkiye ürünleri ($(date +%d.%m.%Y))" \
                 --body "$body"; then
             echo "PR could not be created automatically (enable 'Allow GitHub Actions to create pull requests' in repo settings). Branch pushed: $branch" >> "$GITHUB_STEP_SUMMARY"
+          fi
+          # Pull requests opened with GITHUB_TOKEN do not start other workflows,
+          # but a manual dispatch does: run the Flutter checks on the new branch.
+          if gh workflow run flutter.yml --ref "$branch"; then
+            echo "Flutter checks started for $branch." >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "::warning title=Flutter checks not started::Run 'Flutter checks' manually on $branch."
           fi
