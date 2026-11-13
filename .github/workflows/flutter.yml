@@ -31,7 +31,9 @@ jobs:
       - name: Analyze
         run: |
           set +e
-          flutter analyze > analyze.txt 2>&1
+          # Infos (e.g. deprecations introduced by a new stable release) are
+          # annotated below but do not fail the build; warnings and errors do.
+          flutter analyze --no-fatal-infos > analyze.txt 2>&1
           status=$?
           cat analyze.txt
           python3 - <<'PY'
