@@ -20,7 +20,9 @@ extension _CaptureActions on _HomePageState {
 
   Future<void> saveReviewedProduct() async {
     var code = activeBarcode;
-    var barcodeError = false;
+    String? barcodeError;
+    // Sharing is off unless the user ticks it for this save.
+    var share = false;
     final text = label.text.trim();
     final savedCategory = category;
     if (!complete || IngredientText.reviewIssues(text).isNotEmpty) return;
@@ -80,16 +82,26 @@ extension _CaptureActions on _HomePageState {
                                 helperText: copy(
                                     'Ambalajdaki 8–14 rakam. Barkodsuz kayıt yalnızca adla bulunur.',
                                     '8–14 package digits. Without a barcode, search by name.'),
-                                errorText: barcodeError
-                                    ? copy('Geçerli barkod yaz.',
-                                        'Enter a valid barcode.')
-                                    : null),
+                                errorText: barcodeError),
                             onChanged: (value) => code =
                                 value.trim().isEmpty ? null : value.trim()),
                         const SizedBox(height: 12),
-                        Text(copy(
-                            'Barkodlu ve kontrol edilmiş kayıtlar ortak kaynağa gönderilir. İnternet yoksa bekletilir ve bağlantı gelince otomatik eşitlenir. Fotoğraf paylaşılmaz; kayıtlar inceleme sonrası herkes için kullanılabilir.',
-                            'Reviewed barcode records are submitted to the shared source. If offline, they wait and sync automatically when online. Photos are not shared; records become available to everyone after review.')),
+                        if (ProductRepository.catalogConfigured)
+                          CheckboxListTile(
+                              key: const ValueKey('share-consent'),
+                              contentPadding: EdgeInsets.zero,
+                              controlAffinity: ListTileControlAffinity.leading,
+                              value: share,
+                              onChanged: (value) =>
+                                  update(() => share = value ?? false),
+                              title: Text(copy('Ortak kataloğa gönder',
+                                  'Submit to the shared catalogue')),
+                              subtitle: Text(copy(
+                                  'Barkod, ürün adı ve kontrol ettiğin içerik metni incelemeye gönderilir; onaylanırsa herkes kullanabilir. Fotoğraf ve tercihlerin paylaşılmaz. İnternet yoksa bağlantı gelince gönderilir.',
+                                  'The barcode, product name and reviewed ingredient text are sent for review; once approved, everyone can use them. Photos and your preferences are not shared. If offline, it is sent when a connection is available.')))
+                        else
+                          Text(copy('Kayıt yalnızca bu telefonda saklanır.',
+                              'The record is stored on this phone only.')),
                       ])),
                   actions: [
                     TextButton(
@@ -97,11 +109,22 @@ extension _CaptureActions on _HomePageState {
                         child: Text(copy('Vazgeç', 'Cancel'))),
                     FilledButton(
                         onPressed: () {
-                          if ((code != null &&
-                              !RegExp(r'^\d{8,14}$').hasMatch(code!))) {
-                            update(() => barcodeError = true);
+                          if (code != null &&
+                              !RegExp(r'^\d{8,14}$').hasMatch(code!)) {
+                            update(() => barcodeError = copy(
+                                'Geçerli barkod yaz.',
+                                'Enter a valid barcode.'));
                             return;
                           }
+                          if (share &&
+                              (code == null ||
+                                  !CommunitySubmission.accepts(code!))) {
+                            update(() => barcodeError = copy(
+                                'Paylaşmak için ambalajdaki barkodu eksiksiz yaz.',
+                                'To share, enter the full barcode from the package.'));
+                            return;
+                          }
+                          update(() => barcodeError = null);
                           if (draftName.trim().isEmpty) {
                             update(() => nameError = true);
                             return;
@@ -128,10 +151,10 @@ extension _CaptureActions on _HomePageState {
           ingredients: text,
           reviewedAt: date,
           // Only values the user confirmed are stored.
-          nutrition: savedCategory == 'food' &&
-                  currentNutrition?.confirmed == true
-              ? currentNutrition
-              : null,
+          nutrition:
+              savedCategory == 'food' && currentNutrition?.confirmed == true
+                  ? currentNutrition
+                  : null,
           imageFile: previous?.imageFile,
           remoteImageUrl: previous?.remoteImageUrl ?? productRecord?.imageUrl,
           imageSourceUrl: previous?.imageSourceUrl ??
@@ -139,8 +162,9 @@ extension _CaptureActions on _HomePageState {
                   ? null
                   : productRecord?.imageSourceUrl ?? productRecord?.sourceUrl));
       await store.save(saved);
+      var stored = saved;
       if (selectedPhoto != null) {
-        await store.attachImage(saved, File(selectedPhoto!.path));
+        stored = await store.attachImage(saved, File(selectedPhoto!.path));
       }
       if (!mounted) return;
       _update(() {
@@ -148,11 +172,13 @@ extension _CaptureActions on _HomePageState {
         activeBarcode = code;
         productName = confirmedName;
         activeLocalId = recordId;
+        // The header shows this record's own photo from now on.
+        activeLocalProduct = stored;
       });
       await refreshRecent();
       if (!mounted) return;
       var message = copy('Bu telefona kaydedildi.', 'Saved on this device.');
-      if (code != null && ProductRepository.catalogConfigured) {
+      if (share && code != null && ProductRepository.catalogConfigured) {
         try {
           await store.queueSubmission(saved, language: english ? 'en' : 'tr');
           await CommunitySubmission.submit(saved,
@@ -294,8 +320,9 @@ extension _CaptureActions on _HomePageState {
     } on SocketException {
       if (mounted) {
         _update(() {
-          scanError =
-              'Ürün verisine erişilemedi. İnternet bağlantısını kontrol et.';
+          scanError = copy(
+              'Ürün verisine erişilemedi. İnternet bağlantısını kontrol et.',
+              'Product data could not be reached. Check your internet connection.');
           editingReview = true;
           stage = ScanStage.review;
         });
@@ -303,7 +330,8 @@ extension _CaptureActions on _HomePageState {
     } catch (_) {
       if (mounted) {
         _update(() {
-          scanError = 'Barkod ürünü getirilemedi. Tekrar dene.';
+          scanError = copy('Barkod ürünü getirilemedi. Tekrar dene.',
+              'The barcode product could not be loaded. Please retry.');
           editingReview = true;
           stage = ScanStage.review;
         });
@@ -362,13 +390,17 @@ extension _CaptureActions on _HomePageState {
         if (!append) photoPaths.clear();
         photoPaths.add(cropped.path);
         localReviewDate = null;
-        rawOcrText = '';
-        if (!contributing) productName = null;
+        // "Next part" photos add to the text read so far; they must not
+        // discard it, even when reading the new photo fails.
+        if (!append) {
+          rawOcrText = '';
+          if (!contributing) productName = null;
+          ingredientSectionDetected = false;
+          label.clear();
+        }
         productRecord = null;
-        ingredientSectionDetected = false;
         matches = null;
         complete = false;
-        label.clear();
         stage = ScanStage.review;
       });
       recognizer = TextRecognizer(script: TextRecognitionScript.latin);
@@ -388,9 +420,7 @@ extension _CaptureActions on _HomePageState {
       final combinedText = append && label.text.trim().isNotEmpty
           ? '${label.text.trim()}\n$text'.trim()
           : text;
-      final correctedText = append
-          ? IngredientText.cleanOcr(combinedText)
-          : IngredientText.cleanOcr(text);
+      final correctedText = IngredientText.cleanOcr(combinedText);
       final loadedPolicy = await policy;
       if (!mounted) return;
 
@@ -403,18 +433,21 @@ extension _CaptureActions on _HomePageState {
         complete =
             false; // A heading does not prove that the entire list is visible.
         scanError = label.text.trim().isEmpty
-            ? 'Yazı okunamadı. İçindekiler bölümünü yakından ve net çek.'
+            ? copy('Yazı okunamadı. İçindekiler bölümünü yakından ve net çek.',
+                'No text could be read. Take a close, sharp photo of the ingredient list.')
             : null;
       });
     } on PlatformException catch (_) {
       if (mounted) {
-        _update(() => scanError =
-            'Fotoğrafa erişilemedi veya yazı okunamadı. Kamera/galeri iznini kontrol edip tekrar dene.');
+        _update(() => scanError = copy(
+            'Fotoğrafa erişilemedi veya yazı okunamadı. Kamera/galeri iznini kontrol edip tekrar dene.',
+            'The photo could not be accessed or read. Check the camera/gallery permission and try again.'));
       }
     } catch (_) {
       if (mounted) {
-        _update(() => scanError =
-            'Fotoğraf işlenemedi. Başka bir fotoğrafla tekrar dene.');
+        _update(() => scanError = copy(
+            'Fotoğraf işlenemedi. Başka bir fotoğrafla tekrar dene.',
+            'The photo could not be processed. Try again with another photo.'));
       }
     } finally {
       await recognizer?.close();

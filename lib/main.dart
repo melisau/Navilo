@@ -184,6 +184,7 @@ class _HomePageState extends State<HomePage> with WidgetsBindingObserver {
   late Future<List<ProductRecord>> catalogueProducts =
       ProductRepository().listCurated(category: catalogueCategory);
   bool contributing = false;
+  bool syncingSubmissions = false;
   String contributionQuery = '';
   late final Future<List<dynamic>> contributionCandidates = rootBundle
       .loadString('assets/contribution_candidates.json')

@@ -71,8 +71,18 @@ class LocalProductStore {
   final Directory directory;
   LocalProductStore(this.directory);
   File get _pendingFile => File('${directory.path}/pending-submissions.json');
+
+  /// Record IDs: a barcode, a photo-first `local-…` ID, or the ID of a
+  /// contribution candidate (`off-gap-…`, `candidate-…`). Only lowercase
+  /// letters, digits and hyphens, so an ID can never leave the directory.
+  static const _idPattern =
+      r'(?:\d{8,14}|(?:local|off-gap|candidate)-[a-z0-9]+(?:-[a-z0-9]+)*)';
+  static final _validId = RegExp('^$_idPattern\$');
+  static final _recordFile = RegExp('^(food|cosmetic)-($_idPattern)\\.json\$');
+
   File _file(String barcode, String category) {
-    if (!RegExp(r'^(?:\d{8,14}|local-\d{10,20})$').hasMatch(barcode) ||
+    if (barcode.length > 100 ||
+        !_validId.hasMatch(barcode) ||
         !['food', 'cosmetic'].contains(category)) {
       throw ArgumentError('Invalid product key');
     }
@@ -119,8 +129,7 @@ class LocalProductStore {
     await for (final entity in directory.list(followLinks: false)) {
       if (entity is! File) continue;
       final name = entity.uri.pathSegments.last;
-      final key = RegExp(r'^(food|cosmetic)-(\d{8,14}|local-\d{10,20})\.json$')
-          .firstMatch(name);
+      final key = _recordFile.firstMatch(name);
       if (key == null) continue;
       try {
         final product = await find(key.group(2)!, key.group(1)!);
@@ -240,7 +249,14 @@ class LocalProductStore {
   Future<void> remove(String barcode, String category) async {
     final file = _file(barcode, category);
     if (await file.exists()) {
-      final product = await find(barcode, category);
+      LocalProduct? product;
+      try {
+        product = await find(barcode, category);
+      } on FormatException {
+        // A damaged record must still be removable.
+      } on TypeError {
+        // Same: unreadable fields must not block deletion.
+      }
       await file.delete();
       final image = product == null ? null : imageFor(product);
       if (image != null && await image.exists()) await image.delete();
