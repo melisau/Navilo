@@ -26,6 +26,10 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Navilo uses the camera to scan barcodes and read product ingredient labels.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Navilo reads ingredient text from the product photo you select.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
@@ -43,22 +47,10 @@
 					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
 					<key>UISceneStoryboardFile</key>
 					<string>Main</string>
-				<key>NSCameraUsageDescription</key>
-<string>Navilo uses the camera to read product ingredient labels.</string>
-<key>NSPhotoLibraryUsageDescription</key>
-<string>Navilo reads ingredient text from the product photo you select.</string>
-</dict>
+				</dict>
 			</array>
-		<key>NSCameraUsageDescription</key>
-<string>Navilo uses the camera to read product ingredient labels.</string>
-<key>NSPhotoLibraryUsageDescription</key>
-<string>Navilo reads ingredient text from the product photo you select.</string>
-</dict>
-	<key>NSCameraUsageDescription</key>
-<string>Navilo uses the camera to read product ingredient labels.</string>
-<key>NSPhotoLibraryUsageDescription</key>
-<string>Navilo reads ingredient text from the product photo you select.</string>
-</dict>
+		</dict>
+	</dict>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -78,9 +70,5 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
-<key>NSCameraUsageDescription</key>
-<string>Navilo uses the camera to read product ingredient labels.</string>
-<key>NSPhotoLibraryUsageDescription</key>
-<string>Navilo reads ingredient text from the product photo you select.</string>
 </dict>
 </plist>

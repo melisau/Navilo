@@ -8,13 +8,18 @@ import '../domain/catalogue_exclusions.dart';
 /// Explicit text-only contributions; never publishes personal photos or profiles.
 class CommunitySubmission {
   static String? _token;
+
+  /// Whether a barcode can ever be accepted by the shared catalogue. A
+  /// rejected barcode is a permanent failure, not something to retry.
+  static bool accepts(String barcode) =>
+      isValidGtin(barcode) && !excludedCatalogueCodes.contains(barcode);
+
   static Future<void> submit(LocalProduct product,
       {required String language}) async {
     final base = Uri.parse(ProductRepository.catalogUrl);
     if (base.scheme != 'https' ||
         !base.host.endsWith('.supabase.co') ||
-        !isValidGtin(product.barcode) ||
-        excludedCatalogueCodes.contains(product.barcode)) {
+        !accepts(product.barcode)) {
       throw const FormatException('Invalid catalogue or barcode');
     }
     final client = HttpClient()..connectionTimeout = const Duration(seconds: 8);

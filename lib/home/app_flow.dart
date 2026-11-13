@@ -94,12 +94,18 @@ extension _AppFlow on _HomePageState {
   }
 
   Future<void> syncPendingSubmissions() async {
-    if (!ProductRepository.catalogConfigured) return;
+    if (!ProductRepository.catalogConfigured || syncingSubmissions) return;
+    syncingSubmissions = true;
     try {
       final store = await localStore;
       final pending = await store.pendingSubmissions();
       var failed = 0;
       for (final item in pending) {
+        if (!CommunitySubmission.accepts(item.product.barcode)) {
+          // Can never be accepted; retrying would keep it queued forever.
+          await store.removePendingSubmission(item);
+          continue;
+        }
         try {
           await CommunitySubmission.submit(item.product,
               language: item.language);
@@ -119,6 +125,8 @@ extension _AppFlow on _HomePageState {
             'Bekleyen ortak kaynak kayıtları okunamadı.',
             'Pending shared-source records could not be read.'));
       }
+    } finally {
+      syncingSubmissions = false;
     }
   }
 
