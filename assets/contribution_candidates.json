@@ -2348,5 +2348,538 @@
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8684252201457",
     "found_at": "2026-11-02"
+  },
+  {
+    "id": "off-gap-8684252206520",
+    "name": "LYKD Extra Volume Blackest Black Maskara - Ekstra Hacim Veren Yoğun Siyah Maskara",
+    "category": "cosmetic",
+    "candidate_barcode": "8684252206520",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684252206520",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-7702018400997",
+    "name": "Gillette Venus Extra Smooth Swirl Tıraş Makinesi",
+    "category": "cosmetic",
+    "candidate_barcode": "7702018400997",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/7702018400997",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8809302966784",
+    "name": "Glossy Blossom Tırnak Süsleme Sticker Cuevly-96678",
+    "category": "cosmetic",
+    "candidate_barcode": "8809302966784",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8809302966784",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8690937010924",
+    "name": "Hobby Gül Tazeliği Sıvı Sabun 1500 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "8690937010924",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690937010924",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8684252211418",
+    "name": "Bee Beauty Kolonya Okyanus 50 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "8684252211418",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684252211418",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-5055121801147",
+    "name": "Puccini Lovely Night EDP Kadın Parfüm 100 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "5055121801147",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/5055121801147",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8684849303311",
+    "name": "Nucci Jel Tırnak Çıkarma Kağıdı",
+    "category": "cosmetic",
+    "candidate_barcode": "8684849303311",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684849303311",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8684221587117",
+    "name": "Stick on Spots Fun 20’li Akne Bandı",
+    "category": "cosmetic",
+    "candidate_barcode": "8684221587117",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684221587117",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8809440684410",
+    "name": "Pure Korean Burun Maskesi",
+    "category": "cosmetic",
+    "candidate_barcode": "8809440684410",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8809440684410",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8850956093883",
+    "name": "Okey Prezervatif Zero 20'li",
+    "category": "cosmetic",
+    "candidate_barcode": "8850956093883",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8850956093883",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-3574661527413",
+    "name": "Listerine Cool Mint Hafif Tat",
+    "category": "cosmetic",
+    "candidate_barcode": "3574661527413",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3574661527413",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8682241221295",
+    "name": "Sleepy Easy Clean Yüzey Temizlik Havlusu Dağ Esintisi (100 adet)",
+    "category": "cosmetic",
+    "candidate_barcode": "8682241221295",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682241221295",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8690937011372",
+    "name": "Hobby Doğal Yağ Özleri Argan Yağı ve Papatya Çiçeği Özlü Şampuan (600 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8690937011372",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690937011372",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-3600540587206",
+    "name": "Garnier Ambre Solaire İdeal Bronzluk Bronzlaştırıcı Yağ (150 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "3600540587206",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3600540587206",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8682009368958",
+    "name": "True Bee Daily Dream Biberiye Kompleks Yağ (100 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8682009368958",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682009368958",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8682276607170",
+    "name": "Cire Aseptine Anti Age Panthenol Özel Bakım Kremi (75 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8682276607170",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682276607170",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8699921810045",
+    "name": "Clean Rose Yüz ve Boyun Gül Kremi (135 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8699921810045",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8699921810045",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8690506520083",
+    "name": "Arko Nem Ekstra Nem Nemlendirici Bakım Kremi (60 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8690506520083",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690506520083",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8004608227830",
+    "name": "Davines New Colour Saç Boyası 6.1 (60 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8004608227830",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8004608227830",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8684149131676",
+    "name": "The Ceel Seramid Etkili Yüz Temizleme Jeli (200 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8684149131676",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684149131676",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8685094595049",
+    "name": "KOREACO Matcha Mucize Lifting Cilt Serumu (70 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8685094595049",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8685094595049",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8680512633044",
+    "name": "Bioblas Botanic Oils Sarımsaklı Şampuan (1000 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8680512633044",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8680512633044",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8682022663450",
+    "name": "Mabel Marseille Zeytin Diyarı Sıvı El Sabunu (500 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8682022663450",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682022663450",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-4260684151061",
+    "name": "HIQ Nutrition HIQ Flav'n Drops Çilek Aromalı Sıvı Aroma (30 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "4260684151061",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/4260684151061",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8691988009431",
+    "name": "Bee Beauty Biotin & Keratin Saç Bakım Maskesi (300 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8691988009431",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8691988009431",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8680052522020",
+    "name": "Dermapeel Premium Women Banyo Kesesi",
+    "category": "cosmetic",
+    "candidate_barcode": "8680052522020",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8680052522020",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8690937990295",
+    "name": "Hobby Good Night Duş Jeli Lavanta 450 ml",
+    "category": "cosmetic",
+    "candidate_barcode": "8690937990295",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690937990295",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8682257407072",
+    "name": "Neopink Güneş Koruyucu Krem SPF 30+",
+    "category": "cosmetic",
+    "candidate_barcode": "8682257407072",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682257407072",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8690506554019",
+    "name": "Arko Nem Hyalüronik Asit Yoğun Bakım Kremi (250 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8690506554019",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690506554019",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8699367129749",
+    "name": "Green Therapy Krem Saç Boyası 1.10 Mavi Siyah",
+    "category": "cosmetic",
+    "candidate_barcode": "8699367129749",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8699367129749",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8809674690720",
+    "name": "ANJO Professional 24K Gold Skin Care 6 Set (10 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8809674690720",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8809674690720",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8680468680703",
+    "name": "Secret Age Cosmetics Kırışıklık Karşıtı Yüz Kremi",
+    "category": "cosmetic",
+    "candidate_barcode": "8680468680703",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8680468680703",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8684295008020",
+    "name": "Girly Talk Kadın Vücut Spreyi - First Spark (90 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8684295008020",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684295008020",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8682157007464",
+    "name": "ELPO TPE Eldiven Siyah Large",
+    "category": "cosmetic",
+    "candidate_barcode": "8682157007464",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8682157007464",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8690506520090",
+    "name": "Arko Nem Klasik Bakım Kremi (250 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "8690506520090",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8690506520090",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8695077067128",
+    "name": "Huncalife Islak Havlu 15 adet",
+    "category": "cosmetic",
+    "candidate_barcode": "8695077067128",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8695077067128",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-7682204733484",
+    "name": "Ebru Limon Kolonyası 80°",
+    "category": "cosmetic",
+    "candidate_barcode": "7682204733484",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/7682204733484",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-6291107220178",
+    "name": "Himalaya Siyah noktalara karsı krem (75 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "6291107220178",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/6291107220178",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-3838824421599",
+    "name": "Gliss Serum Deep Repair Onarıcı Sıvı Saç Bakım Kremi (200 ml)",
+    "category": "cosmetic",
+    "candidate_barcode": "3838824421599",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/3838824421599",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-4015100891850",
+    "name": "Palette Göz Alıcı Renkler Saç Boyası 9-50 Altın Sarı",
+    "category": "cosmetic",
+    "candidate_barcode": "4015100891850",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/4015100891850",
+    "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8684252202379",
+    "name": "Bee Beauty Wonder Food Muz Buhar Terapisi Boya ve Isıya Karşı Korumalı Bone Maske",
+    "category": "cosmetic",
+    "candidate_barcode": "8684252202379",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openbeautyfacts.org/product/8684252202379",
+    "found_at": "2026-11-16"
   }
 ]
