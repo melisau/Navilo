@@ -2881,5 +2881,330 @@
     "source_name": "Open Beauty Facts (ODbL) · içerik eksik",
     "source_url": "https://world.openbeautyfacts.org/product/8684252202379",
     "found_at": "2026-11-16"
+  },
+  {
+    "id": "off-gap-8711000532454",
+    "name": "Jacobs",
+    "category": "food",
+    "candidate_barcode": "8711000532454",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8711000532454",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-5411188112716",
+    "name": "alpro No Sugars Nutty Almond",
+    "category": "food",
+    "candidate_barcode": "5411188112716",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/5411188112716",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690526740744",
+    "name": "Eti Çikolata Kremalı Pötibör Bisküvi 270 G",
+    "category": "food",
+    "candidate_barcode": "8690526740744",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690526740744",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-90486296",
+    "name": "Red Bull redbull 250 ml",
+    "category": "food",
+    "candidate_barcode": "90486296",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/90486296",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8695077020833",
+    "name": "daphne Kakao (100 gr)",
+    "category": "food",
+    "candidate_barcode": "8695077020833",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8695077020833",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690504961482",
+    "name": "Ülker PROBIS Proteinli Bisküvi (75 g)",
+    "category": "food",
+    "candidate_barcode": "8690504961482",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690504961482",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8694603081911",
+    "name": "Bénédicta Sauce crudités",
+    "category": "food",
+    "candidate_barcode": "8694603081911",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8694603081911",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8681324006149",
+    "name": "Sütaş Hüptrik",
+    "category": "food",
+    "candidate_barcode": "8681324006149",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8681324006149",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8691316521628",
+    "name": "Eker Çilekli Kefir 200 Ml",
+    "category": "food",
+    "candidate_barcode": "8691316521628",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8691316521628",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8694603081898",
+    "name": "Bénédicta Sauce crudité",
+    "category": "food",
+    "candidate_barcode": "8694603081898",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8694603081898",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690574114887",
+    "name": "Lipton Mango ve Egzotik Meyve Soğuk Çay 1 L",
+    "category": "food",
+    "candidate_barcode": "8690574114887",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690574114887",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8682815015497",
+    "name": "Migros Şekersiz yer fıstığı ezmesi",
+    "category": "food",
+    "candidate_barcode": "8682815015497",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8682815015497",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-7622201753979",
+    "name": "Тоблерон Toblerone Sütlü Çikolata 100 G",
+    "category": "food",
+    "candidate_barcode": "7622201753979",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/7622201753979",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690120152806",
+    "name": "کێک Torku Summer Fındıklı Gofret 32 G",
+    "category": "food",
+    "candidate_barcode": "8690120152806",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690120152806",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8682696740440",
+    "name": "protein ocn Protein Bar",
+    "category": "food",
+    "candidate_barcode": "8682696740440",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8682696740440",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690574114511",
+    "name": "Pepsi zero (1 L)",
+    "category": "food",
+    "candidate_barcode": "8690574114511",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690574114511",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8696362804671",
+    "name": "Heinz Domates Ketçabı",
+    "category": "food",
+    "candidate_barcode": "8696362804671",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8696362804671",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690582172404",
+    "name": "Tuborg Gold",
+    "category": "food",
+    "candidate_barcode": "8690582172404",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690582172404",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690524174237",
+    "name": "First Sakız (22,5 gr)",
+    "category": "food",
+    "candidate_barcode": "8690524174237",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690524174237",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690526661100",
+    "name": "Eti Burçak Klasik (3x131 G)",
+    "category": "food",
+    "candidate_barcode": "8690526661100",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690526661100",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8690533714141",
+    "name": "ETI Crax Peynirli (80 g)",
+    "category": "food",
+    "candidate_barcode": "8690533714141",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8690533714141",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8691440307402",
+    "name": "Duru chia",
+    "category": "food",
+    "candidate_barcode": "8691440307402",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8691440307402",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-7622210578266",
+    "name": "Milka oreo choco",
+    "category": "food",
+    "candidate_barcode": "7622210578266",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/7622210578266",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8681630146010",
+    "name": "Züber High Protein Bar Fıstık Ezmeli",
+    "category": "food",
+    "candidate_barcode": "8681630146010",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8681630146010",
+    "found_at": "2026-11-23"
+  },
+  {
+    "id": "off-gap-8696362500344",
+    "name": "Heinz Mayonez (400 g)",
+    "category": "food",
+    "candidate_barcode": "8696362500344",
+    "missing_fields": [
+      "ingredients",
+      "package_photo"
+    ],
+    "source_name": "Open Food Facts (ODbL) · içerik eksik",
+    "source_url": "https://world.openfoodfacts.org/product/8696362500344",
+    "found_at": "2026-11-23"
   }
 ]
